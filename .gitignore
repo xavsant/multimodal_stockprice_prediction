@@ -4,4 +4,4 @@ notebooks/.DS_Store
 .DS_Store
 
 # Config
-notebooks/experiments/.env
+.env

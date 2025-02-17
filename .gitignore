@@ -5,3 +5,4 @@ notebooks/.DS_Store
 
 # Config
 .env
+.venv

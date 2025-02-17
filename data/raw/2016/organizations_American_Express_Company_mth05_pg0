@@ -1,0 +1,91 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Digital security is projected to be banks\u2019 biggest cost for financial crime prevention this year and next, which argues for cooperation.",
+                "web_url": "https://www.nytimes.com/2016/05/14/business/dealbook/computer-security-for-banks-demands-a-united-effort.html",
+                "snippet": "Digital security is projected to be banks\u2019 biggest cost for financial crime prevention this year and next, which argues for cooperation.",
+                "lead_paragraph": "Banks that have been pooling resources on blockchain technology should apply their camaraderie in a different field: computer security.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Computer Security for Banks Demands a United Effort",
+                    "kicker": "Breakingviews",
+                    "content_kicker": null,
+                    "print_headline": "Bank Cybersecurity Demands United Effort",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Banking and Financial Institutions",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Computer Security",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "American Express Company",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Financial Services Information Sharing and Analysis Center",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-05-13T19:58:28+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": "By Dominic Elliott and Sarah Hurst",
+                    "person": [
+                        {
+                            "firstname": "Dominic",
+                            "middlename": null,
+                            "lastname": "Elliott",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        },
+                        {
+                            "firstname": "Sarah",
+                            "middlename": null,
+                            "lastname": "Hurst",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 2
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/9fb1cb1d-591e-5fe6-9735-2c59631f7219",
+                "word_count": 365,
+                "uri": "nyt://article/9fb1cb1d-591e-5fe6-9735-2c59631f7219"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 9
+        }
+    }
+}

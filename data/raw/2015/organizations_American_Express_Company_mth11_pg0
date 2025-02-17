@@ -1,0 +1,298 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "It can be dangerous to compare current investment opportunities to home runs from the annals of business history.",
+                "web_url": "https://www.nytimes.com/2015/11/05/business/dealbook/why-buffetts-salad-oil-magic-may-not-repeat-for-ackman.html",
+                "snippet": "It can be dangerous to compare current investment opportunities to home runs from the annals of business history.",
+                "lead_paragraph": "Jeff Gramm is the author of the forthcoming book \u201cDear Chairman: Boardroom Battles and the Rise of Shareholder Activism\u201d (HarperBusiness), which has a chapter about the Great Salad Oil Swindle. He is a hedge fund manager who teaches value investing at Columbia Business School.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Why Buffett\u2019s Salad Oil Magic May Not Repeat for Ackman",
+                    "kicker": "Another View",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Shareholder Rights and Activism",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "American Express Company",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Berkshire Hathaway Inc",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Philidor Rx Services LLC",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Sequoia Fund",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Valeant Pharmaceuticals International Inc",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Ackman, William A",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Buffett, Warren E",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Pearson, John Michael (1959- )",
+                        "rank": 9,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-04T20:30:18+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": "By Jeff Gramm",
+                    "person": [
+                        {
+                            "firstname": "Jeff",
+                            "middlename": null,
+                            "lastname": "Gramm",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/95c5ecc0-1417-5b8e-bd67-f272781d418a",
+                "word_count": 1275,
+                "uri": "nyt://article/95c5ecc0-1417-5b8e-bd67-f272781d418a"
+            },
+            {
+                "abstract": "Banks Weighed Down by Piles of Leveraged Loans | Buffett\u2019s Grandson Seeks a Different Investment Route | Square Shares Soar After Public Offering",
+                "web_url": "https://news.blogs.nytimes.com/2015/11/20/morning-agenda-new-proposals-to-curb-tax-relocations/",
+                "snippet": "Banks Weighed Down by Piles of Leveraged Loans | Buffett\u2019s Grandson Seeks a Different Investment Route | Square Shares Soar After Public Offering",
+                "lead_paragraph": "NEW PROPOSALS TO CURB TAX RELOCATIONS | The Treasury Department and the Internal Revenue Service issued rules aimed at discouraging companies from moving their headquarters abroad for tax purposes,",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Morning Agenda: New Proposals to Curb Tax Relocations",
+                    "kicker": "News",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Arbitration, Conciliation and Mediation",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Banking and Financial Institutions",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Blacks",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Black People",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Computer Chips",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Corporate Taxes",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Credit and Debt",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Ethics (Personal)",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Initial Public Offerings",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Law and Legislation",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Legal Profession",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Taxation",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Women and Girls",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Buffett, Warren E",
+                        "rank": 14,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Alibaba Group Holding Ltd",
+                        "rank": 15,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "American Express Company",
+                        "rank": 16,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Berkshire Hathaway Inc",
+                        "rank": 17,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Bombardier Inc",
+                        "rank": 18,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Horizon Pharma Inc",
+                        "rank": 19,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "HSBC Holdings PLC.",
+                        "rank": 20,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Internal Revenue Service",
+                        "rank": 21,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Match Group Inc.",
+                        "rank": 22,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Treasury Department",
+                        "rank": 23,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Yahoo! Inc",
+                        "rank": 24,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-20T11:09:18+0000",
+                "document_type": "article",
+                "news_desk": "",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By Amie Tsang",
+                    "person": [
+                        {
+                            "firstname": "Amie",
+                            "middlename": null,
+                            "lastname": "Tsang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/c227f984-d6e1-5162-86b6-805940076a43",
+                "word_count": 1803,
+                "uri": "nyt://article/c227f984-d6e1-5162-86b6-805940076a43"
+            }
+        ],
+        "meta": {
+            "hits": 2,
+            "offset": 0,
+            "time": 10
+        }
+    }
+}

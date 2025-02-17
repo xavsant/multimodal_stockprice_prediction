@@ -1,0 +1,87 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "The activist investor ValueAct Capital\u2019s best bet for shaking up the card and payments giant might also be going after the chief executive.",
+                "web_url": "https://www.nytimes.com/2015/09/05/business/dealbook/american-express-may-get-same-treatment-as-microsoft-from-valueact-capital.html",
+                "snippet": "The activist investor ValueAct Capital\u2019s best bet for shaking up the card and payments giant might also be going after the chief executive.",
+                "lead_paragraph": "American Express may be facing its Microsoft moment.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "American Express May Get Same Treatment as Microsoft From ValueAct Capital  ",
+                    "kicker": "Breakingviews",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "American Express Company",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Chenault, Kenneth I",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Shareholder Rights and Activism",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "ValueAct Capital Partners",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Ubben, Jeffrey W",
+                        "rank": 5,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-09-04T16:29:21+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": "By Antony Currie",
+                    "person": [
+                        {
+                            "firstname": "Antony",
+                            "middlename": null,
+                            "lastname": "Currie",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/18d91baa-ff36-5efe-81ac-fb716d111bfe",
+                "word_count": 433,
+                "uri": "nyt://article/18d91baa-ff36-5efe-81ac-fb716d111bfe"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 9
+        }
+    }
+}

@@ -1,0 +1,491 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Bernanke\u2019s Frank Look at Lehman Brothers | Supreme Court Denies Insider Trading Hearing",
+                "web_url": "https://news.blogs.nytimes.com/2015/10/06/morning-agenda-activist-investors-and-billion-dollar-bets/",
+                "snippet": "Bernanke\u2019s Frank Look at Lehman Brothers | Supreme Court Denies Insider Trading Hearing",
+                "lead_paragraph": "ACTIVIST INVESTORS AND BILLION-DOLLAR BETS | Ellen Kullman, the chairwoman and chief executive of DuPont, is headed for the exit despite having fought back a challenge from an activist investor just months ago,Michael J. de la Merced reports in DealBook.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Morning Agenda: Activist Investors and Billion-Dollar Bets",
+                    "kicker": "News",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Insider Trading",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Regulation and Deregulation of Industry",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Taxation",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Trans-Pacific Partnership",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Bharara, Preet",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Immelt, Jeffrey R",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Kullman, Ellen J",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Loeb, Daniel S",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Paulson, Henry M Jr",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Ubben, Jeffrey W",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "American Apparel Inc",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "American Express Company",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Federal Reserve System",
+                        "rank": 14,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Lehman Brothers Holdings Inc",
+                        "rank": 15,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Nestle SA",
+                        "rank": 16,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Skyworks Solutions Inc",
+                        "rank": 17,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Standard General LP",
+                        "rank": 18,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Suncor Energy Inc",
+                        "rank": 19,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Supreme Court (US)",
+                        "rank": 20,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Trian Fund Management LP",
+                        "rank": 21,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "YUM! BRANDS INC",
+                        "rank": 22,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "Hong Kong",
+                        "rank": 23,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-10-06T10:04:49+0000",
+                "document_type": "article",
+                "news_desk": "",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By Amie Tsang",
+                    "person": [
+                        {
+                            "firstname": "Amie",
+                            "middlename": null,
+                            "lastname": "Tsang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/1ddfb252-da5c-550f-83fa-28f20c464b64",
+                "word_count": 2078,
+                "uri": "nyt://article/1ddfb252-da5c-550f-83fa-28f20c464b64"
+            },
+            {
+                "abstract": "American Express is one of a growing number of companies that include arbitration clauses in their consumer contracts. The section on arbitration can be found toward the end of the contract, which contains several thousand words of legal language.",
+                "web_url": "https://www.nytimes.com/interactive/2015/10/31/business/dealbook/document-american-express-cardmember-agreement.html",
+                "snippet": "American Express is one of a growing number of companies that include arbitration clauses in their consumer contracts. The section on arbitration can be found toward the end of the contract, which contains several thousand words of legal language.",
+                "lead_paragraph": "American Express is one of a growing number of companies that include arbitration clauses in their consumer contracts. The section on arbitration can be found toward the end of the contract, which contains several thousand words of legal language.",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "videoThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-videoThumb.gif",
+                        "height": 50,
+                        "width": 75,
+                        "legacy": {},
+                        "subType": "videoThumb",
+                        "crop_name": "videoThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "facebookJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-facebookJumbo.gif",
+                        "height": 94,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "facebookJumbo",
+                        "crop_name": "facebookJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "miniMoth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-miniMoth.gif",
+                        "height": 70,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "miniMoth",
+                        "crop_name": "miniMoth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "jumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-jumbo.gif",
+                        "height": 233,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "jumbo",
+                        "crop_name": "jumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master180",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-master180.gif",
+                        "height": 233,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "master180",
+                        "crop_name": "master180"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "popup",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-popup.gif",
+                        "height": 233,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "popup",
+                        "crop_name": "popup"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "slide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-slide.gif",
+                        "height": 233,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "slide",
+                        "crop_name": "slide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "superJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-superJumbo.gif",
+                        "height": 233,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "superJumbo",
+                        "crop_name": "superJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "moth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-moth.gif",
+                        "height": 151,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "moth",
+                        "crop_name": "moth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumSquare149",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-mediumSquare149.gif",
+                        "height": 149,
+                        "width": 149,
+                        "legacy": {},
+                        "subType": "mediumSquare149",
+                        "crop_name": "mediumSquare149"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-hpSmall.gif",
+                        "height": 211,
+                        "width": 163,
+                        "legacy": {},
+                        "subType": "hpSmall",
+                        "crop_name": "hpSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-blogSmallInline.gif",
+                        "height": 195,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "blogSmallInline",
+                        "crop_name": "blogSmallInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumFlexible177",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-mediumFlexible177.gif",
+                        "height": 229,
+                        "width": 177,
+                        "legacy": {},
+                        "subType": "mediumFlexible177",
+                        "crop_name": "mediumFlexible177"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine96",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-videoSixteenByNine96.gif",
+                        "height": 54,
+                        "width": 96,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine96",
+                        "crop_name": "videoSixteenByNine96"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine150",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-videoSixteenByNine150.gif",
+                        "height": 84,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine150",
+                        "crop_name": "videoSixteenByNine150"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-thumbStandard.gif",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-thumbStandard.gif",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-thumbLarge.gif",
+                        "height": 150,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "thumbLarge",
+                        "crop_name": "thumbLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-blogSmallThumb.gif",
+                        "height": 50,
+                        "width": 50,
+                        "legacy": {},
+                        "subType": "blogSmallThumb",
+                        "crop_name": "blogSmallThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "smallSquare168",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/10/31/business/document-american-express-cardmember-agreement/document-american-express-cardmember-agreement-smallSquare168.gif",
+                        "height": 168,
+                        "width": 168,
+                        "legacy": {},
+                        "subType": "smallSquare168",
+                        "crop_name": "smallSquare168"
+                    }
+                ],
+                "headline": {
+                    "main": "American Express Cardmember Agreement",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Arbitration, Conciliation and Mediation",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "American Express Company",
+                        "rank": 2,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-10-31T12:04:54+0000",
+                "document_type": "multimedia",
+                "news_desk": "Business Day",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Interactive Feature",
+                "_id": "nyt://interactive/d7bae5bb-adfd-5e48-89ab-cba5121846dc",
+                "word_count": 0,
+                "uri": "nyt://interactive/d7bae5bb-adfd-5e48-89ab-cba5121846dc"
+            }
+        ],
+        "meta": {
+            "hits": 2,
+            "offset": 0,
+            "time": 10
+        }
+    }
+}

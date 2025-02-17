@@ -1,0 +1,87 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Asahi Kasei will buy the battery business and 3M will purchase the filtration operation in a deal with a $3.2 billion enterprise value.",
+                "web_url": "https://www.nytimes.com/2015/02/24/business/dealbook/polypore-sells-industrial-businesses.html",
+                "snippet": "Asahi Kasei will buy the battery business and 3M will purchase the filtration operation in a deal with a $3.2 billion enterprise value.",
+                "lead_paragraph": "Polypore International, a specialty manufacturer in North Carolina, agreed on Monday to sell its battery business to the Asahi Kasei Corporation of Japan and its filtration business to 3M in related transactions.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Polypore Sells Industrial Businesses",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "3M Company",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Asahi Kasei Corp",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Polypore International Inc",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "Japan",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "North Carolina",
+                        "rank": 5,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-02-23T13:38:04+0000",
+                "document_type": "article",
+                "news_desk": "Dealbook",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": "By Dealbook",
+                    "person": [
+                        {
+                            "firstname": "Dealbook",
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/7287c2aa-b626-5443-a243-2136fc62a82c",
+                "word_count": 197,
+                "uri": "nyt://article/7287c2aa-b626-5443-a243-2136fc62a82c"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 9
+        }
+    }
+}

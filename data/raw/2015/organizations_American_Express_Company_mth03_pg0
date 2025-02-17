@@ -1,0 +1,191 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "A federal judge had ruled the credit card company\u2019s practice of banning retailers from encouraging customers to use lower-cost options violated antitrust laws.",
+                "web_url": "https://www.nytimes.com/2015/03/26/business/amex-to-ask-for-stay-of-ruling-prohibiting-merchants-from-promoting-other-cards.html",
+                "snippet": "A federal judge had ruled the credit card company\u2019s practice of banning retailers from encouraging customers to use lower-cost options violated antitrust laws.",
+                "lead_paragraph": "The chief executive of American Express said on Wednesday that the company would seek a stay of a ruling that could ban a longstanding Amex practice: prohibiting merchants from encouraging customers to pay with lower-cost cards.",
+                "print_section": "B",
+                "print_page": "6",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Amex to Ask for Stay of Ruling Prohibiting Merchants From Promoting Other Cards",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Amex to Ask for a Stay of Antitrust Decision",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Credit Cards",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "American Express Company",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Antitrust Laws and Competition Issues",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Chenault, Kenneth I",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Suits and Litigation (Civil)",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "MasterCard Inc",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Visa Inc",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Prices (Fares, Fees and Rates)",
+                        "rank": 9,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-03-25T22:47:23+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "byline": {
+                    "original": "By Hiroko Tabuchi",
+                    "person": [
+                        {
+                            "firstname": "Hiroko",
+                            "middlename": null,
+                            "lastname": "Tabuchi",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/aacb4091-2b55-55c2-9a13-b41dc6f3c8a5",
+                "word_count": 423,
+                "uri": "nyt://article/aacb4091-2b55-55c2-9a13-b41dc6f3c8a5"
+            },
+            {
+                "abstract": "The company, called Plenti, will let customers earn points from several merchants, not just American Express.",
+                "web_url": "https://www.nytimes.com/2015/03/18/your-money/american-express-to-start-multi-business-loyalty-program.html",
+                "snippet": "The company, called Plenti, will let customers earn points from several merchants, not just American Express.",
+                "lead_paragraph": "American Express, looking to broaden its influence after recent setbacks with its core charge card business, is set to introduce a new, broad-based customer loyalty program that works regardless of how shoppers pay.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "American Express to Start Multi-Business Loyalty Program",
+                    "kicker": "Your Money Adviser",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Customer Loyalty Programs",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "American Express Company",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Christopher, David",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "AT&T Inc",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Macy's Inc",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Exxon Mobil Corporation",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "United States",
+                        "rank": 7,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-03-18T04:01:18+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Your Money",
+                "byline": {
+                    "original": "By Ann Carrns",
+                    "person": [
+                        {
+                            "firstname": "Ann",
+                            "middlename": null,
+                            "lastname": "Carrns",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/ae6fc6ef-7b06-5c4b-a7c2-bc4cacb9962b",
+                "word_count": 550,
+                "uri": "nyt://article/ae6fc6ef-7b06-5c4b-a7c2-bc4cacb9962b"
+            }
+        ],
+        "meta": {
+            "hits": 2,
+            "offset": 0,
+            "time": 9
+        }
+    }
+}

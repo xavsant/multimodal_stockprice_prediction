@@ -20,6 +20,7 @@ keras = "^3.8.0"
 statsmodels = "^0.14.4"
 notebook = "^7.3.2"
 yfinance = "^0.2.52"
+bs4 = "^0.0.2"
 
 [build-system]
 requires = ["poetry-core"]

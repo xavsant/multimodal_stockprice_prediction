@@ -5,3 +5,6 @@ notebooks/.DS_Store
 
 # Config
 .env
+
+# Archive
+data/raw/archived

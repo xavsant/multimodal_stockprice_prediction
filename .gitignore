@@ -1,1 +1,10 @@
+# General
 .python-version
+notebooks/.DS_Store
+.DS_Store
+
+# Config
+.env
+
+# Archive
+data/raw/archived

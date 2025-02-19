@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://www.nytimes.com/interactive/2021/09/13/technology/iphone-software-update-security-flaw.html",
+        "title": "How to Fix Your iPhone\u2019s Security Flaw",
+        "fulltext": "ByNicole PerlrothSept. 13, 2021\nApple issued a software update on Monday to fix a critical flaw in its products that had allowed governments to invisibly spy on Apple users without so much as a click.\nHere\u2019s how to update your iPhone with the software patch \u2192\nFirst, make sure your iPhone is plugged in or has at least 50 percent battery life.\nThen:\nGo to Settings.\nClick General.\nClick Software Update.\nClick Install Now to update to iOS 14.8.\nUpdating the software closes the flaw, which had let highly invasive spyware from Israel\u2019s NSO Group infect people\u2019s Apple devices.\nThe spyware was able to:\nTurn on a user\u2019s camera and microphone.\nRecord their messages, texts, emails and calls.\nTrack someone\u2019s location.\nSteal passwords.\nAccess encrypted messages.\nThe discovery of the spyware means that more than 1.65 billion Apple products in use worldwide have been vulnerable to NSO\u2019s spyware since at least March.\nBecause of how sophisticated the software was, it\u2019s hard to know whose devices had been compromised.It is critical to update your iPhone and other Apple devices\u2014 iPads, Mac computers and Apple Watch \u2014 with the new software as soon as possible.\nRead more onthe Apple software flaw that was patched."
+    },
+    {
+        "url": "https://www.nytimes.com/video/world/europe/100000007989576/european-union-usb-c-common-charging-port-apple.html",
+        "title": "E.U. Plans to Make USB-C Ports Standard for All Mobile Devices",
+        "fulltext": ""
+    }
+]

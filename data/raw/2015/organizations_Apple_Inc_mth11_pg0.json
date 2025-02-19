@@ -1,0 +1,3360 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "The company is in talks with banks about a service that would let people use their iPhones to send money to one another as easily as they send messages.",
+                "web_url": "https://www.nytimes.com/2015/11/12/technology/apple-plans-peer-to-peer-payment-service.html",
+                "snippet": "The company is in talks with banks about a service that would let people use their iPhones to send money to one another as easily as they send messages.",
+                "lead_paragraph": "SAN FRANCISCO \u2014 Apple is working on a person-to-person payments service that may give iPhone owners another reason to use their Apple Wallets.",
+                "print_section": "B",
+                "print_page": "2",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Apple Plans Peer-to-Peer Payment Service ",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Apple Plans Peer-to-Peer Payment Service ",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mobile Commerce and Payments",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mobile Applications",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "PayPal",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Smartphones",
+                        "rank": 7,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-12T01:23:49+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Katie Benner and Mike Isaac",
+                    "person": [
+                        {
+                            "firstname": "Katie",
+                            "middlename": null,
+                            "lastname": "Benner",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        },
+                        {
+                            "firstname": "Mike",
+                            "middlename": null,
+                            "lastname": "Isaac",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 2
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/04939b17-1533-5130-8ee0-8d3b99eea38a",
+                "word_count": 467,
+                "uri": "nyt://article/04939b17-1533-5130-8ee0-8d3b99eea38a"
+            },
+            {
+                "abstract": "Setbacks Cast Harsh Light on Manhattan Prosecutor | A Rocky Quarter for Hedge Funds | Marriott\u2019s Deal to Buy Starwood Hotels",
+                "web_url": "https://news.blogs.nytimes.com/2015/11/17/morning-agenda-the-economic-cost-of-terrorism/",
+                "snippet": "Setbacks Cast Harsh Light on Manhattan Prosecutor | A Rocky Quarter for Hedge Funds | Marriott\u2019s Deal to Buy Starwood Hotels",
+                "lead_paragraph": "THE ECONOMIC COST OF TERRORISM  | After the horrific attacks in Paris, it is an issue that policy makers are grappling with,Andrew Ross Sorkin writes in the DealBook column.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Morning Agenda: The Economic Cost of Terrorism",
+                    "kicker": "News",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Credit Cards",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Drugs (Pharmaceuticals)",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Hedge Funds",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mortgages",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Paris Attacks (November 2015)",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Real Estate Investment Trusts",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Terrorism",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Vance, Cyrus R Jr",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Amazon.com Inc",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Ar Capital Acquisition",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Baidu Inc",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Constellation Brands Inc",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Goldman Sachs Group Inc",
+                        "rank": 14,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Kraft Heinz Company",
+                        "rank": 15,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Liberty Global Inc",
+                        "rank": 16,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Marriott International Inc",
+                        "rank": 17,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Media General Inc",
+                        "rank": 18,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Pandora Media Inc",
+                        "rank": 19,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Securities and Exchange Commission",
+                        "rank": 20,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "The Blackstone Group",
+                        "rank": 21,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Valeant Pharmaceuticals International Inc",
+                        "rank": 22,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Volkswagen AG",
+                        "rank": 23,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "Israel",
+                        "rank": 24,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-17T11:10:55+0000",
+                "document_type": "article",
+                "news_desk": "",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By Amie Tsang",
+                    "person": [
+                        {
+                            "firstname": "Amie",
+                            "middlename": null,
+                            "lastname": "Tsang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/1e870eac-1371-5a37-a72e-e9bf395946b4",
+                "word_count": 2019,
+                "uri": "nyt://article/1e870eac-1371-5a37-a72e-e9bf395946b4"
+            },
+            {
+                "abstract": "The move indicates that the German carmaker will continue to invest in advanced technologies despite the burdens of its emissions cheating crisis.",
+                "web_url": "https://www.nytimes.com/2015/11/11/business/international/vw-diesel-scandal-investigation-apple-executive.html",
+                "snippet": "The move indicates that the German carmaker will continue to invest in advanced technologies despite the burdens of its emissions cheating crisis.",
+                "lead_paragraph": "Volkswagen has hired an expert in self-driving car technology from Apple, sending a signal that it will continue to invest in leading-edge technologies despite the financial burden created by its emissions cheating crisis.",
+                "print_section": "B",
+                "print_page": "2",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "watch308",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-watch308.jpg",
+                        "height": 348,
+                        "width": 312,
+                        "legacy": {},
+                        "subType": "watch308",
+                        "crop_name": "watch308"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "watch268",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-watch268.jpg",
+                        "height": 303,
+                        "width": 272,
+                        "legacy": {},
+                        "subType": "watch268",
+                        "crop_name": "watch268"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "wide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-thumbWide.jpg",
+                        "height": 126,
+                        "width": 190,
+                        "legacy": {
+                            "widewidth": 190,
+                            "wideheight": 126,
+                            "wide": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-thumbWide.jpg"
+                        },
+                        "subType": "wide",
+                        "crop_name": "thumbWide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoThumb.jpg",
+                        "height": 50,
+                        "width": 75,
+                        "legacy": {},
+                        "subType": "videoThumb",
+                        "crop_name": "videoThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoLarge.jpg",
+                        "height": 507,
+                        "width": 768,
+                        "legacy": {},
+                        "subType": "videoLarge",
+                        "crop_name": "videoLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo210",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-mediumThreeByTwo210.jpg",
+                        "height": 140,
+                        "width": 210,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo210",
+                        "crop_name": "mediumThreeByTwo210"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-mediumThreeByTwo225.jpg",
+                        "height": 150,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo225",
+                        "crop_name": "mediumThreeByTwo225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo440",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-mediumThreeByTwo440.jpg",
+                        "height": 293,
+                        "width": 440,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo440",
+                        "crop_name": "mediumThreeByTwo440"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo252",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-mediumThreeByTwo252.jpg",
+                        "height": 168,
+                        "width": 252,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo252",
+                        "crop_name": "mediumThreeByTwo252"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo378",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-mediumThreeByTwo378.jpg",
+                        "height": 252,
+                        "width": 378,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo378",
+                        "crop_name": "mediumThreeByTwo378"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "facebookJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-facebookJumbo.jpg",
+                        "height": 550,
+                        "width": 1050,
+                        "legacy": {},
+                        "subType": "facebookJumbo",
+                        "crop_name": "facebookJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "miniMoth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-miniMoth.jpg",
+                        "height": 70,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "miniMoth",
+                        "crop_name": "miniMoth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "windowsTile336H",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-windowsTile336H.jpg",
+                        "height": 336,
+                        "width": 694,
+                        "legacy": {},
+                        "subType": "windowsTile336H",
+                        "crop_name": "windowsTile336H"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "xlarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-articleLarge.jpg",
+                        "height": 377,
+                        "width": 600,
+                        "legacy": {
+                            "xlarge": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-articleLarge.jpg",
+                            "xlargewidth": 600,
+                            "xlargeheight": 377
+                        },
+                        "subType": "xlarge",
+                        "crop_name": "articleLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-blog480.jpg",
+                        "height": 302,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "blog480",
+                        "crop_name": "blog480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog427",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-blog427.jpg",
+                        "height": 268,
+                        "width": 427,
+                        "legacy": {},
+                        "subType": "blog427",
+                        "crop_name": "blog427"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagArticle",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-tmagArticle.jpg",
+                        "height": 372,
+                        "width": 592,
+                        "legacy": {},
+                        "subType": "tmagArticle",
+                        "crop_name": "tmagArticle"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "jumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-jumbo.jpg",
+                        "height": 643,
+                        "width": 1024,
+                        "legacy": {},
+                        "subType": "jumbo",
+                        "crop_name": "jumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-blog225.jpg",
+                        "height": 141,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "blog225",
+                        "crop_name": "blog225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master675",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-master675.jpg",
+                        "height": 424,
+                        "width": 675,
+                        "legacy": {},
+                        "subType": "master675",
+                        "crop_name": "master675"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master180",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-master180.jpg",
+                        "height": 113,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "master180",
+                        "crop_name": "master180"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master768",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-master768.jpg",
+                        "height": 483,
+                        "width": 768,
+                        "legacy": {},
+                        "subType": "master768",
+                        "crop_name": "master768"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "popup",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-popup.jpg",
+                        "height": 408,
+                        "width": 650,
+                        "legacy": {},
+                        "subType": "popup",
+                        "crop_name": "popup"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog533",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-blog533.jpg",
+                        "height": 335,
+                        "width": 533,
+                        "legacy": {},
+                        "subType": "blog533",
+                        "crop_name": "blog533"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagSF",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-tmagSF.jpg",
+                        "height": 227,
+                        "width": 362,
+                        "legacy": {},
+                        "subType": "tmagSF",
+                        "crop_name": "tmagSF"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "slide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-slide.jpg",
+                        "height": 377,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "slide",
+                        "crop_name": "slide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "superJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-superJumbo.jpg",
+                        "height": 759,
+                        "width": 1208,
+                        "legacy": {},
+                        "subType": "superJumbo",
+                        "crop_name": "superJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master1050",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-master1050.jpg",
+                        "height": 660,
+                        "width": 1050,
+                        "legacy": {},
+                        "subType": "master1050",
+                        "crop_name": "master1050"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-master495.jpg",
+                        "height": 311,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "master495",
+                        "crop_name": "master495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master315",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-master315.jpg",
+                        "height": 198,
+                        "width": 315,
+                        "legacy": {},
+                        "subType": "master315",
+                        "crop_name": "master315"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "square320",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-square320.jpg",
+                        "height": 320,
+                        "width": 320,
+                        "legacy": {},
+                        "subType": "square320",
+                        "crop_name": "square320"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "filmstrip",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-filmstrip.jpg",
+                        "height": 190,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "filmstrip",
+                        "crop_name": "filmstrip"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "square640",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-square640.jpg",
+                        "height": 640,
+                        "width": 640,
+                        "legacy": {},
+                        "subType": "square640",
+                        "crop_name": "square640"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "moth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-moth.jpg",
+                        "height": 151,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "moth",
+                        "crop_name": "moth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumSquare149",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-mediumSquare149.jpg",
+                        "height": 149,
+                        "width": 149,
+                        "legacy": {},
+                        "subType": "mediumSquare149",
+                        "crop_name": "mediumSquare149"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "articleInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-articleInline.jpg",
+                        "height": 119,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "articleInline",
+                        "crop_name": "articleInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-hpSmall.jpg",
+                        "height": 102,
+                        "width": 163,
+                        "legacy": {},
+                        "subType": "hpSmall",
+                        "crop_name": "hpSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-blogSmallInline.jpg",
+                        "height": 95,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "blogSmallInline",
+                        "crop_name": "blogSmallInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumFlexible177",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-mediumFlexible177.jpg",
+                        "height": 111,
+                        "width": 177,
+                        "legacy": {},
+                        "subType": "mediumFlexible177",
+                        "crop_name": "mediumFlexible177"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "sfSpan",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-sfSpan.jpg",
+                        "height": 263,
+                        "width": 395,
+                        "legacy": {},
+                        "subType": "sfSpan",
+                        "crop_name": "sfSpan"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeHorizontal375",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-largeHorizontal375.jpg",
+                        "height": 250,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "largeHorizontal375",
+                        "crop_name": "largeHorizontal375"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-hpLarge.jpg",
+                        "height": 287,
+                        "width": 511,
+                        "legacy": {},
+                        "subType": "hpLarge",
+                        "crop_name": "hpLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeWidescreen573",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-largeWidescreen573.jpg",
+                        "height": 322,
+                        "width": 573,
+                        "legacy": {},
+                        "subType": "largeWidescreen573",
+                        "crop_name": "largeWidescreen573"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeWidescreen1050",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-largeWidescreen1050.jpg",
+                        "height": 590,
+                        "width": 1050,
+                        "legacy": {},
+                        "subType": "largeWidescreen1050",
+                        "crop_name": "largeWidescreen1050"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSmall.jpg",
+                        "height": 281,
+                        "width": 500,
+                        "legacy": {},
+                        "subType": "videoSmall",
+                        "crop_name": "videoSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoHpMedium",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoHpMedium.jpg",
+                        "height": 211,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "videoHpMedium",
+                        "crop_name": "videoHpMedium"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine600",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine600.jpg",
+                        "height": 338,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine600",
+                        "crop_name": "videoSixteenByNine600"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine540",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine540.jpg",
+                        "height": 304,
+                        "width": 540,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine540",
+                        "crop_name": "videoSixteenByNine540"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine495.jpg",
+                        "height": 278,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine495",
+                        "crop_name": "videoSixteenByNine495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine390",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine390.jpg",
+                        "height": 219,
+                        "width": 390,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine390",
+                        "crop_name": "videoSixteenByNine390"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine480.jpg",
+                        "height": 270,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine480",
+                        "crop_name": "videoSixteenByNine480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine310",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine310.jpg",
+                        "height": 174,
+                        "width": 310,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine310",
+                        "crop_name": "videoSixteenByNine310"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine225.jpg",
+                        "height": 126,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine225",
+                        "crop_name": "videoSixteenByNine225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine96",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine96.jpg",
+                        "height": 54,
+                        "width": 96,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine96",
+                        "crop_name": "videoSixteenByNine96"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine768",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine768.jpg",
+                        "height": 432,
+                        "width": 768,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine768",
+                        "crop_name": "videoSixteenByNine768"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine150",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine150.jpg",
+                        "height": 84,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine150",
+                        "crop_name": "videoSixteenByNine150"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine1050",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-videoSixteenByNine1050.jpg",
+                        "height": 591,
+                        "width": 1050,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine1050",
+                        "crop_name": "videoSixteenByNine1050"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-thumbStandard.jpg",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-thumbLarge.jpg",
+                        "height": 150,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "thumbLarge",
+                        "crop_name": "thumbLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "smallSquare252",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-smallSquare252.jpg",
+                        "height": 252,
+                        "width": 252,
+                        "legacy": {},
+                        "subType": "smallSquare252",
+                        "crop_name": "smallSquare252"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-blogSmallThumb.jpg",
+                        "height": 50,
+                        "width": 50,
+                        "legacy": {},
+                        "subType": "blogSmallThumb",
+                        "crop_name": "blogSmallThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "smallSquare168",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/11/business/11volkswagen-web/11volkswagen-web-smallSquare168.jpg",
+                        "height": 168,
+                        "width": 168,
+                        "legacy": {},
+                        "subType": "smallSquare168",
+                        "crop_name": "smallSquare168"
+                    }
+                ],
+                "headline": {
+                    "main": "Volkswagen Hires Expert in Self-Driving Cars From Apple",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Volkswagen, Hinting It Will Move Ahead, Hires Apple Expert on Self-Driving Cars",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "Volkswagen AG",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Driverless and Semiautonomous Vehicles",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Jungwirth, Johann",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Air Pollution",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Diesel Power",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Automobile Safety Features and Defects",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Appointments and Executive Changes",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 10,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-10T17:07:30+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "subsection_name": "International Business",
+                "byline": {
+                    "original": "By Jack Ewing and Danny Hakim",
+                    "person": [
+                        {
+                            "firstname": "Jack",
+                            "middlename": null,
+                            "lastname": "Ewing",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        },
+                        {
+                            "firstname": "Danny",
+                            "middlename": null,
+                            "lastname": "Hakim",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 2
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/487a0f61-7fb9-574f-8c50-2d5cc3789f11",
+                "word_count": 781,
+                "uri": "nyt://article/487a0f61-7fb9-574f-8c50-2d5cc3789f11"
+            },
+            {
+                "abstract": "Facebook is introducing a new iPhone app that lets users sign up for custom notifications from a selection of about 70 news outlets and information providers.",
+                "web_url": "https://bits.blogs.nytimes.com/2015/11/11/facebooks-notify-app-funnels-custom-updates-onto-phone-screens/",
+                "snippet": "Facebook is introducing a new iPhone app that lets users sign up for custom notifications from a selection of about 70 news outlets and information providers.",
+                "lead_paragraph": "In this age of data overload, information providers and social networks are competing to provide just the highlights that you want, when you want them. News outlets send alerts with breaking news and editors\u2019 picks of top stories. Twitter curates top tweets, organized by subject, into collections it calls Moments. Weather apps warn you of rain minutes before the droplets arrive.",
+                "print_section": "B",
+                "print_page": "4",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "watch308",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-watch308.png",
+                        "height": 348,
+                        "width": 312,
+                        "legacy": {},
+                        "subType": "watch308",
+                        "crop_name": "watch308"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "watch268",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-watch268.png",
+                        "height": 303,
+                        "width": 272,
+                        "legacy": {},
+                        "subType": "watch268",
+                        "crop_name": "watch268"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "wide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-thumbWide.png",
+                        "height": 126,
+                        "width": 190,
+                        "legacy": {
+                            "widewidth": 190,
+                            "wideheight": 126,
+                            "wide": "images/2015/11/12/technology/12notify-web/12notify-web-thumbWide.png"
+                        },
+                        "subType": "wide",
+                        "crop_name": "thumbWide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoThumb.png",
+                        "height": 50,
+                        "width": 75,
+                        "legacy": {},
+                        "subType": "videoThumb",
+                        "crop_name": "videoThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoLarge.png",
+                        "height": 507,
+                        "width": 768,
+                        "legacy": {},
+                        "subType": "videoLarge",
+                        "crop_name": "videoLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo210",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-mediumThreeByTwo210.png",
+                        "height": 140,
+                        "width": 210,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo210",
+                        "crop_name": "mediumThreeByTwo210"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-mediumThreeByTwo225.png",
+                        "height": 150,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo225",
+                        "crop_name": "mediumThreeByTwo225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo440",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-mediumThreeByTwo440.png",
+                        "height": 293,
+                        "width": 440,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo440",
+                        "crop_name": "mediumThreeByTwo440"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo252",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-mediumThreeByTwo252.png",
+                        "height": 168,
+                        "width": 252,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo252",
+                        "crop_name": "mediumThreeByTwo252"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo378",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-mediumThreeByTwo378.png",
+                        "height": 252,
+                        "width": 378,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo378",
+                        "crop_name": "mediumThreeByTwo378"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "facebookJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-facebookJumbo.png",
+                        "height": 503,
+                        "width": 960,
+                        "legacy": {},
+                        "subType": "facebookJumbo",
+                        "crop_name": "facebookJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "miniMoth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-miniMoth.png",
+                        "height": 70,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "miniMoth",
+                        "crop_name": "miniMoth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "windowsTile336H",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-windowsTile336H.png",
+                        "height": 336,
+                        "width": 694,
+                        "legacy": {},
+                        "subType": "windowsTile336H",
+                        "crop_name": "windowsTile336H"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "xlarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-articleLarge.png",
+                        "height": 433,
+                        "width": 600,
+                        "legacy": {
+                            "xlarge": "images/2015/11/12/technology/12notify-web/12notify-web-articleLarge.png",
+                            "xlargewidth": 600,
+                            "xlargeheight": 433
+                        },
+                        "subType": "xlarge",
+                        "crop_name": "articleLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-blog480.png",
+                        "height": 347,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "blog480",
+                        "crop_name": "blog480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog427",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-blog427.png",
+                        "height": 308,
+                        "width": 427,
+                        "legacy": {},
+                        "subType": "blog427",
+                        "crop_name": "blog427"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagArticle",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-tmagArticle.png",
+                        "height": 427,
+                        "width": 592,
+                        "legacy": {},
+                        "subType": "tmagArticle",
+                        "crop_name": "tmagArticle"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "jumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-jumbo.png",
+                        "height": 693,
+                        "width": 960,
+                        "legacy": {},
+                        "subType": "jumbo",
+                        "crop_name": "jumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-blog225.png",
+                        "height": 162,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "blog225",
+                        "crop_name": "blog225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master675",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-master675.png",
+                        "height": 487,
+                        "width": 675,
+                        "legacy": {},
+                        "subType": "master675",
+                        "crop_name": "master675"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master180",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-master180.png",
+                        "height": 130,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "master180",
+                        "crop_name": "master180"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master768",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-master768.png",
+                        "height": 554,
+                        "width": 768,
+                        "legacy": {},
+                        "subType": "master768",
+                        "crop_name": "master768"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "popup",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-popup.png",
+                        "height": 469,
+                        "width": 650,
+                        "legacy": {},
+                        "subType": "popup",
+                        "crop_name": "popup"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog533",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-blog533.png",
+                        "height": 385,
+                        "width": 533,
+                        "legacy": {},
+                        "subType": "blog533",
+                        "crop_name": "blog533"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagSF",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-tmagSF.png",
+                        "height": 261,
+                        "width": 362,
+                        "legacy": {},
+                        "subType": "tmagSF",
+                        "crop_name": "tmagSF"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "slide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-slide.png",
+                        "height": 433,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "slide",
+                        "crop_name": "slide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "superJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-superJumbo.png",
+                        "height": 693,
+                        "width": 960,
+                        "legacy": {},
+                        "subType": "superJumbo",
+                        "crop_name": "superJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-master495.png",
+                        "height": 357,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "master495",
+                        "crop_name": "master495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master315",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-master315.png",
+                        "height": 227,
+                        "width": 315,
+                        "legacy": {},
+                        "subType": "master315",
+                        "crop_name": "master315"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "square320",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-square320.png",
+                        "height": 320,
+                        "width": 320,
+                        "legacy": {},
+                        "subType": "square320",
+                        "crop_name": "square320"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "filmstrip",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-filmstrip.png",
+                        "height": 190,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "filmstrip",
+                        "crop_name": "filmstrip"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "square640",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-square640.png",
+                        "height": 640,
+                        "width": 640,
+                        "legacy": {},
+                        "subType": "square640",
+                        "crop_name": "square640"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "moth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-moth.png",
+                        "height": 151,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "moth",
+                        "crop_name": "moth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumSquare149",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-mediumSquare149.png",
+                        "height": 149,
+                        "width": 149,
+                        "legacy": {},
+                        "subType": "mediumSquare149",
+                        "crop_name": "mediumSquare149"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "articleInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-articleInline.png",
+                        "height": 137,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "articleInline",
+                        "crop_name": "articleInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-hpSmall.png",
+                        "height": 118,
+                        "width": 163,
+                        "legacy": {},
+                        "subType": "hpSmall",
+                        "crop_name": "hpSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-blogSmallInline.png",
+                        "height": 109,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "blogSmallInline",
+                        "crop_name": "blogSmallInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumFlexible177",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-mediumFlexible177.png",
+                        "height": 128,
+                        "width": 177,
+                        "legacy": {},
+                        "subType": "mediumFlexible177",
+                        "crop_name": "mediumFlexible177"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "sfSpan",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-sfSpan.png",
+                        "height": 263,
+                        "width": 395,
+                        "legacy": {},
+                        "subType": "sfSpan",
+                        "crop_name": "sfSpan"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeHorizontal375",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-largeHorizontal375.png",
+                        "height": 250,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "largeHorizontal375",
+                        "crop_name": "largeHorizontal375"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-hpLarge.png",
+                        "height": 287,
+                        "width": 511,
+                        "legacy": {},
+                        "subType": "hpLarge",
+                        "crop_name": "hpLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeWidescreen573",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-largeWidescreen573.png",
+                        "height": 322,
+                        "width": 573,
+                        "legacy": {},
+                        "subType": "largeWidescreen573",
+                        "crop_name": "largeWidescreen573"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSmall-v2.png",
+                        "height": 281,
+                        "width": 500,
+                        "legacy": {},
+                        "subType": "videoSmall",
+                        "crop_name": "videoSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoHpMedium",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoHpMedium-v2.png",
+                        "height": 211,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "videoHpMedium",
+                        "crop_name": "videoHpMedium"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine600",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine600-v2.png",
+                        "height": 338,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine600",
+                        "crop_name": "videoSixteenByNine600"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine540",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine540-v2.png",
+                        "height": 304,
+                        "width": 540,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine540",
+                        "crop_name": "videoSixteenByNine540"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine495-v2.png",
+                        "height": 278,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine495",
+                        "crop_name": "videoSixteenByNine495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine390",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine390-v2.png",
+                        "height": 219,
+                        "width": 390,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine390",
+                        "crop_name": "videoSixteenByNine390"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine480-v2.png",
+                        "height": 270,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine480",
+                        "crop_name": "videoSixteenByNine480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine310",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine310-v2.png",
+                        "height": 174,
+                        "width": 310,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine310",
+                        "crop_name": "videoSixteenByNine310"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine225-v2.png",
+                        "height": 126,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine225",
+                        "crop_name": "videoSixteenByNine225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine96",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine96-v2.png",
+                        "height": 54,
+                        "width": 96,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine96",
+                        "crop_name": "videoSixteenByNine96"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine768",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine768-v2.png",
+                        "height": 432,
+                        "width": 768,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine768",
+                        "crop_name": "videoSixteenByNine768"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine150",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-videoSixteenByNine150-v2.png",
+                        "height": 84,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine150",
+                        "crop_name": "videoSixteenByNine150"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-thumbStandard.png",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/11/12/technology/12notify-web/12notify-web-thumbStandard.png",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-thumbLarge.png",
+                        "height": 150,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "thumbLarge",
+                        "crop_name": "thumbLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "smallSquare252",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-smallSquare252.png",
+                        "height": 252,
+                        "width": 252,
+                        "legacy": {},
+                        "subType": "smallSquare252",
+                        "crop_name": "smallSquare252"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-blogSmallThumb.png",
+                        "height": 50,
+                        "width": 50,
+                        "legacy": {},
+                        "subType": "blogSmallThumb",
+                        "crop_name": "blogSmallThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "smallSquare168",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/12/technology/12notify-web/12notify-web-smallSquare168.png",
+                        "height": 168,
+                        "width": 168,
+                        "legacy": {},
+                        "subType": "smallSquare168",
+                        "crop_name": "smallSquare168"
+                    }
+                ],
+                "headline": {
+                    "main": "Facebook\u2019s Notify App Funnels Custom Updates Onto Phone Screens",
+                    "kicker": "Bits",
+                    "content_kicker": null,
+                    "print_headline": "Facebook Notify Centralizes Updates",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Mobile Applications",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Smartphones",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Social Media",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Facebook Inc",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Foursquare",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Google Inc",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "IFTTT",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Twitter",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Yo (Mobile App)",
+                        "rank": 10,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-11T16:00:15+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Vindu Goel",
+                    "person": [
+                        {
+                            "firstname": "Vindu",
+                            "middlename": null,
+                            "lastname": "Goel",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/7129a048-5c84-5e31-963a-16c2c612dd1c",
+                "word_count": 680,
+                "uri": "nyt://article/7129a048-5c84-5e31-963a-16c2c612dd1c"
+            },
+            {
+                "abstract": "As long as you have an external hard drive large enough to hold your collection, you can use it to move your library, even between Macs and PCs.",
+                "web_url": "https://www.nytimes.com/2015/11/14/technology/personaltech/moving-an-itunes-library-with-an-external-hard-drive.html",
+                "snippet": "As long as you have an external hard drive large enough to hold your collection, you can use it to move your library, even between Macs and PCs.",
+                "lead_paragraph": "Q. Is it possible to back up just my iTunes audio library to an external drive that I can then detach and connect to another computer to play?",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Moving an iTunes Library With an External Hard Drive",
+                    "kicker": "Q. and A.",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Computers and the Internet",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Music",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Search Engines",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Google Inc",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "iTunes",
+                        "rank": 6,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-13T14:32:27+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "subsection_name": "Personal Tech",
+                "byline": {
+                    "original": "By J. D. Biersdorfer",
+                    "person": [
+                        {
+                            "firstname": "J.",
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Question",
+                "_id": "nyt://article/90ffe3f6-1eeb-57d8-b7aa-99a7c8f822d3",
+                "word_count": 598,
+                "uri": "nyt://article/90ffe3f6-1eeb-57d8-b7aa-99a7c8f822d3"
+            },
+            {
+                "abstract": "Ackman Takes on Berkshire | Apple Plans Peer-to-Peer Payment Service | A Debate Over the Fed\u2019s Easy Money Policies",
+                "web_url": "https://news.blogs.nytimes.com/2015/11/12/morning-agenda-square-sticks-to-its-script/",
+                "snippet": "Ackman Takes on Berkshire | Apple Plans Peer-to-Peer Payment Service | A Debate Over the Fed\u2019s Easy Money Policies",
+                "lead_paragraph": "SQUARE STICKS TO ITS SCRIPT | The payments start-up isn\u2019t facing tough questions at the more public events in its initial public offering roadshow, but it is staying on message even in more intimate meetings, Leslie Picker reports in DealBook.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Morning Agenda: Square Sticks to Its Script",
+                    "kicker": "News",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Gender",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Interest Rates",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Quantitative Easing",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Bernanke, Ben S",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Buffett, Warren E",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Dorsey, Jack",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Anheuser-Busch InBev NV",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Federal Reserve System",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "IAC/InterActiveCorp",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Morgan Stanley",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "PayPal Holdings Inc.",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "The Blackstone Group",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Twitter",
+                        "rank": 14,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-12T11:10:19+0000",
+                "document_type": "article",
+                "news_desk": "",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By Amie Tsang",
+                    "person": [
+                        {
+                            "firstname": "Amie",
+                            "middlename": null,
+                            "lastname": "Tsang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/9423c303-787e-54df-a650-a18e1239af4d",
+                "word_count": 1702,
+                "uri": "nyt://article/9423c303-787e-54df-a650-a18e1239af4d"
+            },
+            {
+                "abstract": "Flipkart worked with Google to create a new mobile website that was unveiled on Monday in a move to improve the mobile web experience and steer away from apps.",
+                "web_url": "https://bits.blogs.nytimes.com/2015/11/09/with-an-app-like-mobile-website-flipkart-takes-a-swipe-at-apple/",
+                "snippet": "Flipkart worked with Google to create a new mobile website that was unveiled on Monday in a move to improve the mobile web experience and steer away from apps.",
+                "lead_paragraph": "India\u2019s e-commerce start-up Flipkart has worked with Google to make a new mobile website that could eliminate the need for apps, in a move that takes a swipe at Apple\u2019s grip on the mobile experience.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "With a Mobile Website Like an App, Flipkart Takes a Swipe at Apple",
+                    "kicker": "Bits",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Chrome (Browser)",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Computers and the Internet",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mobile Applications",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mobile Commerce and Payments",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Smartphones",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Start-ups",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Wireless Communications",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Alphabet Inc",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Flipkart.com",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Google Inc",
+                        "rank": 11,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-09T17:30:51+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Katie Benner",
+                    "person": [
+                        {
+                            "firstname": "Katie",
+                            "middlename": null,
+                            "lastname": "Benner",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/a138aee2-8c96-59b1-915f-a445e78110b5",
+                "word_count": 564,
+                "uri": "nyt://article/a138aee2-8c96-59b1-915f-a445e78110b5"
+            },
+            {
+                "abstract": "Gaming, shopping, video and utility apps that have the potential to make your television truly \u201csmart.\u201d",
+                "web_url": "https://www.nytimes.com/2015/11/12/technology/personaltech/video-feature-playing-to-the-strengths-of-the-new-apple-tv.html",
+                "snippet": "Gaming, shopping, video and utility apps that have the potential to make your television truly \u201csmart.\u201d",
+                "lead_paragraph": "The new Apple TV has been out for only about two weeks, but there are already hundreds of apps available for downloading to the set-top box. The apps have the potential to make your television truly \u201csmart,\u201d so it\u2019s time to experiment with the best gaming, shopping, video and utility apps and see how they transform the set in your living room.",
+                "print_section": "B",
+                "print_page": "7",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Video Feature: Playing to the Strengths of the New Apple TV",
+                    "kicker": "App Smart",
+                    "content_kicker": null,
+                    "print_headline": "Playing to the Strengths of the New Apple TV",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Television Sets and Media Devices",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mobile Applications",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple TV",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Computer and Video Games",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Television",
+                        "rank": 7,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-11T14:58:13+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "subsection_name": "Personal Tech",
+                "byline": {
+                    "original": "By Kit Eaton",
+                    "person": [
+                        {
+                            "firstname": "Kit",
+                            "middlename": null,
+                            "lastname": "Eaton",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/a1d2b746-75e8-5bb2-9318-d485f9e08569",
+                "word_count": 876,
+                "uri": "nyt://article/a1d2b746-75e8-5bb2-9318-d485f9e08569"
+            },
+            {
+                "abstract": "You can back up the an address book as a vCard file and import it back into the cloud if disaster strikes.",
+                "web_url": "https://www.nytimes.com/2015/11/21/technology/personaltech/backing-up-icloud-contacts.html",
+                "snippet": "You can back up the an address book as a vCard file and import it back into the cloud if disaster strikes.",
+                "lead_paragraph": "Q. Is there a way to back up the contact files that I sync between my computers and iCloud?",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Backing Up iCloud Contacts",
+                    "kicker": "Q&A",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Computers and the Internet",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Cloud Computing",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Windows (Operating System)",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Identification Devices",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corp",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Biometrics",
+                        "rank": 7,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-19T20:06:48+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "subsection_name": "Personal Tech",
+                "byline": {
+                    "original": "By J. D. Biersdorfer",
+                    "person": [
+                        {
+                            "firstname": "J.",
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Question",
+                "_id": "nyt://article/b12944d5-ad93-5d09-848a-6dc42c51f172",
+                "word_count": 508,
+                "uri": "nyt://article/b12944d5-ad93-5d09-848a-6dc42c51f172"
+            },
+            {
+                "abstract": "Video of the episode showed an employee saying there were fears they might \u201csteal something.\u201d",
+                "web_url": "https://www.nytimes.com/2015/11/13/business/international/an-australian-apple-store-apologizes-to-black-students-it-ejected.html",
+                "snippet": "Video of the episode showed an employee saying there were fears they might \u201csteal something.\u201d",
+                "lead_paragraph": "Apple employees in Australia apologized Wednesday to a group of black students who were told to leave one of the company\u2019s stores in Melbourne because of fears they would \u201csteal something.\u201d",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "watch308",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-watch308.png",
+                        "height": 348,
+                        "width": 312,
+                        "legacy": {},
+                        "subType": "watch308",
+                        "crop_name": "watch308"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "watch268",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-watch268.png",
+                        "height": 304,
+                        "width": 272,
+                        "legacy": {},
+                        "subType": "watch268",
+                        "crop_name": "watch268"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "wide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-thumbWide.png",
+                        "height": 126,
+                        "width": 190,
+                        "legacy": {
+                            "widewidth": 190,
+                            "wideheight": 126,
+                            "wide": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-thumbWide.png"
+                        },
+                        "subType": "wide",
+                        "crop_name": "thumbWide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoThumb.png",
+                        "height": 50,
+                        "width": 75,
+                        "legacy": {},
+                        "subType": "videoThumb",
+                        "crop_name": "videoThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo210",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-mediumThreeByTwo210.png",
+                        "height": 140,
+                        "width": 210,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo210",
+                        "crop_name": "mediumThreeByTwo210"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-mediumThreeByTwo225.png",
+                        "height": 150,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo225",
+                        "crop_name": "mediumThreeByTwo225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo440",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-mediumThreeByTwo440.png",
+                        "height": 293,
+                        "width": 440,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo440",
+                        "crop_name": "mediumThreeByTwo440"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo252",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-mediumThreeByTwo252.png",
+                        "height": 168,
+                        "width": 252,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo252",
+                        "crop_name": "mediumThreeByTwo252"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo378",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-mediumThreeByTwo378.png",
+                        "height": 252,
+                        "width": 378,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo378",
+                        "crop_name": "mediumThreeByTwo378"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "facebookJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-facebookJumbo.png",
+                        "height": 360,
+                        "width": 687,
+                        "legacy": {},
+                        "subType": "facebookJumbo",
+                        "crop_name": "facebookJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "miniMoth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-miniMoth.png",
+                        "height": 70,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "miniMoth",
+                        "crop_name": "miniMoth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "xlarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-articleLarge.png",
+                        "height": 411,
+                        "width": 600,
+                        "legacy": {
+                            "xlarge": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-articleLarge.png",
+                            "xlargewidth": 600,
+                            "xlargeheight": 411
+                        },
+                        "subType": "xlarge",
+                        "crop_name": "articleLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-blog480.png",
+                        "height": 329,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "blog480",
+                        "crop_name": "blog480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog427",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-blog427.png",
+                        "height": 293,
+                        "width": 427,
+                        "legacy": {},
+                        "subType": "blog427",
+                        "crop_name": "blog427"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagArticle",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-tmagArticle.png",
+                        "height": 406,
+                        "width": 592,
+                        "legacy": {},
+                        "subType": "tmagArticle",
+                        "crop_name": "tmagArticle"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "jumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-jumbo.png",
+                        "height": 471,
+                        "width": 687,
+                        "legacy": {},
+                        "subType": "jumbo",
+                        "crop_name": "jumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-blog225.png",
+                        "height": 154,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "blog225",
+                        "crop_name": "blog225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master675",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-master675.png",
+                        "height": 463,
+                        "width": 675,
+                        "legacy": {},
+                        "subType": "master675",
+                        "crop_name": "master675"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master180",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-master180.png",
+                        "height": 123,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "master180",
+                        "crop_name": "master180"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "popup",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-popup.png",
+                        "height": 446,
+                        "width": 650,
+                        "legacy": {},
+                        "subType": "popup",
+                        "crop_name": "popup"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog533",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-blog533.png",
+                        "height": 365,
+                        "width": 533,
+                        "legacy": {},
+                        "subType": "blog533",
+                        "crop_name": "blog533"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagSF",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-tmagSF.png",
+                        "height": 248,
+                        "width": 362,
+                        "legacy": {},
+                        "subType": "tmagSF",
+                        "crop_name": "tmagSF"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "slide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-slide.png",
+                        "height": 411,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "slide",
+                        "crop_name": "slide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "superJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-superJumbo.png",
+                        "height": 471,
+                        "width": 687,
+                        "legacy": {},
+                        "subType": "superJumbo",
+                        "crop_name": "superJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-master495.png",
+                        "height": 339,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "master495",
+                        "crop_name": "master495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master315",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-master315.png",
+                        "height": 216,
+                        "width": 315,
+                        "legacy": {},
+                        "subType": "master315",
+                        "crop_name": "master315"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "square320",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-square320.png",
+                        "height": 320,
+                        "width": 320,
+                        "legacy": {},
+                        "subType": "square320",
+                        "crop_name": "square320"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "filmstrip",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-filmstrip.png",
+                        "height": 190,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "filmstrip",
+                        "crop_name": "filmstrip"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "moth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-moth.png",
+                        "height": 151,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "moth",
+                        "crop_name": "moth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumSquare149",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-mediumSquare149.png",
+                        "height": 149,
+                        "width": 149,
+                        "legacy": {},
+                        "subType": "mediumSquare149",
+                        "crop_name": "mediumSquare149"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "articleInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-articleInline.png",
+                        "height": 130,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "articleInline",
+                        "crop_name": "articleInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-hpSmall.png",
+                        "height": 112,
+                        "width": 163,
+                        "legacy": {},
+                        "subType": "hpSmall",
+                        "crop_name": "hpSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-blogSmallInline.png",
+                        "height": 104,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "blogSmallInline",
+                        "crop_name": "blogSmallInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumFlexible177",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-mediumFlexible177.png",
+                        "height": 121,
+                        "width": 177,
+                        "legacy": {},
+                        "subType": "mediumFlexible177",
+                        "crop_name": "mediumFlexible177"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "sfSpan",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-sfSpan.png",
+                        "height": 263,
+                        "width": 395,
+                        "legacy": {},
+                        "subType": "sfSpan",
+                        "crop_name": "sfSpan"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeHorizontal375",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-largeHorizontal375.png",
+                        "height": 250,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "largeHorizontal375",
+                        "crop_name": "largeHorizontal375"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-hpLarge.png",
+                        "height": 287,
+                        "width": 511,
+                        "legacy": {},
+                        "subType": "hpLarge",
+                        "crop_name": "hpLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeWidescreen573",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-largeWidescreen573.png",
+                        "height": 322,
+                        "width": 573,
+                        "legacy": {},
+                        "subType": "largeWidescreen573",
+                        "crop_name": "largeWidescreen573"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSmall.png",
+                        "height": 281,
+                        "width": 500,
+                        "legacy": {},
+                        "subType": "videoSmall",
+                        "crop_name": "videoSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoHpMedium",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoHpMedium.png",
+                        "height": 211,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "videoHpMedium",
+                        "crop_name": "videoHpMedium"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine600",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSixteenByNine600.png",
+                        "height": 338,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine600",
+                        "crop_name": "videoSixteenByNine600"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine540",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSixteenByNine540.png",
+                        "height": 304,
+                        "width": 540,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine540",
+                        "crop_name": "videoSixteenByNine540"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSixteenByNine495.png",
+                        "height": 278,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine495",
+                        "crop_name": "videoSixteenByNine495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine390",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSixteenByNine390.png",
+                        "height": 219,
+                        "width": 390,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine390",
+                        "crop_name": "videoSixteenByNine390"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSixteenByNine480.png",
+                        "height": 270,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine480",
+                        "crop_name": "videoSixteenByNine480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine310",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSixteenByNine310.png",
+                        "height": 174,
+                        "width": 310,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine310",
+                        "crop_name": "videoSixteenByNine310"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSixteenByNine225.png",
+                        "height": 126,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine225",
+                        "crop_name": "videoSixteenByNine225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine96",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSixteenByNine96.png",
+                        "height": 54,
+                        "width": 96,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine96",
+                        "crop_name": "videoSixteenByNine96"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine150",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-videoSixteenByNine150.png",
+                        "height": 84,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine150",
+                        "crop_name": "videoSixteenByNine150"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-thumbStandard.png",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-thumbStandard.png",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-thumbLarge.png",
+                        "height": 150,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "thumbLarge",
+                        "crop_name": "thumbLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "smallSquare252",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-smallSquare252.png",
+                        "height": 252,
+                        "width": 252,
+                        "legacy": {},
+                        "subType": "smallSquare252",
+                        "crop_name": "smallSquare252"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-blogSmallThumb.png",
+                        "height": 50,
+                        "width": 50,
+                        "legacy": {},
+                        "subType": "blogSmallThumb",
+                        "crop_name": "blogSmallThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "smallSquare168",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/11/13/technology/13aple-exp-promo/13aple-exp-promo-smallSquare168.png",
+                        "height": 168,
+                        "width": 168,
+                        "legacy": {},
+                        "subType": "smallSquare168",
+                        "crop_name": "smallSquare168"
+                    }
+                ],
+                "headline": {
+                    "main": "Apple Apologizes to Black Students Ejected From Store in Australia",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "glocations",
+                        "value": "Melbourne (Australia)",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Discrimination",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Teenagers and Adolescence",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-11-12T17:51:08+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "subsection_name": "International Business",
+                "byline": {
+                    "original": "By Christine Hauser",
+                    "person": [
+                        {
+                            "firstname": "Christine",
+                            "middlename": null,
+                            "lastname": "Hauser",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/b23ad448-fd31-54ac-802d-942b7be6165a",
+                "word_count": 418,
+                "uri": "nyt://article/b23ad448-fd31-54ac-802d-942b7be6165a"
+            }
+        ],
+        "meta": {
+            "hits": 12,
+            "offset": 0,
+            "time": 14
+        }
+    }
+}

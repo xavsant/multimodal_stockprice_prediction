@@ -2,6 +2,7 @@
 .python-version
 notebooks/.DS_Store
 .DS_Store
+data/raw/archived
 
 # Config
 .env

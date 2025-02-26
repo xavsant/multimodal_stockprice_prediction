@@ -1,0 +1,218 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Wall Street seems to be in a funk, with the S&P 500 declining about 2.3 percent since its latest high.",
+                "web_url": "https://www.nytimes.com/2021/09/17/business/stock-market-today.html",
+                "snippet": "Wall Street seems to be in a funk, with the S&P 500 declining about 2.3 percent since its latest high.",
+                "lead_paragraph": "Stocks on Wall Street tumbled again on Friday, with the S&P 500 marking a second consecutive weekly drop and extending a slow decline that has been weighing on the stock market all month.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Stocks decline for a second week as September\u2019s slow retreat continues.",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "United States Economy",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Nasdaq Composite Index",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "National Debt (US)",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Federal Taxes (US)",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Government Bonds",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Stocks and Bonds",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Standard & Poor's 500-Stock Index",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Quantitative Easing",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Stimulus (Economic)",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Citigroup Inc",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Democratic Party",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Facebook Inc",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Federal Reserve System",
+                        "rank": 14,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Las Vegas Sands Corp",
+                        "rank": 15,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corp",
+                        "rank": 16,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Senate",
+                        "rank": 17,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Wynn Resorts Ltd",
+                        "rank": 18,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2021-09-17T13:52:42+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "byline": {
+                    "original": "By Coral Murphy Marcos and Matt Phillips",
+                    "person": [
+                        {
+                            "firstname": "Coral",
+                            "middlename": "Murphy",
+                            "lastname": "Marcos",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        },
+                        {
+                            "firstname": "Matt",
+                            "middlename": null,
+                            "lastname": "Phillips",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 2
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/4b0fde95-cbdf-5344-84ec-ba3e31125856",
+                "word_count": 584,
+                "uri": "nyt://article/4b0fde95-cbdf-5344-84ec-ba3e31125856"
+            },
+            {
+                "abstract": "The company pushed back its reopening, which had been slated for Oct. 4.",
+                "web_url": "https://www.nytimes.com/2021/09/09/business/microsoft-rto-delta-variant.html",
+                "snippet": "The company pushed back its reopening, which had been slated for Oct. 4.",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "The latest: Microsoft delays its return to the office indefinitely.",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "United Parcel Service Inc",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corp",
+                        "rank": 2,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2021-09-09T15:16:31+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/f7a9db1a-2e16-5451-a0b8-27d34a320c89",
+                "word_count": 162,
+                "uri": "nyt://article/f7a9db1a-2e16-5451-a0b8-27d34a320c89"
+            }
+        ],
+        "meta": {
+            "hits": 2,
+            "offset": 0,
+            "time": 8
+        }
+    }
+}

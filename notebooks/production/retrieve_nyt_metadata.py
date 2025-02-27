@@ -119,9 +119,9 @@ if __name__ == '__main__':
     # Retrieve Articles
     load_dotenv()
     API_KEY = getenv("NYT_API_KEY")
-    start_date = 2015
-    end_date = 2024
-    company = 'Salesforce.com Inc'
+    start_date = int(input('Enter your start year: '))
+    end_date = int(input('Enter your end year: '))
+    company = input('Enter your company (remember .com/inc if necessary): ')
 
     for year in range(start_date, end_date):
         params = {

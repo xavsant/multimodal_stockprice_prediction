@@ -1,0 +1,80 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "A well-known programmer says he\u2019s building advanced data analysis that thousands of companies could use on the cloud-computing platform provided by Salesforce.com.",
+                "web_url": "https://bits.blogs.nytimes.com/2015/09/15/salesforce-we-give-customers-amazon-type-analytics/",
+                "snippet": "A well-known programmer says he\u2019s building advanced data analysis that thousands of companies could use on the cloud-computing platform provided by Salesforce.com.",
+                "lead_paragraph": "Salesforce.com was one of the early giants of the cloud-computing revolution. Now it wants to be at the center of two of the next big things \u2014 big data and so-called computational intelligence everywhere.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Salesforce Plans to Give Customers Amazon-Type Analytics",
+                    "kicker": "Bits",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Cloud Computing",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Data-Mining and Database Marketing",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Benioff, Marc",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-09-15T12:00:07+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Quentin Hardy",
+                    "person": [
+                        {
+                            "firstname": "Quentin",
+                            "middlename": null,
+                            "lastname": "Hardy",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/372f2560-753c-5df1-8e85-226059ef01bc",
+                "word_count": 748,
+                "uri": "nyt://article/372f2560-753c-5df1-8e85-226059ef01bc"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 10
+        }
+    }
+}

@@ -123,7 +123,7 @@ if __name__ == '__main__':
     end_date = int(input('Enter your end year: '))
     company = input('Enter your company (remember .com/inc if necessary): ')
 
-    for year in range(start_date, end_date):
+    for year in range(start_date, end_date+1):
         params = {
             'API_KEY': API_KEY,
             'fq': f'organizations:("{company}")',

@@ -1,0 +1,190 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "A rocket company founded by Jeffrey P. Bezos, the Amazon chief executive, announced plans to use a historic launch site at Cape Canaveral.",
+                "web_url": "https://www.nytimes.com/2015/09/16/science/space/jeff-bezos-rocket-company-to-build-and-launch-in-florida.html",
+                "snippet": "A rocket company founded by Jeffrey P. Bezos, the Amazon chief executive, announced plans to use a historic launch site at Cape Canaveral.",
+                "lead_paragraph": "Blue Origin, a secretive rocket company started by Jeffrey P. Bezos, the chief executive of Amazon, made a splashy public announcement on Tuesday, saying it will build rockets and send them into orbit from Florida.",
+                "print_section": "B",
+                "print_page": "2",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Blue Origin, Jeff Bezos\u2019 Rocket Company, to Launch From Florida",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Bezos-Run Rocket Firm Will Launch in Florida",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "Blue Origin",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Bezos, Jeffrey P",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Rocket Science and Propulsion",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "Florida",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "Cape Canaveral (Fla)",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Space and Astronomy",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Amazon.com Inc",
+                        "rank": 7,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-09-15T18:59:08+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Science",
+                "subsection_name": "Space & Cosmos",
+                "byline": {
+                    "original": "By Kenneth Chang",
+                    "person": [
+                        {
+                            "firstname": "Kenneth",
+                            "middlename": null,
+                            "lastname": "Chang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/ae63b838-87a2-5d9b-abb0-b047275993ad",
+                "word_count": 577,
+                "uri": "nyt://article/ae63b838-87a2-5d9b-abb0-b047275993ad"
+            },
+            {
+                "abstract": "The online marketplace will now allow its Prime members to download some movies and TV shows to iOS and Android devices to watch programming offline.",
+                "web_url": "https://www.nytimes.com/2015/09/06/technology/mike-and-quentins-week-in-tech-amazons-offline-game-changer.html",
+                "snippet": "The online marketplace will now allow its Prime members to download some movies and TV shows to iOS and Android devices to watch programming offline.",
+                "lead_paragraph": "Each Saturday, Farhad Manjoo and Mike Isaac, technology reporters at The New York Times, review the week\u2019s news, offering analysis and maybe a joke or two about the most important developments in the industry. Mr. Manjoo is off this week, so Mr. Isaac is conversing with fellow tech reporter Quentin Hardy.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Mike and Quentin\u2019s Week in Tech: Amazon\u2019s Offline Game Changer",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Computers and the Internet",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Enterprise Computing",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Google Inc",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Amazon.com Inc",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apple Inc",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Cisco Systems Inc",
+                        "rank": 6,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-09-05T13:35:19+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Mike Isaac and Quentin Hardy",
+                    "person": [
+                        {
+                            "firstname": "Mike",
+                            "middlename": null,
+                            "lastname": "Isaac",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        },
+                        {
+                            "firstname": "Quentin",
+                            "middlename": null,
+                            "lastname": "Hardy",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 2
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/b5d7f0dc-527f-5752-b58d-0c1ae539de71",
+                "word_count": 982,
+                "uri": "nyt://article/b5d7f0dc-527f-5752-b58d-0c1ae539de71"
+            }
+        ],
+        "meta": {
+            "hits": 12,
+            "offset": 10,
+            "time": 9
+        }
+    }
+}

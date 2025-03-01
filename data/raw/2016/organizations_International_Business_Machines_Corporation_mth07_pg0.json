@@ -1,0 +1,272 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "World\u2019s Biggest Hedge Fund Is Said to Slow Hiring | When Yahoo Ruled the Valley | A Bank Too Big to Jail",
+                "web_url": "https://news.blogs.nytimes.com/2016/07/18/morning-agenda-softbank-to-buy-leading-chip-designer/",
+                "snippet": "World\u2019s Biggest Hedge Fund Is Said to Slow Hiring | When Yahoo Ruled the Valley | A Bank Too Big to Jail",
+                "lead_paragraph": "SOFTBANK TO BUY LEADING CHIP DESIGNER Softbank has agreed to buy ARM Holdings, the British chip designer, for $32 billion, Leslie Picker and Mark Scott report in DealBook.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Morning Agenda: SoftBank to Buy Leading Chip Designer",
+                    "kicker": "News",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Banking and Financial Institutions",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Deferred Prosecution Agreements",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Embargoes and Sanctions",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Great Britain Withdrawal from EU (Brexit)",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Hedge Funds",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Layoffs and Job Reductions",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mergers, Acquisitions and Divestitures",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Regulation and Deregulation of Industry",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Start-ups",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Suits and Litigation (Civil)",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Venture Capital",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Ackman, William A",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Arora, Nikesh",
+                        "rank": 14,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Dalio, Raymond (1949- )",
+                        "rank": 15,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Jensen, Greg",
+                        "rank": 16,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Samwer, Oliver",
+                        "rank": 17,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Winters, William T",
+                        "rank": 18,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "ARM Holdings PLC",
+                        "rank": 19,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Bank of America Corporation",
+                        "rank": 20,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Bridgewater Associates",
+                        "rank": 21,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "China National Chemical Corp",
+                        "rank": 22,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "European Union",
+                        "rank": 23,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Exxon Mobil Corp",
+                        "rank": 24,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Goldman Sachs Group Inc",
+                        "rank": 25,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "HSBC Holdings PLC.",
+                        "rank": 26,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "International Business Machines Corporation",
+                        "rank": 27,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "InterOil Corporation",
+                        "rank": 28,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Justice Department",
+                        "rank": 29,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Pershing Square Capital Management",
+                        "rank": 30,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Softbank Corp",
+                        "rank": 31,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "SOFTBANK Corporation",
+                        "rank": 32,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Sprint Nextel Corporation",
+                        "rank": 33,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Standard Chartered Bank PLC",
+                        "rank": 34,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Uber Technologies Inc",
+                        "rank": 35,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Yahoo! Inc",
+                        "rank": 36,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-07-18T10:21:56+0000",
+                "document_type": "article",
+                "news_desk": "",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By Amie Tsang",
+                    "person": [
+                        {
+                            "firstname": "Amie",
+                            "middlename": null,
+                            "lastname": "Tsang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/a6ae45a0-e625-52a2-966c-7ed1f54e6508",
+                "word_count": 1641,
+                "uri": "nyt://article/a6ae45a0-e625-52a2-966c-7ed1f54e6508"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 9
+        }
+    }
+}

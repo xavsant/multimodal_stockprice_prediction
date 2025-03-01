@@ -1,0 +1,284 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Uber Waves the White Flag | Big Banks Push Instant Payments",
+                "web_url": "https://news.blogs.nytimes.com/2016/08/02/morning-agenda-herbalife-vs-activist-just-maybe-hes-right/",
+                "snippet": "Uber Waves the White Flag | Big Banks Push Instant Payments",
+                "lead_paragraph": "HERBALIFE VS. ACTIVIST: JUST MAYBE HE\u2019S RIGHT Bill Ackman, the activist investor, has been painted as a loser in his quest to shut down Herbalife, the nutritional supplement company, but a Federal Trade Commission\u2019s complaint has vindicated his claims, Andrew Ross Sorkin writes.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Morning Agenda: Herbalife vs. Activist: Just Maybe He\u2019s Right",
+                    "kicker": "News",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Banking and Financial Institutions",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Boards of Directors",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Corporations",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Enterprise Computing",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Initial Public Offerings",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Insider Trading",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Law and Legislation",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mergers, Acquisitions and Divestitures",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Private Equity",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Relocation of Business",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Software",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Start-ups",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Taxation",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Venture Capital",
+                        "rank": 14,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Ackman, William A",
+                        "rank": 15,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Buffett, Warren E",
+                        "rank": 16,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Denton, Nick",
+                        "rank": 17,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Holmes, Elizabeth (1984- )",
+                        "rank": 18,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Kalanick, Travis",
+                        "rank": 19,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "May, Theresa M",
+                        "rank": 20,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Musk, Elon",
+                        "rank": 21,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Ramirez, Edith",
+                        "rank": 22,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Bank of America Corporation",
+                        "rank": 23,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Federal Bureau of Investigation",
+                        "rank": 24,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Federal Trade Commission",
+                        "rank": 25,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Gawker.com",
+                        "rank": 26,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Herbalife Ltd",
+                        "rank": 27,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Misys PLC",
+                        "rank": 28,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Oracle Corporation",
+                        "rank": 29,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Quip",
+                        "rank": 30,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 31,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Securities and Exchange Commission",
+                        "rank": 32,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "SolarCity Inc",
+                        "rank": 33,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Supreme Court (US)",
+                        "rank": 34,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Technology Crossover Ventures",
+                        "rank": 35,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Theranos Inc",
+                        "rank": 36,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Uber Technologies Inc",
+                        "rank": 37,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Volkswagen AG",
+                        "rank": 38,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-08-02T10:46:33+0000",
+                "document_type": "article",
+                "news_desk": "",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By Amie Tsang",
+                    "person": [
+                        {
+                            "firstname": "Amie",
+                            "middlename": null,
+                            "lastname": "Tsang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/f2b1f983-81b5-5eb9-b6ce-ea84a965dad8",
+                "word_count": 1124,
+                "uri": "nyt://article/f2b1f983-81b5-5eb9-b6ce-ea84a965dad8"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 9
+        }
+    }
+}

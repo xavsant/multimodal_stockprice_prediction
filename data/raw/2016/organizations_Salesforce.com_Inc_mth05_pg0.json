@@ -1,0 +1,88 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Salesforce, itself a cloud-computing company, will use Amazon Web Services to grow more rapidly in a deal valued at $400 million.",
+                "web_url": "https://www.nytimes.com/2016/05/26/technology/salesforce-to-use-amazons-cloud-to-expand-in-canada-and-australia.html",
+                "snippet": "Salesforce, itself a cloud-computing company, will use Amazon Web Services to grow more rapidly in a deal valued at $400 million.",
+                "lead_paragraph": "Amazon Web Services, the biggest of the cloud-computing providers, has a new line of work: Taking other cloud-computing giants into other countries.",
+                "print_section": "B",
+                "print_page": "4",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Salesforce to Use Amazon\u2019s Cloud to Expand in Canada and Australia",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Salesforce to Use Amazon\u2019s Cloud to Expand",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Cloud Computing",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Amazon.com Inc",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Benioff, Marc",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Prices (Fares, Fees and Rates)",
+                        "rank": 6,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-05-26T01:26:01+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Quentin Hardy",
+                    "person": [
+                        {
+                            "firstname": "Quentin",
+                            "middlename": null,
+                            "lastname": "Hardy",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/5d314df6-15b0-5d4b-87af-e43ea2feaf77",
+                "word_count": 436,
+                "uri": "nyt://article/5d314df6-15b0-5d4b-87af-e43ea2feaf77"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 7
+        }
+    }
+}

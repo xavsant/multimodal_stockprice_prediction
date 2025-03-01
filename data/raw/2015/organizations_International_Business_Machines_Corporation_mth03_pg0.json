@@ -1,0 +1,901 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "The chip maker NXP and Hewlett Packard need strong demand to compensate for falling prices. The trouble is, that has not happened, says the author.",
+                "web_url": "https://www.nytimes.com/2015/03/03/business/dealbook/tech-deals-that-are-poor-fixes-for-limp-sales.html",
+                "snippet": "The chip maker NXP and Hewlett Packard need strong demand to compensate for falling prices. The trouble is, that has not happened, says the author.",
+                "lead_paragraph": "A $15 billion technology M.&A. spree is a poor fix for limp sales.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Tech Deals That Are Poor Fixes for Limp Sales",
+                    "kicker": "Breakingviews",
+                    "content_kicker": null,
+                    "print_headline": "Tech Deals That Are Poor Fixes for Limp Sales",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "Cisco Systems Inc",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Freescale Semiconductor Holdings I Ltd",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Hewlett-Packard Company",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "International Business Machines Corporation",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mergers, Acquisitions and Divestitures",
+                        "rank": 5,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-03-02T19:40:27+0000",
+                "document_type": "article",
+                "news_desk": "Dealbook",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": "By Robert Cyran",
+                    "person": [
+                        {
+                            "firstname": "Robert",
+                            "middlename": null,
+                            "lastname": "Cyran",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/70db2188-71ea-56c7-a748-db774fb8ee4b",
+                "word_count": 387,
+                "uri": "nyt://article/70db2188-71ea-56c7-a748-db774fb8ee4b"
+            },
+            {
+                "abstract": "IBM adds another big data source to its data analysis business in a partnership with the Weather Company.",
+                "web_url": "https://bits.blogs.nytimes.com/2015/03/31/ibm-scores-a-weather-data-deal-and-starts-an-internet-of-things-unit/",
+                "snippet": "IBM adds another big data source to its data analysis business in a partnership with the Weather Company.",
+                "lead_paragraph": "Data partnerships are a key ingredient in IBM\u2019s long-term strategy, and the company is announcing a big one on Tuesday with the Weather Company.",
+                "print_section": "B",
+                "print_page": "2",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "watch308",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-watch308.jpg",
+                        "height": 348,
+                        "width": 312,
+                        "legacy": {},
+                        "subType": "watch308",
+                        "crop_name": "watch308"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "watch268",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-watch268.jpg",
+                        "height": 303,
+                        "width": 272,
+                        "legacy": {},
+                        "subType": "watch268",
+                        "crop_name": "watch268"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "wide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-thumbWide.jpg",
+                        "height": 126,
+                        "width": 190,
+                        "legacy": {
+                            "widewidth": 190,
+                            "wideheight": 126,
+                            "wide": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-thumbWide.jpg"
+                        },
+                        "subType": "wide",
+                        "crop_name": "thumbWide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoThumb.jpg",
+                        "height": 50,
+                        "width": 75,
+                        "legacy": {},
+                        "subType": "videoThumb",
+                        "crop_name": "videoThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo210",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-mediumThreeByTwo210.jpg",
+                        "height": 140,
+                        "width": 210,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo210",
+                        "crop_name": "mediumThreeByTwo210"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-mediumThreeByTwo225.jpg",
+                        "height": 150,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo225",
+                        "crop_name": "mediumThreeByTwo225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo440",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-mediumThreeByTwo440.jpg",
+                        "height": 293,
+                        "width": 440,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo440",
+                        "crop_name": "mediumThreeByTwo440"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "facebookJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-facebookJumbo.jpg",
+                        "height": 400,
+                        "width": 764,
+                        "legacy": {},
+                        "subType": "facebookJumbo",
+                        "crop_name": "facebookJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "miniMoth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-miniMoth.jpg",
+                        "height": 70,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "miniMoth",
+                        "crop_name": "miniMoth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "windowsTile336H",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-windowsTile336H.jpg",
+                        "height": 336,
+                        "width": 694,
+                        "legacy": {},
+                        "subType": "windowsTile336H",
+                        "crop_name": "windowsTile336H"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "xlarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-articleLarge.jpg",
+                        "height": 300,
+                        "width": 600,
+                        "legacy": {
+                            "xlarge": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-articleLarge.jpg",
+                            "xlargewidth": 600,
+                            "xlargeheight": 300
+                        },
+                        "subType": "xlarge",
+                        "crop_name": "articleLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-blog480.jpg",
+                        "height": 240,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "blog480",
+                        "crop_name": "blog480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog427",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-blog427.jpg",
+                        "height": 214,
+                        "width": 427,
+                        "legacy": {},
+                        "subType": "blog427",
+                        "crop_name": "blog427"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagArticle",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-tmagArticle.jpg",
+                        "height": 296,
+                        "width": 592,
+                        "legacy": {},
+                        "subType": "tmagArticle",
+                        "crop_name": "tmagArticle"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "jumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-jumbo.jpg",
+                        "height": 400,
+                        "width": 800,
+                        "legacy": {},
+                        "subType": "jumbo",
+                        "crop_name": "jumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-blog225.jpg",
+                        "height": 113,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "blog225",
+                        "crop_name": "blog225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master675",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-master675.jpg",
+                        "height": 338,
+                        "width": 675,
+                        "legacy": {},
+                        "subType": "master675",
+                        "crop_name": "master675"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master180",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-master180.jpg",
+                        "height": 90,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "master180",
+                        "crop_name": "master180"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "popup",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-popup.jpg",
+                        "height": 325,
+                        "width": 650,
+                        "legacy": {},
+                        "subType": "popup",
+                        "crop_name": "popup"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog533",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-blog533.jpg",
+                        "height": 267,
+                        "width": 533,
+                        "legacy": {},
+                        "subType": "blog533",
+                        "crop_name": "blog533"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagSF",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-tmagSF.jpg",
+                        "height": 181,
+                        "width": 362,
+                        "legacy": {},
+                        "subType": "tmagSF",
+                        "crop_name": "tmagSF"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "slide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-slide.jpg",
+                        "height": 300,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "slide",
+                        "crop_name": "slide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "superJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-superJumbo.jpg",
+                        "height": 400,
+                        "width": 800,
+                        "legacy": {},
+                        "subType": "superJumbo",
+                        "crop_name": "superJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-master495.jpg",
+                        "height": 248,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "master495",
+                        "crop_name": "master495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master315",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-master315.jpg",
+                        "height": 158,
+                        "width": 315,
+                        "legacy": {},
+                        "subType": "master315",
+                        "crop_name": "master315"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "square320",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-square320.jpg",
+                        "height": 320,
+                        "width": 320,
+                        "legacy": {},
+                        "subType": "square320",
+                        "crop_name": "square320"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "filmstrip",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-filmstrip.jpg",
+                        "height": 190,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "filmstrip",
+                        "crop_name": "filmstrip"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "moth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-moth.jpg",
+                        "height": 151,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "moth",
+                        "crop_name": "moth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumSquare149",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-mediumSquare149.jpg",
+                        "height": 149,
+                        "width": 149,
+                        "legacy": {},
+                        "subType": "mediumSquare149",
+                        "crop_name": "mediumSquare149"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "articleInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-articleInline.jpg",
+                        "height": 95,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "articleInline",
+                        "crop_name": "articleInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-hpSmall.jpg",
+                        "height": 82,
+                        "width": 163,
+                        "legacy": {},
+                        "subType": "hpSmall",
+                        "crop_name": "hpSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-blogSmallInline.jpg",
+                        "height": 76,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "blogSmallInline",
+                        "crop_name": "blogSmallInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumFlexible177",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-mediumFlexible177.jpg",
+                        "height": 89,
+                        "width": 177,
+                        "legacy": {},
+                        "subType": "mediumFlexible177",
+                        "crop_name": "mediumFlexible177"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "sfSpan",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-sfSpan.jpg",
+                        "height": 263,
+                        "width": 395,
+                        "legacy": {},
+                        "subType": "sfSpan",
+                        "crop_name": "sfSpan"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeHorizontal375",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-largeHorizontal375.jpg",
+                        "height": 250,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "largeHorizontal375",
+                        "crop_name": "largeHorizontal375"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-hpLarge.jpg",
+                        "height": 287,
+                        "width": 511,
+                        "legacy": {},
+                        "subType": "hpLarge",
+                        "crop_name": "hpLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeWidescreen573",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-largeWidescreen573.jpg",
+                        "height": 322,
+                        "width": 573,
+                        "legacy": {},
+                        "subType": "largeWidescreen573",
+                        "crop_name": "largeWidescreen573"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSmall.jpg",
+                        "height": 281,
+                        "width": 500,
+                        "legacy": {},
+                        "subType": "videoSmall",
+                        "crop_name": "videoSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoHpMedium",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoHpMedium.jpg",
+                        "height": 211,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "videoHpMedium",
+                        "crop_name": "videoHpMedium"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine600",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSixteenByNine600.jpg",
+                        "height": 338,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine600",
+                        "crop_name": "videoSixteenByNine600"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine540",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSixteenByNine540.jpg",
+                        "height": 304,
+                        "width": 540,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine540",
+                        "crop_name": "videoSixteenByNine540"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSixteenByNine495.jpg",
+                        "height": 278,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine495",
+                        "crop_name": "videoSixteenByNine495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine390",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSixteenByNine390.jpg",
+                        "height": 219,
+                        "width": 390,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine390",
+                        "crop_name": "videoSixteenByNine390"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSixteenByNine480.jpg",
+                        "height": 270,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine480",
+                        "crop_name": "videoSixteenByNine480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine310",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSixteenByNine310.jpg",
+                        "height": 174,
+                        "width": 310,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine310",
+                        "crop_name": "videoSixteenByNine310"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSixteenByNine225.jpg",
+                        "height": 126,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine225",
+                        "crop_name": "videoSixteenByNine225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine96",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSixteenByNine96.jpg",
+                        "height": 54,
+                        "width": 96,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine96",
+                        "crop_name": "videoSixteenByNine96"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine150",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-videoSixteenByNine150.jpg",
+                        "height": 84,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine150",
+                        "crop_name": "videoSixteenByNine150"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-thumbStandard.jpg",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-thumbLarge.jpg",
+                        "height": 150,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "thumbLarge",
+                        "crop_name": "thumbLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2015/03/31/technology/31bits-ibm/31bits-ibm-blogSmallThumb.jpg",
+                        "height": 50,
+                        "width": 50,
+                        "legacy": {},
+                        "subType": "blogSmallThumb",
+                        "crop_name": "blogSmallThumb"
+                    }
+                ],
+                "headline": {
+                    "main": "IBM Scores Weather Data Deal and Starts Internet of Things Unit",
+                    "kicker": "Bits",
+                    "content_kicker": null,
+                    "print_headline": "Business Briefing; IBM and Weather Company Plan a Data Partnership",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Computers and the Internet",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Data-Mining and Database Marketing",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "International Business Machines Corporation",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Weather Co",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-03-31T04:01:16+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Steve Lohr",
+                    "person": [
+                        {
+                            "firstname": "Steve",
+                            "middlename": null,
+                            "lastname": "Lohr",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/b7460872-0c01-53d0-889f-12f34b6c3ed8",
+                "word_count": 584,
+                "uri": "nyt://article/b7460872-0c01-53d0-889f-12f34b6c3ed8"
+            },
+            {
+                "abstract": "IBM and Twitter rolled out their data services for business. They are the first products of a venture that is strategically important to both companies.",
+                "web_url": "https://bits.blogs.nytimes.com/2015/03/17/ibm-introduces-twitter-fueled-data-services-for-business/",
+                "snippet": "IBM and Twitter rolled out their data services for business. They are the first products of a venture that is strategically important to both companies.",
+                "lead_paragraph": "When IBM announced its partnership with Twitter last October, the move seemed both promising and logical.",
+                "print_section": "B",
+                "print_page": "4",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "IBM Introduces Twitter-Fueled Data Services for Business",
+                    "kicker": "Bits",
+                    "content_kicker": null,
+                    "print_headline": "IBM Introduces Tools for Twitter",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Data-Mining and Database Marketing",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Rometty, Virginia M",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "International Business Machines Corporation",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Twitter",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-03-17T10:00:01+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Steve Lohr",
+                    "person": [
+                        {
+                            "firstname": "Steve",
+                            "middlename": null,
+                            "lastname": "Lohr",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/d141608e-4e28-5516-b692-99e9af15549c",
+                "word_count": 619,
+                "uri": "nyt://article/d141608e-4e28-5516-b692-99e9af15549c"
+            }
+        ],
+        "meta": {
+            "hits": 3,
+            "offset": 0,
+            "time": 10
+        }
+    }
+}

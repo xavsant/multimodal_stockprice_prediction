@@ -1,0 +1,1074 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "The two companies, partners of the enterprise software maker, will take ownership stakes in the biggest leveraged buyout of the year.",
+                "web_url": "https://www.nytimes.com/2015/08/07/business/dealbook/salesforce-ventures-and-microsoft-join-informatica-buyout.html",
+                "snippet": "The two companies, partners of the enterprise software maker, will take ownership stakes in the biggest leveraged buyout of the year.",
+                "lead_paragraph": "SAN FRANCISCO \u2014 As Informatica closes its $5.3 billion sale to private equity on Thursday, the enterprise software maker will count two of its big technology partners as new investors as well.",
+                "print_section": "B",
+                "print_page": "4",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Salesforce Ventures and Microsoft Join Informatica Buyout",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Joining Up",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "Informatica Corporation",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corp",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Canada Pension Plan Investment Board",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Permira Advisers",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Private Equity",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mergers, Acquisitions and Divestitures",
+                        "rank": 7,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-08-06T17:19:49+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": "By Michael J. de la Merced",
+                    "person": [
+                        {
+                            "firstname": "Michael",
+                            "middlename": "J.",
+                            "lastname": "de la Merced",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/3edcaef8-79c6-58e0-a97e-2ef7c6a1399b",
+                "word_count": 369,
+                "uri": "nyt://article/3edcaef8-79c6-58e0-a97e-2ef7c6a1399b"
+            },
+            {
+                "abstract": "The Never-Ending Lawsuit | Why Disclosing C.E.O. Pay Might Bring Change | Apollo\u2019s Stake in American Realty",
+                "web_url": "https://news.blogs.nytimes.com/2015/08/07/morning-agenda-ackmans-bet-on-mondelez-sales/",
+                "snippet": "The Never-Ending Lawsuit | Why Disclosing C.E.O. Pay Might Bring Change | Apollo\u2019s Stake in American Realty",
+                "lead_paragraph": "ACKMAN\u2019S BET ON MONDELEZ SALES | By building up a $5.5 billion stake in Mondelez International, William A. Ackman is wagering that Mondelez could be persuaded to sell itself, Michael J. de la Merced and Alexandra Stevenson write in DealBook. The investment that Mr. Ackman\u2019s Pershing Square Capital Management has made also highlights the widespread belief that the food sector is ripe for consolidation. ",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Morning Agenda: Ackman\u2019s Bet on Mondelez Sales",
+                    "kicker": "News",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Attorneys General",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Food",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mergers, Acquisitions and Divestitures",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "NEW YORK CITY",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Private Equity",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Ackman, William A",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Greenberg, Maurice R",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Spitzer, Eliot L",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "American International Group Inc",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Apollo Global Management L.L.C",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Carlyle Group LP",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Citigroup Inc",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Google Inc",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "International Business Machines Corporation",
+                        "rank": 14,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "KKR & Co LP",
+                        "rank": 15,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Kraft Heinz Company",
+                        "rank": 16,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corp",
+                        "rank": 17,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Mondelez International Inc",
+                        "rank": 18,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Pepsico Inc",
+                        "rank": 19,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Pershing Square Capital Management",
+                        "rank": 20,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Royal Dutch Shell Plc",
+                        "rank": 21,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 22,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Securities and Exchange Commission",
+                        "rank": 23,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-08-07T11:10:34+0000",
+                "document_type": "article",
+                "news_desk": "",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By Amie Tsang",
+                    "person": [
+                        {
+                            "firstname": "Amie",
+                            "middlename": null,
+                            "lastname": "Tsang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/6bb4a9d9-12f7-5979-a325-70f3f75b6e62",
+                "word_count": 1595,
+                "uri": "nyt://article/6bb4a9d9-12f7-5979-a325-70f3f75b6e62"
+            },
+            {
+                "abstract": "As stocks slumped on Thursday, some technology companies took particularly bad hits, both during regular trading hours and even afterward.",
+                "web_url": "https://bits.blogs.nytimes.com/2015/08/21/daily-report-the-stock-market-carnage-cometh-for-tech/",
+                "snippet": "As stocks slumped on Thursday, some technology companies took particularly bad hits, both during regular trading hours and even afterward.",
+                "lead_paragraph": "Nearly everything on the stock market fell on Thursday, with some tech companies taking particularly hard hits.",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "watch308",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-watch308-v4.png",
+                        "height": 348,
+                        "width": 312,
+                        "legacy": {},
+                        "subType": "watch308",
+                        "crop_name": "watch308"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "watch268",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-watch268-v4.png",
+                        "height": 304,
+                        "width": 272,
+                        "legacy": {},
+                        "subType": "watch268",
+                        "crop_name": "watch268"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "wide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbWide-v3.png",
+                        "height": 126,
+                        "width": 190,
+                        "legacy": {
+                            "widewidth": 190,
+                            "wideheight": 126,
+                            "wide": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbWide-v3.png"
+                        },
+                        "subType": "wide",
+                        "crop_name": "thumbWide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoThumb-v3.png",
+                        "height": 50,
+                        "width": 75,
+                        "legacy": {},
+                        "subType": "videoThumb",
+                        "crop_name": "videoThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo210",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-mediumThreeByTwo210-v4.png",
+                        "height": 140,
+                        "width": 210,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo210",
+                        "crop_name": "mediumThreeByTwo210"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-mediumThreeByTwo225-v3.png",
+                        "height": 150,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo225",
+                        "crop_name": "mediumThreeByTwo225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo440",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-mediumThreeByTwo440-v3.png",
+                        "height": 293,
+                        "width": 440,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo440",
+                        "crop_name": "mediumThreeByTwo440"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo252",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-mediumThreeByTwo252-v3.png",
+                        "height": 168,
+                        "width": 252,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo252",
+                        "crop_name": "mediumThreeByTwo252"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo378",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-mediumThreeByTwo378-v3.png",
+                        "height": 252,
+                        "width": 378,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo378",
+                        "crop_name": "mediumThreeByTwo378"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "facebookJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-facebookJumbo-v3.png",
+                        "height": 314,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "facebookJumbo",
+                        "crop_name": "facebookJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "miniMoth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-miniMoth-v3.png",
+                        "height": 70,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "miniMoth",
+                        "crop_name": "miniMoth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "xlarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge-v4.png",
+                        "height": 400,
+                        "width": 600,
+                        "legacy": {
+                            "xlarge": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge-v4.png",
+                            "xlargewidth": 600,
+                            "xlargeheight": 400
+                        },
+                        "subType": "xlarge",
+                        "crop_name": "articleLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-blog480-v3.png",
+                        "height": 320,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "blog480",
+                        "crop_name": "blog480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog427",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-blog427-v3.png",
+                        "height": 285,
+                        "width": 427,
+                        "legacy": {},
+                        "subType": "blog427",
+                        "crop_name": "blog427"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagArticle",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-tmagArticle-v3.png",
+                        "height": 395,
+                        "width": 592,
+                        "legacy": {},
+                        "subType": "tmagArticle",
+                        "crop_name": "tmagArticle"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "jumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-jumbo-v6.jpg",
+                        "height": 400,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "jumbo",
+                        "crop_name": "jumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-blog225-v3.png",
+                        "height": 150,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "blog225",
+                        "crop_name": "blog225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master180",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-master180-v3.png",
+                        "height": 120,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "master180",
+                        "crop_name": "master180"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "popup",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-popup-v4.png",
+                        "height": 400,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "popup",
+                        "crop_name": "popup"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog533",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-blog533-v3.png",
+                        "height": 355,
+                        "width": 533,
+                        "legacy": {},
+                        "subType": "blog533",
+                        "crop_name": "blog533"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagSF",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-tmagSF-v3.png",
+                        "height": 241,
+                        "width": 362,
+                        "legacy": {},
+                        "subType": "tmagSF",
+                        "crop_name": "tmagSF"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "slide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-slide-v3.png",
+                        "height": 400,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "slide",
+                        "crop_name": "slide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "superJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-superJumbo-v3.png",
+                        "height": 400,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "superJumbo",
+                        "crop_name": "superJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-master495-v3.png",
+                        "height": 330,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "master495",
+                        "crop_name": "master495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master315",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-master315-v4.png",
+                        "height": 215,
+                        "width": 315,
+                        "legacy": {},
+                        "subType": "master315",
+                        "crop_name": "master315"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "square320",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-square320-v5.png",
+                        "height": 320,
+                        "width": 320,
+                        "legacy": {},
+                        "subType": "square320",
+                        "crop_name": "square320"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "filmstrip",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-filmstrip-v5.png",
+                        "height": 190,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "filmstrip",
+                        "crop_name": "filmstrip"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "moth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-moth-v5.png",
+                        "height": 151,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "moth",
+                        "crop_name": "moth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumSquare149",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-mediumSquare149-v5.png",
+                        "height": 149,
+                        "width": 149,
+                        "legacy": {},
+                        "subType": "mediumSquare149",
+                        "crop_name": "mediumSquare149"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "articleInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleInline-v5.png",
+                        "height": 126,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "articleInline",
+                        "crop_name": "articleInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-hpSmall-v4.png",
+                        "height": 109,
+                        "width": 163,
+                        "legacy": {},
+                        "subType": "hpSmall",
+                        "crop_name": "hpSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-blogSmallInline-v4.png",
+                        "height": 101,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "blogSmallInline",
+                        "crop_name": "blogSmallInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumFlexible177",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-mediumFlexible177-v4.png",
+                        "height": 118,
+                        "width": 177,
+                        "legacy": {},
+                        "subType": "mediumFlexible177",
+                        "crop_name": "mediumFlexible177"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "sfSpan",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-sfSpan-v3.png",
+                        "height": 263,
+                        "width": 395,
+                        "legacy": {},
+                        "subType": "sfSpan",
+                        "crop_name": "sfSpan"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeHorizontal375",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-largeHorizontal375-v3.png",
+                        "height": 250,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "largeHorizontal375",
+                        "crop_name": "largeHorizontal375"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-hpLarge-v3.png",
+                        "height": 288,
+                        "width": 511,
+                        "legacy": {},
+                        "subType": "hpLarge",
+                        "crop_name": "hpLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeWidescreen573",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-largeWidescreen573-v3.png",
+                        "height": 323,
+                        "width": 573,
+                        "legacy": {},
+                        "subType": "largeWidescreen573",
+                        "crop_name": "largeWidescreen573"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSmall-v3.png",
+                        "height": 281,
+                        "width": 500,
+                        "legacy": {},
+                        "subType": "videoSmall",
+                        "crop_name": "videoSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoHpMedium",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoHpMedium-v3.png",
+                        "height": 211,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "videoHpMedium",
+                        "crop_name": "videoHpMedium"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine600",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSixteenByNine600-v3.png",
+                        "height": 338,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine600",
+                        "crop_name": "videoSixteenByNine600"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine540",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSixteenByNine540-v3.png",
+                        "height": 304,
+                        "width": 540,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine540",
+                        "crop_name": "videoSixteenByNine540"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine495",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSixteenByNine495-v3.png",
+                        "height": 278,
+                        "width": 495,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine495",
+                        "crop_name": "videoSixteenByNine495"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine390",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSixteenByNine390-v3.png",
+                        "height": 219,
+                        "width": 390,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine390",
+                        "crop_name": "videoSixteenByNine390"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine480",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSixteenByNine480-v3.png",
+                        "height": 270,
+                        "width": 480,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine480",
+                        "crop_name": "videoSixteenByNine480"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine310",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSixteenByNine310-v3.png",
+                        "height": 174,
+                        "width": 310,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine310",
+                        "crop_name": "videoSixteenByNine310"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSixteenByNine225-v3.png",
+                        "height": 126,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine225",
+                        "crop_name": "videoSixteenByNine225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine96",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSixteenByNine96-v3.png",
+                        "height": 54,
+                        "width": 96,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine96",
+                        "crop_name": "videoSixteenByNine96"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine150",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-videoSixteenByNine150-v3.png",
+                        "height": 84,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine150",
+                        "crop_name": "videoSixteenByNine150"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard-v5.png",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard-v5.png",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbLarge-v5.png",
+                        "height": 150,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "thumbLarge",
+                        "crop_name": "thumbLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-blogSmallThumb-v4.png",
+                        "height": 50,
+                        "width": 50,
+                        "legacy": {},
+                        "subType": "blogSmallThumb",
+                        "crop_name": "blogSmallThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "smallSquare168",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-smallSquare168-v4.png",
+                        "height": 168,
+                        "width": 168,
+                        "legacy": {},
+                        "subType": "smallSquare168",
+                        "crop_name": "smallSquare168"
+                    }
+                ],
+                "headline": {
+                    "main": "Daily Report: The Stock Market Carnage Cometh for Tech",
+                    "kicker": "Bits",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Company Reports",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Computers and the Internet",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Initial Public Offerings",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Software",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Stocks and Bonds",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Hewlett-Packard Company",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Intuit Inc",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Twitter",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "Silicon Valley (Calif)",
+                        "rank": 10,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-08-21T14:20:22+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Pui-Wing Tam",
+                    "person": [
+                        {
+                            "firstname": "Pui-wing",
+                            "middlename": null,
+                            "lastname": "Tam",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/7646f901-8df3-5661-8ab0-8dae419b3e66",
+                "word_count": 154,
+                "uri": "nyt://article/7646f901-8df3-5661-8ab0-8dae419b3e66"
+            }
+        ],
+        "meta": {
+            "hits": 3,
+            "offset": 0,
+            "time": 10
+        }
+    }
+}

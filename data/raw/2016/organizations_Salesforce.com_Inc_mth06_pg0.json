@@ -1,0 +1,617 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "The Merger That Wasn\u2019t? | Renaud Laplanche Said to Consider Lending Club Takeover",
+                "web_url": "https://news.blogs.nytimes.com/2016/06/08/morning-agenda-dell-ruling-may-not-affect-buyouts-as-much-as-feared/",
+                "snippet": "The Merger That Wasn\u2019t? | Renaud Laplanche Said to Consider Lending Club Takeover",
+                "lead_paragraph": "DELL RULING MAY NOT AFFECT BUYOUTS AS MUCH AS FEARED | Will a judge\u2019s ruling that buyers underpaid for Dell when it was taken private change buyouts more broadly? Probably not,Steven Davidoff Solomon argues in the Deal Professor column.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Morning Agenda: Dell Ruling May Not Affect Buyouts as Much as Feared",
+                    "kicker": "News",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Banking and Financial Institutions",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Dodd-Frank Wall Street Reform and Consumer Protection Act (2010)",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "European Sovereign Debt Crisis (2010- )",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Furniture",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Hedge Funds",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Insurance",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Legal Profession",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mergers, Acquisitions and Divestitures",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Private Equity",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Real Estate Investment Trusts",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Regulation and Deregulation of Industry",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Start-ups",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Suicides and Suicide Attempts",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Suits and Litigation (Civil)",
+                        "rank": 14,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Kerviel, Jerome",
+                        "rank": 15,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Laplanche, Renaud",
+                        "rank": 16,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "McClendon, Aubrey K",
+                        "rank": 17,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Redstone, Sumner M",
+                        "rank": 18,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Design Within Reach",
+                        "rank": 19,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Deutsche Borse AG",
+                        "rank": 20,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "EMI Group PLC",
+                        "rank": 21,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "European Union",
+                        "rank": 22,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Herman Miller Inc",
+                        "rank": 23,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "House Financial Services Committee",
+                        "rank": 24,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Justice Department",
+                        "rank": 25,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Lending Club",
+                        "rank": 26,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "London Stock Exchange",
+                        "rank": 27,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "National Amusements Inc",
+                        "rank": 28,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 29,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Securities and Exchange Commission",
+                        "rank": 30,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Societe Generale",
+                        "rank": 31,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Terra Firma Capital Partners Ltd",
+                        "rank": 32,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "The Blackstone Group",
+                        "rank": 33,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Tribune Publishing Company",
+                        "rank": 34,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Valeant Pharmaceuticals International Inc",
+                        "rank": 35,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Viacom Inc",
+                        "rank": 36,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-06-08T10:18:10+0000",
+                "document_type": "article",
+                "news_desk": "",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By Amie Tsang",
+                    "person": [
+                        {
+                            "firstname": "Amie",
+                            "middlename": null,
+                            "lastname": "Tsang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/2a2261cb-4bd8-5b56-83c6-8187ab628dca",
+                "word_count": 1855,
+                "uri": "nyt://article/2a2261cb-4bd8-5b56-83c6-8187ab628dca"
+            },
+            {
+                "abstract": "Payday Loan Industry Could Soon Be Gutted | Sumner Redstone\u2019s Granddaughter Sides With Viacom Directors",
+                "web_url": "https://news.blogs.nytimes.com/2016/06/02/morning-agenda-uber-receives-3-5-billion-from-saudi-arabia/",
+                "snippet": "Payday Loan Industry Could Soon Be Gutted | Sumner Redstone\u2019s Granddaughter Sides With Viacom Directors",
+                "lead_paragraph": "UBER RECEIVES $3.5 BILLION FROM SAUDI ARABIA | Uber has turned to the Middle East in its quest to build a global empire. It raised $3.5 billion from Saudi Arabia\u2019s Public Investment Fund in one of the largest ever investments into a privately held start-up,Mike Isaac and Michael J. de la Merced report in The New York Times. This round of fund-raising continued to value the company at $62.5 billion. ",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Morning Agenda: Uber Receives $3.5 Billion from Saudi Arabia",
+                    "kicker": "News",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Banking and Financial Institutions",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Consumer Protection",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Credit and Debt",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Embargoes and Sanctions",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Initial Public Offerings",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Law and Legislation",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mergers, Acquisitions and Divestitures",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Payday Loans",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Regulation and Deregulation of Industry",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Start-ups",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Suits and Litigation (Civil)",
+                        "rank": 11,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Venture Capital",
+                        "rank": 12,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Cordray, Richard",
+                        "rank": 13,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Herzer, Manuela (1963- )",
+                        "rank": 14,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Holmes, Elizabeth (1984- )",
+                        "rank": 15,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Plouffe, David",
+                        "rank": 16,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Redstone, Keryn L (1982- )",
+                        "rank": 17,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Redstone, Shari",
+                        "rank": 18,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Redstone, Sumner M",
+                        "rank": 19,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Alibaba Group Holding Ltd",
+                        "rank": 20,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Consumer Financial Protection Bureau",
+                        "rank": 21,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "English Premier League",
+                        "rank": 22,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "European Central Bank",
+                        "rank": 23,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Federal Reserve Bank of New York",
+                        "rank": 24,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Gannett Company Inc",
+                        "rank": 25,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Infoblox Inc",
+                        "rank": 26,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "JPMorgan Chase & Company",
+                        "rank": 27,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Pew Charitable Trusts",
+                        "rank": 28,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 29,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Saudi Aramco",
+                        "rank": 30,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "SOFTBANK Corporation",
+                        "rank": 31,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Starboard Value LP",
+                        "rank": 32,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Takata Corp",
+                        "rank": 33,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Theranos Inc",
+                        "rank": 34,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Treasury Department",
+                        "rank": 35,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Uber Technologies Inc",
+                        "rank": 36,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Viacom Inc",
+                        "rank": 37,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "Middle East",
+                        "rank": 38,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "Silicon Valley (Calif)",
+                        "rank": 39,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-06-02T10:18:15+0000",
+                "document_type": "article",
+                "news_desk": "",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By Amie Tsang",
+                    "person": [
+                        {
+                            "firstname": "Amie",
+                            "middlename": null,
+                            "lastname": "Tsang",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/c1fffafd-6259-53e7-be8c-12ea3e6850ae",
+                "word_count": 2161,
+                "uri": "nyt://article/c1fffafd-6259-53e7-be8c-12ea3e6850ae"
+            },
+            {
+                "abstract": "The online software company hopes to stimulate growth by buying the e-commerce specialist.",
+                "web_url": "https://www.nytimes.com/2016/06/02/business/dealbook/salesforcecom-to-acquire-demandware-for-2-8-billion.html",
+                "snippet": "The online software company hopes to stimulate growth by buying the e-commerce specialist.",
+                "lead_paragraph": "Salesforce.com is fluffing up its cloud business, but at a high cost.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Salesforce.com to Acquire Demandware for $2.8 Billion",
+                    "kicker": "Breakingviews",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Benioff, Marc",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Cloud Computing",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mergers, Acquisitions and Divestitures",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-06-01T19:29:55+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": "By Robert Cyran",
+                    "person": [
+                        {
+                            "firstname": "Robert",
+                            "middlename": null,
+                            "lastname": "Cyran",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/d18f046d-a662-536f-9726-1551c8b6b18d",
+                "word_count": 365,
+                "uri": "nyt://article/d18f046d-a662-536f-9726-1551c8b6b18d"
+            }
+        ],
+        "meta": {
+            "hits": 3,
+            "offset": 0,
+            "time": 9
+        }
+    }
+}

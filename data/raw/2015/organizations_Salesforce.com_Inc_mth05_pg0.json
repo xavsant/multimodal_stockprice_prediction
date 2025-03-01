@@ -1,0 +1,87 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Buying the cloud-based customer-service software could make businesses less likely to ditch Office. It might, however, cost Microsoft some $60 billion.",
+                "web_url": "https://www.nytimes.com/2015/05/07/business/dealbook/would-salesforce-make-sense-for-microsoft.html",
+                "snippet": "Buying the cloud-based customer-service software could make businesses less likely to ditch Office. It might, however, cost Microsoft some $60 billion.",
+                "lead_paragraph": "Would Microsoft really want to own Salesforce.com?",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Would Salesforce Make Sense for Microsoft?",
+                    "kicker": "Breakingviews",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Cloud Computing",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Mergers, Acquisitions and Divestitures",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corporation",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Nadella, Satya",
+                        "rank": 5,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-05-06T16:41:39+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": "By Robert Cyran",
+                    "person": [
+                        {
+                            "firstname": "Robert",
+                            "middlename": null,
+                            "lastname": "Cyran",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/3ef29562-cc8e-5056-ab64-2371b46468f7",
+                "word_count": 377,
+                "uri": "nyt://article/3ef29562-cc8e-5056-ab64-2371b46468f7"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 8
+        }
+    }
+}

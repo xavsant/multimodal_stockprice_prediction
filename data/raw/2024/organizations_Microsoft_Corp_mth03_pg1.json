@@ -1,0 +1,190 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "\u201cBeing a C.E.O. sucks. Elon was right. It is like looking into the abyss and chewing glass.\u201d",
+                "web_url": "https://www.nytimes.com/2024/03/29/podcasts/ais-messy-moment-listeners-respond-to-jonathan-haidt-shrimp-jesus.html",
+                "snippet": "\u201cBeing a C.E.O. sucks. Elon was right. It is like looking into the abyss and chewing glass.\u201d",
+                "lead_paragraph": "This week, we look at a mess of corporate drama in artificial intelligence. Stability AI has announced that its founder and C.E.O., Emad Mostaque, is leaving the company. Meanwhile, Microsoft hired away two of the co-founders and much of the staff of Inflection, without actually acquiring the company itself. Both moves surprised tech insiders. Then, we talked with listeners who had something to say about our interview with Jonathan Haidt on smartphones, social media and young people. And finally, we examine the true motives behind \u201cShrimp Jesus\u201d and other hugely popular images on social media that were generated with artificial intelligence.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "A.I.\u2019s Messy Moment + Listeners Respond to Jonathan Haidt + Shrimp Jesus",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Science and Technology",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Mostaque, Emad",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Suleyman, Mustafa",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "DeepMind Technologies Ltd",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Google Inc",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corp",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Stability AI Ltd",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Inflection AI Inc",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 9,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2024-03-29T09:04:15+0000",
+                "document_type": "article",
+                "news_desk": "Podcasts",
+                "section_name": "Podcasts",
+                "byline": {
+                    "original": "By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Chris Wood, Dan Powell, Marion Lozano and Rowan Niemisto",
+                    "person": [
+                        {
+                            "firstname": "Kevin",
+                            "middlename": null,
+                            "lastname": "Roose",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        },
+                        {
+                            "firstname": "Casey",
+                            "middlename": null,
+                            "lastname": "Newton",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 2
+                        },
+                        {
+                            "firstname": "Davis",
+                            "middlename": null,
+                            "lastname": "Land",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 3
+                        },
+                        {
+                            "firstname": "Rachel",
+                            "middlename": null,
+                            "lastname": "Cohn",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 4
+                        },
+                        {
+                            "firstname": "Jen",
+                            "middlename": null,
+                            "lastname": "Poyant",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 5
+                        },
+                        {
+                            "firstname": "Chris",
+                            "middlename": null,
+                            "lastname": "Wood",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 6
+                        },
+                        {
+                            "firstname": "Dan",
+                            "middlename": null,
+                            "lastname": "Powell",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 7
+                        },
+                        {
+                            "firstname": "Marion",
+                            "middlename": null,
+                            "lastname": "Lozano",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 8
+                        },
+                        {
+                            "firstname": "Rowan",
+                            "middlename": null,
+                            "lastname": "Niemisto",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 9
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/f28f4162-d9ce-50b2-8ca7-c5b04352d753",
+                "word_count": 206,
+                "uri": "nyt://article/f28f4162-d9ce-50b2-8ca7-c5b04352d753"
+            }
+        ],
+        "meta": {
+            "hits": 11,
+            "offset": 10,
+            "time": 10
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "A troubling aspect of the exuberance for technology stocks is the degree to which companies promote financial results and measures that exclude the actual costs of doing business.",
+                "web_url": "https://www.nytimes.com/2015/06/21/business/high-tech-fantasy-accounting.html",
+                "snippet": "A troubling aspect of the exuberance for technology stocks is the degree to which companies promote financial results and measures that exclude the actual costs of doing business.",
+                "lead_paragraph": "Technology shares have been powering the stock market recently, outperforming the broader stock indexes by wide margins. The tech-heavy Nasdaq 100, for example, is up 19 percent over the last 12 months, almost twice as much as the Standard & Poor\u2019s 500-stock index, which has risen 10 percent.",
+                "print_section": "BU",
+                "print_page": "1",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Tech Companies Fly High on Fantasy Accounting",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Flying High on Fantasy Accounting",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Stocks and Bonds",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Accounting and Accountants",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Company Reports",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Shareholder Rights and Activism",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Computers and the Internet",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Executive Compensation",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Broadcom Corporation",
+                        "rank": 9,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2015-06-19T00:21:05+0000",
+                "document_type": "article",
+                "news_desk": "SundayBusiness",
+                "section_name": "Business Day",
+                "byline": {
+                    "original": "By Gretchen Morgenson",
+                    "person": [
+                        {
+                            "firstname": "Gretchen",
+                            "middlename": null,
+                            "lastname": "Morgenson",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/aff7d861-0cdd-5548-b413-ce28619f739f",
+                "word_count": 1054,
+                "uri": "nyt://article/aff7d861-0cdd-5548-b413-ce28619f739f"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 11
+        }
+    }
+}

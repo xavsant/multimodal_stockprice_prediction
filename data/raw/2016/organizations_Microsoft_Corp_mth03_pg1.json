@@ -1,0 +1,230 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "If you cannot upgrade to Windows 10 and you do not want to buy a new PC, you may still have alternatives.",
+                "web_url": "https://www.nytimes.com/2016/03/26/technology/personaltech/how-to-live-without-windows-10.html",
+                "snippet": "If you cannot upgrade to Windows 10 and you do not want to buy a new PC, you may still have alternatives.",
+                "lead_paragraph": "Q. My computer is not compatible with Windows 10. What will happen in the future? I do not want to get a new computer.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "How to Live Without Windows 10",
+                    "kicker": "Tech Tip",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Windows (Operating System)",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Linux (Operating System)",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corp",
+                        "rank": 3,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-03-25T12:52:21+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "subsection_name": "Personal Tech",
+                "byline": {
+                    "original": "By J. D. Biersdorfer",
+                    "person": [
+                        {
+                            "firstname": "J.",
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Question",
+                "_id": "nyt://article/a03e803b-6650-5a06-804e-7de87717410a",
+                "word_count": 463,
+                "uri": "nyt://article/a03e803b-6650-5a06-804e-7de87717410a"
+            },
+            {
+                "abstract": "The studios are Lionhead, which is based in Britain, and Press Play, which is based in Denmark.",
+                "web_url": "https://www.nytimes.com/2016/03/08/technology/personaltech/microsoft-to-close-2-game-development-studios.html",
+                "snippet": "The studios are Lionhead, which is based in Britain, and Press Play, which is based in Denmark.",
+                "lead_paragraph": "SEATTLE \u2014 Microsoft said it planned to shut down two of its game development studios based in Europe, including the maker of the Fable fantasy series.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Microsoft to Close 2 Game Development Studios",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corp",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Computer and Video Games",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Xbox One (Video Game System)",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Shutdowns (Institutional)",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Lionhead Studios",
+                        "rank": 5,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-03-07T20:36:55+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "subsection_name": "Personal Tech",
+                "byline": {
+                    "original": "By Nick Wingfield",
+                    "person": [
+                        {
+                            "firstname": "Nick",
+                            "middlename": null,
+                            "lastname": "Wingfield",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/a1307b55-7c4e-5c81-8522-4c1f93ee7564",
+                "word_count": 339,
+                "uri": "nyt://article/a1307b55-7c4e-5c81-8522-4c1f93ee7564"
+            },
+            {
+                "abstract": "For the first time, Microsoft is enabling SQL Server, its software for managing business data, to run on a competing operating system.",
+                "web_url": "https://www.nytimes.com/2016/03/08/technology/microsoft-opens-its-corporate-data-software-to-linux.html",
+                "snippet": "For the first time, Microsoft is enabling SQL Server, its software for managing business data, to run on a competing operating system.",
+                "lead_paragraph": "SAN FRANCISCO \u2014 For years, Microsoft built walls between its products and the rest of the industry. Now it is tearing them down.",
+                "print_section": "B",
+                "print_page": "2",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Microsoft Opens Its Corporate Data Software to Linux",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Microsoft Opens Software to Linux",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "Microsoft Corp",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Linux (Operating System)",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Software",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Windows (Operating System)",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Nadella, Satya",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Cloud Computing",
+                        "rank": 7,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-03-07T20:35:53+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Technology",
+                "byline": {
+                    "original": "By Quentin Hardy",
+                    "person": [
+                        {
+                            "firstname": "Quentin",
+                            "middlename": null,
+                            "lastname": "Hardy",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/b60fb1af-4579-5465-ba71-8f9660a1d8d1",
+                "word_count": 712,
+                "uri": "nyt://article/b60fb1af-4579-5465-ba71-8f9660a1d8d1"
+            }
+        ],
+        "meta": {
+            "hits": 13,
+            "offset": 10,
+            "time": 12
+        }
+    }
+}

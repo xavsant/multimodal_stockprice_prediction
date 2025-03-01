@@ -3,6 +3,7 @@
 notebooks/.DS_Store
 .DS_Store
 data/raw/archived
+notebooks/experiments/archived/
 
 # Config
 .env

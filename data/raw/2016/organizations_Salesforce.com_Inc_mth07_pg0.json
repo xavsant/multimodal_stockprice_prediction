@@ -1,0 +1,87 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "The purchase of NetSuite by Oracle makes strategic sense, but Lawrence J. Ellison appears to benefit from a side investment at Oracle\u2019s expense.",
+                "web_url": "https://www.nytimes.com/2016/07/29/business/dealbook/once-again-an-oracle-deal-benefits-ellison.html",
+                "snippet": "The purchase of NetSuite by Oracle makes strategic sense, but Lawrence J. Ellison appears to benefit from a side investment at Oracle\u2019s expense.",
+                "lead_paragraph": "Lawrence J. Ellison is cashing in again.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Once Again, an Oracle Deal Benefits Ellison",
+                    "kicker": "Breakingviews",
+                    "content_kicker": null,
+                    "print_headline": "Once Again, an Oracle Deal Benefits Ellison",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Computers and the Internet",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Oracle Corporation",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Salesforce.com Inc",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Ellison, Lawrence J",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "NetSuite Inc",
+                        "rank": 5,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2016-07-28T19:02:52+0000",
+                "document_type": "article",
+                "news_desk": "Business",
+                "section_name": "Business Day",
+                "subsection_name": "DealBook",
+                "byline": {
+                    "original": "By Robert Cyran",
+                    "person": [
+                        {
+                            "firstname": "Robert",
+                            "middlename": null,
+                            "lastname": "Cyran",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/5be21891-a90c-53c8-8927-aa92dedaa685",
+                "word_count": 391,
+                "uri": "nyt://article/5be21891-a90c-53c8-8927-aa92dedaa685"
+            }
+        ],
+        "meta": {
+            "hits": 1,
+            "offset": 0,
+            "time": 7
+        }
+    }
+}

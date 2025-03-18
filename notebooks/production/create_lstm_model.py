@@ -130,14 +130,20 @@ def get_validation_plot(test, inv_y, inv_yhat):
 if __name__ == '__main__':
     # Initialise variables
     load_dotenv('.lstm.env')
+
+    # Data
     lag_steps = int(getenv('lag_steps'))
     num_features = int(getenv('num_features'))
+
+    # Training
     train_pct = float(getenv('train_pct'))
     epochs = int(getenv('epochs'))
     batch_size = int(getenv('batch_size'))
-    stock_data_filepath = getenv('stock_data_filepath')
+
+    # Misc
     model_name = getenv('model_name')
     target_stock = getenv('target_stock')
+    stock_data_filepath = getenv('stock_data_filepath') + '_' + target_stock + '.csv'
     retrain_model = bool(int(getenv('retrain_model')))
 
     # Preprocessing

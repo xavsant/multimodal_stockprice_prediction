@@ -12,6 +12,8 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 from keras.models import Sequential
 from keras.layers import Dense, LSTM
 
+from save_errors import model_errors
+
 
 def train_test_split(df, train_pct):
     split = int(df.shape[0]*train_pct)
@@ -42,7 +44,7 @@ def reshape_X(X_train, X_test, lag_steps):
 
     return X_train_reshaped, X_test_reshaped
 
-def create_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, retrain_model):
+def create_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, train_model):
     '''Trains LSTM model and gets prediction for test data'''
     # Initialise variables
     history = ''
@@ -55,7 +57,7 @@ def create_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, 
     model.add(Dense(1))
     model.compile(loss='mae', optimizer='adam')
 
-    if retrain_model:
+    if train_model:
         # Model fitting
         history = model.fit(X_train_reshaped, y_train, epochs=epochs, batch_size=batch_size, verbose=2, shuffle=False)
 
@@ -89,13 +91,17 @@ def transform_yhat(X_test_reshaped, y_test, yhat, scaler, num_features, lag_step
 
     return inv_y, inv_yhat
 
-def get_results(inv_y, inv_yhat):
+def get_results(inv_y, inv_yhat, model_name):
     # Get Test Errors
     mae = np.sqrt(mean_absolute_error(inv_y, inv_yhat))
     print('LSTM Test MAE: %.3f' % mae)
 
     mse = mean_squared_error(inv_y, inv_yhat)
     print('LSTM Test MSE: %.3f' % mse)
+
+    # Export Test Errors
+    model_errors_instance = model_errors()
+    model_errors_instance.update(model_name, mae, mse)
 
 def get_training_plot(history):
     # Plot training progression
@@ -144,7 +150,7 @@ if __name__ == '__main__':
     model_name = getenv('model_name')
     target_stock = getenv('target_stock')
     stock_data_filepath = getenv('stock_data_filepath') + '_' + target_stock + '.csv'
-    retrain_model = bool(int(getenv('retrain_model')))
+    train_model = bool(int(getenv('train_model')))
 
     # Preprocessing
     df = read_csv(stock_data_filepath, index_col='Date')
@@ -154,11 +160,11 @@ if __name__ == '__main__':
     X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, lag_steps)
 
     # Modelling
-    history, yhat = create_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, retrain_model)
+    history, yhat = create_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, train_model)
     inv_y, inv_yhat = transform_yhat(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps)
 
     # Results
-    get_results(inv_y, inv_yhat)
-    if retrain_model:
+    get_results(inv_y, inv_yhat, model_name)
+    if train_model:
         get_training_plot(history) 
     get_validation_plot(test, inv_y, inv_yhat)

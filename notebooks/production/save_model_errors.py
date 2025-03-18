@@ -2,8 +2,8 @@
 from pandas import read_csv, DataFrame
 
 class model_errors:
-    def __init__(self):
-        self.filepath = '../../data/results/model_errors.csv'
+    def __init__(self, target_stock):
+        self.filepath = f'../../data/results/model_errors_{target_stock}.csv'
     
     def initialise(self):
         dummy_data = {'model': [], 'mae': [], 'mse': []}
@@ -33,7 +33,7 @@ class model_errors:
 
 if __name__ == '__main__':
     # For experimentation, be careful as it will replace the existing file
-    model_errors = model_errors()
+    model_errors = model_errors('AAPL')
 
     # Initialise .csv for the first time
     # model_errors.initialise()

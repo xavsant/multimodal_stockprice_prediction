@@ -1,7 +1,5 @@
-# NYTimes News Data
+# Imports
 import requests
-
-# Utility
 from os import path, getenv
 from dotenv import load_dotenv
 import json

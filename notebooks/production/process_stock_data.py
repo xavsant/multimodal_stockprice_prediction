@@ -24,9 +24,11 @@ def time_series_to_lstm(df, target_variable, lag_steps=1, dropna=True, fill='ffi
     
     # Create Lag Steps
     for i in range(lag_steps, 0, -1):
-        cols.append(df.shift(i))
-        feature_names += [f"{col}(t-{i})" for col in df.columns]
-    
+        shifted_df = df.shift(i).copy()
+        shifted_df.columns = [f"{col}(t-{i})" for col in df.columns]
+        cols.append(shifted_df)
+        feature_names.extend(shifted_df.columns)
+
     # Current time step (t) for target variable
     cols.append(df[[target_variable]])
     feature_names += [f"{target_variable}(t)"]
@@ -39,9 +41,12 @@ def time_series_to_lstm(df, target_variable, lag_steps=1, dropna=True, fill='ffi
     if dropna:
         df_transformed.dropna(inplace=True)
     else:
-        if not None:
-            df_transformed.fillna(method=fill, inplace=True)
-    
+        if fill is not None:
+            if fill in ['ffill', 'bfill']:
+                df_transformed.fillna(method=fill, inplace=True)
+            elif fill in ['mean', 'median']:
+                df_transformed.fillna(getattr(df_transformed, fill)(), inplace=True)
+
     return df_transformed
 
 if __name__ == '__main__':
@@ -51,13 +56,13 @@ if __name__ == '__main__':
     selected_stocks = [target_stock]
     lag_steps = 1
 
-    df = read_csv('../../data/raw/djia_stock_data.csv', header=[0,1],index_col=0)
+    df = read_csv('../../data/raw/djia_stock_data.csv', header=[0,1], index_col=0)
     df.dropna(inplace=True)
     print('Original Shape:', df.shape)
 
     # Isolate Adj Close and target stock
     df_adjclose = df['Adj Close']
-    df_adjclose_target = df_adjclose[selected_stocks]
+    df_adjclose_target = df_adjclose[selected_stocks].copy()
     df_adjclose_target.index = to_datetime(df_adjclose_target.index)
 
     df_transformed = time_series_to_lstm(df_adjclose_target, target_stock, lag_steps)

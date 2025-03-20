@@ -1,3 +1,5 @@
+# TODO: Account for weekend articles that are removed when reindexing on stock price data
+
 # Imports
 from pandas import read_csv
 from dotenv import load_dotenv

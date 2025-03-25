@@ -3,8 +3,7 @@
 notebooks/.DS_Store
 .DS_Store
 data/raw/archived
-notebooks/production/__pycache__/
-
+*.txt
 # Config
 .env
 .venv

@@ -3,7 +3,8 @@
 notebooks/.DS_Store
 .DS_Store
 data/raw/archived
-
+data/benchmark data/5/FinancialPhraseBank
 # Config
 .env
 .venv
+*.txt

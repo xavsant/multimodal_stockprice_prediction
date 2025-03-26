@@ -9,7 +9,7 @@ from keras.callbacks import EarlyStopping
 
 from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, get_results, get_training_plot, get_validation_plot
 
-def create_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_train, sentiment_test, epochs, batch_size, train_model):
+def create_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_train, sentiment_test, epochs, batch_size, train_model, target_stock, model_name):
     '''Trains Concat model and gets prediction for test data'''
     # Initialise variables
     history = ''
@@ -98,7 +98,7 @@ if __name__ == '__main__':
 
     # Modelling
     history, yhat = create_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_train, 
-                                        sentiment_test, epochs, batch_size, train_model)
+                                        sentiment_test, epochs, batch_size, train_model, target_stock, detailed_model_name)
     inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps)
 
     # Results

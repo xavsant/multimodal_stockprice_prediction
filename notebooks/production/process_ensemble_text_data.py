@@ -82,9 +82,9 @@ def custom_round(series):
 if __name__ == '__main__':
     load_dotenv('.concat.env')
     target_stock = getenv('target_stock')
-    stock_data_filepath = getenv('stock_data_filepath') + '_' + target_stock + '.csv'
+    stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'
     text_type = getenv('text_type')
-    sentiment_input_filepath = '../../data/clean/sentiment_analysis_results/sentiment_analysis_' + text_type + '_' + target_stock + '.csv'
+    sentiment_input_filepath = '../../data/clean/sentiment_analysis_results/finetuned_sentiment_analysis_' + text_type + '_' + target_stock + '.csv'
     sentiment_output_filepath = getenv('sentiment_analysis_filepath') + text_type + '_' + target_stock + '.csv'
     
     lstm_df = read_csv(stock_data_filepath, index_col='Date')

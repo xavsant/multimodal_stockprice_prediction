@@ -32,12 +32,12 @@ def aggregate_by_pub_date(sent_df):
     return aggregated_sent_df
 
 # Function to adjust dates based on available working days
-def shift_to_next_working_day(aggregated_sent_df, lstm_df):
+def shift_to_next_working_day(aggregated_sent_df, price_df):
     aggregated_sent_df = aggregated_sent_df.copy()
-    aggregated_sent_df.index = to_datetime(aggregated_sent_df.index)
-    lstm_df.index = to_datetime(lstm_df.index)
+    aggregated_sent_df.index = to_datetime(aggregated_sent_df.index) # Ensure correct datatype
+    price_df.index = to_datetime(price_df.index)
 
-    valid_dates = set(lstm_df.index)
+    valid_dates = set(price_df.index)
     adjusted_dates = []
 
     for date in aggregated_sent_df.index:
@@ -83,11 +83,12 @@ if __name__ == '__main__':
     load_dotenv('.concat.env')
     target_stock = getenv('target_stock')
     stock_data_filepath = getenv('stock_data_filepath') + '_' + target_stock + '.csv'
-    sentiment_analysis_filepath = getenv('sentiment_analysis_filepath') + '_' + target_stock + '.csv'
-    input_filepath = '../../data/clean/sentiment_analysis/sentiment_analysis_headlines_AAPL.csv'
-
+    text_type = getenv('text_type')
+    sentiment_input_filepath = '../../data/clean/sentiment_analysis_results/sentiment_analysis_' + text_type + '_' + target_stock + '.csv'
+    sentiment_output_filepath = getenv('sentiment_analysis_filepath') + text_type + '_' + target_stock + '.csv'
+    
     lstm_df = read_csv(stock_data_filepath, index_col='Date')
-    sentiment_df = read_csv(input_filepath)
+    sentiment_df = read_csv(sentiment_input_filepath)
     sentiment_df.drop('ticker', axis=1, inplace=True)
 
     # Aggregate first, then adjust dates
@@ -99,4 +100,4 @@ if __name__ == '__main__':
     aggregate_sentiment_df_reindex['aggregated_sentiment'] = aggregate_sentiment_df_reindex['aggregated_sentiment'].fillna(0).astype(int)
 
     
-    aggregate_sentiment_df_reindex.to_csv(sentiment_analysis_filepath)
+    aggregate_sentiment_df_reindex.to_csv(sentiment_output_filepath)

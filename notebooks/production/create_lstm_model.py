@@ -56,7 +56,7 @@ if __name__ == '__main__':
     # Misc
     model_name = getenv('model_name')
     target_stock = getenv('target_stock')
-    stock_data_filepath = getenv('stock_data_filepath') + '_' + target_stock + '.csv'
+    stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'
     train_model = bool(int(getenv('train_model')))
 
     # Preprocessing

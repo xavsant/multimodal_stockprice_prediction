@@ -72,11 +72,17 @@ if __name__ == '__main__':
     epochs = int(getenv('epochs'))
     batch_size = int(getenv('batch_size'))
 
-    # Misc
+    # Name Variables
     model_name = getenv('model_name')
     target_stock = getenv('target_stock')
-    stock_data_filepath = getenv('stock_data_filepath') + '_' + target_stock + '.csv'
-    sentiment_analysis_filepath = getenv('sentiment_analysis_filepath') + '_' + target_stock + '.csv'
+    text_type = getenv('text_type')
+    detailed_model_name = model_name + '_' + text_type
+
+    # Filepaths
+    stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'
+    sentiment_analysis_filepath = getenv('sentiment_analysis_filepath') + text_type + '_' + target_stock + '.csv'
+
+    # Train model?
     train_model = bool(int(getenv('train_model')))
 
     # Preprocessing Stock Price Data
@@ -96,7 +102,7 @@ if __name__ == '__main__':
     inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps)
 
     # Results
-    get_results(inv_y, inv_yhat, target_stock, model_name)
+    get_results(inv_y, inv_yhat, target_stock, detailed_model_name)
     if train_model:
-        get_training_plot(history, target_stock, model_name) 
-    get_validation_plot(test, inv_y, inv_yhat, target_stock, model_name)
+        get_training_plot(history, target_stock, detailed_model_name) 
+    get_validation_plot(test, inv_y, inv_yhat, target_stock, detailed_model_name)

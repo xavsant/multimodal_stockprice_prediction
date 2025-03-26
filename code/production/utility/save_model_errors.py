@@ -3,7 +3,7 @@ from pandas import read_csv, DataFrame
 
 class model_errors:
     def __init__(self, target_stock):
-        self.filepath = f'../../data/model_results/model_errors_{target_stock}.csv'
+        self.filepath = f'../../../data/model_results/model_errors_{target_stock}.csv'
     
     def initialise(self):
         dummy_data = {'model': [], 'mae': [], 'mse': []}

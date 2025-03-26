@@ -1,19 +1,21 @@
 # Imports
 from pandas import read_csv
 from dotenv import load_dotenv
-from os import getenv
+from os import getenv, path
+import sys
 
 from keras.models import Sequential
 from keras.layers import Dense, LSTM
 from keras.callbacks import EarlyStopping
 
+sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
 from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, get_results, get_training_plot, get_validation_plot
 
 def create_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model):
     '''Trains LSTM model and gets prediction for test data'''
     # Initialise variables
     history = ''
-    path = '../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
+    path = '../../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
 
     # Create LSTM model
     model = Sequential()

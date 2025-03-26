@@ -73,7 +73,7 @@ def get_training_plot(history, target_stock, model_name):
     plt.title(f'Training Loss for {model_name} for {target_stock} Stock Price')
     plt.xlabel('Epochs')
     plt.ylabel('Loss')
-    plt.savefig('../../plots/final/history_' + model_name + '_' + target_stock)
+    plt.savefig('../../../plots/final/history_' + model_name + '_' + target_stock)
 
 def get_validation_plot(test, inv_y, inv_yhat, target_stock, model_name):
     # Convert index to datetime
@@ -94,4 +94,4 @@ def get_validation_plot(test, inv_y, inv_yhat, target_stock, model_name):
     plt.xticks(rotation=45)
     plt.ylabel('Price')
     plt.legend()
-    plt.savefig('../../plots/final/validation_' + model_name + '_' + target_stock)
+    plt.savefig('../../../plots/final/validation_' + model_name + '_' + target_stock)

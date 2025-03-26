@@ -52,7 +52,7 @@ def to_json(text_dict, path):
 
 
 if __name__ == '__main__':
-    load_dotenv('.llm.env')
+    load_dotenv('../modelling/.llm.env')
     text_type = getenv('text_type')
     target_stock = getenv('target_stock')
     stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'

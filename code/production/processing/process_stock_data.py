@@ -55,8 +55,9 @@ if __name__ == '__main__':
     target_stock = 'AAPL'
     selected_stocks = [target_stock]
     lag_steps = 1
+    output_filepath = '../../../data/clean/baseline_transformed_dataset_' + target_stock + '.csv'
 
-    df = read_csv('../../data/raw/djia_stock_data.csv', header=[0,1], index_col=0)
+    df = read_csv('../../../data/raw/djia_stock_data.csv', header=[0,1], index_col=0)
     df.dropna(inplace=True)
     print('Original Shape:', df.shape)
 
@@ -69,4 +70,4 @@ if __name__ == '__main__':
     print('Transformed Shape:', df_transformed.shape)
 
     # Export transformed dataset
-    df_transformed.to_csv('../../data/clean/baseline_transformed_dataset_AAPL.csv')
+    df_transformed.to_csv(output_filepath)

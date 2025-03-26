@@ -1,11 +1,9 @@
 # Imports
-
 import pandas as pd
 import json
 import os
 from pathlib import Path
 import numpy as np
-
 
 class process_text_data:
     '''
@@ -146,8 +144,8 @@ if __name__ == '__main__':
     # Hardcoded base input_path + list of companies + columns to retrieve
 
     # Paths relative to the project folder directory
-    input_path = Path('../../data/raw')  # where the folders of text data for each year are (e.g. 2015, 2016...)
-    output_path = Path('../../data/clean/text')  # where the cleaned text data should go
+    input_path = Path('../../../data/raw')  # where the folders of text data for each year are (e.g. 2015, 2016...)
+    output_path = Path('../../../data/clean/stock_text_data')  # where the cleaned text data should go
 
     print(input_path.resolve())
     print(output_path.resolve())

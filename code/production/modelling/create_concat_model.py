@@ -1,20 +1,22 @@
 # Imports
 from pandas import read_csv
 from dotenv import load_dotenv
-from os import getenv
+from os import getenv, path
+import sys
 
 from keras.models import Model
 from keras.layers import Dense, LSTM, Input, Concatenate
 from keras.callbacks import EarlyStopping
 
+sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
 from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, get_results, get_training_plot, get_validation_plot
 
 def create_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_train, sentiment_test, epochs, batch_size, train_model, target_stock, model_name):
     '''Trains Concat model and gets prediction for test data'''
     # Initialise variables
     history = ''
-    lstm_path = f'../../data/weights/baseline_lstm_{target_stock}.weights.h5'
-    concat_path = '../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
+    lstm_path = f'../../../data/weights/baseline_lstm_{target_stock}.weights.h5'
+    concat_path = '../../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
 
     # Create LSTM modality
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")

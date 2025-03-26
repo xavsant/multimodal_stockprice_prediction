@@ -13,7 +13,7 @@ def create_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, 
     '''Trains LSTM model and gets prediction for test data'''
     # Initialise variables
     history = ''
-    path = '../weights/' + model_name + '_' + target_stock + '.weights.h5'
+    path = '../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
 
     # Create LSTM model
     model = Sequential()

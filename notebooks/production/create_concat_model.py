@@ -13,8 +13,8 @@ def create_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_tr
     '''Trains Concat model and gets prediction for test data'''
     # Initialise variables
     history = ''
-    lstm_path = f'../weights/baseline_lstm_{target_stock}.weights.h5'
-    concat_path = '../weights/' + model_name + '_' + target_stock + '.weights.h5'
+    lstm_path = f'../../data/weights/baseline_lstm_{target_stock}.weights.h5'
+    concat_path = '../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
 
     # Create LSTM modality
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")

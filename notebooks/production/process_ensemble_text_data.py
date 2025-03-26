@@ -71,7 +71,11 @@ def custom_round(series):
     return where(
         series >= 0.5,
         ceil(series),  
-        floor(series)
+        where(
+            series <= -0.5,
+            floor(series),
+            0 # Otherwise, round to 0
+        )
     ).astype(int)
 
 

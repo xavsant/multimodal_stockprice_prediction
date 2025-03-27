@@ -9,14 +9,10 @@ from keras.layers import Dense, LSTM, Input, Concatenate
 from keras.callbacks import EarlyStopping
 
 sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
-from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, get_results, get_training_plot, get_validation_plot
+from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, iterator_results, iterator_average_results, update_best_results, get_training_plot, get_validation_plot
 
-def create_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_train, sentiment_test, epochs, batch_size, train_model, target_stock, model_name):
-    '''Trains Concat model and gets prediction for test data'''
-    # Initialise variables
-    history = ''
+def create_concat_model(X_train_reshaped, sentiment_train, target_stock):
     lstm_path = f'../../../data/weights/baseline_lstm_{target_stock}.weights.h5'
-    concat_path = '../../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
 
     # Create LSTM modality
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
@@ -44,21 +40,61 @@ def create_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_tr
     model = Model(inputs=[lstm_input, sentiment_input], outputs=output)
     model.compile(optimizer='adam', loss='mean_squared_error')
 
+    return model
+
+def train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_train, sentiment_test, epochs, batch_size, train_model, target_stock, model_name, iterations):
+    # Initialise variables
+    history = ''
+    mae = float('inf')
+    mse = float('inf')
+    best_index = 0
+    best_mse = float('inf')
+    concat_path = '../../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
+    model_dict = {'model':[], 'history':[], 'mae': [], 'mse': []}
+    
     if train_model:
-        callback = EarlyStopping(monitor='loss', mode='min', patience=5, min_delta=1e-4, restore_best_weights=True)
-        history = model.fit([X_train, sentiment_train], y_train, epochs=epochs, batch_size=batch_size, verbose=2, shuffle=False, callbacks=[callback])
-        
-        # Save weights
-        model.save_weights(concat_path)
+        for i in range(iterations):
+            print(f'Model Training Iteration {str(i)}')
+            # Create model
+            model = create_concat_model(X_train_reshaped, sentiment_train, target_stock)
+
+            # Model fitting
+            callback = EarlyStopping(monitor='loss', mode='min', patience=5, min_delta=1e-4, restore_best_weights=True)
+            history = model.fit([X_train, sentiment_train], y_train, epochs=epochs, batch_size=batch_size, verbose=2, shuffle=False, callbacks=[callback])
+            
+            # Get predicted values
+            yhat = model.predict([X_test_reshaped, sentiment_test])
+            inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps)
+            mae, mse = iterator_results(inv_y, inv_yhat, target_stock, model_name, iteration=i)
+
+            if mse < best_mse:
+                best_index = i
+                best_mse = mse
+
+            # Add to dictionary
+            model_dict['model'].append(model)
+            model_dict['history'].append(history)
+            model_dict['mae'].append(mae)
+            model_dict['mse'].append(mse)
+
+        best_model = model_dict['model'][best_index]
+        history = model_dict['history'][best_index]
+        mae = model_dict['mae'][best_index]
+        mse = model_dict['mse'][best_index]
+        iterator_average_results(model_dict['mae'], model_dict['mse'], target_stock, model_name)
+
+        # Export key outputs
+        best_model.save_weights(concat_path)
+        update_best_results(mae, mse, target_stock, model_name)
+        get_training_plot(history, target_stock, model_name) 
+        get_validation_plot(test, inv_y, inv_yhat, target_stock, model_name)
 
     else:
         # Load weights
-        model.load_weights(concat_path)
+        # model.load_weights(path)
+        print("Variable 'train_model' set to 0, to re-train, set to 1 in .concat.env")
 
-    # Get predicted values
-    yhat = model.predict([X_test_reshaped, sentiment_test])
-
-    return history, yhat
+    return history, mae, mse
 
 
 if __name__ == '__main__':
@@ -73,6 +109,7 @@ if __name__ == '__main__':
     train_pct = float(getenv('train_pct'))
     epochs = int(getenv('epochs'))
     batch_size = int(getenv('batch_size'))
+    iterations = int(getenv('iterations'))
 
     # Name Variables
     model_name = getenv('model_name')
@@ -99,12 +136,5 @@ if __name__ == '__main__':
     sentiment_train, sentiment_test = train_test_split(sentiment_df, train_pct)
 
     # Modelling
-    history, yhat = create_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_train, 
-                                        sentiment_test, epochs, batch_size, train_model, target_stock, detailed_model_name)
-    inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps)
-
-    # Results
-    get_results(inv_y, inv_yhat, target_stock, detailed_model_name)
-    if train_model:
-        get_training_plot(history, target_stock, detailed_model_name) 
-    get_validation_plot(test, inv_y, inv_yhat, target_stock, detailed_model_name)
+    train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, sentiment_train, sentiment_test, epochs, 
+                            batch_size, train_model, target_stock, detailed_model_name, iterations)

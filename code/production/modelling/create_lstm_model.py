@@ -11,7 +11,7 @@ from keras.callbacks import EarlyStopping
 sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
 from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, iterator_results, iterator_average_results, update_best_results, get_training_plot, get_validation_plot
 
-def create_lstm(X_train_reshaped):
+def create_lstm_model(X_train_reshaped):
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
     lstm_hidden = LSTM(100, name="lstm_layer")(lstm_input)
     output = Dense(1, name="output_layer")(lstm_hidden)
@@ -20,21 +20,21 @@ def create_lstm(X_train_reshaped):
 
     return model
 
-def train_test_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations):
+def train_test_lstm_model(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations):
     # Initialise variables
     history = ''
     mae = float('inf')
     mse = float('inf')
-    path = '../../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
     best_index = 0
     best_mse = float('inf')
+    path = '../../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
     model_dict = {'model':[], 'history':[], 'mae': [], 'mse': []}
 
     if train_model:
         for i in range(iterations):
             print(f'Model Training Iteration {str(i)}')
             # Create model
-            model = create_lstm(X_train_reshaped)
+            model = create_lstm_model(X_train_reshaped)
 
             # Model fitting
             callback = EarlyStopping(monitor='loss', mode='min', patience=5, min_delta=1e-4, restore_best_weights=True)
@@ -103,7 +103,7 @@ if __name__ == '__main__':
     X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, lag_steps)
 
     # Modelling
-    train_test_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations)
+    train_test_lstm_model(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations)
 
     
 

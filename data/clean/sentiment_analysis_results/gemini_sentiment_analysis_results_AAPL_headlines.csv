@@ -32,7 +32,7 @@ pub_date,headline,gemini_sentiment
 2015-12-09,choosing an ipad pro keyboard,neutral
 2015-12-18,apple pay is set to arrive in china,positive
 2015-12-30,apple settles tax dispute with italian authorities,neutral
-2015-12-09,apple names periscope the top iphone app of 2015,positive
+2015-12-09,apple names periscope the top iphone app of 2015,neutral
 2015-12-30,daily report twitter hires a new executive in charge of diversity,neutral
 2015-12-29,breaking up with apple music,negative
 2015-12-11,a protest app rises to the top in taiwan,neutral
@@ -41,8 +41,8 @@ pub_date,headline,gemini_sentiment
 2015-12-17,apple makes shifts in senior management,neutral
 2015-01-30,apples neardeath experience saved it,neutral
 2015-01-14,use the iphones ios 8 like a pro,neutral
-2015-04-25,apple wont always rule just look at ibm,negative
-2015-04-27,apple earnings automaker results and new products from tesla,positive
+2015-04-25,apple wont always rule just look at ibm,neutral
+2015-04-27,apple earnings automaker results and new products from tesla,neutral
 2015-04-22,working with old office files on a new mac os,neutral
 2015-04-22,the apple watch arrives in stores just not its own,neutral
 2015-04-08,hbo now makes game of thrones easier to see if not follow,neutral
@@ -53,11 +53,11 @@ pub_date,headline,gemini_sentiment
 2015-04-17,carine roitfeld uniqlo nyfws new homes and ryan gothling,neutral
 2015-05-29,downloading mac app updated automatically,neutral
 2015-05-12,working together in antarctica,neutral
-2015-05-24,amazon to stop funneling european sales through lowtax haven,positive
+2015-05-24,amazon to stop funneling european sales through lowtax haven,negative
 2015-05-22,forwarding text messages on the iphone,neutral
 2015-05-27,daily report after conquering the world androids course is uncertain,neutral
 2015-05-14,is your child your excuse to buy an apple watch,neutral
-2015-05-05,snapping the windows screen,neutral
+2015-05-05,snapping the windows screen,negative
 2015-05-27,google and apple adjust strategies on mobile payments,neutral
 2015-05-19,steve jobs a cottage industry of movies and books,neutral
 2015-05-05,the apple watch more than just a bracelet,neutral
@@ -80,7 +80,7 @@ pub_date,headline,gemini_sentiment
 2015-09-10,an apple kind of week,neutral
 2015-09-06,steve jobs receives warm reception at telluride film festival,neutral
 2015-09-22,iphone 6ss handsfree siri is an omen of the future,neutral
-2015-09-22,apple presses ahead with efforts to create car though big issues remain,negative
+2015-09-22,apple presses ahead with efforts to create car though big issues remain,neutral
 2015-08-11,when phone encryption blocks justice,negative
 2015-08-06,apple music attracts 11 million users in trial period executive says,positive
 2015-08-28,protecting your mac from malware and viruses,neutral
@@ -103,7 +103,7 @@ pub_date,headline,gemini_sentiment
 2015-03-11,device syncing call from computers and text from tablets,neutral
 2015-02-13,apple backslides on workhour limits,negative
 2015-02-28,apples new job selling a smartwatch to an uninterested public,negative
-2015-02-18,samsung buys looppay a competitor to apples mobile wallet,neutral
+2015-02-18,samsung buys looppay a competitor to apples mobile wallet,positive
 2015-02-06,new data shows apples explosive growth in china,positive
 2015-02-27,choosing between amazons tv streaming hardware,neutral
 2015-02-24,filing away gmail messages,neutral
@@ -154,7 +154,7 @@ pub_date,headline,gemini_sentiment
 2015-09-08,daily report its all apple all week,neutral
 2015-09-09,morning agenda yahoo rethinks alibaba spinoff,neutral
 2015-09-02,rand paul campaign makes pixelated pitch through an app,neutral
-2015-09-06,apple unveils new products and stephen colbert returns to late night,positive
+2015-09-06,apple unveils new products and stephen colbert returns to late night,neutral
 2015-08-28,ian rogers apple music executive is leaving company,neutral
 2015-08-07,digging for trashed pictures in macs photos app,neutral
 2015-08-16,new dr dre album serves as a test for apple music,neutral
@@ -170,7 +170,7 @@ pub_date,headline,gemini_sentiment
 2015-06-03,apple recalls beats pill xl speakers,negative
 2015-06-04,turning the watch strap into a statement,neutral
 2015-06-26,earth as art from near inside a stone and far the space station,neutral
-2015-06-10,what apples tim cook overlooked in his defense of privacy,neutral
+2015-06-10,what apples tim cook overlooked in his defense of privacy,negative
 2015-06-30,ruling that apple led ebook pricing conspiracy isupheld,negative
 2015-06-08,highlights from apples developers conference,neutral
 2015-06-08,digital vintage,neutral
@@ -226,7 +226,7 @@ pub_date,headline,gemini_sentiment
 2015-03-09,hbos streaming service will start in april initially on apple devices only,neutral
 2015-03-02,daily report the apple watch is nearly ready but is the public,neutral
 2015-03-06,in boon to its stock apple will replace att in dow index,positive
-2015-03-10,apple watch displays your digital world at a glance,positive
+2015-03-10,apple watch displays your digital world at a glance,neutral
 2015-03-06,troubleshooting android in safe mode,neutral
 2015-03-18,suddenly plenty of options for cord cutters,positive
 2015-03-09,pictures of the day egypt and elsewhere,neutral
@@ -242,13 +242,13 @@ pub_date,headline,gemini_sentiment
 2015-10-10,apple is said to deactivate its news app in china,negative
 2015-10-27,daily report apple twitter next up for tech earnings,neutral
 2015-11-12,apple plans peertopeer payment service,neutral
-2015-11-17,morning agenda the economic cost of terrorism,neutral
+2015-11-17,morning agenda the economic cost of terrorism,negative
 2015-11-10,volkswagen hires expert in selfdriving cars from apple,positive
 2015-11-11,facebooks notify app funnels custom updates onto phone screens,neutral
 2015-11-13,moving an itunes library with an external hard drive,neutral
 2015-11-12,morning agenda square sticks to its script,neutral
 2015-11-09,with a mobile website like an app flipkart takes a swipe at apple,neutral
-2015-11-11,video feature playing to the strengths of the new apple tv,positive
+2015-11-11,video feature playing to the strengths of the new apple tv,neutral
 2015-11-19,backing up icloud contacts,neutral
 2015-11-12,apple apologizes to black students ejected from store in australia,negative
 2015-07-07,music publishing deal driven by shift from sales to streaming,neutral
@@ -265,7 +265,7 @@ pub_date,headline,gemini_sentiment
 2015-06-08,square unveils mobile walletfriendly credit card reader,positive
 2015-06-16,in return to twitter jack dorsey aims to follow path of steve jobs,neutral
 2015-06-11,affairs of the wrist the apple watch comes between them,neutral
-2015-06-21,taylor swift criticism spurs apple to change royalties policy,neutral
+2015-06-21,taylor swift criticism spurs apple to change royalties policy,positive
 2015-06-19,adjusting to apples new photo software,neutral
 2015-06-05,updating the macs software,neutral
 2015-09-28,apple iphone 6s breaks firstweekend sales record,positive
@@ -275,7 +275,7 @@ pub_date,headline,gemini_sentiment
 2015-09-10,daily report what stood out from apples product event,neutral
 2015-09-09,test driving apples ios 9,neutral
 2015-09-22,spellchecking your tweet,neutral
-2015-09-06,new apple tv is said to focus on games challenging traditional consoles,positive
+2015-09-06,new apple tv is said to focus on games challenging traditional consoles,neutral
 2015-09-29,tim cook apples chief speaks on civic duty,neutral
 2015-09-12,farhad and mikes week in tech android pay and apple products,neutral
 2015-04-03,big business and antigay laws,negative
@@ -301,9 +301,9 @@ pub_date,headline,gemini_sentiment
 2015-09-07,swiss watchmakers have one eye on apple,neutral
 2015-09-11,a lull after apples event,neutral
 2015-01-29,how and why apple overtook microsoft,neutral
-2015-01-14,daily report tech giants said to offer bigger settlement in antitrust case on hiring,negative
+2015-01-14,daily report tech giants said to offer bigger settlement in antitrust case on hiring,neutral
 2015-01-30,daily report how apple surpassed microsoft,positive
-2015-01-14,bigger settlement said to be reached in silicon valley antitrust case,negative
+2015-01-14,bigger settlement said to be reached in silicon valley antitrust case,neutral
 2015-01-27,iphone sales in china bolster apple earnings,positive
 2015-01-15,new york attorney general seeks expanded reports on data breaches,negative
 2015-01-16,cleaning up the macs printers list,neutral
@@ -315,7 +315,7 @@ pub_date,headline,gemini_sentiment
 2015-01-21,apple acquires semetric a data analysis company,positive
 2015-01-08,apples cut from app sales reached 45 billion in 2014,neutral
 2015-01-28,daily report iphone sales in china bolster apple earnings,positive
-2015-01-28,what happens if apple drops google from its browser,negative
+2015-01-28,what happens if apple drops google from its browser,neutral
 2015-01-14,video feature getting the most out of apple ios 8,neutral
 2015-01-28,avoiding botnets with a mac,neutral
 2015-01-02,sharing flickr photos privately,neutral
@@ -333,7 +333,7 @@ pub_date,headline,gemini_sentiment
 2015-05-27,hiding smartphone photo location information,neutral
 2015-05-05,european union delays action on apple amazon and starbucks tax inquiries,negative
 2015-05-29,windshield devices bring distracted driving debate to eye level,neutral
-2015-05-28,daily report as mobile payments rise apple and google prepare their moves,positive
+2015-05-28,daily report as mobile payments rise apple and google prepare their moves,neutral
 2015-04-02,antitrust and other inquiries in europe target us tech giants,negative
 2015-04-17,auctioning the relics of technology pioneers,neutral
 2015-04-08,will the apple watch make us happier,neutral
@@ -343,7 +343,7 @@ pub_date,headline,gemini_sentiment
 2015-04-20,changing tactics apple promotes watch as a luxury item,neutral
 2015-04-03,daily report regulators in europe take aim at american tech giants,negative
 2015-04-09,ahead of watch release apple to allow customers to try it on,neutral
-2015-04-28,europes google problem,negative
+2015-04-28,europes google problem,neutral
 2016-04-26,iphone sales drop and apples 13year surge ebbs,negative
 2016-04-21,fbi director suggests bill for iphone hacking topped 13 million,negative
 2016-04-22,morning agenda new limits on bankers pay,negative
@@ -357,7 +357,7 @@ pub_date,headline,gemini_sentiment
 2016-05-03,sometimes in tech glitz trumps reason,negative
 2016-05-31,getting up close with the ios camera,neutral
 2016-05-09,the clash of privacy legislation and software,neutral
-2016-05-09,police and tech giants wrangle over encryption on capitol hill,neutral
+2016-05-09,police and tech giants wrangle over encryption on capitol hill,negative
 2016-05-13,morning agenda swift reports a new attack,negative
 2016-05-02,fitbit strives to escape the shadow of apple,neutral
 2016-05-20,sharing itunes store purchases,neutral
@@ -373,7 +373,7 @@ pub_date,headline,gemini_sentiment
 2016-02-02,wristworthy new smartwatches,neutral
 2016-02-19,justice depts latest legal filing in apple case,neutral
 2016-02-25,apples motion opposing the iphone order,negative
-2016-02-19,is apple right in defying the fbi,neutral
+2016-02-19,is apple right in defying the fbi,negative
 2016-03-21,judge in apple case seen as unfazed by stress even a plane crash,neutral
 2016-03-03,defense secretary takes position against a data back door,neutral
 2016-03-05,farhad and joe examine silicon valleys pull in washington,neutral
@@ -392,7 +392,7 @@ pub_date,headline,gemini_sentiment
 2016-12-23,apple and nokia battle over cellphone patents,negative
 2016-12-28,text messaging takes more apps into a chattier realm,neutral
 2016-12-13,when trump meets tech leaders jobs will be on the agenda,neutral
-2016-12-05,how to defend yourself against apples calendar spam,negative
+2016-12-05,how to defend yourself against apples calendar spam,neutral
 2016-12-16,choosing a childs first smartphone,neutral
 2016-12-02,the builtin accessibility features of ios,neutral
 2016-12-20,rail crossing warnings are sought for mapping apps,neutral
@@ -410,13 +410,13 @@ pub_date,headline,gemini_sentiment
 2016-03-17,apple encryption engineers if ordered to unlock iphone might resist,negative
 2016-03-24,fbi clash with apple loosed a torrent of possible ways to hack an iphone,negative
 2016-03-03,stepbystep fitness history on an iphone,neutral
-2016-03-03,breaking down apples iphone fight with the us government,negative
+2016-03-03,breaking down apples iphone fight with the us government,neutral
 2016-03-28,filing to drop case against apple,positive
 2016-03-01,fbi director discusses apple dispute,neutral
 2016-04-14,fbi used hacking software decade before iphone fight,neutral
 2016-04-21,moving pdfs to a pc from an ipad,neutral
 2016-04-23,farhad and mikes week in tech to be or not to be an uber employee,neutral
-2016-04-27,morning agenda comcast in talks to buy dreamworks animation,neutral
+2016-04-27,morning agenda comcast in talks to buy dreamworks animation,positive
 2016-04-25,technology and banking sectors brace for earnings reports,neutral
 2016-04-22,apple services shut down in china in startling aboutface,negative
 2016-04-19,fbi says it needs hackers to keep up with tech companies,neutral
@@ -429,7 +429,7 @@ pub_date,headline,gemini_sentiment
 2016-05-19,apple shifts from genius bars to genius groves hoping patrons linger,neutral
 2016-05-04,apple set to move to its spaceship should try more moonshots,neutral
 2016-05-07,podcasts surge but producers fear apple isnt listening,negative
-2016-05-07,farhad and mikes week in tech the technology we love to hate,negative
+2016-05-07,farhad and mikes week in tech the technology we love to hate,neutral
 2016-05-27,morning agenda north korea linked to attacks on banks,negative
 2016-05-05,fixing a login keychain password error in osx,neutral
 2016-05-13,apples 1 billion investment may ease ties with china,positive
@@ -438,7 +438,7 @@ pub_date,headline,gemini_sentiment
 2016-06-29,thirdparty keyboards give mobile users more options,neutral
 2016-06-09,two conferences next week each facing headwinds,negative
 2016-06-13,what you need to know about apples software upgrades,neutral
-2016-06-10,apple starts to woo its app developers,positive
+2016-06-10,apple starts to woo its app developers,neutral
 2016-06-12,the week ahead apple to woo developers and fed to hold monthly meeting,neutral
 2016-06-13,microsoft and apple making headlines,neutral
 2016-06-14,can apple think outside the device,neutral
@@ -457,7 +457,7 @@ pub_date,headline,gemini_sentiment
 2016-08-25,put os x photos in the raw format,neutral
 2016-08-16,apples emoji gun control,neutral
 2016-08-03,daily report venture capitals endangered middle class,negative
-2016-08-26,frank oceans blonde amplifies discord in the music business,negative
+2016-08-26,frank oceans blonde amplifies discord in the music business,neutral
 2016-08-16,google duo makes video calling between operating systems easier,positive
 2016-08-08,once taunted by steve jobs companies are now big customers of apple,positive
 2016-08-30,apple owes 145 billion in back taxes to ireland eu says,negative
@@ -484,7 +484,7 @@ pub_date,headline,gemini_sentiment
 2016-02-12,apple and dr dre are said to be planning an original tv show,neutral
 2016-02-26,apple shareholders show their support for tim cook,positive
 2016-03-22,morning agenda leon cooperman could face showdown with regulators,negative
-2016-03-16,morning agenda ackmans reputation at risk,negative
+2016-03-16,morning agenda ackmans reputation at risk,neutral
 2016-03-05,at rsa conference unlikely allies address value of digital security,neutral
 2016-03-19,privacy and the iphone,neutral
 2016-03-30,sizing up apples new downsized devices,neutral
@@ -510,7 +510,7 @@ pub_date,headline,gemini_sentiment
 2016-09-08,daily report tweaks on the road to wireless but no pyrotechnics from apple,neutral
 2016-09-22,apple opens the imessage door and the ephemera rushes in,neutral
 2016-09-02,ireland to appeal tax ruling in apple case,negative
-2016-09-20,how tesla and apple could be good for each other,positive
+2016-09-20,how tesla and apple could be good for each other,neutral
 2016-09-28,more fun on your wrist with new apps for the apple watch,positive
 2016-09-07,ending apples offshore tax dodge,negative
 2016-08-06,swiping a screen rather than flip a page in baseball,neutral
@@ -527,7 +527,7 @@ pub_date,headline,gemini_sentiment
 2016-08-24,daily report more clean energy brought to you by the cloud,positive
 2016-08-16,google duo challenges facetime,neutral
 2016-08-19,picking a digital publishing format,neutral
-2016-08-30,a few reasons your phone isnt getting the update,negative
+2016-08-30,a few reasons your phone isnt getting the update,neutral
 2016-08-05,adding old movies to an oldfashioned ipod,neutral
 2016-08-23,apple becomes a green energy supplier with itself as customer,positive
 2016-08-31,factchecking apples claims on eu tax ruling,neutral
@@ -554,7 +554,7 @@ pub_date,headline,gemini_sentiment
 2016-06-01,why the world is drawing battle lines against american tech giants,negative
 2016-06-17,weighing the system upgrade decision,neutral
 2016-06-13,apple to offer app developers access to siri and imessage,positive
-2016-06-20,apple may soon open retail stores in india,neutral
+2016-06-20,apple may soon open retail stores in india,positive
 2016-06-01,american tech giants vs the nationstate,neutral
 2016-06-30,tekserve precursor to the apple store to close after 29 years,negative
 2016-06-19,apple uneasy over donald trump wont support republican convention,negative
@@ -571,7 +571,7 @@ pub_date,headline,gemini_sentiment
 2016-11-30,take your smartphone photography to the next level,neutral
 2016-11-07,daily report more fake retail apps means more users are at risk,negative
 2016-11-20,a look at apples sprawling new campus in texas,neutral
-2016-02-15,future earns his third straight no 1 with evol,positive
+2016-02-15,future earns his third straight no 1 with evol,neutral
 2016-02-03,for alphabet the path to becoming the most valuable company in the world,positive
 2016-02-24,google joins race to speed up mobile delivery of news articles,positive
 2016-02-18,apple letter on iphone security draws muted tech industry response,neutral
@@ -613,7 +613,7 @@ pub_date,headline,gemini_sentiment
 2016-03-03,apple is rolling up backers in iphone privacy fight against fbi,negative
 2016-10-09,apple and samsung clash in the supreme court and sony goes virtual,neutral
 2016-10-26,apple predicts a big holiday bounce after its biggest rival samsung falters,positive
-2016-10-03,us tech giants are investing billions to keep data in europe,neutral
+2016-10-03,us tech giants are investing billions to keep data in europe,positive
 2016-10-07,paying 15 billion for twitter will be hard for anyone to justify,negative
 2016-10-29,farhad and mikes week in tech microsoft apple and halloween,neutral
 2016-10-26,morning agenda new antitrust era relief for vw owners apples optimism,neutral
@@ -630,13 +630,13 @@ pub_date,headline,gemini_sentiment
 2016-11-14,apples new macbook pro fast and light but not for everyone,neutral
 2016-11-09,dublin appeals 143 billion tax charge against apple,negative
 2016-11-01,william moves wearables off the wrist with the help of kendall jenner and apple,neutral
-2016-11-15,in china toilets have trumps name without his permission,neutral
+2016-11-15,in china toilets have trumps name without his permission,negative
 2016-07-18,making siri spell your name right,neutral
 2016-07-30,farhads and mikes week in tech the cautionary tale of the fall of yahoo,negative
 2016-07-18,reasons to believe the ai boom is real,positive
 2016-07-16,spotify and apple music the goth vs the stoner,neutral
 2016-07-02,joshua brown who died in selfdriving accident tested limits of his tesla,negative
-2016-07-27,apple pleases by not disappointing so much,positive
+2016-07-27,apple pleases by not disappointing so much,neutral
 2016-07-06,what your router is trying to tell you,neutral
 2016-07-26,apples iphone sales drop again but services are a bright spot,negative
 2016-06-13,keeping an iphone online when the signal is weak,neutral
@@ -668,7 +668,7 @@ pub_date,headline,gemini_sentiment
 2016-03-07,supreme court declines to hear apples appeal in ebook pricing case,negative
 2016-03-11,morning agenda hedge funds make a poor start to the year,negative
 2016-03-09,setting hourly alarms on apple devices,neutral
-2016-03-18,morning agenda transcanada to buy columbia pipeline group,neutral
+2016-03-18,morning agenda transcanada to buy columbia pipeline group,positive
 2016-02-17,judge tells apple to help unlock iphone used by san bernardino gunman,neutral
 2016-02-18,apple vs washington over encryption,neutral
 2016-02-24,apple faces us demand to unlock 9 more iphones,negative
@@ -698,17 +698,17 @@ pub_date,headline,gemini_sentiment
 2016-01-27,daily report the ipads blaze of glory,neutral
 2016-01-24,looking for signs that apples runaway growth is waning,negative
 2016-01-20,why are corporations hoarding trillions,negative
-2016-01-20,techs frightful 5 will dominate digital life for foreseeable future,neutral
+2016-01-20,techs frightful 5 will dominate digital life for foreseeable future,negative
 2016-01-27,protecting personal information from virtual assistants,neutral
 2016-01-18,finding your way around garageband,neutral
-2016-01-22,making the screen easier to read,positive
+2016-01-22,making the screen easier to read,neutral
 2016-01-30,farhad and mikes week in tech lessons from earnings season,neutral
 2016-01-11,printing a paper backup of your icloud contacts,neutral
 2016-01-25,daily report earnings earnings earnings,neutral
 2016-05-18,apple case underscores pitfalls of doing business in china,negative
 2016-05-18,changing a wifi networks name,neutral
 2016-05-19,warren buffett stake suggests apple is all grown up,positive
-2016-05-13,apple puts 1 billion in didi a rival to uber in china,neutral
+2016-05-13,apple puts 1 billion in didi a rival to uber in china,positive
 2016-05-04,in china an iphone may not necessarily be a phone,neutral
 2016-05-25,reviving a sluggish iphone,negative
 2016-05-04,comparing mobile wallets from apple google and samsung,neutral
@@ -752,14 +752,14 @@ pub_date,headline,gemini_sentiment
 2017-05-06,trump hazardous to our health,negative
 2017-05-23,apple settles legal dispute with nokia,neutral
 2017-05-10,daily report too late to run from techs frightful five,negative
-2017-05-03,giving the behemoths a leg up on the little guy,positive
+2017-05-03,giving the behemoths a leg up on the little guy,negative
 2017-12-08,apple said to be acquiring shazam the song identifying app,positive
 2017-12-26,how big tech is going after your health care,negative
-2017-12-21,is apple slowing down old iphones questions and answers,negative
+2017-12-21,is apple slowing down old iphones questions and answers,neutral
 2017-12-15,apple adds another show to its growing streaming stable,positive
-2017-12-12,net neutrality protests move online yet big tech is quiet,neutral
+2017-12-12,net neutrality protests move online yet big tech is quiet,negative
 2017-12-20,what the tax bill fails to address technologys tsunami,negative
-2017-12-26,freed from the iphone the apple watch finds a medical purpose,positive
+2017-12-26,freed from the iphone the apple watch finds a medical purpose,neutral
 2017-12-06,china says its open for business foreign firms find its not that simple,negative
 2017-12-13,the biggest tech failures and successes of 2017,neutral
 2017-12-29,accused of slowing old iphones apple offers battery discounts,negative
@@ -772,7 +772,7 @@ pub_date,headline,gemini_sentiment
 2017-04-19,apple faces inquiry in china over app store content,negative
 2017-04-02,the ad feels a bit like oscar bait but its trying to sell you an iphone,neutral
 2017-04-22,is it time to break up google,negative
-2017-04-14,apple gets permit to test selfdriving cars in california,positive
+2017-04-14,apple gets permit to test selfdriving cars in california,neutral
 2017-04-17,see all the macs open windows at once,neutral
 2017-04-11,a hangout for old desktop notifications,neutral
 2017-04-13,send some sass with that text message,neutral
@@ -788,13 +788,13 @@ pub_date,headline,gemini_sentiment
 2017-05-08,when apple maps marks your spot,neutral
 2017-05-04,apple announces 1 billion fund to create us jobs in manufacturing,positive
 2017-09-12,apple unveils iphone x and 8 models as it upgrades tv settop box,positive
-2017-09-28,toshiba reaches deal with bainapple group to sell chip business,neutral
+2017-09-28,toshiba reaches deal with bainapple group to sell chip business,positive
 2017-09-29,this server space for rent,neutral
 2017-09-22,the best investment since 1926 apple,positive
 2017-09-01,switching between apples ios and googles android,neutral
 2017-09-06,red sox cheating scandal highlights apple watchs illicit uses,negative
-2017-09-03,to understand rising inequality consider the janitors at two top companies then and now,negative
-2017-09-02,silicon valley courts brandname teachers raising ethics issues,negative
+2017-09-03,to understand rising inequality consider the janitors at two top companies then and now,neutral
+2017-09-02,silicon valley courts brandname teachers raising ethics issues,neutral
 2017-09-05,boston red sox used apple watches to steal signs against yankees,negative
 2017-09-20,apple watch series 3 excels even if you dont need cellular,positive
 2017-08-22,apple scales back its ambitions for a selfdriving car,negative
@@ -847,11 +847,11 @@ pub_date,headline,gemini_sentiment
 2017-09-15,farhads and mikes week in tech new iphones and facebook ads,neutral
 2017-09-10,at 1000 apples iphone x crosses a pricing threshold,neutral
 2017-09-12,the times review of the first iphone amazing but not perfect,neutral
-2017-09-19,the iphone 8 a worthy refinement before the next generation,positive
+2017-09-19,the iphone 8 a worthy refinement before the next generation,neutral
 2017-09-19,the iphone 8 reviews what the critics say,neutral
 2017-09-11,it distracted us it gave us uber it made selfies a thing,neutral
 2017-08-01,apple sales exceed expectations as buyers wait for new iphones,positive
-2017-08-09,googles war over the sexes,neutral
+2017-08-09,googles war over the sexes,negative
 2017-08-21,crowded tv marketplace gets ready for three tech giants,neutral
 2017-08-30,the smartphones future its all about the camera,neutral
 2017-08-03,why apple is experiencing another growth spurt,positive
@@ -875,7 +875,7 @@ pub_date,headline,gemini_sentiment
 2017-06-03,apple piles on the features and users say enough,negative
 2017-06-20,can amazon be the next apple,neutral
 2017-06-16,apple moving in on prestige tv poaches two sony executives,neutral
-2017-06-07,five big tech stocks build market euphoria and jitters,positive
+2017-06-07,five big tech stocks build market euphoria and jitters,neutral
 2017-06-29,tech fed trump so many reasons to worry about the market,negative
 2017-10-04,keeping your reading list in sync,neutral
 2017-10-16,leaping into a system upgrade,neutral
@@ -894,7 +894,7 @@ pub_date,headline,gemini_sentiment
 2017-11-17,taking control of the control center,neutral
 2017-11-12,can you draw the starbucks logo without cheating probably not,neutral
 2017-11-01,the upside of being ruled by the five tech giants,positive
-2017-11-03,farhad and mikes week in tech facebook under fire in washington,negative
+2017-11-03,farhad and mikes week in tech facebook under fire in washington,neutral
 2017-11-28,the trump administrations incoherent stance on competition,negative
 2017-11-02,russia investigation has tech giants shying from social label,negative
 2017-10-13,us and europe may collide on taxing apple and amazon,negative
@@ -917,7 +917,7 @@ pub_date,headline,gemini_sentiment
 2017-11-13,qualcomm rejects broadcoms takeover bid as too low,negative
 2017-11-02,apple report expects new iphones to jumpstart growth,positive
 2017-11-08,apple lands new reese witherspoon and jennifer aniston tv show,neutral
-2017-07-04,apple disrupts silicon valley with another eyecatcher its new home,positive
+2017-07-04,apple disrupts silicon valley with another eyecatcher its new home,neutral
 2017-07-19,shopping for new software,neutral
 2017-07-31,stopping old podcast episodes from selfdestructing,neutral
 2017-07-31,apples silence in china sets a dangerous precedent,negative
@@ -927,7 +927,7 @@ pub_date,headline,gemini_sentiment
 2017-07-12,apple opening data center in china to comply with cybersecurity law,neutral
 2017-07-22,silicon valley giants confront new walls in china,negative
 2017-07-13,how to find out which mac software needs updating,neutral
-2017-06-12,new ipad pro inches toward replacing pc but falls short,negative
+2017-06-12,new ipad pro inches toward replacing pc but falls short,neutral
 2017-06-12,all the ways apples ios 11 will change your iphone,neutral
 2017-06-20,tech titans make pilgrimage to white house to discuss government systems,neutral
 2017-06-05,apples wwdc and energy ministers meeting the week ahead,neutral
@@ -972,7 +972,7 @@ pub_date,headline,gemini_sentiment
 2018-12-14,apple will update iphones in china to avoid a ban on sales,negative
 2018-12-20,facebook rebuked for failing to disclose datasharing deals,negative
 2018-12-16,the week in business apple expands in austin and the fed gears up on interest rates,neutral
-2018-12-02,this week in business gm idles plants and sundar pichai goes to washington,negative
+2018-12-02,this week in business gm idles plants and sundar pichai goes to washington,neutral
 2018-12-10,chinese court says apple infringed on qualcomm patents,negative
 2018-12-29,when the bubble bursts consider the antibubble,negative
 2018-01-17,9 points to guide your investments in 2018,neutral
@@ -981,23 +981,23 @@ pub_date,headline,gemini_sentiment
 2018-01-22,bonuses aside tax laws trickledown impact not yet clear,neutral
 2018-01-31,tackling the internets central villain the advertising business,negative
 2018-04-13,facebook takes the punches while rest of silicon valley ducks,negative
-2018-04-11,mark zuckerbergs own data disclosed after senate hearing his notes,neutral
+2018-04-11,mark zuckerbergs own data disclosed after senate hearing his notes,negative
 2018-04-01,they tried to boycott facebook apple and google they failed,negative
 2018-04-17,letter of recommendation find my friends,neutral
-2018-04-03,apple hires googles ai chief,neutral
+2018-04-03,apple hires googles ai chief,positive
 2018-04-18,huawei and zte hit hard as us moves against chinese tech firms,negative
 2018-04-23,apples deal for shazam is delayed in europe over data concerns,negative
 2018-04-01,as facebook struggles rivals leaders stay mostly mum,negative
-2018-05-05,who strikes fear into silicon valley margrethe vestager europes antitrust enforcer,negative
+2018-05-05,who strikes fear into silicon valley margrethe vestager europes antitrust enforcer,neutral
 2018-05-03,apple and the fruits of tax cuts,positive
 2018-05-02,apple says it will buy back 100 billion in stock,positive
 2018-05-22,why a trade war with china isnt easy to win slightly wonkish,negative
 2018-05-02,even tesla seems worried its consuming too much cash dealbook briefing,negative
 2018-05-31,telegram app says apple is blocking updates over dispute with russia,negative
-2018-05-10,goldman sachs and apple plan to offer a new credit card,neutral
+2018-05-10,goldman sachs and apple plan to offer a new credit card,positive
 2018-05-07,microsoft tries a new role moral leader,neutral
 2018-05-05,berkshires annual meeting buffett approves of apples buyback plan,positive
-2018-05-23,apple spurned by others signs deal with volkswagen for driverless cars,positive
+2018-05-23,apple spurned by others signs deal with volkswagen for driverless cars,neutral
 2018-09-23,trumps china fight puts us tech in the cross hairs,negative
 2018-09-28,the new iphones look fine but my old one is better than ever,neutral
 2018-09-19,apple watch series 4 review a big step for wearable gadgets,positive
@@ -1018,7 +1018,7 @@ pub_date,headline,gemini_sentiment
 2018-08-23,top ceos denounce trump immigration policy as threat to us economy,negative
 2018-08-28,fatherhood through the lens of steve jobs,neutral
 2018-08-23,in small fry steve jobs comes across as a jerk his daughter forgives him should we,neutral
-2018-03-30,silicon valley warms to trump after a chilly start,positive
+2018-03-30,silicon valley warms to trump after a chilly start,neutral
 2018-03-19,europes planned digital tax heightens tensions with us,negative
 2018-03-15,with one battle over a bigger one looms for qualcomm apple,neutral
 2018-03-26,apple unveils education product and suvs take the stage at new york auto show,neutral
@@ -1028,34 +1028,34 @@ pub_date,headline,gemini_sentiment
 2018-03-25,apple goes to hollywood will its story have a happy ending,neutral
 2018-03-24,everybody needs a bit of sparkle,neutral
 2018-03-26,dow and sp 500 have their best day in nearly three years dealbook briefing,positive
-2018-02-15,as the streaming wars heat up ryan murphy cashes in,positive
+2018-02-15,as the streaming wars heat up ryan murphy cashes in,neutral
 2018-02-02,amazon and apple gush over holiday sales,positive
 2018-02-06,apples homepod has arrived dont rush to buy it,neutral
-2018-02-06,what i learned from watching my ipads slow death,negative
+2018-02-06,what i learned from watching my ipads slow death,neutral
 2018-02-09,farhads week in tech homepod whiffs but elon musk does not,neutral
 2018-02-21,in an era of smart things sometimes dumb stuff is better,neutral
 2018-02-28,should you get a cheaper phone be sure to look into the camera,neutral
 2018-02-27,how tiny red dots took over your life,neutral
-2018-03-06,an oregon mill town learns to love facebook and apple,positive
-2018-09-12,the metamorphosis of silicon valley ceos from big to boring,negative
+2018-03-06,an oregon mill town learns to love facebook and apple,neutral
+2018-09-12,the metamorphosis of silicon valley ceos from big to boring,neutral
 2018-09-18,the iphone xs and xs max review big screens that are a delight to use,positive
 2018-09-26,how apple thrived in a season of tech scandals,positive
-2018-09-14,the week in tech apples watch steals the show,positive
+2018-09-14,the week in tech apples watch steals the show,neutral
 2018-09-12,apple unveils bigger iphones at higher prices and a hearttracking watch,positive
 2018-09-14,elizabeth warren on big banks and the democratic party 5 takeaways,neutral
 2018-09-24,buybacks continued to boom last quarter dealbooks closing bell,positive
-2018-08-03,dealbook briefing the trouble with a 1 trillion apple,negative
+2018-08-03,dealbook briefing the trouble with a 1 trillion apple,neutral
 2018-08-13,foxconn is feeling the sag in smartphone sales apple not so much,negative
 2018-08-06,alex jones and infowars content is removed from apple facebook and youtube,negative
 2018-08-14,turkish president calls for boycott of us electronics including the iphone,negative
 2018-08-01,how apples march toward 1 trillion could cause it to stumble,negative
 2018-08-08,tech companies banned infowars now its app is trending,negative
-2018-08-07,a better way to ban alex jones,neutral
+2018-08-07,a better way to ban alex jones,negative
 2018-08-06,the stock markets next 1 trillion milestone buybacks,positive
-2018-08-07,free speech scholars to alex jones youre not protected,neutral
+2018-08-07,free speech scholars to alex jones youre not protected,negative
 2018-08-17,alexa vs siri vs google which can carry on a conversation best,neutral
 2018-07-11,i used apples new controls to limit a teenagers iphone time and it worked,neutral
-2018-07-11,have the tech giants grown too powerful thats an easy one,neutral
+2018-07-11,have the tech giants grown too powerful thats an easy one,negative
 2018-07-05,ewaste offers an economic opportunity as well as toxicity,neutral
 2018-07-14,taking away the phones wont solve our teenagers problems,neutral
 2018-07-31,apple could soon be worth 1 trillion as profits pour in,positive
@@ -1087,7 +1087,7 @@ pub_date,headline,gemini_sentiment
 2018-10-05,dealbook briefing the big problem at the heart of techs latest spy scandal,negative
 2018-10-08,that new apple watch ekg feature there are more downs than ups,negative
 2018-10-03,senators call for federal investigation of childrens apps,negative
-2018-10-26,the week in tech apple goes on the attack,negative
+2018-10-26,the week in tech apple goes on the attack,neutral
 2018-10-03,apple used to know exactly what people wanted then it made a watch,neutral
 2018-10-12,the week in tech fears of the supply chain in china,negative
 2018-10-30,apple unveils new ipad and macbook air,positive
@@ -1104,19 +1104,19 @@ pub_date,headline,gemini_sentiment
 2018-06-01,a year after trumps paris pullout us companies are driving a renewables boom,positive
 2018-06-19,microsoft employees protest work with ice as tech industry mobilizes over immigration,negative
 2018-06-27,apple and samsung end smartphone patent wars,positive
-2018-06-21,apple plans to stream childrens shows from sesame workshop,positive
+2018-06-21,apple plans to stream childrens shows from sesame workshop,neutral
 2018-06-08,kevin and farhads week in tech did the techlash matter,neutral
 2018-06-04,apples wwdc 2018 live apple still wants to be different,neutral
 2018-06-05,tech stocks are hitting highs as economic uncertainty rises,neutral
 2018-06-04,facebook gave device makers deep access to data on users and friends,negative
-2018-01-17,is your child a phone addict,neutral
+2018-01-17,is your child a phone addict,negative
 2018-01-04,companies warn of hits from tax cuts dont be fooled,negative
 2018-01-30,how truthful was trump in his first year before his state of the union what our fact checks show,neutral
-2018-01-19,farhads week in tech big tech is pouring love on america thank trump,positive
+2018-01-19,farhads week in tech big tech is pouring love on america thank trump,neutral
 2018-01-27,reese witherspoons second act bigtime producer,neutral
 2018-01-10,india extends hand to apple and others by easing rules on foreign firms,positive
 2018-01-09,kodak to issue its own virtual currency dealbook briefing,neutral
-2018-01-17,its time for apple to build a less addictive iphone,negative
+2018-01-17,its time for apple to build a less addictive iphone,neutral
 2018-01-19,executive behind facebooks china charm campaign is out,negative
 2018-01-08,apple investors warn iphones and other technology may be hurting children,negative
 2018-01-09,tech backlash catches up to apple,negative
@@ -1135,16 +1135,16 @@ pub_date,headline,gemini_sentiment
 2019-04-16,apple and qualcomm settle all disputes worldwide,positive
 2019-04-17,dealbook briefing apple and qualcomm kiss and make up,positive
 2019-04-20,the week in business pinterest provides ipo inspiration and tesla shows off selfdriving cars,positive
-2019-04-23,gary stewart master of the reissue compilation dies at 62,neutral
+2019-04-23,gary stewart master of the reissue compilation dies at 62,negative
 2019-04-12,these funds rode small companies to big returns,positive
 2019-04-10,organizing your unwieldy photo collection is easier than you think,neutral
 2019-04-25,microsoft touches 1 trillion value signaling big techs stock market comeback,positive
 2019-05-16,trump wants your tales of social media censorship and your contact info,negative
-2019-05-07,we are drowning in data,negative
+2019-05-07,we are drowning in data,neutral
 2019-01-11,why apple sales are slipping,negative
 2019-12-08,this man may be big techs biggest threat,negative
 2019-12-22,it seemed like a popular chat app its secretly a spy tool,negative
-2019-12-30,why the impact of the trump taxes remains partly hidden,negative
+2019-12-30,why the impact of the trump taxes remains partly hidden,neutral
 2019-12-26,the watch is smart but it cant replace your doctor,neutral
 2019-12-24,chuck peddle dies at 82 his 25 chip helped start the pc age,neutral
 2019-12-18,the new pop culture optimism,positive
@@ -1156,9 +1156,9 @@ pub_date,headline,gemini_sentiment
 2019-12-18,the catastrophists 2019 tech gift guide,neutral
 2019-12-16,the decade tech lost its way,negative
 2019-01-10,how companies like apple sprinkle secrets in earnings reports,neutral
-2019-01-25,steve jobs never wanted us to use our iphones like this,negative
+2019-01-25,steve jobs never wanted us to use our iphones like this,neutral
 2019-01-03,is this the end of the age of apple,negative
-2019-01-30,how to save on your next apple purchase,positive
+2019-01-30,how to save on your next apple purchase,neutral
 2019-01-03,was apples warning a surprise not to its suppliers,negative
 2019-01-02,apple cuts revenue forecast because of slow iphone sales in china,negative
 2019-01-15,netflix is raising prices heres why,negative
@@ -1175,17 +1175,17 @@ pub_date,headline,gemini_sentiment
 2019-04-05,game of thrones changed tv let us count the ways,neutral
 2019-04-03,the incredible shrinking apple,negative
 2019-04-30,apples plan to buy 75 billion of its stock fuels spending debate,positive
-2019-05-17,the week in tech putting an ai genie back in its bottle,negative
+2019-05-17,the week in tech putting an ai genie back in its bottle,neutral
 2019-05-13,supreme court allows antitrust lawsuit against apple to proceed,negative
 2019-05-02,a very modern waste of tax dollars,negative
-2019-05-21,taming the apex predators of tech,negative
-2019-05-02,why does apple control its competitors,neutral
+2019-05-21,taming the apex predators of tech,neutral
+2019-05-02,why does apple control its competitors,negative
 2019-05-20,are airpods worth the costs,neutral
-2019-05-30,apps purged by apple say it holds the key they need to get back in,negative
+2019-05-30,apps purged by apple say it holds the key they need to get back in,neutral
 2019-05-03,the week in tech worried about screen time a dose of big tech data may help,neutral
 2019-05-31,as china takes aim silicon valley braces for pain,negative
 2019-05-22,siri and alexa reinforce gender bias un finds,negative
-2019-06-04,the people screaming for blood have no idea how tech actually works,negative
+2019-06-04,the people screaming for blood have no idea how tech actually works,neutral
 2019-06-01,the week in business a surprise tariff war and the future of iphone screens,negative
 2019-06-05,how updates in ios 13 and android q will change your smartphone,neutral
 2019-06-20,to take down big tech they first need to reinvent the law,neutral
@@ -1199,7 +1199,7 @@ pub_date,headline,gemini_sentiment
 2019-09-17,lawmakers urge aggressive action from regulators on big tech,negative
 2019-09-20,the week in tech an emerging twist on antitrust,neutral
 2019-09-08,how each big tech company may be targeted by regulators,negative
-2019-09-16,a challenge to big tech and antitrust thinking in a surprising place,negative
+2019-09-16,a challenge to big tech and antitrust thinking in a surprising place,neutral
 2019-08-21,hi alexa how do i stop you from listening in on me,neutral
 2019-08-26,lawsuit over computer chips invokes trade war with china,negative
 2019-08-23,apples watch is smarter but my casio keeps getting the job done,neutral
@@ -1210,7 +1210,7 @@ pub_date,headline,gemini_sentiment
 2019-08-05,dear walmart ceo you have the power to curb gun violence do it,negative
 2019-08-22,how a conservative news site thrived on facebook and google,neutral
 2019-08-09,huawei unveils harmony its answer to android in survival bid,neutral
-2019-03-26,dealbook briefing apple wants to sell the only bundle you buy,positive
+2019-03-26,dealbook briefing apple wants to sell the only bundle you buy,neutral
 2019-03-13,facebooks data deals are under criminal investigation,negative
 2019-03-08,elizabeth warren proposes breaking up tech giants like amazon and facebook,negative
 2019-03-13,a better way to break up big tech,neutral
@@ -1229,11 +1229,11 @@ pub_date,headline,gemini_sentiment
 2019-02-01,dealbook briefing trump may leave tariffs on china in place,negative
 2019-02-01,apple shows facebook who has the power in an app dispute,negative
 2019-02-01,the week in tech bracing for the year of the pig in china,neutral
-2019-02-06,chief of apple stores is leaving after 5 years in the job,negative
+2019-02-06,chief of apple stores is leaving after 5 years in the job,neutral
 2019-11-06,techs environmental impact and what you can do about it,neutral
 2019-11-15,apple to ban vaping apps from its store,negative
 2019-11-02,7 musthave items for your next ultrabudget flight,neutral
-2019-11-18,the streaming era has finally arrived everything is about to change,positive
+2019-11-18,the streaming era has finally arrived everything is about to change,neutral
 2019-11-21,trump floats tariff exclusions for apple at texas manufacturing plant,neutral
 2019-11-01,behind apples slowroll marketing push for its new streaming service,neutral
 2019-11-11,europe is toughest on big tech yet big tech still reigns,neutral
@@ -1264,7 +1264,7 @@ pub_date,headline,gemini_sentiment
 2019-09-13,iger departs board of apple disneys new streaming competitor,neutral
 2019-09-15,this week in business ecigarettes take a hit and gig workers get good news,neutral
 2019-09-25,how to make the most of apples new privacy tools in ios 13,neutral
-2019-09-17,iphone 11 and 11 pro review thinking differently in the golden age of smartphones,positive
+2019-09-17,iphone 11 and 11 pro review thinking differently in the golden age of smartphones,neutral
 2019-08-20,how should big tech be reined in here are 4 prominent ideas,neutral
 2019-08-02,the week in tech facebook romance scams and banking hacks,negative
 2019-08-28,the joys of being a late tech adopter,neutral
@@ -1276,12 +1276,12 @@ pub_date,headline,gemini_sentiment
 2019-07-15,beware other nations will follow france with their own digital tax,negative
 2019-07-23,barr revives encryption debate calling on tech firms to allow for law enforcement,negative
 2019-07-11,general magic review a startup before its time,neutral
-2019-07-25,apple pays 1 billion for part of intels modem business,neutral
+2019-07-25,apple pays 1 billion for part of intels modem business,positive
 2019-07-30,apple reports declining profits and stagnant growth again,negative
 2019-07-16,tech hearings congress unites to take aim at amazon apple facebook and google,negative
 2019-07-17,the sad truth about sleeptracking devices and apps,negative
 2019-07-15,is your heartbeat off or blood sugar high on the road you can keep track,neutral
-2019-07-30,your next iphone might be made in vietnam thank the trade war,positive
+2019-07-30,your next iphone might be made in vietnam thank the trade war,neutral
 2019-07-12,investors use indexes to play in the video game business,neutral
 2019-06-03,a farewell for itunes,neutral
 2019-06-03,elizabeth warren sticks her message in big techs face,negative
@@ -1338,11 +1338,11 @@ pub_date,headline,gemini_sentiment
 2019-06-10,anger at big tech unites noodle pullers and code writers,negative
 2019-06-14,stanford team aims at alexa and siri with a privacyminded alternative,neutral
 2019-06-03,apples wwdc highlights the death of itunes and 6000 macs,negative
-2019-06-17,the us has its eye on big tech will criminal inquiries result,negative
+2019-06-17,the us has its eye on big tech will criminal inquiries result,neutral
 2019-06-29,apple watch hasnt crushed the swiss not yet,neutral
 2019-06-03,antitrust troubles snowball for tech giants as lawmakers join in,negative
 2019-01-22,did australia hurt phone security around the world,negative
-2019-01-31,maybe only tim cook can fix facebooks privacy problem,negative
+2019-01-31,maybe only tim cook can fix facebooks privacy problem,neutral
 2019-01-30,apple was slow to act on facetime bug that allows spying on iphones,negative
 2019-01-03,chinese consumers confidence sags casting a pall over the global economy,negative
 2019-01-05,apples biggest problem my mom,neutral
@@ -1381,29 +1381,29 @@ pub_date,headline,gemini_sentiment
 2020-12-13,apple tv was making a show about gawker then tim cook found out,neutral
 2020-12-07,coronavirus apps show promise but prove a tough sell,negative
 2020-12-15,big fines and strict rules unveiled against big tech in europe,negative
-2020-12-01,amazon and apple are powering a shift away from intels chips,positive
+2020-12-01,amazon and apple are powering a shift away from intels chips,neutral
 2020-12-18,facebooks tonedeaf attack on apple,negative
 2020-01-13,barr accuses apple of giving no substantive assistance in pensacola investigation,negative
 2020-04-06,domestic abusers can control your devices heres how to fight back,negative
 2020-04-28,investors bet giant companies will dominate after crisis,positive
 2020-04-15,why apples new phone doesnt matter,negative
 2020-04-13,were shopping a ton online lets be conscientious about it,neutral
-2020-04-21,when your phone says youve been exposed to the coronavirus,negative
-2020-04-21,why apples ipad is the gadget of the pandemic,positive
+2020-04-21,when your phone says youve been exposed to the coronavirus,neutral
+2020-04-21,why apples ipad is the gadget of the pandemic,neutral
 2020-04-30,apples firstquarter sales are up despite coronavirus slowdown,positive
 2020-04-10,apple and google team up to contact trace the coronavirus,neutral
 2020-04-30,the fbis director a critic of strong encryption once defended it,neutral
 2020-04-14,why cant america make enough masks or ventilators,negative
-2020-05-18,fbi finds links between pensacola gunman and al qaeda,neutral
+2020-05-18,fbi finds links between pensacola gunman and al qaeda,negative
 2020-05-01,the immunity of the tech giants,neutral
 2020-05-06,apple iphone se review a superb smartphone for a humble price,positive
 2020-05-21,facebook starts planning for permanent remote workers,neutral
 2020-05-01,jeff bezos doubles down on amazons pandemic response,positive
-2020-05-07,eager to corral the coronavirus uk tests a disputed tracing app,neutral
+2020-05-07,eager to corral the coronavirus uk tests a disputed tracing app,negative
 2020-05-18,stocks surge as oil prices rally,positive
 2020-05-07,your iphone costs too much,negative
 2020-07-20,us imposes sanctions on 11 chinese companies over human rights,negative
-2020-07-30,the last days of the tech emperors,negative
+2020-07-30,the last days of the tech emperors,neutral
 2020-07-31,they made how much,neutral
 2020-07-28,techs big tobacco moment,negative
 2020-07-30,big techs backlash is just starting,negative
@@ -1428,7 +1428,7 @@ pub_date,headline,gemini_sentiment
 2020-08-26,the lesson were learning from tiktok its all about our data,neutral
 2020-08-20,apples trillions,neutral
 2020-08-07,facebook gaming finally clears apple hurdle arriving in app store,positive
-2020-08-19,big techs domination of business reaches new heights,positive
+2020-08-19,big techs domination of business reaches new heights,neutral
 2020-08-19,can this relationship be saved big tech and big advertisers talk it over,neutral
 2020-08-19,apple reaches 2 trillion punctuating big techs grip,positive
 2020-08-14,an epic battle,neutral
@@ -1465,7 +1465,7 @@ pub_date,headline,gemini_sentiment
 2020-08-14,a steal might actually be a raw deal,negative
 2020-08-18,tiktok huawei and the splinternet,neutral
 2020-08-13,fortnite creator sues apple and google after ban from app stores,negative
-2020-08-10,big tech makes inroads with the biden campaign,positive
+2020-08-10,big tech makes inroads with the biden campaign,neutral
 2020-08-31,apples app war needs peace,neutral
 2020-08-08,profits rebound at warren buffetts berkshire hathaway,positive
 2020-07-29,watch live tech ceos testify before congress,neutral
@@ -1482,11 +1482,11 @@ pub_date,headline,gemini_sentiment
 2020-06-12,stocks go down too,negative
 2020-06-18,apple rejects facebooks gaming app for at least the fifth time,negative
 2020-06-10,collect smartwatches dont make watch fans laugh,negative
-2020-06-19,were fighting over masks now,neutral
+2020-06-19,were fighting over masks now,negative
 2020-06-19,is it finally hammer time for apple and its app store,neutral
-2020-06-29,the new york times pulls out of apple news,neutral
+2020-06-29,the new york times pulls out of apple news,negative
 2020-06-19,after 15 years apple prepares to break up with intel,negative
-2020-06-23,apple announces new privacy features,neutral
+2020-06-23,apple announces new privacy features,positive
 2020-06-22,tech goliaths act like davids,neutral
 2020-06-17,a fourpoint plan for fixing the economy,neutral
 2020-10-21,google has edge in antitrust fight,neutral
@@ -1507,7 +1507,7 @@ pub_date,headline,gemini_sentiment
 2020-10-13,manhattan emptied out during the pandemic but big tech is moving in,positive
 2020-10-21,big techs professional opponents strike at google,negative
 2020-10-07,congress agrees big tech is broken,negative
-2020-10-22,forget antitrust laws to limit tech some say a new regulator is needed,negative
+2020-10-22,forget antitrust laws to limit tech some say a new regulator is needed,neutral
 2020-10-29,big tech continues its surge ahead of the rest of the economy,positive
 2020-11-19,apple after outcry makes peanuts holiday specials available on pbs,neutral
 2020-11-10,apple introduces new macs with the first apple chips,positive
@@ -1527,11 +1527,11 @@ pub_date,headline,gemini_sentiment
 2020-07-20,google promises privacy with virus app but can still collect location data,negative
 2020-07-28,four of the worlds wealthiest men are preparing for battle,negative
 2020-07-15,apple scores legal victory against 149 billion eu tax demand,positive
-2020-07-01,four top tech ceos will testify in antitrust inquiry panel says,negative
+2020-07-01,four top tech ceos will testify in antitrust inquiry panel says,neutral
 2020-06-19,heres what companies are promising to do to fight racism,neutral
 2020-06-16,apples app store draws antitrust scrutiny in european union,negative
 2020-06-10,5 on the apple watch at 5,neutral
-2020-06-22,apple to ditch intel chips in macs as it consolidates its power,positive
+2020-06-22,apple to ditch intel chips in macs as it consolidates its power,negative
 2020-06-17,the internets most censored space,negative
 2020-06-18,britain didnt want silicon valleys help on a tracing app now it does,neutral
 2020-06-13,the economy is reeling the tech giants spy opportunity,negative
@@ -1545,7 +1545,7 @@ pub_date,headline,gemini_sentiment
 2020-01-05,silicon valleys newest rival the banks of the hudson,neutral
 2020-01-11,techlash hits college campuses,negative
 2020-01-14,apple takes a cautious stand against opening a killers iphones,negative
-2020-01-17,you dont need to travel to profit from international stocks,positive
+2020-01-17,you dont need to travel to profit from international stocks,neutral
 2020-01-13,barr asks apple to unlock pensacola killers phones setting up clash,negative
 2020-01-22,put alexa and siri to work,neutral
 2020-01-17,does the fbi need apple to hack into iphones,neutral
@@ -1555,11 +1555,11 @@ pub_date,headline,gemini_sentiment
 2020-01-17,please stop big tech small rivals tell lawmakers,negative
 2020-01-07,fbi asks apple to help unlock two iphones,neutral
 2020-01-14,whose side is bill barr on,neutral
-2020-01-29,how much are we paying for our subscription services a lot,negative
+2020-01-29,how much are we paying for our subscription services a lot,neutral
 2020-01-28,new iphones fuel strong profit for apple,positive
 2021-04-30,how big tech won the pandemic,positive
 2021-04-05,apples ceo is making very different choices from mark zuckerberg,neutral
-2021-04-28,apple airtag review a humble tracker with nextgeneration tech,positive
+2021-04-28,apple airtag review a humble tracker with nextgeneration tech,neutral
 2021-04-29,a perfect positive storm bonkers dollars for big tech,positive
 2021-04-26,apple will increase its spending in the united states by 20 percent,positive
 2021-04-25,your smartphone should be built to last,neutral
@@ -1569,14 +1569,14 @@ pub_date,headline,gemini_sentiment
 2021-05-24,apples fortnite trial ends with pointed questions and a toast to popeyes,neutral
 2021-05-14,faithbased investing makes up ground in gains and convenience,positive
 2021-05-03,apple and epic trial opens with a tour of the fortnite metaverse,neutral
-2021-05-02,apple and epic head to court over their slices of the app pie,neutral
+2021-05-02,apple and epic head to court over their slices of the app pie,negative
 2021-05-13,the apple and amazon side hustles,neutral
 2021-05-26,the apple tax is rotten,negative
 2021-05-27,why apple and googles virus alert apps had limited success,negative
 2021-05-17,apples compromises in china 5 takeaways,neutral
-2021-05-27,virus alert apps powered by apple and google have had limited success,negative
+2021-05-27,virus alert apps powered by apple and google have had limited success,neutral
 2021-05-10,stay safe from app tracking,neutral
-2021-12-30,everybody into the metaverse virtual reality beckons big tech,positive
+2021-12-30,everybody into the metaverse virtual reality beckons big tech,neutral
 2021-12-15,apple has a new return to office date indefinite,negative
 2021-12-30,are apple airtags being used to track people and steal cars,negative
 2021-12-09,house votes to impose forced labor ban on goods made in xinjiang,negative
@@ -1585,7 +1585,7 @@ pub_date,headline,gemini_sentiment
 2021-12-08,apple can delay changes to app store rules appeals court says,neutral
 2021-12-27,about 20 apple stores are now closed as the omicron variant surges,negative
 2021-12-15,four resolutions for a healthier tech life in 2022,neutral
-2021-04-20,apples new devices target markets led by smaller rivals,neutral
+2021-04-20,apples new devices target markets led by smaller rivals,negative
 2021-04-19,apple says parler can return to iphones after the app makes some changes,neutral
 2021-04-26,whats behind the applefacebook feud,neutral
 2021-04-26,to be tracked or not apple is now giving us the choice,neutral
@@ -1597,9 +1597,9 @@ pub_date,headline,gemini_sentiment
 2021-04-26,breaking point how mark zuckerberg and tim cook became foes,negative
 2021-05-21,in antitrust trial tim cook argues apple doesnt hurt app makers,neutral
 2021-05-17,censorship surveillance and profits a hard bargain for apple in china,negative
-2021-05-03,apple and epic games head to court over app revenue,neutral
+2021-05-03,apple and epic games head to court over app revenue,negative
 2021-05-21,why you should care about privacy,neutral
-2021-05-18,apples bargain in china,neutral
+2021-05-18,apples bargain in china,positive
 2021-05-25,the epic case against apple wraps up,neutral
 2021-05-21,shoshana zuboff explains why you should care about privacy,neutral
 2021-05-20,americans actually want privacy shocking,neutral
@@ -1607,7 +1607,7 @@ pub_date,headline,gemini_sentiment
 2021-05-20,can a smartwatch save your life,neutral
 2021-06-16,buyers of amazon devices are guinea pigs thats a problem,negative
 2021-06-11,justice dept watchdog to investigate seizure of democrats data,negative
-2021-06-13,apple is said to have turned over data on trumps white house counsel in 2018,neutral
+2021-06-13,apple is said to have turned over data on trumps white house counsel in 2018,negative
 2021-06-15,biden names lina khan a bigtech critic as ftc chair,neutral
 2021-06-11,are techs wealthiest men worth their pay,neutral
 2021-06-29,congress faces renewed pressure to modernize our antitrust laws,neutral
@@ -1615,7 +1615,7 @@ pub_date,headline,gemini_sentiment
 2021-09-03,apple delays the rollout of childsafety features over privacy concerns,negative
 2021-09-16,what the privacy battle upending the internet means for you,neutral
 2021-09-23,in a setback for apple the european union seeks a common charger for all phones,negative
-2021-09-16,apple and facebook are coming for your face next,neutral
+2021-09-16,apple and facebook are coming for your face next,negative
 2021-09-14,the ipad lineup gets a revamp,neutral
 2021-09-26,on sustainability the watch industrys scorecard,neutral
 2021-09-17,google and apple under pressure from russia remove voting app,negative
@@ -1631,9 +1631,9 @@ pub_date,headline,gemini_sentiment
 2021-08-18,are apples tools against child abuse bad for your privacy,negative
 2021-08-11,apple wants to protect children but its creating serious privacy risks,negative
 2021-08-23,apple and googles fight in seoul tests biden in washington,neutral
-2021-08-11,the lesson to learn from apples tool to flag child sex abuse,negative
+2021-08-11,the lesson to learn from apples tool to flag child sex abuse,neutral
 2021-03-18,a pioneer of digital design looks back on a defining era,neutral
-2021-03-16,google reduces some appstore fees amid criticism,negative
+2021-03-16,google reduces some appstore fees amid criticism,neutral
 2021-03-18,states are right to rebel against big tech,negative
 2021-03-03,how to get a pelotonstyle workout without splurging,neutral
 2021-03-04,tech stocks are close to correction territory heres what that means,negative
@@ -1648,16 +1648,16 @@ pub_date,headline,gemini_sentiment
 2021-09-17,stocks decline for a second week as septembers slow retreat continues,negative
 2021-09-10,a sept 11 conundrum,neutral
 2021-09-14,apples new iphone 13 is better but not by much,neutral
-2021-09-22,voice assistants dont understand us they should,neutral
+2021-09-22,voice assistants dont understand us they should,negative
 2021-09-11,a nick to apples profits could be a windfall for app developers,positive
 2021-09-07,the medium of the moment,neutral
-2021-09-02,apple has new tools to protect children but at what cost,negative
+2021-09-02,apple has new tools to protect children but at what cost,neutral
 2021-09-21,apple iphone 13 review the most incremental upgrade ever,neutral
 2021-09-16,the battle for digital privacy is reshaping the internet,neutral
 2021-09-14,the new apple watch once again emphasizes fitness,neutral
 2021-08-27,apple avoids another legal fight with app developers,positive
 2021-08-20,why apple is about to search your files,neutral
-2021-08-27,apples shrewd app store settlement,positive
+2021-08-27,apples shrewd app store settlement,neutral
 2021-08-25,buy or wait heres a guide to phone upgrades,neutral
 2021-08-05,apples iphones will include new tools to flag child sexual abuse,neutral
 2021-08-12,smartphones won we can ignore them,neutral
@@ -1669,7 +1669,7 @@ pub_date,headline,gemini_sentiment
 2021-09-10,the sp 500 drops for a fifth day its worst stretch since february,negative
 2021-09-02,apple plans another tweak to its strict app store rules,neutral
 2021-09-13,why apple didnt lose in the epic games ruling,positive
-2021-09-14,apple holds event to introduce new iphones ipads and other gadgets,neutral
+2021-09-14,apple holds event to introduce new iphones ipads and other gadgets,positive
 2021-09-17,tim cook faces surprising employee unrest at apple,negative
 2021-09-10,judge orders apple to ease restrictions on app developers,positive
 2021-07-23,delays more masks and mandatory shots virus surge disrupts officereturn plans,negative
@@ -1687,7 +1687,7 @@ pub_date,headline,gemini_sentiment
 2021-06-23,house lawmakers are considering 6 bills aimed at big tech,neutral
 2021-06-12,bitcoin and encryption a race between criminals and the fbi,negative
 2021-06-14,justice dept will toughen rules for seizing lawmakers data garland says,negative
-2021-06-10,meet big techs tormenter in chief,neutral
+2021-06-10,meet big techs tormenter in chief,negative
 2021-06-11,in leak investigation tech giants are caught between courts and customers,negative
 2021-06-08,the debate over hacking ransomware hackers,negative
 2021-06-07,why all the fury at apple,negative
@@ -1699,7 +1699,7 @@ pub_date,headline,gemini_sentiment
 2021-10-18,is mark zuckerberg a man without principles,negative
 2021-10-25,google pixel 6 review playing catchup with the iphone,neutral
 2021-10-08,apple appeals app store ruling in fight with epic games,negative
-2021-10-29,apples most backordered new product is not what you expect,negative
+2021-10-29,apples most backordered new product is not what you expect,neutral
 2021-10-20,the true cost of upgrading your phone,neutral
 2021-10-18,apple unveils new macbook computers and updated airpods,positive
 2021-10-25,why republican ken buck believes in antitrust and doesnt believe in the big lie,neutral
@@ -1761,7 +1761,7 @@ pub_date,headline,gemini_sentiment
 2022-04-13,etsy and the sameness of internet fights,neutral
 2022-04-22,as europe approves new tech laws the us falls further behind,negative
 2022-04-26,stocks drop 28 led lower by tech as aprils slump continues,negative
-2022-04-28,apples growth slows but still beats wall streets expectations,positive
+2022-04-28,apples growth slows but still beats wall streets expectations,neutral
 2022-04-20,apple store workers in atlanta are the first to formally seek a union,neutral
 2022-04-12,welcome back to the office isnt this fun,neutral
 2022-04-27,musk may be about to sell some tesla stock how would that affect markets,negative
@@ -1776,17 +1776,17 @@ pub_date,headline,gemini_sentiment
 2022-05-01,how technocrats triumphed at apple,neutral
 2022-05-20,big tech is getting clobbered on wall street its a good time for them,negative
 2022-09-07,your wednesday evening briefing,neutral
-2022-09-06,how china has added to its influence over the iphone,neutral
+2022-09-06,how china has added to its influence over the iphone,negative
 2022-09-06,apple the ad critic now embraces ads,neutral
 2022-09-01,tech companies slowly shift production away from china,negative
-2022-09-23,apple to sponsor the super bowl halftime show,neutral
+2022-09-23,apple to sponsor the super bowl halftime show,positive
 2022-09-08,blackrock seeks to defend its reputation over esg fight,negative
 2022-09-07,judge hands elon musk a win in court,positive
 2022-09-08,a smartphone that lasts a decade yes its possible,positive
 2022-09-14,text messaging is cool but where are its boundaries,neutral
 2022-09-04,the week in business job growth is solid but slowing,neutral
 2022-08-20,how the find my app became an accidental friendship fixture,neutral
-2022-08-01,pixars ousted founder returns with apple and luck,positive
+2022-08-01,pixars ousted founder returns with apple and luck,neutral
 2022-08-05,clock running out on antitrust bill targeting big tech,negative
 2022-08-10,change these default settings and be happier with your tech,neutral
 2022-08-19,she had an airtag in her lost luggage it led police to a baggage handlers home,neutral
@@ -1798,18 +1798,18 @@ pub_date,headline,gemini_sentiment
 2022-03-24,no longer in russia,negative
 2022-03-08,apple unveils a new iphone a new ipad and other devices,positive
 2022-03-18,brazil blocks telegram over disinformation concerns,negative
-2022-03-23,google facing antitrust scrutiny says it will let apps like spotify offer alternate billing systems,negative
+2022-03-23,google facing antitrust scrutiny says it will let apps like spotify offer alternate billing systems,neutral
 2022-03-29,apple and the streaming mirage,neutral
 2022-02-26,russia intensifies censorship campaign pressuring tech giants,negative
-2022-02-10,apple says it will make airtags easier to find after complaints of stalking,negative
+2022-02-10,apple says it will make airtags easier to find after complaints of stalking,neutral
 2022-02-11,i used apple airtags tiles and a gps tracker to watch my husbands every move,negative
 2022-02-12,is the metaverse just marketing,neutral
 2022-02-03,a change by apple is tormenting internet companies especially meta,negative
 2022-02-16,google plans privacy changes but promises to not be disruptive,neutral
-2022-02-20,the week in business a step toward data privacy,positive
+2022-02-20,the week in business a step toward data privacy,neutral
 2022-02-03,6 reasons meta is in trouble,negative
 2022-02-22,why apples fight in the netherlands matters,neutral
-2022-02-03,what big techs riches mean for our future,positive
+2022-02-03,what big techs riches mean for our future,neutral
 2022-03-14,foxconn which assembles apples iphones suspends production at factories in shenzhen china because of a lockdown,negative
 2022-03-31,its scary how dominant apple has become but how scary,negative
 2022-03-26,arizona offers drivers licenses on iphones other states want to be next,neutral
@@ -1827,7 +1827,7 @@ pub_date,headline,gemini_sentiment
 2022-09-07,apple extends reach with 800 watch as new iphone inches along,neutral
 2022-09-30,the markets face a rare double decline,negative
 2022-09-01,big tech reconsiders the made in china way,negative
-2022-09-01,an apple watch for your 5yearold more parents say yes,positive
+2022-09-01,an apple watch for your 5yearold more parents say yes,neutral
 2022-09-20,an antiesg activist takes on apple and disney,negative
 2022-07-25,cooling the economy without crushing it,neutral
 2022-07-26,will streaming save sports or kill it,neutral
@@ -1836,18 +1836,18 @@ pub_date,headline,gemini_sentiment
 2022-07-20,apple agrees to 50 million settlement over butterfly keyboard complaints,negative
 2022-07-28,big tech is proving resilient as the economy cools,positive
 2022-07-24,why big tech is making a big play for live sports,neutral
-2022-07-12,apple ends consulting agreement with jony ive its former design leader,negative
+2022-07-12,apple ends consulting agreement with jony ive its former design leader,neutral
 2022-07-20,who will make apple fashionable now,neutral
 2022-07-01,former apple lawyer pleads guilty to insider trading,negative
 2022-06-07,how updates in ios 16 and android 13 will change your phone,neutral
 2022-06-04,apple starts connecting the dots for its next big thing,positive
-2022-06-15,the handsoff tech era is over,negative
+2022-06-15,the handsoff tech era is over,neutral
 2022-06-15,what europes universal charger mandate means for you,neutral
-2022-06-19,apple workers at maryland store vote to unionize a first in the us,neutral
+2022-06-19,apple workers at maryland store vote to unionize a first in the us,positive
 2022-06-07,a short history of tech predictions,neutral
 2022-06-06,apple unveils new software to make the iphone and other products feel new,positive
 2022-06-07,europe wants to help clear out your drawer full of chargers,neutral
-2022-06-22,should you buy now pay later tread carefully,negative
+2022-06-22,should you buy now pay later tread carefully,neutral
 2022-06-15,how much can the fed do,neutral
 2022-10-20,tesla optimists are in retreat,negative
 2022-10-20,which watches will be the classics of tomorrow,neutral
@@ -1859,7 +1859,7 @@ pub_date,headline,gemini_sentiment
 2022-11-22,open or closed here are stores plans for thanksgiving and black friday,neutral
 2022-11-18,an iphone factory needs workers the chinese government wants to help,neutral
 2022-11-24,in a challenge to beijing unrest over covid lockdowns spreads,negative
-2022-11-28,elon musk takes on apples power setting up a clash,neutral
+2022-11-28,elon musk takes on apples power setting up a clash,negative
 2022-11-02,after covid lockdown fear and unrest sweep iphone factory in china,negative
 2022-11-02,investors await the feds next move,neutral
 2022-11-30,apples app store dominance is problematic zuckerberg says,negative
@@ -1873,7 +1873,7 @@ pub_date,headline,gemini_sentiment
 2022-10-28,emergency pod elon musk owns twitter,neutral
 2022-10-28,elon musk faces another big decision at twitter,neutral
 2022-10-26,how is your company responding to labor organizing we want to hear,neutral
-2022-11-07,a new push for business to help pay for climatechange solutions,positive
+2022-11-07,a new push for business to help pay for climatechange solutions,neutral
 2022-11-07,apple built its empire with china now its foundation is showing cracks,negative
 2022-11-21,investors cheer leadership shakeup at disney,positive
 2022-11-07,apple could be short of iphones because of factory disruptions in china,negative
@@ -1892,7 +1892,7 @@ pub_date,headline,gemini_sentiment
 2022-01-03,apple becomes first company to hit 3 trillion market value,positive
 2022-01-25,apple gets restraining order against a woman accused of stalking tim cook,negative
 2022-01-20,efforts to rein in big tech may be running out of time,negative
-2022-01-05,the meaning of apple at 3 trillion,positive
+2022-01-05,the meaning of apple at 3 trillion,neutral
 2022-01-04,election falsehoods surged on podcasts before capitol riots researchers find,negative
 2022-01-26,why online stars are mad at apple,negative
 2023-12-20,the year in apple watches ai anarchocapitalists and anticapitalists,neutral
@@ -1914,31 +1914,31 @@ pub_date,headline,gemini_sentiment
 2023-05-18,tiktok users sue montana calling state ban unconstitutional,negative
 2023-05-04,pacwests stock plunge reignites banking sector fears,negative
 2023-05-05,katie cotton who helped raise apples profile dies at 57,neutral
-2023-05-22,googles photo app still cant find gorillas and neither can apples,negative
+2023-05-22,googles photo app still cant find gorillas and neither can apples,neutral
 2023-05-22,companies are taking a harder line on union organizers workers say,negative
 2023-05-05,what to watch in todays jobs report,neutral
 2023-05-09,apple weather fails again and users scramble,negative
 2023-05-24,what to know about limiting your childs screen time,neutral
 2023-09-07,apples market value falls by billions on worries about china crackdown,negative
 2023-09-01,in monitoring child sex abuse apple is caught between safety and privacy,negative
-2023-09-26,top apple executive defends favoring google on iphones,neutral
+2023-09-26,top apple executive defends favoring google on iphones,negative
 2023-09-12,how to navigate apples shift from lightning to usbc,neutral
 2023-09-28,whats driving the september stock swoon,negative
 2023-09-20,google says switching away from its search engine is easy its not,negative
 2023-09-11,as smartphone industry sputters the iphone expands its dominance,positive
 2023-09-26,unprecedented secrecy in google trial as tech giants push to limit disclosures,negative
 2023-09-11,chinese warnings on iphones tap deep strain of security concerns,negative
-2023-09-09,the technology facebook and google didnt dare release,neutral
+2023-09-09,the technology facebook and google didnt dare release,negative
 2023-08-04,apples and amazons report cards for the global economy,neutral
 2023-08-22,what spatial audio can and cannot do for classical music,neutral
-2023-08-10,amid sextortions rise computer scientists tap ai to identify risky apps,negative
+2023-08-10,amid sextortions rise computer scientists tap ai to identify risky apps,neutral
 2023-08-05,big tech rebounds and preps for transformative ai investments,positive
-2023-08-04,the chip titan whose lifes work is at the center of a tech cold war,neutral
+2023-08-04,the chip titan whose lifes work is at the center of a tech cold war,negative
 2023-08-03,apple revenue drops 1 but profit rises to 1988 billion,positive
 2023-08-18,interest rate jitters sink the heavyweights of tech,negative
 2023-03-26,at apple rare dissent over a new product interactive goggles,negative
 2023-03-31,how big tech camouflaged wall streets crisis,negative
-2023-03-23,attention travelers now is the best time to switch to esim,positive
+2023-03-23,attention travelers now is the best time to switch to esim,neutral
 2023-03-08,the perils of working on a ceos pet project,negative
 2023-03-06,the case against some buybacks,negative
 2023-03-10,troubles at silicon valley bank rock the global market,negative
@@ -1961,17 +1961,17 @@ pub_date,headline,gemini_sentiment
 2023-07-19,biden administration unveils tougher guidelines on mergers,negative
 2023-07-18,i love you lets stalk each other,neutral
 2023-07-14,the economic stakes in the hollywood shutdown,neutral
-2023-07-27,warren and graham team up to take on big tech,neutral
+2023-07-27,warren and graham team up to take on big tech,negative
 2023-07-27,lindsey graham and elizabeth warren when it comes to big tech enough is enough,neutral
 2023-06-06,a first try of apples 3500 vision pro headset,neutral
 2023-06-20,business lessons from blinkens trip to china,neutral
 2023-06-02,apple is stepping into the metaverse will anyone care,neutral
 2023-06-06,can apple take the metaverse mainstream,neutral
-2023-06-17,as us and chinese officials meet businesses temper their hopes,negative
+2023-06-17,as us and chinese officials meet businesses temper their hopes,neutral
 2023-06-21,business leaders join biden in welcoming modi to the us,positive
 2023-06-09,apples face computer crypto chaos and how teens really feel about social media,neutral
 2023-06-07,apple knows you didnt mean to type ducking,neutral
-2023-06-08,how the lionel messi deal stymied saudi arabia,neutral
+2023-06-08,how the lionel messi deal stymied saudi arabia,negative
 2023-06-06,but would you wear it,neutral
 2023-11-20,this is why google paid billions for apple to change a single setting,neutral
 2023-11-07,consumer bureau seeks to supervise digital payment apps,neutral
@@ -1979,25 +1979,25 @@ pub_date,headline,gemini_sentiment
 2023-10-30,google ceo says tech giant has improved the web for all consumers,positive
 2023-10-26,inside googles plan to stop apple from getting serious about search,negative
 2023-10-20,apples new film strategy debuts with killers of the flower moon,neutral
-2023-10-03,spotify gave subscribers music and podcasts next audiobooks,positive
+2023-10-03,spotify gave subscribers music and podcasts next audiobooks,neutral
 2023-10-19,jon stewarts show on apple is ending,neutral
 2023-10-30,the patent fight that could take apple watches off the market,negative
 2023-10-25,what the us has argued in the google antitrust trial,neutral
 2023-10-22,foxconn apples manufacturer in china is said to be under tax audit,negative
-2023-10-06,investing has been ugly stick with it anyway,negative
+2023-10-06,investing has been ugly stick with it anyway,neutral
 2023-10-23,read the document,neutral
 2023-11-02,apples sales drop slightly while profit is up 11 percent,positive
-2023-11-27,how the biden administration took the pen away from meta google and amazon,neutral
+2023-11-27,how the biden administration took the pen away from meta google and amazon,negative
 2023-11-05,another google antitrust battle reaches court in epic games case,negative
 2023-11-10,apple cofounder steve wozniak is doing good after minor stroke,positive
 2023-11-16,what the bidenxi talks accomplished and didnt,neutral
 2023-11-01,vague iphone alert triggers serious accusations of spying in india,negative
 2023-11-29,apple is doing its part to end green bubble shaming its our turn,neutral
-2023-11-21,the long shadow of steve jobs looms over the turmoil at openai,negative
+2023-11-21,the long shadow of steve jobs looms over the turmoil at openai,neutral
 2023-11-17,advertisers flee x as outcry over musks endorsement of antisemitic post grows,negative
 2023-11-12,you paid 1000 for an iphone but apple still controls it,negative
 2023-06-05,saudi arabias whatever it takes strategy boosts oil prices,positive
-2023-06-06,why i cant bet against apples mixedreality prowess,positive
+2023-06-06,why i cant bet against apples mixedreality prowess,neutral
 2023-06-09,dont wear the goggles their vision is bleak,negative
 2023-06-09,what trumps latest indictment means for the 2024 race,neutral
 2023-06-05,apple debuts its next big product a virtual reality headset,positive
@@ -2016,14 +2016,14 @@ pub_date,headline,gemini_sentiment
 2024-12-13,the messy modern music business according to larry jackson,neutral
 2024-12-18,how to find your way around that updated photos app,neutral
 2024-12-07,on these apps the dark promise of mothers sexually abusing children,negative
-2024-04-03,switching from iphone to android is easy its the aftermath that stings,negative
+2024-04-03,switching from iphone to android is easy its the aftermath that stings,neutral
 2024-04-23,pay later lenders have an issue with credit bureaus,negative
-2024-04-09,beeper messaging app is acquired as a bet on a regulatory shift,positive
+2024-04-09,beeper messaging app is acquired as a bet on a regulatory shift,neutral
 2024-04-19,apple says it was ordered to pull whatsapp from china app store,negative
 2024-04-11,apple lifts some restrictions on iphone repairs,positive
 2024-04-22,fifa said to be close to tv deal with apple for new tournament,positive
 2024-05-02,apple reports decline in sales and profit amid iphone struggles in china,negative
-2024-05-23,some iphone customers could get up to 349 in an apple settlement,neutral
+2024-05-23,some iphone customers could get up to 349 in an apple settlement,positive
 2024-05-10,apple will revamp siri to catch up to its chatbot competitors,neutral
 2024-05-03,what will warren buffett bet on next,neutral
 2024-05-08,apples new ipad ad leaves its creative audience feeling flat,negative
@@ -2035,21 +2035,21 @@ pub_date,headline,gemini_sentiment
 2024-09-01,in venice george clooney talks president biden and american politics,neutral
 2024-09-09,how to turn your old iphone into an ai phone and skip the upgrade,neutral
 2024-09-09,can apples iphones pass the ai test,neutral
-2024-09-18,foldables are becoming good enough to be your next smartphone,positive
+2024-09-18,foldables are becoming good enough to be your next smartphone,neutral
 2024-09-26,why does my iphone keep asking me to check in with my ex,neutral
 2024-09-19,amazon joins hollywoods top lobbying group,neutral
 2024-09-09,apple unveils new iphones with builtin artificial intelligence,positive
 2024-09-21,after apple jony ive is building an empire of his own,neutral
 2024-09-30,breaking up with china is hard to do,negative
 2024-09-10,chinas huawei shows the world its 2800 trifold phone,neutral
-2024-08-05,after google antitrust ruling heres where other big tech cases stand,negative
+2024-08-05,after google antitrust ruling heres where other big tech cases stand,neutral
 2024-08-01,sales of macs and ipads lead apples quarterly revenue up 5,positive
 2024-08-09,googles monopoly money is the ai bubble popping the hotmess express,negative
 2024-08-07,apple store workers get first us contract,positive
 2024-08-16,apple giving ground on app store rules to appease regulators,negative
 2024-08-13,google debuts aipowered phones in latest attempt to best the iphone,neutral
 2024-08-13,new details on gaza ceasefire obstacles and musk interviews trump,neutral
-2024-08-02,tech bosses preach patience as they spend and spend on ai,negative
+2024-08-02,tech bosses preach patience as they spend and spend on ai,neutral
 2024-08-14,abortion access on the ballot and hamas wont attend peace talks,neutral
 2024-08-29,apple and nvidia in talks to invest in openai,positive
 2024-03-06,apple blocks epic games from using iphone tools in escalation of feud,negative
@@ -2099,15 +2099,15 @@ pub_date,headline,gemini_sentiment
 2024-06-11,can apple rescue the vision pro,neutral
 2024-06-23,what the arrival of ai phones and computers means for our data,neutral
 2024-06-10,welcome to the era of the ai smartphone,neutral
-2024-06-24,hollywood sharpens aim at online pirates,neutral
-2024-06-09,hey siri lets talk about how apple is giving you an ai makeover,positive
+2024-06-24,hollywood sharpens aim at online pirates,negative
+2024-06-09,hey siri lets talk about how apple is giving you an ai makeover,neutral
 2024-06-14,apple joins the ai party elons wild week and hatgpt,neutral
 2024-06-10,apple jumps into ai fray with apple intelligence,positive
 2024-06-06,that muchdespised apple ad could be more disturbing than it looks,negative
 2024-06-24,apple is first company charged under new eu competition law,negative
 2024-03-22,the trustbuster who has apple and google in his sights,negative
-2024-03-22,us to push for gaza ceasefire apple gets sued and more,negative
-2024-03-21,read the lawsuit against apple,neutral
+2024-03-22,us to push for gaza ceasefire apple gets sued and more,neutral
+2024-03-21,read the lawsuit against apple,negative
 2024-03-22,five us cases targeting big tech,negative
 2024-03-27,can xeroxs parc a silicon valley icon find new life with sri,neutral
 2024-03-21,garland accuses apple of violating federal antitrust law,negative

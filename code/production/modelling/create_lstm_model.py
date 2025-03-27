@@ -4,42 +4,75 @@ from dotenv import load_dotenv
 from os import getenv, path
 import sys
 
-from keras.models import Sequential
-from keras.layers import Dense, LSTM
+from keras.models import Model
+from keras.layers import Dense, LSTM, Input
 from keras.callbacks import EarlyStopping
 
 sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
-from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, get_results, get_training_plot, get_validation_plot
+from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, iterator_results, iterator_average_results, update_best_results, get_training_plot, get_validation_plot
 
-def create_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model):
-    '''Trains LSTM model and gets prediction for test data'''
-    # Initialise variables
-    history = ''
-    path = '../../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
-
-    # Create LSTM model
-    model = Sequential()
-    model.add(LSTM(100, input_shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2])))
-    # model.add(Dense(32, activation='relu'))
-    model.add(Dense(1))
+def create_lstm(X_train_reshaped):
+    lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
+    lstm_hidden = LSTM(100, name="lstm_layer")(lstm_input)
+    output = Dense(1, name="output_layer")(lstm_hidden)
+    model = Model(inputs=lstm_input, outputs=output)
     model.compile(loss='mae', optimizer='adam')
 
-    if train_model:
-        # Model fitting
-        callback = EarlyStopping(monitor='loss', mode='min', patience=5, min_delta=1e-4, restore_best_weights=True)
-        history = model.fit(X_train_reshaped, y_train, epochs=epochs, batch_size=batch_size, verbose=2, shuffle=False, callbacks=[callback])
+    return model
 
-        # Save weights
-        model.save_weights(path)
+def train_test_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations):
+    # Initialise variables
+    history = ''
+    mae = float('inf')
+    mse = float('inf')
+    path = '../../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
+    best_index = 0
+    best_mse = float('inf')
+    model_dict = {'model':[], 'history':[], 'mae': [], 'mse': []}
+
+    if train_model:
+        for i in range(iterations):
+            print(f'Model Training Iteration {str(i)}')
+            # Create model
+            model = create_lstm(X_train_reshaped)
+
+            # Model fitting
+            callback = EarlyStopping(monitor='loss', mode='min', patience=5, min_delta=1e-4, restore_best_weights=True)
+            history = model.fit(X_train_reshaped, y_train, epochs=epochs, batch_size=batch_size, verbose=2, shuffle=False, callbacks=[callback])
+            
+            # Get predicted values
+            yhat = model.predict(X_test_reshaped)
+            inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps)
+            mae, mse = iterator_results(inv_y, inv_yhat, target_stock, model_name, iteration=i)
+
+            if mse < best_mse:
+                best_index = i
+                best_mse = mse
+
+            # Add to dictionary
+            model_dict['model'].append(model)
+            model_dict['history'].append(history)
+            model_dict['mae'].append(mae)
+            model_dict['mse'].append(mse)
+
+        best_model = model_dict['model'][best_index]
+        history = model_dict['history'][best_index]
+        mae = model_dict['mae'][best_index]
+        mse = model_dict['mse'][best_index]
+        iterator_average_results(model_dict['mae'], model_dict['mse'], target_stock, model_name)
+
+        # Export key outputs
+        best_model.save_weights(path)
+        update_best_results(mae, mse, target_stock, model_name)
+        get_training_plot(history, target_stock, model_name) 
+        get_validation_plot(test, inv_y, inv_yhat, target_stock, model_name)
 
     else:
         # Load weights
-        model.load_weights(path)
+        # model.load_weights(path)
+        print("Variable 'train_model' set to 0, to re-train, set to 1 in .lstm.env")
 
-    # Get predicted values
-    yhat = model.predict(X_test_reshaped)
-
-    return history, yhat
+    return history, mae, mse
 
 
 if __name__ == '__main__':
@@ -54,6 +87,7 @@ if __name__ == '__main__':
     train_pct = float(getenv('train_pct'))
     epochs = int(getenv('epochs'))
     batch_size = int(getenv('batch_size'))
+    iterations = int(getenv('iterations'))
 
     # Misc
     model_name = getenv('model_name')
@@ -69,11 +103,7 @@ if __name__ == '__main__':
     X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, lag_steps)
 
     # Modelling
-    history, yhat = create_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model)
-    inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps)
+    train_test_lstm(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations)
 
-    # Results
-    get_results(inv_y, inv_yhat, target_stock, model_name)
-    if train_model:
-        get_training_plot(history, target_stock, model_name) 
-    get_validation_plot(test, inv_y, inv_yhat, target_stock, model_name)
+    
+

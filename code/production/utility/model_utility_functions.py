@@ -1,5 +1,5 @@
 # Imports
-from numpy import concatenate
+from numpy import concatenate, mean
 from pandas import to_datetime
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
@@ -55,15 +55,31 @@ def transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps):
 
     return inv_y, inv_yhat
 
-def get_results(inv_y, inv_yhat, target_stock, model_name):
+def iterator_results(inv_y, inv_yhat, target_stock, model_name, iteration=None):
     # Get Test Errors
     mae = mean_absolute_error(inv_y, inv_yhat)
-    print('LSTM Test MAE: %.3f' % mae)
-
     mse = mean_squared_error(inv_y, inv_yhat)
-    print('LSTM Test MSE: %.3f' % mse)
 
-    # Export Test Errors
+    # Update Errors
+    model_errors_instance = model_errors(target_stock, filepath=f'../../../data/model_results/{model_name}_errors_')
+    model_errors_instance.update(model_name + '_' + str(iteration), mae, mse)
+
+    return mae, mse
+
+def iterator_average_results(list_mae, list_mse, target_stock, model_name):
+    mae = mean(list_mae)
+    mse = mean(list_mse)
+
+    # Update Errors
+    model_errors_instance = model_errors(target_stock, filepath=f'../../../data/model_results/{model_name}_errors_')
+    model_errors_instance.update(model_name + '_average', mae, mse)
+
+def update_best_results(mae, mse, target_stock, model_name):
+    # Get Test Errors
+    print('LSTM Test MAE: %.3f' % mae)
+    print('LSTM Test MSE: %.3f' % mse)
+    
+    # Update Errors
     model_errors_instance = model_errors(target_stock)
     model_errors_instance.update(model_name, mae, mse)
 

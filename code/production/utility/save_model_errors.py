@@ -1,16 +1,17 @@
 # Imports
 from pandas import read_csv, DataFrame
+from os import path
 
 class model_errors:
-    def __init__(self, target_stock):
-        self.filepath = f'../../../data/model_results/model_errors_{target_stock}.csv'
+    def __init__(self, target_stock, filepath='../../../data/model_results/model_errors_'):
+        self.filepath = filepath + target_stock + '.csv'
     
     def initialise(self):
         dummy_data = {'model': [], 'mae': [], 'mse': []}
         self.model_errors = DataFrame(dummy_data)
         self._export()
 
-    def update(self, model: str, mae: float, mse: float ):
+    def update(self, model, mae, mse):
         self._read()
         new_data = {'model': model, 'mae': mae, 'mse': mse}
 
@@ -26,7 +27,10 @@ class model_errors:
         self._export()
 
     def _read(self):
-        self.model_errors = read_csv(self.filepath)
+        if path.exists(self.filepath):
+            self.model_errors = read_csv(self.filepath)
+        else:
+            self.initialise()
 
     def _export(self):
         self.model_errors.to_csv(self.filepath, index=False)

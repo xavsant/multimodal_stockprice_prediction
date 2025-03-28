@@ -28,7 +28,7 @@ def train_test_lstm_model(X_train_reshaped, y_train, X_test_reshaped, epochs, ba
     best_index = 0
     best_mse = float('inf')
     path = '../../../data/weights/' + model_name + '_' + target_stock + '.weights.h5'
-    model_dict = {'model':[], 'history':[], 'mae': [], 'mse': []}
+    model_dict = {'model':[], 'history':[], 'inv_yhat': [], 'mae': [], 'mse': []}
 
     if train_model:
         for i in range(iterations):
@@ -52,11 +52,13 @@ def train_test_lstm_model(X_train_reshaped, y_train, X_test_reshaped, epochs, ba
             # Add to dictionary
             model_dict['model'].append(model)
             model_dict['history'].append(history)
+            model_dict['inv_yhat'].append(inv_yhat)
             model_dict['mae'].append(mae)
             model_dict['mse'].append(mse)
 
         best_model = model_dict['model'][best_index]
         history = model_dict['history'][best_index]
+        inv_yhat = model_dict['inv_yhat'][best_index]
         mae = model_dict['mae'][best_index]
         mse = model_dict['mse'][best_index]
         iterator_average_results(model_dict['mae'], model_dict['mse'], target_stock, model_name)

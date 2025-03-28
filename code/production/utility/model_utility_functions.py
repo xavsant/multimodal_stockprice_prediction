@@ -76,8 +76,8 @@ def iterator_average_results(list_mae, list_mse, target_stock, model_name):
 
 def update_best_results(mae, mse, target_stock, model_name):
     # Get Test Errors
-    print('LSTM Test MAE: %.3f' % mae)
-    print('LSTM Test MSE: %.3f' % mse)
+    print('Model Test MAE: %.3f' % mae)
+    print('Model Test MSE: %.3f' % mse)
     
     # Update Errors
     model_errors_instance = model_errors(target_stock)

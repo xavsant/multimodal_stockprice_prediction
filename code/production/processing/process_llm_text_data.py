@@ -56,8 +56,8 @@ if __name__ == '__main__':
     text_type = getenv('text_type')
     target_stock = getenv('target_stock')
     stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'
-    llm_input_filepath = getenv('llm_input_filepath')
-    llm_output_filepath = getenv('llm_output_filepath') + text_type + '_' + target_stock + '.json' # Output path
+    llm_input_filepath = getenv('llm_text_input_filepath')
+    llm_output_filepath = getenv('llm_text_output_filepath') + text_type + '_' + target_stock + '.json' # Output path
     
     price_df = read_csv(stock_data_filepath, index_col='Date')
     text_df = read_csv(llm_input_filepath)

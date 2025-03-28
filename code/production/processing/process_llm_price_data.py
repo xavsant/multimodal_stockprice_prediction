@@ -10,8 +10,8 @@ if __name__ == '__main__':
     llm_output_filepath = getenv('llm_price_prediction_output_filepath') + text_type + '_' + target_stock + '.csv' # Output path
 
     # Read in .json and transform
-    df = read_json('../../../code/experiments/LLM_Price_Prediction/LLM_price_predictions.json', orient='records')
-    df.columns = ['Date', 'LLM_predicted_price']
+    df = read_json('../../../data/raw/gemini_price_predictions.json', orient='records')
+    df.columns = ['Date', 'gemini_predicted_price']
     df.set_index('Date', inplace=True)
 
     # Read in baseline data
@@ -20,6 +20,6 @@ if __name__ == '__main__':
 
     # Reindex
     df_reindex = df.reindex(lstm_df.index, method=None)
-    df_processed = df_reindex['LLM_predicted_price'].fillna(lstm_df[f'{target_stock}(t-1)']) # Fill with stock t-1 value
+    df_processed = df_reindex['gemini_predicted_price'].fillna(lstm_df[f'{target_stock}(t-1)']) # Fill with stock t-1 value
 
     df_processed.to_csv(llm_output_filepath)

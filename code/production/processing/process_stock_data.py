@@ -1,5 +1,7 @@
 # Imports
 from pandas import read_csv, DataFrame, concat, to_datetime
+from dotenv import load_dotenv
+from os import getenv
 
 def time_series_to_lstm(df, target_variable, lag_steps=1, dropna=True, fill='ffill'):
     """
@@ -52,10 +54,11 @@ def time_series_to_lstm(df, target_variable, lag_steps=1, dropna=True, fill='ffi
 if __name__ == '__main__':
 
     # Initialise variables
-    target_stock = 'AAPL'
+    load_dotenv('../modelling/.lstm.env')
+    target_stock = getenv('target_stock')
+    lag_steps = int(getenv('lag_steps'))
     selected_stocks = [target_stock]
-    lag_steps = 1
-    output_filepath = '../../../data/clean/baseline_transformed_dataset_' + target_stock + '.csv'
+    output_filepath = '../../../data/clean/multimodal_inputs/baseline_transformed_dataset_' + target_stock + '.csv'
 
     df = read_csv('../../../data/raw/djia_stock_data.csv', header=[0,1], index_col=0)
     df.dropna(inplace=True)

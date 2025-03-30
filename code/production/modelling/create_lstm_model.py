@@ -13,7 +13,7 @@ from model_utility_functions import train_test_split, minmax_scale, separate_fea
 
 def create_lstm_model(X_train_reshaped):
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
-    lstm_hidden = LSTM(128, name="lstm_layer")(lstm_input)
+    lstm_hidden = LSTM(96, name="lstm_layer")(lstm_input)
     lstm_dense = Dense(32, activation="relu", name="lstm_dense")(lstm_hidden)
     output = Dense(1, name="output_layer")(lstm_dense)
     
@@ -22,7 +22,7 @@ def create_lstm_model(X_train_reshaped):
 
     return model
 
-def train_test_lstm_model(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations):
+def train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations):
     # Initialise variables
     history = ''
     mae = float('inf')
@@ -39,7 +39,7 @@ def train_test_lstm_model(X_train_reshaped, y_train, X_test_reshaped, epochs, ba
             model = create_lstm_model(X_train_reshaped)
 
             # Model fitting
-            callback = EarlyStopping(monitor='loss', mode='min', patience=5, min_delta=1e-4, restore_best_weights=True)
+            callback = EarlyStopping(monitor='loss', mode='min', patience=5, min_delta=1e-3, restore_best_weights=True)
             history = model.fit(X_train_reshaped, y_train, epochs=epochs, batch_size=batch_size, verbose=2, shuffle=False, callbacks=[callback])
             
             # Get predicted values
@@ -102,12 +102,17 @@ if __name__ == '__main__':
     # Preprocessing
     df = read_csv(stock_data_filepath, index_col='Date')
     train, test = train_test_split(df, train_pct)
-    train_scaled, test_scaled, scaler = minmax_scale(train, test)
+    train_array = train.to_numpy()
+    test_array = test.to_numpy()
+
+    train_scaled, test_scaled, scaler = minmax_scale(train_array, test_array)
     X_train, y_train, X_test, y_test = separate_features_from_target(train_scaled, test_scaled)
-    X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, lag_steps)
+
+    # X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, lag_steps)
+    X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, num_features)
 
     # Modelling
-    train_test_lstm_model(X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations)
+    train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations)
 
     
 

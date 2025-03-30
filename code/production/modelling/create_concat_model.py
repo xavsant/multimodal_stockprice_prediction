@@ -16,27 +16,24 @@ def create_concat_model(X_train_reshaped, text_train, target_stock):
 
     # Create LSTM modality
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
-    lstm_output = LSTM(100, name="lstm_layer")(lstm_input)  # Keep structure the same
+    lstm_hidden = LSTM(128, name="lstm_layer")(lstm_input)
+    lstm_dense = Dense(32, activation="relu", name="lstm_dense")(lstm_hidden)
 
     ## Load weights
-    lstm_model = Model(inputs=lstm_input, outputs=lstm_output)
+    lstm_model = Model(inputs=lstm_input, outputs=lstm_dense)
     lstm_model.load_weights(lstm_path)
-
-    ## Add density layer
-    lstm_dense = Dense(32, activation="relu")(lstm_model.output)
 
     # Create text modality
     text_input = Input(shape=(text_train.shape[1],))
-
-    ## Add density layer
-    text_dense = Dense(8, activation='relu')(text_input)
+    text_dense = Dense(16, activation='relu')(text_input)
 
     # Concatenate modalities
     concatenated = Concatenate(name="concatenation_layer")([lstm_dense, text_dense])
 
     ## Add final density layers
-    dense_layer = Dense(16, activation='relu', name="dense_final")(concatenated)
+    dense_layer = Dense(32, activation='relu', name="dense_final")(concatenated)
     output = Dense(1, name="output_layer")(dense_layer)
+    
     model = Model(inputs=[lstm_input, text_input], outputs=output)
     model.compile(optimizer='adam', loss='mean_squared_error')
 

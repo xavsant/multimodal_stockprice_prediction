@@ -13,8 +13,10 @@ from model_utility_functions import train_test_split, minmax_scale, separate_fea
 
 def create_lstm_model(X_train_reshaped):
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
-    lstm_hidden = LSTM(100, name="lstm_layer")(lstm_input)
-    output = Dense(1, name="output_layer")(lstm_hidden)
+    lstm_hidden = LSTM(128, name="lstm_layer")(lstm_input)
+    lstm_dense = Dense(32, activation="relu", name="lstm_dense")(lstm_hidden)
+    output = Dense(1, name="output_layer")(lstm_dense)
+    
     model = Model(inputs=lstm_input, outputs=output)
     model.compile(loss='mae', optimizer='adam')
 

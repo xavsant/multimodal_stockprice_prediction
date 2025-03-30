@@ -31,51 +31,35 @@ def separate_features_from_target(train_scaled, test_scaled):
 
     return X_train, y_train, X_test, y_test
 
-def reshape_X(X_train, X_test, lag_steps):
-    X_train_reshaped = X_train.reshape((X_train.shape[0], lag_steps, X_train.shape[1]))
-    X_test_reshaped = X_test.reshape((X_test.shape[0], lag_steps, X_test.shape[1]))
+# def reshape_X(X_train, X_test, lag_steps):
+#     X_train_reshaped = X_train.reshape((X_train.shape[0], lag_steps, X_train.shape[1]))
+#     X_test_reshaped = X_test.reshape((X_test.shape[0], lag_steps, X_test.shape[1]))
+
+#     return X_train_reshaped, X_test_reshaped
+
+def reshape_X(X_train, X_test, num_features):
+    X_train_reshaped = X_train.reshape((X_train.shape[0], X_train.shape[1], num_features))
+    X_test_reshaped = X_test.reshape((X_test.shape[0], X_test.shape[1], num_features))
 
     return X_train_reshaped, X_test_reshaped
 
-def transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps):
+def transform_y(X_test_reshaped, y_test, yhat, scaler):
     # Reshaping back into 2D for inverse scaling
-    X_test_inv = X_test_reshaped.reshape((X_test_reshaped.shape[0], X_test_reshaped.shape[2])) 
+    X_test_inv = X_test_reshaped[:, :, -1]
 
     # Concatenate and Inverse Scaling
     # Validation
     y_test_inv = y_test.reshape((len(y_test), 1))
     inv_y = concatenate((X_test_inv, y_test_inv), axis=1) # Both arrays must have same dimensions
     inv_y = scaler.inverse_transform(inv_y)
-    inv_y = inv_y[:, num_features*lag_steps]
+    inv_y = inv_y[:, -1]
 
     # Prediction
     inv_yhat = concatenate((X_test_inv, yhat), axis=1) # Required to get back original scale
     inv_yhat = scaler.inverse_transform(inv_yhat)
-    inv_yhat = inv_yhat[:, num_features*lag_steps] # Extract target_variable
+    inv_yhat = inv_yhat[:, -1] # Extract target_variable
 
     return inv_y, inv_yhat
-
-# def transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps):
-#     # Reshaping back into 2D for inverse scaling
-#     X_test_inv = X_test_reshaped.reshape((X_test_reshaped.shape[0], X_test_reshaped.shape[2])) 
-
-#     # Validation
-#     y_test_inv = y_test.reshape((len(y_test), 1))
-#     inv_y = concatenate((X_test_inv, y_test_inv), axis=1)  # Concatenate X and actual y values
-#     inv_y = scaler.inverse_transform(inv_y)
-#     inv_y = inv_y[:, num_features * lag_steps]  # Extract target variable from the scaled output
-
-#     # Prediction
-#     if len(yhat.shape) == 3:  # If yhat has 3 dimensions (sequence output)
-#         yhat = yhat[:, -1, :]  # Select the last time step (or any other time step if needed)
-
-#     # Concatenate and inverse transform
-#     inv_yhat = concatenate((X_test_inv, yhat), axis=1)  # Concatenate X and predicted y values
-#     inv_yhat = scaler.inverse_transform(inv_yhat)
-#     inv_yhat = inv_yhat[:, num_features * lag_steps]  # Extract the target variable
-
-#     return inv_y, inv_yhat
-
 
 def iterator_results(inv_y, inv_yhat, target_stock, model_name, iteration=None):
     # Get Test Errors

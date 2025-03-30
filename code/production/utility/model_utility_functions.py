@@ -55,6 +55,28 @@ def transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps):
 
     return inv_y, inv_yhat
 
+# def transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps):
+#     # Reshaping back into 2D for inverse scaling
+#     X_test_inv = X_test_reshaped.reshape((X_test_reshaped.shape[0], X_test_reshaped.shape[2])) 
+
+#     # Validation
+#     y_test_inv = y_test.reshape((len(y_test), 1))
+#     inv_y = concatenate((X_test_inv, y_test_inv), axis=1)  # Concatenate X and actual y values
+#     inv_y = scaler.inverse_transform(inv_y)
+#     inv_y = inv_y[:, num_features * lag_steps]  # Extract target variable from the scaled output
+
+#     # Prediction
+#     if len(yhat.shape) == 3:  # If yhat has 3 dimensions (sequence output)
+#         yhat = yhat[:, -1, :]  # Select the last time step (or any other time step if needed)
+
+#     # Concatenate and inverse transform
+#     inv_yhat = concatenate((X_test_inv, yhat), axis=1)  # Concatenate X and predicted y values
+#     inv_yhat = scaler.inverse_transform(inv_yhat)
+#     inv_yhat = inv_yhat[:, num_features * lag_steps]  # Extract the target variable
+
+#     return inv_y, inv_yhat
+
+
 def iterator_results(inv_y, inv_yhat, target_stock, model_name, iteration=None):
     # Get Test Errors
     mae = mean_absolute_error(inv_y, inv_yhat)

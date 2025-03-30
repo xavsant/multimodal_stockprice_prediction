@@ -5,7 +5,7 @@ from os import getenv, path
 import sys
 
 from keras.models import Model
-from keras.layers import Dense, LSTM, Input, Concatenate
+from keras.layers import Dense, LSTM, Input, Concatenate, RepeatVector
 from keras.callbacks import EarlyStopping
 
 sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
@@ -23,6 +23,9 @@ def create_concat_model(X_train_reshaped, text_train, target_stock):
     lstm_model = Model(inputs=lstm_input, outputs=lstm_dense)
     lstm_model.load_weights(lstm_path)
 
+    for layer in lstm_model.layers:
+        layer.trainable = False
+
     # Create text modality
     text_input = Input(shape=(text_train.shape[1],))
     text_dense = Dense(16, activation='relu')(text_input)
@@ -38,6 +41,99 @@ def create_concat_model(X_train_reshaped, text_train, target_stock):
     model.compile(optimizer='adam', loss='mean_squared_error')
 
     return model
+
+def create_concat_model(X_train_reshaped, text_train, target_stock):
+    # Create LSTM modality (stock input)
+    lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
+    
+    # Create text modality (text input)
+    text_input = Input(shape=(text_train.shape[1],), name="text_input")
+    
+    # Reshape the text input using RepeatVector to match the sequence length of stock input
+    repeated_text = RepeatVector(X_train_reshaped.shape[1])(text_input)  # Repeat the text input to match stock sequence length
+    
+    # Concatenate the stock input and reshaped text input along the feature axis (axis=-1)
+    merged_input = Concatenate(axis=-1, name="merged_input")([lstm_input, repeated_text])
+
+    # Pass the concatenated features through an LSTM layer
+    lstm_hidden = LSTM(128, return_sequences=False, name="lstm_layer")(merged_input)
+    lstm_dense = Dense(32, activation="relu", name="lstm_dense")(lstm_hidden)
+
+    # Final dense layer to make the prediction
+    output = Dense(1, name="output_layer")(lstm_dense)
+
+    # Define the model
+    model = Model(inputs=[lstm_input, text_input], outputs=output)
+    model.compile(optimizer="adam", loss="mean_squared_error")
+
+    return model
+
+# from tensorflow.keras.layers import Input, LSTM, RepeatVector, Concatenate, Dense, Multiply
+# from tensorflow.keras.models import Model
+# import tensorflow as tf
+
+# # Define the Gated Attention Layer
+# class GatedAttention(tf.keras.layers.Layer):
+#     def __init__(self, units):
+#         super(GatedAttention, self).__init__()
+#         self.units = units
+
+#     def build(self, input_shape):
+#         lstm_shape, text_shape = input_shape
+#         self.W = self.add_weight(shape=(lstm_shape[-1], self.units), initializer="random_normal", name="attention_weight")
+#         self.b = self.add_weight(shape=(self.units,), initializer="zeros", name="attention_bias")
+#         self.gate_weights = self.add_weight(shape=(text_shape[-1], self.units), initializer="random_normal", name="gate_weight")
+
+#     def call(self, inputs):
+#         lstm_output, text_input = inputs
+#         # Compute attention scores
+#         gate = tf.nn.sigmoid(tf.matmul(text_input, self.gate_weights))  # Gate value between 0 and 1 (adjusted for text input)
+#         attention_scores = tf.matmul(lstm_output, self.W) + self.b
+#         attention_scores = tf.nn.tanh(attention_scores)  # Apply tanh activation to the scores
+#         attention_weights = tf.nn.softmax(attention_scores, axis=1)  # Compute attention weights
+
+#         # Apply the gate to attention weights
+#         gated_attention_weights = attention_weights * gate  # Element-wise multiplication
+
+#         # Weighted sum of inputs based on attention
+#         gated_output = Multiply()([lstm_output, gated_attention_weights])  # Apply attention to the LSTM output
+
+#         return gated_output
+
+# # Create the model with gated attention
+# def create_concat_model(X_train_reshaped, text_train, target_stock):
+#     # Create LSTM modality (stock input)
+#     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
+    
+#     # Create text modality (text input)
+#     text_input = Input(shape=(text_train.shape[1],), name="text_input")
+    
+#     # Reshape the text input using RepeatVector to match the sequence length of stock input
+#     repeated_text = RepeatVector(X_train_reshaped.shape[1])(text_input)  # Repeat the text input to match stock sequence length
+    
+#     # Concatenate the stock input and reshaped text input along the feature axis (axis=-1)
+#     merged_input = Concatenate(axis=-1, name="merged_input")([lstm_input, repeated_text])
+    
+#     # Pass the concatenated features through an LSTM layer
+#     lstm_hidden = LSTM(128, return_sequences=True, name="lstm_layer")(merged_input)  # Keep return_sequences=True for attention
+    
+#     # Apply Gated Attention Mechanism
+#     gated_attention_output = GatedAttention(128)([lstm_hidden, repeated_text])  # Use 128 units to match LSTM output size
+    
+#     # # Dense layer after attention mechanism
+#     lstm_dense = Dense(32, activation="relu", name="lstm_dense")(gated_attention_output)
+    
+#     # Final output layer
+#     output = Dense(1, name="output_layer")(lstm_dense)
+
+#     # Define the model
+#     model = Model(inputs=[lstm_input, text_input], outputs=output)
+#     model.compile(optimizer="adam", loss="mean_squared_error")
+
+#     return model
+
+
+
 
 def train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, text_train, text_test, epochs, batch_size, train_model, target_stock, model_name, iterations):
     # Initialise variables

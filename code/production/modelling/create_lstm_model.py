@@ -5,7 +5,7 @@ from os import getenv, path
 import sys
 
 from keras.models import Model
-from keras.layers import Dense, LSTM, Input
+from keras.layers import Dense, LSTM, Input, LeakyReLU
 from keras.callbacks import EarlyStopping
 
 sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
@@ -13,16 +13,16 @@ from model_utility_functions import train_test_split, minmax_scale, separate_fea
 
 def create_lstm_model(X_train_reshaped):
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
-    lstm_hidden = LSTM(96, name="lstm_layer")(lstm_input)
-    lstm_dense = Dense(32, activation="relu", name="lstm_dense")(lstm_hidden)
+    lstm_hidden = LSTM(96, activation="tanh", name="lstm_layer")(lstm_input)
+    lstm_dense = Dense(32, activation=LeakyReLU(negative_slope=0.01), name="lstm_dense")(lstm_hidden)
     output = Dense(1, name="output_layer")(lstm_dense)
     
     model = Model(inputs=lstm_input, outputs=output)
-    model.compile(loss='mae', optimizer='adam')
+    model.compile(optimizer='adam', loss='mae')
 
     return model
 
-def train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations):
+def train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, iterations):
     # Initialise variables
     history = ''
     mae = float('inf')
@@ -44,7 +44,7 @@ def train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epoc
             
             # Get predicted values
             yhat = model.predict(X_test_reshaped)
-            inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps)
+            inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler)
             mae, mse = iterator_results(inv_y, inv_yhat, target_stock, model_name, iteration=i)
 
             if mse < best_mse:
@@ -108,11 +108,10 @@ if __name__ == '__main__':
     train_scaled, test_scaled, scaler = minmax_scale(train_array, test_array)
     X_train, y_train, X_test, y_test = separate_features_from_target(train_scaled, test_scaled)
 
-    # X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, lag_steps)
     X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, num_features)
 
     # Modelling
-    train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, num_features, lag_steps, iterations)
+    train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, iterations)
 
     
 

@@ -5,37 +5,40 @@ from os import getenv, path
 import sys
 
 from keras.models import Model
-from keras.layers import Dense, LSTM, Input, Concatenate, RepeatVector, Attention, Lambda
+from keras.layers import Dense, LSTM, Input, Concatenate, RepeatVector, Attention, Lambda, LeakyReLU
+from keras.optimizers.schedules import ExponentialDecay
+from keras.optimizers import Adam
 from tensorflow import squeeze
 from keras.callbacks import EarlyStopping
 
 sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
 from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, iterator_results, iterator_average_results, update_best_results, get_training_plot, get_validation_plot
 
-def create_concat_model(X_train_reshaped, text_train, target_stock):
+def create_concat_model_old(X_train_reshaped, text_train, target_stock):
+    '''Concat model that combines baseline LSTM model hidden layers with text input and trains through a final density layer'''
     lstm_path = f'../../../data/weights/baseline_lstm_{target_stock}.weights.h5'
 
     # Create LSTM modality
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
-    lstm_hidden = LSTM(128, name="lstm_layer")(lstm_input)
-    lstm_dense = Dense(32, activation="relu", name="lstm_dense")(lstm_hidden)
+    lstm_hidden = LSTM(96, name="lstm_layer")(lstm_input)
+    lstm_dense = Dense(32, activation=LeakyReLU(negative_slope=0.01), name="lstm_dense")(lstm_hidden)
 
     ## Load weights
     lstm_model = Model(inputs=lstm_input, outputs=lstm_dense)
     lstm_model.load_weights(lstm_path)
 
     for layer in lstm_model.layers:
-        layer.trainable = False
+        layer.trainable = True
 
     # Create text modality
     text_input = Input(shape=(text_train.shape[1],))
-    text_dense = Dense(16, activation='relu')(text_input)
+    text_dense = Dense(32, activation='sigmoid')(text_input)
 
     # Concatenate modalities
     concatenated = Concatenate(name="concatenation_layer")([lstm_dense, text_dense])
 
     ## Add final density layers
-    dense_layer = Dense(32, activation='relu', name="dense_final")(concatenated)
+    dense_layer = Dense(32, activation=LeakyReLU(negative_slope=0.01), name="dense_final")(concatenated)
     output = Dense(1, name="output_layer")(dense_layer)
     
     model = Model(inputs=[lstm_input, text_input], outputs=output)
@@ -43,7 +46,8 @@ def create_concat_model(X_train_reshaped, text_train, target_stock):
 
     return model
 
-def create_concat_model(X_train_reshaped, text_train, target_stock):
+def create_early_fusion_model(X_train_reshaped, text_train):
+    '''Concat model that combines stock price and text inputs and trains LSTM model from scratch'''
     # Create LSTM modality (stock input)
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
     
@@ -57,19 +61,70 @@ def create_concat_model(X_train_reshaped, text_train, target_stock):
     merged_input = Concatenate(axis=-1, name="merged_input")([lstm_input, repeated_text])
 
     # Pass the concatenated features through an LSTM layer
-    lstm_hidden = LSTM(128, return_sequences=True, name="lstm_layer")(merged_input)
-    lstm_dense = Dense(32, activation="relu", name="lstm_dense")(lstm_hidden)
-
+    lstm_hidden = LSTM(160, activation="tanh", name="lstm_layer")(merged_input)
+    lstm_dense = Dense(32, activation=LeakyReLU(negative_slope=0.01), name="lstm_dense")(lstm_hidden)
+    
     # Final dense layer to make the prediction
     output = Dense(1, name="output_layer")(lstm_dense)
 
+    # Adam optimizer with learning rate scheduler
+    lr_schedule = ExponentialDecay(
+        initial_learning_rate=0.0001,
+        decay_steps=20000,
+        decay_rate=0.1
+    )
+    optimizer = Adam(learning_rate=lr_schedule)
+
     # Define the model
     model = Model(inputs=[lstm_input, text_input], outputs=output)
-    model.compile(optimizer="adam", loss="mean_squared_error")
+    model.compile(optimizer=optimizer, loss="mae")
 
     return model
 
-def create_concat_model(X_train_reshaped, text_train, target_stock):
+def create_late_fusion_model(X_train_reshaped, text_train):
+    '''Late fusion model that processes stock price and text inputs separately before combining them'''
+    
+    # === Stock Price Branch ===
+    stock_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
+    
+    # Process stock data through its own LSTM path
+    stock_lstm = LSTM(128, activation="relu", name="stock_lstm_1")(stock_input)
+    
+    # === Text/Sentiment Branch ===
+    text_input = Input(shape=(text_train.shape[1],), name="text_input")
+    
+    # Process text data through its own dense path
+    # First, expand the dimensions to create a sequence
+    text_seq = RepeatVector(X_train_reshaped.shape[1])(text_input)
+    
+    # Then process through a separate LSTM pathway
+    text_lstm = LSTM(128, activation="elu", name="text_lstm")(text_seq)
+    
+    # === Fusion Layer - Combine Features ===
+    # Only combine features after they've been processed separately
+    combined_features = Concatenate(name="feature_fusion")([stock_lstm, text_lstm])
+    
+    # === Joint Processing After Fusion ===
+    x = Dense(128, activation="elu", name="joint_dense_1")(combined_features)
+    
+    # Final prediction layer
+    output = Dense(1, name="output_layer")(x)
+    
+    # Adam optimizer with learning rate scheduler
+    lr_schedule = ExponentialDecay(
+        initial_learning_rate=0.00005,
+        decay_steps=10000,
+        decay_rate=0.9
+    )
+    optimizer = Adam(learning_rate=lr_schedule)
+    
+    # Define the model
+    model = Model(inputs=[stock_input, text_input], outputs=output)
+    model.compile(optimizer=optimizer, loss="mse")
+    
+    return model
+
+def create_concat_attention_model(X_train_reshaped, text_train):
     # Create LSTM modality (stock input)
     lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
     
@@ -101,7 +156,7 @@ def create_concat_model(X_train_reshaped, text_train, target_stock):
 
     return model
 
-def train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, text_train, text_test, epochs, batch_size, train_model, target_stock, model_name, iterations):
+def train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, scaler, text_train, text_test, epochs, batch_size, train_model, target_stock, model_name, iterations):
     # Initialise variables
     history = ''
     mae = float('inf')
@@ -115,7 +170,8 @@ def train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, text_tra
         for i in range(iterations):
             print(f'Model Training Iteration {str(i)}')
             # Create model
-            model = create_concat_model(X_train_reshaped, text_train, target_stock)
+            # model = create_concat_model(X_train_reshaped, text_train)
+            model = create_early_fusion_model(X_train_reshaped, text_train)
 
             # Model fitting
             callback = EarlyStopping(monitor='loss', mode='min', patience=5, min_delta=1e-4, restore_best_weights=True)
@@ -123,7 +179,7 @@ def train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, text_tra
             
             # Get predicted values
             yhat = model.predict([X_test_reshaped, text_test])
-            inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler, num_features, lag_steps)
+            inv_y, inv_yhat = transform_y(X_test_reshaped, y_test, yhat, scaler)
             mae, mse = iterator_results(inv_y, inv_yhat, target_stock, model_name, iteration=i)
 
             if mse < best_mse:
@@ -199,5 +255,5 @@ if __name__ == '__main__':
     text_train, text_test = train_test_split(text_df, train_pct)
 
     # Modelling
-    train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, text_train, text_test, epochs, 
+    train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, scaler, text_train, text_test, epochs, 
                             batch_size, train_model, target_stock, detailed_model_name, iterations)

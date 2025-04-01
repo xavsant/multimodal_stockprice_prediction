@@ -1,4 +1,4 @@
-,ticker,pub_date,abstract,vader_pos,vader_neu,vader_neg,vader_label,drob_neg,drob_neu,drob_pos,drob_label,deb_pos,deb_neg,deb_neu,deb_sentiment
+,ticker,pub_date,abstract,vader_pos,vader_neu,vader_neg,vader_label,drob_neg,drob_neu,drob_pos,drob_label,deb_pos,deb_neg,deb_neu,deb_label
 0,AAPL,2015-01-05,"You can adjust your settings so that only certain people can see your images. Also, syncing files between Macs and PCs.",0.106,0.894,0.0,Positive,0.075523,0.80775917,0.11671779,Neutral,0.00085187994,0.98828715,0.010860982,Neutral
 1,AAPL,2015-01-05,It’s time to take note of what lies at the top of the fashion agenda for 2015.,0.092,0.765,0.143,Negative,0.066431336,0.66350985,0.27005872,Neutral,0.0015229539,0.9852422,0.013234852,Neutral
 2,AAPL,2015-01-06,,0.0,0.0,0.0,Neutral,0.026959319,0.8985352,0.074505374,Neutral,0.072680265,0.20797661,0.71934307,Positive

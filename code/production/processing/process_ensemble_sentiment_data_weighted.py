@@ -2,8 +2,7 @@
 # Run after process_stock_data.py
 
 # Imports
-from pandas import read_csv, to_datetime, Timedelta
-from numpy import where, ceil, floor
+from pandas import read_csv, to_datetime
 from dotenv import load_dotenv
 from os import getenv
 from datetime import timedelta
@@ -61,16 +60,20 @@ def weighted_rolling_avg(price_df, sent_df, window_size=6, sentiment_effect=0.01
 
 
 if __name__ == '__main__':
-    load_dotenv('../modelling/.weighted.env')
+    load_dotenv('../modelling/.concat.env')
     target_stock = getenv('target_stock')
     stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'
     text_type = getenv('text_type')
     sentiment_input_filepath = '../../../data/clean/sentiment_analysis_results/finetuned_sentiment_analysis_' + text_type + '_' + target_stock + '.csv'
-    weighted_sentiment_output_filepath = getenv('weighted_sentiment_output_filepath') + text_type + '_' + target_stock + '.csv'
+    sentiment_output_filepath = getenv('text_analysis_filepath') + text_type + '_' + target_stock + '.csv'
+
+    # Initialise key variables
+    window_size = 6
+    sentiment_effect = 0.01
     
     lstm_df = read_csv(stock_data_filepath, index_col='Date')
     sentiment_df = read_csv(sentiment_input_filepath)
 
     # Aggregate
-    aggregate_sentiment_df = weighted_rolling_avg(lstm_df, sentiment_df, window_size=6, sentiment_effect=0.01) # edit window size and sentiment effect params here
-    aggregate_sentiment_df.to_csv(weighted_sentiment_output_filepath)
+    aggregate_sentiment_df = weighted_rolling_avg(lstm_df, sentiment_df, window_size=window_size, sentiment_effect=sentiment_effect)
+    aggregate_sentiment_df.to_csv(sentiment_output_filepath)

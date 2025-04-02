@@ -1,0 +1,1009 @@
+ticker,pub_date,headline,vader_pos,vader_neu,vader_neg,vader_label,drob_neg,drob_neu,drob_pos,drob_label,deb_pos,deb_neg,deb_neu,deb_label
+MSFT,2015-11-17,Microsoft Sheds Reputation as an Easy Mark for Hackers,0.266,0.734,0.0,Positive,0.06308897,0.25355953,0.6833515,Positive,0.9903251,0.007683114,0.0019918277,Negative
+MSFT,2015-11-30,How to Enlarge the Text Cursor,0.0,1.0,0.0,Neutral,0.025693595,0.88336825,0.09093812,Neutral,0.005500118,0.9932058,0.001294065,Neutral
+MSFT,2015-11-04,"Digital Transformation Going Mainstream in 2016, IDC Predicts",0.0,1.0,0.0,Neutral,0.038423534,0.40733573,0.55424076,Positive,0.005216421,0.956339,0.038444538,Neutral
+MSFT,2015-11-17,Daily Report: Microsoft Finds Its Security Groove,0.286,0.714,0.0,Positive,0.06703175,0.4618247,0.4711436,Positive,0.0013911334,0.11021343,0.8883954,Positive
+MSFT,2015-11-25,Updating Windows 10,0.0,1.0,0.0,Neutral,0.04438764,0.574479,0.38113338,Neutral,0.0012874259,0.98966813,0.009044564,Neutral
+MSFT,2015-11-07,"Microsoft’s Stock Math: Fewer Shares, Pricier Shares",0.468,0.532,0.0,Positive,0.9007642,0.048203927,0.051031888,Negative,0.94790065,0.04878918,0.0033101945,Negative
+MSFT,2015-11-19,Backing Up iCloud Contacts,0.268,0.732,0.0,Neutral,0.40835842,0.4379421,0.1536995,Neutral,0.00340786,0.9944417,0.0021504196,Neutral
+MSFT,2015-11-20,A Reality Check for Microsoft’s HoloLens,0.0,1.0,0.0,Neutral,0.023377229,0.78617716,0.19044553,Neutral,0.0026222,0.9931293,0.0042484137,Neutral
+MSFT,2015-11-11,Weighing Benefits of Windows 10 Upgrade,0.342,0.658,0.0,Positive,0.022908144,0.3974118,0.57968,Positive,0.0010782761,0.06865845,0.9302633,Positive
+MSFT,2015-10-22,Daily Report: A Trio of Earnings From Tech Behemoths,0.0,1.0,0.0,Neutral,0.06556603,0.55731165,0.37712237,Neutral,0.0009675655,0.9605667,0.038465742,Neutral
+MSFT,2015-10-20,"As U.S. Tech Companies Scramble, Group Sees Opportunity in Safe Harbor Decision",0.363,0.637,0.0,Positive,0.073602855,0.15981856,0.76657856,Positive,0.02300368,0.3356882,0.641308,Positive
+MSFT,2015-10-19,Daily Report: Tech Tussles Take Center Stage in Earnings,0.0,1.0,0.0,Neutral,0.6796675,0.12858987,0.19174272,Negative,0.2375935,0.68762344,0.074783064,Neutral
+MSFT,2015-10-02,Scheduling Automatic Backups in Windows 10,0.0,1.0,0.0,Neutral,0.05024631,0.4206219,0.5291317,Positive,0.0015035035,0.99219984,0.006296715,Neutral
+MSFT,2015-10-30,U.S. Tech Giants May Blur National Security Boundaries in China Deals,0.194,0.806,0.0,Positive,0.85949224,0.08608004,0.05442766,Negative,0.6290952,0.3439763,0.02692847,Negative
+MSFT,2015-10-14,Daily Report: Putting Twitter’s Layoffs in Perspective,0.0,1.0,0.0,Neutral,0.86187345,0.09050265,0.047623914,Negative,0.11322318,0.8763313,0.01044549,Neutral
+MSFT,2015-10-22,"Microsoft Earnings Climb, Lifted by Strong Growth in Cloud Computing",0.424,0.576,0.0,Positive,0.036888808,0.039132472,0.92397875,Positive,0.0002965068,0.004641443,0.99506205,Positive
+MSFT,2015-10-02,Dear Minecraft Villagers: I’m Worried About You.,0.265,0.51,0.224,Positive,0.68506145,0.23984364,0.07509496,Negative,0.9033899,0.08187694,0.014733159,Negative
+MSFT,2015-10-16,Keeping a Hard Drive From Getting Too Full,0.0,0.811,0.189,Negative,0.7163729,0.20044774,0.08317932,Negative,0.015916282,0.29692847,0.6871552,Positive
+MSFT,2015-10-30,More Than One Way to Fix Firefox,0.0,1.0,0.0,Neutral,0.05446,0.6767482,0.2687918,Neutral,0.0027050115,0.92392856,0.073366426,Neutral
+MSFT,2015-07-31,Microsoft Said to Invest Big Sum in Uber,0.0,1.0,0.0,Neutral,0.021510804,0.33425805,0.64423114,Positive,0.0018266808,0.09503868,0.90313464,Positive
+MSFT,2015-07-26,Facebook and Other Tech Giants Expand Internet Access in Africa,0.204,0.796,0.0,Positive,0.012661953,0.35069492,0.6366431,Positive,0.001361625,0.1651788,0.83345956,Positive
+MSFT,2015-07-31,"For Sympathetic Ear, More Chinese Turn to Smartphone Program",0.292,0.708,0.0,Positive,0.02256033,0.3140872,0.6633525,Positive,0.0021837233,0.97531986,0.022496432,Neutral
+MSFT,2015-07-28,Windows 10 Review: A Throwback With Upgrades in Software and Security,0.211,0.789,0.0,Positive,0.05350587,0.21876775,0.72772634,Positive,0.0023891171,0.46400058,0.5336103,Positive
+MSFT,2015-07-30,Addicted to Your Smartphone? The Company That Made It Would Like You to Think So.,0.152,0.848,0.0,Positive,0.023904754,0.7253446,0.2507507,Neutral,0.025927607,0.83828366,0.13578871,Neutral
+MSFT,2015-07-30,"In Microsoft’s Nokia Debacle, a View of an Industry’s Feet of Clay",0.0,1.0,0.0,Neutral,0.084929764,0.7379614,0.17710885,Neutral,0.034261435,0.9630472,0.0026913264,Neutral
+MSFT,2015-07-29,Daily Report: The Tough Realities of a Twitter Turnaround,0.0,0.824,0.176,Negative,0.79114866,0.1449778,0.06387355,Negative,0.11981815,0.86517143,0.015010386,Neutral
+MSFT,2015-07-31,Chatting With Xiaoice,0.0,1.0,0.0,Neutral,0.04349996,0.8265956,0.12990448,Neutral,0.0026564684,0.98718613,0.010157489,Neutral
+MSFT,2015-10-09,Microsoft’s Mission to Reignite PC Sector May Be Taking Hold,0.0,1.0,0.0,Neutral,0.028878277,0.44981006,0.52131164,Positive,0.0031101606,0.2773918,0.7194981,Positive
+MSFT,2015-10-26,Microsoft Goes Upscale With Fifth Avenue Flagship Store,0.167,0.833,0.0,Positive,0.014516226,0.5310399,0.4544439,Neutral,0.0011933574,0.11955233,0.8792543,Positive
+MSFT,2015-10-28,Streamlining Data-Hoarding Apps,0.0,1.0,0.0,Neutral,0.03186576,0.6930233,0.2751109,Neutral,0.0035535505,0.5103827,0.48606375,Neutral
+MSFT,2015-10-24,Mike and Nick’s Week in Tech: Microsoft in the Cloud,0.0,1.0,0.0,Neutral,0.07443307,0.7046302,0.22093673,Neutral,0.0038891132,0.98107105,0.01503976,Neutral
+MSFT,2015-10-05,Tech Giants Top Best Global Brands List,0.545,0.455,0.0,Positive,0.026640883,0.5768191,0.39654,Neutral,0.0020850757,0.6124873,0.3854276,Neutral
+MSFT,2015-10-21,Microsoft’s Rule-Breaking Vision of a Future With Countless Devices,0.222,0.778,0.0,Positive,0.018516524,0.49388936,0.48759413,Neutral,0.005785216,0.87875926,0.115455545,Neutral
+MSFT,2015-10-10,Obama Won’t Seek Access to Encrypted User Data,0.0,1.0,0.0,Neutral,0.27942553,0.5838842,0.13669026,Neutral,0.01602936,0.9809121,0.0030585462,Neutral
+MSFT,2015-10-23,"The Cloud Is Here, Separating Disrupters From Disrupted",0.0,1.0,0.0,Neutral,0.7098746,0.16175158,0.12837379,Negative,0.046702065,0.9286887,0.02460922,Neutral
+MSFT,2015-10-20,Looking for Sharper Images in Google Earth,0.0,1.0,0.0,Neutral,0.044178218,0.88478637,0.071035415,Neutral,0.0037510009,0.9934094,0.002839702,Neutral
+MSFT,2015-10-14,Restoring Sound to Windows 10,0.355,0.645,0.0,Positive,0.033074033,0.36235327,0.60457265,Positive,0.0029770902,0.9940713,0.002951595,Neutral
+MSFT,2015-10-07,Daily Report: Microsoft Turns On the Hardware Charm,0.278,0.722,0.0,Positive,0.03459542,0.41534486,0.55005974,Positive,0.0013132684,0.99585056,0.002836204,Neutral
+MSFT,2015-10-06,The Hardware Side of Microsoft Unveils a Pile of New Devices,0.0,1.0,0.0,Neutral,0.021067135,0.51832503,0.46060777,Neutral,0.0015454949,0.13398342,0.8644711,Positive
+MSFT,2015-08-07,Bringing Paternity Leave Into the Mainstream,0.0,0.806,0.194,Negative,0.26113564,0.5151339,0.22373043,Neutral,0.00390079,0.5614674,0.4346318,Neutral
+MSFT,2015-08-04,"With Halo 5: Guardians, Microsoft Seeks to Lure E-Sports Players Back",0.0,1.0,0.0,Neutral,0.025807254,0.18535246,0.7888403,Positive,0.0008271651,0.051260896,0.9479119,Positive
+MSFT,2015-08-03,Morning Agenda: Health Care Deals Raise Doubts for Consumers,0.258,0.565,0.177,Positive,0.89762086,0.0398799,0.062499236,Negative,0.9772257,0.02127357,0.0015007064,Negative
+MSFT,2015-09-09,Daily Report: China Asserts Tech Presence; Apple Shows Off New Products,0.0,1.0,0.0,Neutral,0.018410888,0.27557105,0.7060181,Positive,0.0025117304,0.44444838,0.5530399,Positive
+MSFT,2015-09-07,Apple and Other Tech Companies Tangle With U.S. Over Data Access,0.0,1.0,0.0,Neutral,0.65562665,0.22024909,0.12412421,Negative,0.98883164,0.010411266,0.0007571645,Negative
+MSFT,2015-09-26,Microsoft Leads Movement to Offset Emissions With Internal Carbon Tax  ,0.0,1.0,0.0,Neutral,0.7438532,0.07506076,0.18108608,Negative,0.0036930381,0.32361874,0.67268825,Positive
+MSFT,2015-09-08,Dell Agrees to Sell Microsoft’s Surface Tablet,0.231,0.769,0.0,Positive,0.0537296,0.4217366,0.5245338,Positive,0.0021037145,0.16638052,0.8315158,Positive
+MSFT,2015-09-24,Xi Jinping Hears Tough Complaints of American Business,0.0,0.588,0.412,Negative,0.88241094,0.07222396,0.045365173,Negative,0.8875627,0.10969797,0.0027393282,Negative
+MSFT,2015-09-02,App Smart | The Best of Windows 10 Apps,0.535,0.465,0.0,Positive,0.025582194,0.8051807,0.16923706,Neutral,0.0017596347,0.833108,0.16513233,Neutral
+MSFT,2015-08-05,"Following Netflix, Microsoft Sweetens Parental Leave Benefits",0.295,0.568,0.136,Positive,0.049498457,0.44721672,0.5032849,Positive,0.0012902325,0.13554594,0.8631639,Positive
+MSFT,2015-08-05,Daily Report: E-Sports Continues to Reshape Gaming Landscape,0.0,1.0,0.0,Neutral,0.019452788,0.4929941,0.48755312,Neutral,0.003927031,0.3622372,0.6338358,Positive
+MSFT,2015-08-28,Protecting Your Mac From Malware and Viruses,0.0,1.0,0.0,Neutral,0.51396173,0.34570575,0.1403325,Negative,0.0062500425,0.989232,0.0045179236,Neutral
+MSFT,2015-08-12,Stopping the iPhone Step Counter,0.0,0.714,0.286,Negative,0.5456814,0.34582707,0.108491436,Negative,0.046372674,0.94817793,0.005449317,Neutral
+MSFT,2015-08-01,Farhad and Mike’s Week in Review: Twitter Problems,0.0,0.722,0.278,Negative,0.74273974,0.19264352,0.06461675,Negative,0.21179748,0.77880055,0.009401893,Neutral
+MSFT,2015-08-26,Facebook Tests a Digital Assistant for Its Messaging App,0.0,1.0,0.0,Neutral,0.014024919,0.80293506,0.18304007,Neutral,0.0016580614,0.8693199,0.12902197,Neutral
+MSFT,2015-08-06,Salesforce Ventures and Microsoft Join Informatica Buyout,0.268,0.732,0.0,Positive,0.02643937,0.6778223,0.29573834,Neutral,0.0022738986,0.9234073,0.074318804,Neutral
+MSFT,2015-08-09,"After Nokia Layoffs, Tech Workers in Finland Regroup and Refocus",0.0,1.0,0.0,Neutral,0.92312425,0.044933822,0.03194201,Negative,0.67994183,0.2804572,0.039600987,Negative
+MSFT,2015-08-26,The Appeal of Free: 75 Million Users Download Windows 10 in First Month,0.216,0.784,0.0,Positive,0.017048012,0.57061625,0.41233572,Neutral,0.0034756705,0.7377205,0.25880376,Neutral
+MSFT,2015-08-07,Morning Agenda: Ackman’s Bet on Mondelez Sales,0.0,1.0,0.0,Neutral,0.060536195,0.7705807,0.1688831,Neutral,0.0030536163,0.97198224,0.024964103,Neutral
+MSFT,2015-09-30,Easing Screen-Based Eyestrain,0.5,0.5,0.0,Positive,0.1167551,0.6909949,0.19225,Neutral,0.008071181,0.11366793,0.8782609,Positive
+MSFT,2015-09-02,"Understanding Mac OS X Disk Permissions, and How to Repair Them",0.0,1.0,0.0,Neutral,0.36768174,0.5358235,0.09649473,Neutral,0.002978732,0.99236214,0.004659098,Neutral
+MSFT,2015-09-27,"Narendra Modi, Indian Premier, Courts Silicon Valley to Try to Ease Nation’s Poverty",0.149,0.655,0.196,Negative,0.080165714,0.43073294,0.48910132,Positive,0.0032299396,0.25114095,0.74562913,Positive
+MSFT,2015-09-25,Changing the Search Engine in Microsoft Edge  ,0.0,1.0,0.0,Neutral,0.06367818,0.647864,0.28845775,Neutral,0.0062092524,0.9905004,0.0032902765,Neutral
+MSFT,2015-09-16,How to Talk to Microsoft’s Cortana,0.0,1.0,0.0,Neutral,0.030955499,0.80918187,0.15986258,Neutral,0.0012383076,0.9967804,0.0019813091,Neutral
+MSFT,2015-09-30,Microsoft and Google Call an End to Patent Battles,0.0,0.755,0.245,Negative,0.47208995,0.2632689,0.26464114,Negative,0.027916351,0.5896246,0.3824591,Neutral
+MSFT,2015-09-21,Skype Service Problems for Some Users Worldwide,0.0,0.69,0.31,Negative,0.87027663,0.09168682,0.038036544,Negative,0.9955461,0.003984269,0.00046966676,Negative
+MSFT,2015-09-03,"This Week, Sizing Up Smartphone Plans",0.0,1.0,0.0,Neutral,0.07057994,0.5583699,0.37105015,Neutral,0.0012296202,0.9938585,0.004911794,Neutral
+MSFT,2015-09-18,Shopping for Amazon Apps With Android,0.254,0.746,0.0,Positive,0.024501517,0.83887374,0.13662483,Neutral,0.0023649354,0.9963381,0.0012970059,Neutral
+MSFT,2015-09-22,"Microsoft Releases Office 2016, With Features Focused on Teamwork",0.245,0.755,0.0,Positive,0.0181569,0.5487575,0.43308568,Neutral,0.0017845209,0.9153523,0.08286312,Neutral
+MSFT,2015-12-10,Virtually Using Windows XP,0.526,0.474,0.0,Positive,0.034202628,0.7812708,0.18452659,Neutral,0.0020091953,0.9958354,0.002155408,Neutral
+MSFT,2015-12-10,A Learning Advance in Artificial Intelligence Rivals Human Abilities,0.459,0.541,0.0,Positive,0.021315135,0.5194844,0.45920044,Neutral,0.016559988,0.42740613,0.55603385,Positive
+MSFT,2015-12-08,How to See What Windows 10 Just Installed,0.0,1.0,0.0,Neutral,0.034839526,0.76799464,0.19716588,Neutral,0.0007615903,0.9952383,0.0040001143,Neutral
+MSFT,2015-12-08,Qualcomm Is Accused of Violating Antitrust Rules in Europe,0.0,0.551,0.449,Negative,0.7566518,0.16590531,0.07744293,Negative,0.9808874,0.016607951,0.002504708,Negative
+MSFT,2015-12-29,Former Xbox Chief Robbie Bach on Console Battles,0.0,0.729,0.271,Negative,0.059379585,0.7366172,0.20400316,Neutral,0.0033869848,0.98963565,0.00697732,Neutral
+MSFT,2015-12-31,Microsoft to Notify Users of Government Hackings,0.0,1.0,0.0,Neutral,0.63454366,0.29082057,0.074635774,Negative,0.48330888,0.5065938,0.010097314,Neutral
+MSFT,2015-12-20,"As Downloads Take Over, a Turning Point for the Video Game Industry",0.0,1.0,0.0,Neutral,0.06357774,0.33568683,0.6007354,Positive,0.001147288,0.03139729,0.96745545,Positive
+MSFT,2016-01-05,Microsoft Faces New Scrutiny in China,0.0,1.0,0.0,Neutral,0.87978864,0.077683955,0.04252739,Negative,0.9647474,0.030541759,0.004710802,Negative
+MSFT,2016-01-20,Tech’s ‘Frightful 5’ Will Dominate Digital Life for Foreseeable Future,0.0,0.857,0.143,Negative,0.013328833,0.41256922,0.5741019,Positive,0.1174146,0.77567434,0.106911026,Neutral
+MSFT,2016-01-27,Protecting Personal Information From Virtual Assistants,0.0,1.0,0.0,Neutral,0.20153013,0.6613006,0.13716923,Neutral,0.018095246,0.9755432,0.006361568,Neutral
+MSFT,2016-01-22,Making the Screen Easier to Read,0.359,0.641,0.0,Positive,0.03258501,0.6044144,0.36300057,Neutral,0.00051308295,0.018678788,0.98080814,Positive
+MSFT,2016-01-30,Farhad and Mike’s Week in Tech: Lessons From Earnings Season,0.0,1.0,0.0,Neutral,0.12309653,0.6153515,0.26155204,Neutral,0.0029812194,0.9845792,0.012439619,Neutral
+MSFT,2016-01-11,Printing a Paper Backup of Your iCloud Contacts,0.0,1.0,0.0,Neutral,0.053391695,0.8107312,0.13587716,Neutral,0.0013371793,0.99678504,0.0018778039,Neutral
+MSFT,2016-01-19,Microsoft Acquires Minecraft App for Schools,0.0,1.0,0.0,Neutral,0.01226046,0.680949,0.3067906,Neutral,0.002230525,0.6441074,0.35366204,Neutral
+MSFT,2016-01-31,Microsoft Plumbs Ocean’s Depths to Test Underwater Data Center,0.0,1.0,0.0,Neutral,0.035395045,0.6309756,0.33362937,Neutral,0.0023668136,0.9681852,0.029447945,Neutral
+MSFT,2016-01-29,Daily Report: Divergent Fortunes in Cloud Computing,0.0,1.0,0.0,Neutral,0.84168744,0.09216661,0.06614593,Negative,0.9513572,0.046703722,0.0019390923,Negative
+MSFT,2016-01-06,Morning Agenda: Bank Rule Distorting Performance Is Repealed,0.0,0.769,0.231,Negative,0.7517745,0.16592155,0.08230389,Negative,0.010401604,0.22126614,0.7683323,Positive
+MSFT,2016-01-11,Daily Report: The Tech News Cycle is About to Ramp Up,0.0,1.0,0.0,Neutral,0.029857147,0.2980506,0.6720922,Positive,0.015043569,0.96718967,0.017766701,Neutral
+MSFT,2016-01-28,"Microsoft Profit and Revenue Fall, but Cloud Computing Grows",0.196,0.804,0.0,Positive,0.92608166,0.016731432,0.057186864,Negative,0.857599,0.09093299,0.051468037,Negative
+MSFT,2016-01-04,Bill Gates on Books and Blogging,0.0,1.0,0.0,Neutral,0.022570413,0.8680054,0.10942421,Neutral,0.0011687103,0.9963659,0.002465285,Neutral
+MSFT,2016-01-25,"With Imposed Transparency and Concerned Millennials, a Boom in Corporate Responsibility?",0.0,0.874,0.126,Negative,0.62731737,0.13901529,0.23366731,Negative,0.0028996237,0.11330416,0.88379616,Positive
+MSFT,2016-01-27,"Siri, Alexa and Other Virtual Assistants Put to the Test",0.0,1.0,0.0,Neutral,0.020157257,0.4599594,0.51988333,Positive,0.003410285,0.9705039,0.026085813,Neutral
+MSFT,2016-01-29,Replacing Windows Media Center,0.0,1.0,0.0,Neutral,0.18918118,0.6228464,0.18797243,Neutral,0.008231209,0.9878826,0.0038862438,Neutral
+MSFT,2016-01-19,Microsoft to Donate $1 Billion in Cloud Services to Nonprofits and Researchers,0.0,1.0,0.0,Neutral,0.02284613,0.35455155,0.62260234,Positive,0.0012204235,0.07030196,0.92847764,Positive
+MSFT,2016-01-15,Fund Managers Win With Tech Stalwarts and Burly Brand Names,0.297,0.703,0.0,Positive,0.028903035,0.19789155,0.77320546,Positive,0.0023390355,0.22234601,0.775315,Positive
+MSFT,2016-01-19,Sticking With Windows 7,0.0,1.0,0.0,Neutral,0.050556898,0.6663968,0.2830463,Neutral,0.0016296357,0.976198,0.022172332,Neutral
+MSFT,2016-01-06,Setting Up Tabs to Open Automatically in Microsoft Edge,0.0,1.0,0.0,Neutral,0.016072322,0.69481635,0.28911138,Neutral,0.0012499919,0.99183077,0.006919203,Neutral
+MSFT,2016-11-05,Farhad’s and Mike’s Week in Tech: Gaming as Prophylaxis to Elections,0.0,1.0,0.0,Neutral,0.06915821,0.67803663,0.2528052,Neutral,0.0024096388,0.9779092,0.019681187,Neutral
+MSFT,2016-11-02,Microsoft Puts Slack in Cross Hairs With New Office Chat App,0.0,1.0,0.0,Neutral,0.6198807,0.17367043,0.20644882,Negative,0.9553109,0.043018237,0.001670885,Negative
+MSFT,2016-11-10,Parallels Between Europe’s Antitrust Cases Against Google and Microsoft,0.0,1.0,0.0,Neutral,0.7107458,0.1933333,0.09592095,Negative,0.6278422,0.36287865,0.009279136,Negative
+MSFT,2016-11-07,Business Leaders Support Steps to Rescue Climate,0.545,0.455,0.0,Positive,0.033040788,0.43132946,0.53562975,Positive,0.0014947078,0.11026174,0.8882436,Positive
+MSFT,2016-11-05,How LinkedIn Drove a Wedge Between Microsoft and Salesforce,0.0,1.0,0.0,Neutral,0.6865692,0.17332774,0.140103,Negative,0.7427656,0.25063026,0.006604171,Negative
+MSFT,2016-11-20,Microsoft Spends Big to Build a Computer Out of Science Fiction,0.0,1.0,0.0,Neutral,0.017495861,0.4329691,0.5495351,Positive,0.003992397,0.97624785,0.019759748,Neutral
+MSFT,2016-11-04,A Formula for Easier-to-Read Excel Work Sheets,0.375,0.625,0.0,Positive,0.018280026,0.7203004,0.26141965,Neutral,0.0018809064,0.43816948,0.55994964,Positive
+MSFT,2016-11-07,Larry Ellison’s Hardball Tactics Win NetSuite for Oracle,0.352,0.648,0.0,Positive,0.02630056,0.32186007,0.6518394,Positive,0.021163516,0.57979137,0.39904505,Neutral
+MSFT,2016-11-21,Making Movies With Windows 10,0.0,1.0,0.0,Neutral,0.022787757,0.77181286,0.20539938,Neutral,0.0016906736,0.99525553,0.0030537588,Neutral
+MSFT,2016-10-03,U.S. Tech Giants Are Investing Billions to Keep Data in Europe,0.0,1.0,0.0,Neutral,0.018116811,0.3411789,0.6407043,Positive,0.0044958764,0.8440388,0.15146527,Neutral
+MSFT,2016-10-12,How to Bid Adieu to Yahoo,0.0,1.0,0.0,Neutral,0.021428812,0.71429276,0.26427838,Neutral,0.13140413,0.8635489,0.005046987,Neutral
+MSFT,2016-10-29,"Farhad and Mike’s Week in Tech: Microsoft, Apple and Halloween!",0.0,1.0,0.0,Neutral,0.059795473,0.6266373,0.31356722,Neutral,0.0015088049,0.9937773,0.0047139837,Neutral
+MSFT,2016-10-18,Bill Belichick Throws In the Tablet,0.0,1.0,0.0,Neutral,0.031164967,0.59745884,0.37137625,Neutral,0.015203109,0.9817167,0.0030801743,Neutral
+MSFT,2016-10-21,"Daily Report: Microsoft, Ahead in the Cloud",0.0,1.0,0.0,Neutral,0.035126615,0.5068304,0.45804295,Neutral,0.0020632008,0.35120723,0.6467296,Positive
+MSFT,2016-10-16,Earnings Reports for Goldman Sachs and Yahoo,0.0,1.0,0.0,Neutral,0.107141614,0.7017863,0.19107205,Neutral,0.0011152904,0.99587655,0.0030082285,Neutral
+MSFT,2016-10-20,Microsoft Shares Hit a High With Promise of the Cloud’s Profit Margins,0.481,0.519,0.0,Positive,0.04613121,0.068003476,0.88586533,Positive,0.00033247744,0.00566973,0.9939978,Positive
+MSFT,2016-10-26,Microsoft Unveils Its First Desktop PC,0.0,1.0,0.0,Neutral,0.020781567,0.4907917,0.48842672,Neutral,0.0018488556,0.85342544,0.14472567,Neutral
+MSFT,2016-10-10,Looking for a Choice of Voices in A.I. Technology,0.0,1.0,0.0,Neutral,0.02262702,0.7900891,0.18728384,Neutral,0.0012714729,0.96918786,0.02954062,Neutral
+MSFT,2016-06-14,Why Microsoft Likes LinkedIn,0.483,0.517,0.0,Positive,0.032595072,0.81421846,0.1531864,Neutral,0.00254235,0.78967077,0.20778692,Neutral
+MSFT,2016-06-17,Microsoft Makes a Marijuana Play,0.444,0.556,0.0,Positive,0.015980193,0.59318656,0.39083323,Neutral,0.0029951085,0.9695291,0.027475845,Neutral
+MSFT,2016-06-16,Unhitching the PC From OneDrive,0.0,1.0,0.0,Neutral,0.5883607,0.27912173,0.13251755,Negative,0.0055949204,0.9932193,0.0011858161,Neutral
+MSFT,2016-06-27,Tech Makes Its Pitch to the Education Community,0.0,1.0,0.0,Neutral,0.01783667,0.5037555,0.47840786,Neutral,0.0014858849,0.9424395,0.05607457,Neutral
+MSFT,2016-06-08,Getting Over Stage Fright With the Help of Your Smartphone,0.203,0.602,0.195,Neutral,0.51215327,0.33308414,0.15476252,Negative,0.008335883,0.92960954,0.06205456,Neutral
+MSFT,2016-06-14,Morning Agenda: The Unspoken Reason Behind the LinkedIn Sale,0.0,1.0,0.0,Neutral,0.20492457,0.66460615,0.13046932,Neutral,0.0042386595,0.9922306,0.0035307393,Neutral
+MSFT,2016-06-16,The First Big Company to Say It’s Serving the Legal Marijuana Trade? Microsoft.,0.111,0.889,0.0,Positive,0.02546652,0.6539209,0.32061255,Neutral,0.0073271645,0.9317253,0.06094748,Neutral
+MSFT,2016-06-13,"For Microsoft, LinkedIn Deal Could Be a $26.2 Billion Time Machine",0.0,1.0,0.0,Neutral,0.015407324,0.48697913,0.49761355,Positive,0.0015382906,0.9293104,0.06915125,Neutral
+MSFT,2016-06-14,Checking Your Windows 10 Lists,0.0,1.0,0.0,Neutral,0.045512933,0.8171841,0.137303,Neutral,0.0023758998,0.9964637,0.0011604582,Neutral
+MSFT,2016-06-13,Microsoft’s Deal for LinkedIn Raises Red Flags,0.0,1.0,0.0,Neutral,0.01652636,0.15468885,0.82878476,Positive,0.9720909,0.018036928,0.009872132,Negative
+MSFT,2016-07-08,Morning Agenda: Growing Unease as British Mutual Funds Block the Exit Doors,0.104,0.552,0.344,Negative,0.8941098,0.057461176,0.04842899,Negative,0.98810273,0.00809393,0.003803373,Negative
+MSFT,2016-07-25,Getting Extensions for Edge,0.0,1.0,0.0,Neutral,0.03166754,0.7158721,0.2524603,Neutral,0.0011580549,0.9543486,0.044493295,Neutral
+MSFT,2016-07-15,Morning Agenda: Yahoo Is Said to Collect Final Bids,0.0,1.0,0.0,Neutral,0.02141672,0.50107247,0.4775109,Neutral,0.0030781648,0.99030626,0.0066156173,Neutral
+MSFT,2016-07-20,"Microsoft Earnings Are Up, Cushioned by Its Cloud Business",0.0,1.0,0.0,Neutral,0.06060553,0.039633166,0.8997613,Positive,0.00048873236,0.022292938,0.9772183,Positive
+MSFT,2016-06-01,Why the World Is Drawing Battle Lines Against American Tech Giants,0.0,0.794,0.206,Negative,0.70743555,0.18455918,0.10800528,Negative,0.9490795,0.04929132,0.0016291712,Negative
+MSFT,2016-06-17,Why LinkedIn Will Make You Hate Microsoft Word,0.0,0.654,0.346,Negative,0.48927894,0.42393613,0.08678493,Negative,0.8839244,0.113937244,0.0021383374,Negative
+MSFT,2016-06-17,Weighing the System Upgrade Decision,0.0,1.0,0.0,Neutral,0.08913193,0.60807264,0.30279535,Neutral,0.0011000813,0.99448204,0.004417897,Neutral
+MSFT,2016-06-14,One Unspoken Reason Behind the Microsoft-LinkedIn Deal,0.0,1.0,0.0,Neutral,0.16584958,0.5945609,0.23958948,Neutral,0.0015599562,0.9852535,0.013186556,Neutral
+MSFT,2016-06-07,Microsoft Finds Cancer Clues in Search Queries,0.0,0.577,0.423,Negative,0.27141225,0.3438514,0.3847364,Positive,0.016108591,0.9553022,0.028589208,Neutral
+MSFT,2016-06-28,Downloading Video Streams to Go,0.0,1.0,0.0,Neutral,0.03237585,0.8600088,0.10761537,Neutral,0.0014636719,0.9965507,0.0019856186,Neutral
+MSFT,2016-06-27,Amazon Unveils Online Education Service for Teachers,0.221,0.779,0.0,Positive,0.027554527,0.4666285,0.50581694,Positive,0.0022891373,0.38865876,0.6090521,Positive
+MSFT,2016-06-17,Morning Agenda:  A Who’s Who of Financiers Expected at Trump Fund-Raiser,0.0,1.0,0.0,Neutral,0.07715156,0.6880478,0.23480062,Neutral,0.0010177867,0.98959726,0.009384958,Neutral
+MSFT,2016-06-13,"Microsoft Buys LinkedIn for $26.2 Billion, Reasserting Its Muscle",0.0,1.0,0.0,Neutral,0.014209395,0.1831181,0.80267245,Positive,0.0009504065,0.02992564,0.96912396,Positive
+MSFT,2016-06-18,Farhad’s and Mike’s Week in Tech: That Business of Microsoft Buying LinkedIn,0.0,1.0,0.0,Neutral,0.057857584,0.7106032,0.23153923,Neutral,0.006841887,0.98454744,0.008610624,Neutral
+MSFT,2016-07-25,Google Races to Catch Up in Cloud Computing,0.0,1.0,0.0,Neutral,0.017534098,0.3402039,0.642262,Positive,0.0013494137,0.059088282,0.9395623,Positive
+MSFT,2016-07-14,Microsoft Wins Appeal on Overseas Data Searches,0.381,0.619,0.0,Positive,0.0474286,0.214816,0.7377554,Positive,0.0026888512,0.18273297,0.8145781,Positive
+MSFT,2016-07-01,What to Try When the Start Menu Just Won’t Start,0.0,1.0,0.0,Neutral,0.43614623,0.48123226,0.08262152,Neutral,0.39115518,0.5999571,0.008887702,Neutral
+MSFT,2016-07-19,"Morning Agenda: Trump and Pence: Same Ticket, but Not the Same Page",0.0,1.0,0.0,Neutral,0.17474486,0.6776792,0.14757591,Neutral,0.004001506,0.97993684,0.016061667,Neutral
+MSFT,2016-07-18,Microsoft Case Shows the Limits of a Data Privacy Law,0.0,1.0,0.0,Neutral,0.5313033,0.35603642,0.11266022,Negative,0.97357404,0.024489935,0.001935955,Negative
+MSFT,2016-07-04,Hiding From Windows 10,0.0,0.577,0.423,Negative,0.022531511,0.85561293,0.1218555,Neutral,0.024382284,0.97460055,0.0010171699,Neutral
+MSFT,2016-07-07,"Kevin Turner, Microsoft Executive, to Join Citadel Securities",0.423,0.577,0.0,Positive,0.03548994,0.64239436,0.3221157,Neutral,0.004492662,0.5158945,0.4796129,Neutral
+MSFT,2016-07-30,Farhad’s and Mike’s Week in Tech: The Cautionary Tale of the Fall of Yahoo,0.0,1.0,0.0,Neutral,0.63116443,0.26706555,0.10177007,Negative,0.8816771,0.11221489,0.006108057,Negative
+MSFT,2016-07-20,Finding the Right Microsoft Office,0.0,1.0,0.0,Neutral,0.02482492,0.75339353,0.22178164,Neutral,0.0007615276,0.9769647,0.022273734,Neutral
+MSFT,2016-07-16,Farhad’s and Mike’s Week in Tech: One Game to Rule Them All,0.0,1.0,0.0,Neutral,0.061439075,0.6007061,0.3378549,Neutral,0.003146684,0.95389676,0.04295654,Neutral
+MSFT,2016-02-18,Windows 10 Upgrade Options for Vista Users,0.0,1.0,0.0,Neutral,0.06339454,0.8211311,0.11547435,Neutral,0.0011603626,0.97279286,0.026046714,Neutral
+MSFT,2016-02-04,"In Silicon Valley, a Time-Honored Sport Looks to the Future",0.0,1.0,0.0,Neutral,0.018570112,0.43411455,0.54731536,Positive,0.0019278598,0.51677203,0.4813002,Neutral
+MSFT,2016-02-23,Bill Gates Weighs In on Apple’s Clash With the F.B.I.,0.0,1.0,0.0,Neutral,0.055398338,0.56405085,0.38055086,Neutral,0.028954757,0.9105848,0.060460374,Neutral
+MSFT,2016-02-24,Watching DVD Movies on Windows 10,0.0,1.0,0.0,Neutral,0.037498686,0.8213804,0.14112097,Neutral,0.005288798,0.99244446,0.0022667644,Neutral
+MSFT,2016-03-25,How to Live Without Windows 10,0.0,1.0,0.0,Neutral,0.47881576,0.44238165,0.07880262,Negative,0.03026028,0.96531135,0.004428409,Neutral
+MSFT,2016-03-07,Microsoft to Close 2 Game Development Studios,0.0,1.0,0.0,Neutral,0.85023385,0.105281584,0.044484537,Negative,0.99120456,0.007735006,0.0010603302,Negative
+MSFT,2016-03-07,Microsoft Opens Its Corporate Data Software to Linux,0.0,1.0,0.0,Neutral,0.020517148,0.53508925,0.44439363,Neutral,0.0010190533,0.9943193,0.0046616453,Neutral
+MSFT,2016-09-26,What It’s Like to Fight Online Hate,0.195,0.312,0.492,Negative,0.16255832,0.7086881,0.12875366,Neutral,0.6170382,0.3766295,0.0063322876,Negative
+MSFT,2016-09-28,Protecting Humans and Jobs From Robots Is 5 Tech Giants’ Goal,0.0,1.0,0.0,Neutral,0.033456903,0.47478116,0.4917619,Positive,0.0035785227,0.93886685,0.057554673,Neutral
+MSFT,2016-09-27,Daily Report: Twitter Attracts a Wide Range of Suitors,0.278,0.722,0.0,Positive,0.035669602,0.73223627,0.23209415,Neutral,0.0020679492,0.8196467,0.17828538,Neutral
+MSFT,2016-09-03,"Goodbye, Ivory Tower. Hello, Silicon Valley Candy Store.",0.0,1.0,0.0,Neutral,0.060080744,0.51814973,0.42176956,Neutral,0.011119606,0.3188177,0.6700627,Positive
+MSFT,2016-06-23,"Buybacks by Companies Like Apple May Signal Danger, Not Growth",0.166,0.464,0.37,Negative,0.8964889,0.05124832,0.05226272,Negative,0.98714286,0.010832094,0.0020249535,Negative
+MSFT,2016-06-24,Sharing Screens Between PCs Running Different Versions of Windows,0.259,0.741,0.0,Positive,0.06116673,0.81251675,0.1263166,Neutral,0.0045888796,0.99300766,0.002403498,Neutral
+MSFT,2016-06-13,A LinkedIn Timeline,0.0,1.0,0.0,Neutral,0.031380594,0.9003283,0.06829108,Neutral,0.0011183589,0.996552,0.0023296634,Neutral
+MSFT,2016-06-08,How Gaming Helped Launch the Attack of the Internet Trolls,0.0,0.744,0.256,Negative,0.08720697,0.5067765,0.40601656,Neutral,0.5714928,0.41955498,0.0089522,Negative
+MSFT,2016-06-29,Third-Party Keyboards Give Mobile Users More Options,0.0,1.0,0.0,Neutral,0.021437805,0.81833166,0.16023058,Neutral,0.0026294733,0.3759217,0.6214489,Positive
+MSFT,2016-06-13,Handful of Advisers Behind Microsoft’s Deal for LinkedIn,0.0,1.0,0.0,Neutral,0.020482438,0.62928855,0.35022902,Neutral,0.0010849416,0.98978335,0.0091317,Neutral
+MSFT,2016-06-13,Microsoft and Apple Making Headlines,0.0,1.0,0.0,Neutral,0.035307545,0.6518931,0.31279936,Neutral,0.0051034954,0.18668705,0.8082095,Positive
+MSFT,2016-06-13,"Microsoft Takes Aim at Sony With Cheaper Xbox, Virtual Reality and Cross-Platform Games",0.0,1.0,0.0,Neutral,0.03133589,0.34143302,0.6272311,Positive,0.017681386,0.7469195,0.23539905,Neutral
+MSFT,2016-06-13,Microsoft’s Biggest Deal,0.0,1.0,0.0,Neutral,0.026766593,0.4115374,0.56169605,Positive,0.011302727,0.9693373,0.019359991,Neutral
+MSFT,2016-06-13,Microsoft & LinkedIn C.E.O.s on Deal,0.0,1.0,0.0,Neutral,0.034436252,0.4057423,0.5598214,Positive,0.0015790614,0.99109226,0.0073286467,Neutral
+MSFT,2016-08-17,Converting Spreadsheets in Apple’s Numbers to Excel,0.333,0.667,0.0,Positive,0.07359482,0.7516353,0.1747699,Neutral,0.0057082307,0.9907727,0.0035190484,Neutral
+MSFT,2016-08-04,Finding Alternatives to Microsoft Excel,0.429,0.571,0.0,Positive,0.04233188,0.773232,0.18443622,Neutral,0.008555006,0.8778106,0.11363446,Neutral
+MSFT,2016-08-09,"In Buying LinkedIn, Microsoft Might Pay Heed to Monster",0.0,0.851,0.149,Negative,0.02987852,0.43296632,0.5371552,Positive,0.0048546763,0.95824957,0.036895707,Neutral
+MSFT,2016-08-06,"When Every Company Is a Tech Company, Does the Label Matter?",0.109,0.891,0.0,Neutral,0.039256003,0.8383686,0.12237549,Neutral,0.0013184242,0.98741233,0.011269255,Neutral
+MSFT,2016-08-26,"Cloud Computing Brings Sprawling Centers, but Few Jobs, to Small Towns",0.0,1.0,0.0,Neutral,0.8929088,0.058118556,0.0489726,Negative,0.29017437,0.48813263,0.221693,Neutral
+MSFT,2016-08-19,Picking a Digital Publishing Format,0.0,1.0,0.0,Neutral,0.022710387,0.8731091,0.10418048,Neutral,0.0013531104,0.99340457,0.0052423277,Neutral
+MSFT,2016-09-13,Will Trump Release His Tax Returns? Billionaire Pledges Up to $5 Million for Veterans if So,0.0,1.0,0.0,Neutral,0.042463485,0.27785707,0.6796794,Positive,0.010246091,0.6464946,0.3432593,Neutral
+MSFT,2016-09-26,So Now You Want Windows 10 …,0.238,0.762,0.0,Positive,0.028247297,0.749624,0.22212872,Neutral,0.0024295368,0.8126583,0.1849121,Neutral
+MSFT,2016-09-15,How to Manage Your Windows Drivers,0.0,1.0,0.0,Neutral,0.051933836,0.79688215,0.15118402,Neutral,0.0015889117,0.99588865,0.0025224013,Neutral
+MSFT,2016-09-03,Microsoft’s Challenge to Government Secrecy Wins Dozens of Supporters,0.568,0.432,0.0,Positive,0.0239258,0.43096972,0.5451045,Positive,0.006479818,0.18582456,0.8076956,Positive
+MSFT,2016-09-01,How Tech Giants Are Devising Real Ethics for Artificial Intelligence,0.256,0.744,0.0,Positive,0.029600648,0.6697401,0.30065936,Neutral,0.0038928061,0.8278385,0.16826881,Neutral
+MSFT,2016-09-29,Microsoft Reorganizes Its Research Efforts Around A.I.,0.0,1.0,0.0,Neutral,0.02672853,0.6765253,0.29674613,Neutral,0.0036211135,0.9162925,0.080086395,Neutral
+MSFT,2016-09-20,Get Sharper Text on Your Windows Screen,0.0,1.0,0.0,Neutral,0.07986592,0.8004129,0.119721204,Neutral,0.0014764364,0.9522609,0.046262745,Neutral
+MSFT,2016-09-30,Daily Report: Trust Busters Destined to Dig into Data,0.292,0.708,0.0,Positive,0.6657186,0.2510704,0.08321094,Negative,0.01819625,0.96770847,0.014095195,Neutral
+MSFT,2016-09-29,Salesforce Is Said to Question Microsoft-LinkedIn Deal in Europe,0.0,1.0,0.0,Neutral,0.75391304,0.18044224,0.06564474,Negative,0.90364635,0.09292678,0.003426889,Negative
+MSFT,2016-09-13,Move Your Address Book From Outlook to Google,0.0,1.0,0.0,Neutral,0.022013858,0.81117105,0.16681507,Neutral,0.00078250736,0.99304366,0.006173906,Neutral
+MSFT,2016-02-03,An Expanding Universe of Space Apps,0.0,1.0,0.0,Neutral,0.013836822,0.6657181,0.32044512,Neutral,0.0019881662,0.9600753,0.037936594,Neutral
+MSFT,2016-02-26,A Brief Explanation of Apple’s Showdown With the U.S. Government,0.0,1.0,0.0,Neutral,0.44945517,0.4242228,0.12632199,Negative,0.64485466,0.3463719,0.008773431,Negative
+MSFT,2016-02-18,Apple Letter on iPhone Security Draws Muted Tech Industry Response,0.211,0.789,0.0,Positive,0.8551751,0.06736242,0.077462524,Negative,0.24989276,0.5713098,0.17879748,Neutral
+MSFT,2016-02-05,Moving Files to a Mac From a PC,0.0,1.0,0.0,Neutral,0.024519868,0.7451923,0.23028788,Neutral,0.0022314144,0.9923051,0.0054634167,Neutral
+MSFT,2016-02-11,Using Older Hardware With Windows 10,0.0,1.0,0.0,Neutral,0.038122922,0.7582189,0.2036581,Neutral,0.020886192,0.97589976,0.0032139982,Neutral
+MSFT,2016-02-24,What Microsoft’s Xamarin Purchase Says About the Cloud Computing Fight,0.0,0.776,0.224,Negative,0.06948205,0.6992222,0.23129578,Neutral,0.102094434,0.83729625,0.060609333,Neutral
+MSFT,2016-02-02,"Magic Leap, an Augmented Reality Firm, Raises $793 Million",0.0,1.0,0.0,Neutral,0.0138650155,0.3346758,0.65145916,Positive,0.0023529087,0.35389715,0.64374995,Positive
+MSFT,2016-02-04,Reinstalling Windows 10,0.0,1.0,0.0,Neutral,0.057806704,0.74973387,0.19245939,Neutral,0.0049230903,0.9924683,0.002608656,Neutral
+MSFT,2016-02-23,"Bill Gates, the ‘Impatient Optimist,’ Lays Out his Clean-Energy Innovation Agenda",0.206,0.794,0.0,Positive,0.030396134,0.4600732,0.5095307,Positive,0.0040519163,0.94628817,0.04965989,Neutral
+MSFT,2016-02-01,Creating a Family Website,0.524,0.476,0.0,Positive,0.021952948,0.87088144,0.10716558,Neutral,0.0007074188,0.9965307,0.0027618227,Neutral
+MSFT,2016-03-07,Tech Giants Battle for Top Cloud Talent,0.411,0.357,0.232,Positive,0.0513642,0.34430638,0.6043294,Positive,0.0031872217,0.94485074,0.051961996,Neutral
+MSFT,2016-03-01,Keeping Track of Windows Updates,0.0,1.0,0.0,Neutral,0.088168405,0.74638015,0.16545147,Neutral,0.0014610087,0.9950932,0.0034457883,Neutral
+MSFT,2016-03-30,"Microsoft Trumpets Windows 10, and Pushes Into Sci-Fi Tech",0.0,1.0,0.0,Neutral,0.019765366,0.33658192,0.64365274,Positive,0.0016233978,0.14555459,0.852822,Positive
+MSFT,2016-03-02,Checking the Graphics Card Specifications on Your Computer,0.0,1.0,0.0,Neutral,0.027550692,0.86698633,0.10546298,Neutral,0.0013558031,0.9935993,0.005044881,Neutral
+MSFT,2016-03-28,Silicon Valley Looks to Artificial Intelligence for the Next Big Thing,0.237,0.763,0.0,Positive,0.01738762,0.5764736,0.40613875,Neutral,0.0030114206,0.58440304,0.41258562,Neutral
+MSFT,2016-03-11,Getting the Weather Report From Windows,0.0,1.0,0.0,Neutral,0.04335647,0.84070903,0.115934424,Neutral,0.002207513,0.99544024,0.002352209,Neutral
+MSFT,2016-03-24,Finding Photo Programs That Recognize Faces,0.0,1.0,0.0,Neutral,0.0232426,0.7895164,0.18724096,Neutral,0.012744166,0.9834742,0.00378166,Neutral
+MSFT,2016-03-24,Microsoft Created a Twitter Bot to Learn From Users. It Quickly Became a Racist Jerk.,0.109,0.543,0.348,Negative,0.10023829,0.6766605,0.22310124,Neutral,0.9378581,0.058468014,0.0036739607,Negative
+MSFT,2016-03-03,Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.,0.0,0.794,0.206,Negative,0.31421423,0.2957168,0.39006898,Positive,0.047946908,0.8996547,0.052398402,Neutral
+MSFT,2016-03-25,"The Race Is On to Control Artificial Intelligence, and Tech’s Future",0.237,0.763,0.0,Positive,0.025381677,0.53804016,0.43657812,Neutral,0.0044736764,0.9639675,0.031558745,Neutral
+MSFT,2016-05-04,Restoring Windows Photo Viewer in Windows 10,0.268,0.732,0.0,Positive,0.04086077,0.53311324,0.42602605,Neutral,0.0060067796,0.9912941,0.0026991882,Neutral
+MSFT,2016-05-25,"Microsoft Cutting 1,850 Jobs in Smartphone Unit",0.0,0.8,0.2,Negative,0.9414855,0.029102685,0.029411716,Negative,0.9854719,0.013616635,0.00091138115,Negative
+MSFT,2016-05-19,Silicon Valley’s Artificial Intelligence Marathon Is On,0.341,0.659,0.0,Positive,0.03497575,0.58595735,0.37906688,Neutral,0.0040248036,0.9791189,0.016856272,Neutral
+MSFT,2016-05-24,Locating a Lost Windows Device,0.0,0.566,0.434,Negative,0.7509772,0.18353897,0.06548386,Negative,0.03721617,0.94140977,0.021373956,Neutral
+MSFT,2016-05-27,Fixing Microsoft Office for Mac Update Errors,0.0,0.714,0.286,Negative,0.7732946,0.16612825,0.060577143,Negative,0.7674141,0.22611432,0.006471633,Negative
+MSFT,2016-05-09,"The Clash of Privacy, Legislation and Software",0.0,1.0,0.0,Neutral,0.054877326,0.7969524,0.14817028,Neutral,0.16731748,0.830395,0.0022875161,Neutral
+MSFT,2016-05-13,Brooklyn Judge Will Not Force Facebook’s Silence on Subpoenas,0.0,1.0,0.0,Neutral,0.5350854,0.3228473,0.14206734,Negative,0.06465214,0.9245377,0.010810172,Neutral
+MSFT,2016-05-25,Morning Agenda: Hewlett-Packard Spinoff Prepares to Split Again,0.0,1.0,0.0,Neutral,0.6294012,0.1909915,0.17960732,Negative,0.29813498,0.69375294,0.008112053,Neutral
+MSFT,2016-05-24,Microsoft Awards First Grants to Help Expand Global Internet Access,0.623,0.377,0.0,Positive,0.016978601,0.26622754,0.7167939,Positive,0.00093216926,0.058059495,0.9410084,Positive
+MSFT,2016-05-18,"Why Windows 10 Upgrades Go Wrong, and How to Avoid It",0.0,0.629,0.371,Negative,0.8129722,0.12998188,0.05704595,Negative,0.9602718,0.031475995,0.00825219,Negative
+MSFT,2016-04-21,What Chatbots Reveal About Our Own Shortcomings,0.0,1.0,0.0,Neutral,0.40473762,0.48455542,0.11070688,Neutral,0.9895755,0.007969773,0.0024546653,Negative
+MSFT,2016-04-22,The No-Good Week in Tech’s (Hopeful) Trip to a Bright Future,0.244,0.756,0.0,Positive,0.14633936,0.2898029,0.5638578,Positive,0.95351386,0.025320344,0.021165716,Negative
+MSFT,2016-04-08,"For Some Top Nonprofits, Changing the World Begins in Seattle",0.167,0.833,0.0,Positive,0.02806761,0.5912542,0.38067818,Neutral,0.002084568,0.95087385,0.047041588,Neutral
+MSFT,2016-04-25,Removing QuickTime for Windows in a Hurry,0.0,1.0,0.0,Neutral,0.5422471,0.349775,0.10797796,Negative,0.011142677,0.9872218,0.0016356399,Neutral
+MSFT,2016-04-29,Microsoft Will Not Donate Money to Republicans’ Convention,0.0,1.0,0.0,Neutral,0.43799677,0.44153994,0.12046327,Neutral,0.26581174,0.7222744,0.011913841,Neutral
+MSFT,2016-04-04,Adding Links to the Windows 10 Start Menu,0.0,1.0,0.0,Neutral,0.024641061,0.80741763,0.16794132,Neutral,0.00086901523,0.9896382,0.00949275,Neutral
+MSFT,2016-04-21,Microsoft’s Cloud Business Falls Short of Investors’ Hopes,0.286,0.714,0.0,Positive,0.9021466,0.046923615,0.050929785,Negative,0.9927719,0.004536917,0.0026911523,Negative
+MSFT,2016-04-14,Microsoft Sues Justice Department to Protest Electronic Gag Order Statute,0.23,0.473,0.297,Neutral,0.6697479,0.23540173,0.09485034,Negative,0.798556,0.19312558,0.008318466,Negative
+MSFT,2016-04-20,Watching the Clock on That Windows 10 Deal,0.0,1.0,0.0,Neutral,0.027870765,0.75445485,0.21767429,Neutral,0.0063317926,0.99160975,0.0020584767,Neutral
+MSFT,2016-04-28,Europe’s Case Against Google Might Help Rivals More Than Consumers,0.231,0.769,0.0,Positive,0.20547569,0.3264288,0.46809554,Positive,0.8888755,0.09226422,0.018860217,Negative
+MSFT,2016-05-13,What to Do if Windows 10 Eats Your Files,0.0,1.0,0.0,Neutral,0.4346441,0.45683265,0.108523205,Neutral,0.94959,0.047934957,0.002475014,Negative
+MSFT,2016-05-18,Nokia Phones May Find Life After Microsoft,0.0,1.0,0.0,Neutral,0.025229305,0.4734245,0.50134623,Positive,0.0010108456,0.96717083,0.031818435,Neutral
+MSFT,2016-04-22,Microsoft and Google Agree to Drop Mutual Complaints,0.203,0.407,0.39,Negative,0.566492,0.2780967,0.15541121,Negative,0.011815512,0.023710111,0.96447444,Positive
+MSFT,2016-04-14,The Minecraft Generation,0.0,1.0,0.0,Neutral,0.028789707,0.8054085,0.16580178,Neutral,0.0054037557,0.9845238,0.010072407,Neutral
+MSFT,2016-04-10,"Billing by Millionths of Pennies, Cloud Computing’s Giants Take In Billions",0.0,1.0,0.0,Neutral,0.042294666,0.2242019,0.73350346,Positive,0.0029146133,0.9479838,0.049101595,Neutral
+MSFT,2016-04-11,Marking Up Web Pages in Windows 10,0.0,1.0,0.0,Neutral,0.020967484,0.54578304,0.43324944,Neutral,0.006041568,0.99161583,0.0023425566,Neutral
+MSFT,2016-04-15,Microsoft Goes on Offensive Against Justice Department,0.298,0.439,0.263,Positive,0.65668076,0.21825281,0.12506644,Negative,0.97783035,0.020825574,0.0013441623,Negative
+MSFT,2016-12-06,Adding Desktop Icons for Windows 10,0.0,1.0,0.0,Neutral,0.02304938,0.68801945,0.28893113,Neutral,0.0015270688,0.996506,0.0019669486,Neutral
+MSFT,2016-12-06,Europe Presses American Tech Companies to Tackle Hate Speech,0.0,0.684,0.316,Negative,0.07716575,0.46078384,0.46205044,Positive,0.01411829,0.3990423,0.58683944,Positive
+MSFT,2016-12-06,Facebook and Other Tech Companies Seek to Curb Flow of Terrorist Content,0.0,0.701,0.299,Negative,0.588955,0.26232716,0.14871791,Negative,0.026886495,0.7464195,0.226694,Neutral
+MSFT,2016-12-25,Why the Computing Cloud Will Keep Growing and Growing,0.327,0.673,0.0,Positive,0.019389462,0.21578507,0.76482546,Positive,0.010958542,0.95015126,0.03889018,Neutral
+MSFT,2016-12-13,"When Trump Meets Tech Leaders, Jobs Will Be on the Agenda",0.0,1.0,0.0,Neutral,0.026822932,0.4845055,0.48867166,Positive,0.0014797249,0.9386408,0.059879575,Neutral
+MSFT,2016-12-08,"With LinkedIn, Microsoft Looks to Avoid Past Acquisition Busts",0.0,0.784,0.216,Negative,0.44273818,0.21937434,0.33788756,Negative,0.0059245513,0.1483195,0.84575593,Positive
+MSFT,2016-12-01,Reintroduce Yourself to Microsoft’s Cortana,0.0,1.0,0.0,Neutral,0.020163406,0.6919131,0.28792346,Neutral,0.0008619578,0.99735343,0.0017846432,Neutral
+MSFT,2016-12-09,Daily Report: What Microsoft Needs From LinkedIn,0.0,1.0,0.0,Neutral,0.06483209,0.7878451,0.14732285,Neutral,0.013053854,0.88325626,0.10368992,Neutral
+MSFT,2017-01-09,Data Could Be the Next Tech Hot Button for Regulators,0.0,1.0,0.0,Neutral,0.019323753,0.6309824,0.34969386,Neutral,0.0030387999,0.90693265,0.090028554,Neutral
+MSFT,2017-01-17,Joining the Windows Testing Team,0.0,1.0,0.0,Neutral,0.037748616,0.67808175,0.2841696,Neutral,0.00240246,0.99576205,0.0018355178,Neutral
+MSFT,2017-01-12,Silicon Valley Takes a Right Turn,0.0,1.0,0.0,Neutral,0.34248903,0.30961692,0.34789407,Positive,0.0047283145,0.37959805,0.61567366,Positive
+MSFT,2017-01-01,"In Year of Anti-Muslim Vitriol, Brands Promote Inclusion",0.271,0.729,0.0,Positive,0.10230373,0.28466752,0.61302876,Positive,0.1864125,0.6661834,0.14740404,Neutral
+MSFT,2017-01-31,Give Windows 10 a Restart Schedule,0.0,1.0,0.0,Neutral,0.035906136,0.58707803,0.37701583,Neutral,0.04910733,0.94877493,0.0021177328,Neutral
+MSFT,2017-01-04,Tech Giants Seem Invincible. That Worries Lawmakers.,0.291,0.455,0.255,Positive,0.22196363,0.42388493,0.35415146,Neutral,0.93991894,0.04873578,0.0113453185,Negative
+MSFT,2017-01-12,A New Destination for Files Downloaded From Microsoft Edge,0.0,1.0,0.0,Neutral,0.016946271,0.7072056,0.2758482,Neutral,0.0010643855,0.95358837,0.045347307,Neutral
+MSFT,2017-01-27,"Microsoft’s Profit Rises 4 Percent, as Cloud Business Booms",0.293,0.707,0.0,Positive,0.041643657,0.044792343,0.913564,Positive,0.00031304255,0.0045364466,0.99515045,Positive
+MSFT,2017-01-02,Where to Go if You Forget Your Hotmail Password,0.0,0.808,0.192,Negative,0.5804171,0.34921464,0.070368275,Negative,0.010443244,0.98310596,0.0064508193,Neutral
+MSFT,2017-11-07,Microsoft Office Mobile Apps: Free or With a Fee,0.32,0.68,0.0,Positive,0.043873873,0.8298458,0.12628034,Neutral,0.00070511916,0.9835934,0.015701372,Neutral
+MSFT,2017-11-21,"Skype Vanishes From App Stores in China, Including Apple’s",0.0,1.0,0.0,Neutral,0.7796259,0.16374208,0.056631997,Negative,0.86427355,0.13289303,0.0028334043,Negative
+MSFT,2017-11-29,"Microsoft to Expand Campus, as Amazon Looks Elsewhere",0.4,0.6,0.0,Positive,0.016155545,0.34166327,0.6421812,Positive,0.0042635486,0.6929884,0.30274808,Neutral
+MSFT,2017-11-10,LinkedIn Faces Setback in China as It Runs Afoul of New Rules,0.0,1.0,0.0,Neutral,0.90325797,0.058698643,0.038043402,Negative,0.99503595,0.0029260332,0.00203794,Negative
+MSFT,2017-11-05,Building A.I. That Can Build A.I.,0.0,1.0,0.0,Neutral,0.01578816,0.76511586,0.2190959,Neutral,0.0019385687,0.9874286,0.010632793,Neutral
+MSFT,2017-11-01,The Upside of Being Ruled by the Five Tech Giants,0.0,1.0,0.0,Neutral,0.8315399,0.108200505,0.060259618,Negative,0.003663324,0.53236,0.46397665,Neutral
+MSFT,2017-11-08,Our Guide to the Holiday Season’s Biggest Video Games and Consoles,0.213,0.787,0.0,Positive,0.029872285,0.7219517,0.24817602,Neutral,0.0011501552,0.9569006,0.04194921,Neutral
+MSFT,2017-10-06,Microsoft’s Chief Wants You to Know He’s a Different Kind of Leader,0.0,1.0,0.0,Neutral,0.03391392,0.6494206,0.31666547,Neutral,0.0056746467,0.7360882,0.25823718,Neutral
+MSFT,2017-10-31,How to Get Cortana’s Undivided Attention,0.0,1.0,0.0,Neutral,0.027165737,0.75968176,0.21315256,Neutral,0.0043617277,0.34288296,0.6527553,Positive
+MSFT,2017-10-24,U.S. to Limit Use of Secrecy Orders That Microsoft Challenged,0.0,0.865,0.135,Negative,0.51342237,0.31646907,0.1701085,Negative,0.28464192,0.6690817,0.046276506,Neutral
+MSFT,2017-10-25,Can Washington Stop Big Tech Companies? Don’t Bet on It,0.0,0.804,0.196,Negative,0.36129394,0.48085704,0.15784895,Neutral,0.54615724,0.30718306,0.14665975,Negative
+MSFT,2017-10-06,Don’t Get Too Comfortable at That Desk,0.355,0.645,0.0,Positive,0.35180143,0.5367321,0.11146654,Neutral,0.0962547,0.4183398,0.48540545,Positive
+MSFT,2017-10-16,Justices to Decide on Forcing Technology Firms to Provide Data Held Abroad,0.0,1.0,0.0,Neutral,0.02972582,0.48100266,0.48927158,Positive,0.012406678,0.9374171,0.05017626,Neutral
+MSFT,2017-10-04,Keeping Your Reading List in Sync,0.0,1.0,0.0,Neutral,0.029385393,0.61424375,0.35637075,Neutral,0.0009206389,0.99448496,0.004594355,Neutral
+MSFT,2017-10-26,What Worries? Big Tech Companies Post Glowing Quarterly Profits,0.228,0.551,0.22,Neutral,0.29519016,0.18083698,0.52397287,Positive,0.008498747,0.14573114,0.8457701,Positive
+MSFT,2017-10-26,"Scanning, Converting and Editing Text on the Go",0.0,1.0,0.0,Neutral,0.027571127,0.86722326,0.10520564,Neutral,0.00093104877,0.9961204,0.0029485105,Neutral
+MSFT,2017-10-09,Google Finds Accounts Connected to Russia Bought Election Ads,0.0,1.0,0.0,Neutral,0.19656564,0.67889494,0.12453941,Neutral,0.31874385,0.6695599,0.011696217,Neutral
+MSFT,2017-06-01,‘Climate Change Is Real’: Many U.S. Companies Lament Paris Accord Exit,0.0,0.769,0.231,Negative,0.84134173,0.102355376,0.056302823,Negative,0.9769216,0.01932614,0.0037522533,Negative
+MSFT,2017-06-27,How Silicon Valley Pushed Coding Into American Classrooms,0.0,1.0,0.0,Neutral,0.07126954,0.3643726,0.5643579,Positive,0.15975086,0.828351,0.011898175,Neutral
+MSFT,2017-06-28,"A New Kind of Tech Job Emphasizes Skills, Not a College Degree",0.0,1.0,0.0,Neutral,0.035062432,0.4134462,0.55149144,Positive,0.002381925,0.960067,0.037551116,Neutral
+MSFT,2017-06-12,A Slump in Tech Stocks That Leaves Some Investors Mystified,0.0,1.0,0.0,Neutral,0.9386022,0.024974138,0.036423646,Negative,0.98963916,0.009187629,0.0011732507,Negative
+MSFT,2017-06-28,Screening Out Malware with Microsoft Edge,0.0,1.0,0.0,Neutral,0.3554484,0.52320117,0.1213505,Neutral,0.025176205,0.9707093,0.004114493,Neutral
+MSFT,2017-06-06,Controlling Notifications in Windows 10,0.0,1.0,0.0,Neutral,0.34737748,0.5696958,0.08292682,Neutral,0.0027369729,0.98955834,0.007704564,Neutral
+MSFT,2017-06-28,"Ukraine Cyberattack Was Meant to Paralyze, not Profit, Evidence Shows",0.0,0.789,0.211,Negative,0.81631804,0.10969893,0.073983,Negative,0.88209695,0.108210124,0.009692911,Negative
+MSFT,2017-06-22,Trading in a Briefcase for a Drive in the Sky,0.0,1.0,0.0,Neutral,0.0190534,0.83132714,0.1496194,Neutral,0.0020197274,0.9766051,0.021375176,Neutral
+MSFT,2017-06-02,"Greetings, User. You Can Change Your Name.",0.318,0.682,0.0,Positive,0.04377182,0.717938,0.23829024,Neutral,0.0020198226,0.9925518,0.0054283584,Neutral
+MSFT,2017-06-20,Tech Titans Make Pilgrimage to White House to Discuss Government Systems,0.0,1.0,0.0,Neutral,0.025989257,0.687366,0.28664473,Neutral,0.0017327744,0.9666936,0.03157371,Neutral
+MSFT,2017-07-06,"Microsoft to Cut Up to 4,000 Sales and Marketing Jobs",0.0,0.811,0.189,Negative,0.9430324,0.028524812,0.02844279,Negative,0.9967529,0.002612611,0.00063441537,Negative
+MSFT,2017-07-24,Microsoft Paint’s Days May Be Numbered,0.0,1.0,0.0,Neutral,0.59304345,0.33696333,0.069993205,Negative,0.027610794,0.96931005,0.0030792402,Neutral
+MSFT,2017-07-21,Microsoft Is Rewarded for Turning to the Cloud,0.314,0.686,0.0,Positive,0.03198833,0.22631834,0.7416933,Positive,0.0004391585,0.012957308,0.9866035,Positive
+MSFT,2017-07-11,Daily Report: A Technology to Close the Digital Divide,0.0,1.0,0.0,Neutral,0.30659354,0.49518463,0.19822186,Neutral,0.0054564355,0.4419688,0.5525748,Positive
+MSFT,2017-07-26,How Microsoft Has Become the Surprise Innovator in PCs,0.208,0.792,0.0,Positive,0.014452339,0.34124252,0.6443051,Positive,0.001459341,0.035637163,0.96290344,Positive
+MSFT,2017-07-26,The Surprising New PC Innovator? Microsoft,0.296,0.704,0.0,Positive,0.02174767,0.47452632,0.503726,Positive,0.009488733,0.55054617,0.43996507,Neutral
+MSFT,2017-07-03,"After Ransomware Attack, Windows XP Is Not Back From the Dead",0.178,0.427,0.395,Negative,0.8426033,0.08195843,0.07543825,Negative,0.8931262,0.10291978,0.0039540417,Negative
+MSFT,2017-07-11,"To Close Digital Divide, Microsoft to Harness Unused Television Channels",0.0,1.0,0.0,Neutral,0.8429879,0.096483655,0.060528446,Negative,0.0057989964,0.7876946,0.20650636,Neutral
+MSFT,2017-07-19,Shopping for New Software,0.0,1.0,0.0,Neutral,0.03007299,0.8521056,0.11782146,Neutral,0.016153133,0.9761673,0.0076795337,Neutral
+MSFT,2017-07-10,Digital Privacy to Come Under Supreme Court’s Scrutiny,0.34,0.66,0.0,Positive,0.6061068,0.30376187,0.09013134,Negative,0.008190391,0.9838997,0.007909947,Neutral
+MSFT,2017-10-02,Move Your Mailbox to Another App,0.0,1.0,0.0,Neutral,0.021959968,0.76531374,0.21272627,Neutral,0.0008981411,0.994283,0.0048188716,Neutral
+MSFT,2017-10-13,How to Get Cortana to Keep Track of Your Favorite Teams,0.231,0.769,0.0,Positive,0.0254303,0.7922546,0.18231511,Neutral,0.0006044441,0.9937873,0.005608353,Neutral
+MSFT,2017-10-11,The Frightful Five Want to Rule Entertainment. They Are Hitting Limits.,0.266,0.519,0.214,Negative,0.19906734,0.6710149,0.12991785,Neutral,0.91513914,0.080858655,0.004002227,Negative
+MSFT,2017-10-07,Who Invented ‘Zero’?,0.0,1.0,0.0,Neutral,0.055052795,0.79711294,0.14783426,Neutral,0.06579102,0.92949367,0.004715321,Neutral
+MSFT,2017-10-23,New Windows for the Fall Season,0.0,1.0,0.0,Neutral,0.035662718,0.52977234,0.43456492,Neutral,0.0018095558,0.9100737,0.08811671,Neutral
+MSFT,2017-10-06,Change the Key That Unlocks Your Accounts,0.0,1.0,0.0,Neutral,0.47299835,0.41639355,0.11060808,Negative,0.011110459,0.98222417,0.0066653728,Neutral
+MSFT,2017-10-18,How the Frightful Five Put Start-Ups in a Lose-Lose Situation,0.0,0.708,0.292,Negative,0.8971947,0.05703864,0.045766633,Negative,0.9949892,0.004132706,0.0008781192,Negative
+MSFT,2017-09-25,Engrave Your Own Stationery Template,0.0,1.0,0.0,Neutral,0.021799186,0.8373652,0.14083569,Neutral,0.001005455,0.9883469,0.010647641,Neutral
+MSFT,2017-09-16,Chips Off the Old Block: Computers Are Taking Design Cues From Human Brains,0.0,0.805,0.195,Negative,0.036026724,0.68610275,0.27787054,Neutral,0.004413001,0.9398793,0.05570769,Neutral
+MSFT,2017-09-01,Farhad’s and Nick’s Week in Review: Uber’s New Boss and Amazon’s New Supermarket,0.0,1.0,0.0,Neutral,0.046101347,0.5829708,0.3709279,Neutral,0.0020772563,0.95970416,0.038218617,Neutral
+MSFT,2017-09-27,"Satya Nadella on Women in Tech, A.I. and E-Sports",0.0,1.0,0.0,Neutral,0.060915146,0.7719742,0.16711077,Neutral,0.005501423,0.97960883,0.014889689,Neutral
+MSFT,2017-08-16,Getting Microsoft Word to Call You by Your Real Name,0.0,1.0,0.0,Neutral,0.041225493,0.84351903,0.115255445,Neutral,0.0013229444,0.99546885,0.0032082696,Neutral
+MSFT,2017-08-16,Microsoft Teaches Autonomous Gliders to Make Decisions on the Fly,0.0,1.0,0.0,Neutral,0.018602546,0.6585783,0.32281917,Neutral,0.0014933991,0.9526056,0.045900952,Neutral
+MSFT,2017-08-03,Microsoft Shifts From Paying Outside Lawyers by the Hour,0.0,1.0,0.0,Neutral,0.90848607,0.05508325,0.036430735,Negative,0.18296903,0.8086291,0.008401883,Neutral
+MSFT,2017-08-02,Gearing Up for Another Windows 10 Update,0.0,1.0,0.0,Neutral,0.05517238,0.4320938,0.5127339,Positive,0.003618588,0.9669485,0.029432973,Neutral
+MSFT,2017-08-04,Taking Your AutoCorrect Entries With You,0.0,1.0,0.0,Neutral,0.02723146,0.8432178,0.1295507,Neutral,0.0012256613,0.9894058,0.009368471,Neutral
+MSFT,2017-08-30,"‘Cortana, Open Alexa,’ Amazon Says. And Microsoft Agrees.",0.368,0.632,0.0,Positive,0.017436339,0.545103,0.4374606,Neutral,0.04291328,0.94728935,0.009797433,Neutral
+MSFT,2017-08-16,Can Artificial Intelligence Fly a Plane?,0.437,0.563,0.0,Positive,0.019795766,0.83795154,0.14225274,Neutral,0.01106789,0.9798166,0.009115496,Neutral
+MSFT,2017-09-06,Democrats Begin Legal Assault on Trump’s Move to End ‘Dreamer’ Program,0.105,0.629,0.266,Negative,0.6226105,0.24668762,0.1307019,Negative,0.23342882,0.5833751,0.18319613,Neutral
+MSFT,2017-09-15,"Serving the Community, Working for Microsoft",0.0,1.0,0.0,Neutral,0.024103146,0.6382436,0.33765322,Neutral,0.00086535705,0.9936917,0.005442948,Neutral
+MSFT,2017-09-12,How to Pick Your Favorite Font for Word Files,0.273,0.727,0.0,Positive,0.026612293,0.83973294,0.13365467,Neutral,0.00071549194,0.9900545,0.009230047,Neutral
+MSFT,2017-09-18,"Outlook for Android, Plain and Simple",0.0,1.0,0.0,Neutral,0.019119961,0.84509915,0.13578096,Neutral,0.014782292,0.9745968,0.0106208725,Neutral
+MSFT,2017-09-27,Microsoft C.E.O. Says Tech’s Progress on Gender Equality Is ‘Not Sufficient’,0.219,0.781,0.0,Positive,0.60315555,0.17466375,0.2221807,Negative,0.9315187,0.06398293,0.004498335,Negative
+MSFT,2017-09-22,World Leaders Urge Big Tech to Police Terrorist Content,0.0,0.63,0.37,Negative,0.1442751,0.5072051,0.34851977,Neutral,0.04580827,0.7982492,0.15594254,Neutral
+MSFT,2017-09-13,How to Keep on Top of Technology When You Write About It,0.141,0.859,0.0,Positive,0.024289368,0.711873,0.26383767,Neutral,0.0016911452,0.9938806,0.0044282107,Neutral
+MSFT,2017-09-02,"Silicon Valley Courts Brand-Name Teachers, Raising Ethics Issues",0.0,1.0,0.0,Neutral,0.76349455,0.16000246,0.076502986,Negative,0.9664387,0.031856943,0.0017042249,Negative
+MSFT,2017-09-03,"In Her Family’s Footsteps, a Reporter Takes to the Classroom",0.0,1.0,0.0,Neutral,0.057131164,0.75588447,0.18698435,Neutral,0.0010991461,0.99723464,0.0016661838,Neutral
+MSFT,2017-09-26,Tech Firms Add $300 Million to Trump Administration’s Computer Science Push,0.0,1.0,0.0,Neutral,0.01728544,0.24135134,0.7413632,Positive,0.0006658948,0.036105197,0.9632289,Positive
+MSFT,2017-02-10,Sticking With Windows 7,0.0,1.0,0.0,Neutral,0.050556898,0.6663968,0.2830463,Neutral,0.0016296357,0.976198,0.022172332,Neutral
+MSFT,2017-02-06,Why Windows 10 Wants to Automatically Restart,0.0,1.0,0.0,Neutral,0.06386613,0.6314621,0.3046718,Neutral,0.16873789,0.8296739,0.0015881652,Neutral
+MSFT,2017-02-27,Business Giants to Announce Creation of a Computing System Based on Ethereum,0.174,0.826,0.0,Positive,0.016122844,0.51254547,0.47133163,Neutral,0.0021849526,0.72967577,0.26813927,Neutral
+MSFT,2017-02-24,Automatic Update Headaches,0.0,1.0,0.0,Neutral,0.46725538,0.43168637,0.10105817,Negative,0.996935,0.0022301043,0.0008348906,Negative
+MSFT,2017-02-06,"Tech Opposition to Trump Propelled by Employees, Not Executives",0.0,1.0,0.0,Neutral,0.8387704,0.102968566,0.05826097,Negative,0.38619727,0.59886664,0.014936048,Neutral
+MSFT,2017-02-17,What to Do When Windows Updates Fail,0.0,0.632,0.368,Negative,0.74573094,0.19555208,0.05871703,Negative,0.46207142,0.5287009,0.009227727,Neutral
+MSFT,2017-03-02,Apple’s Devices Lose Luster in American Classrooms,0.0,0.69,0.31,Negative,0.92714727,0.034724984,0.0381278,Negative,0.9578134,0.029346991,0.012839635,Negative
+MSFT,2017-03-07,How to Get Windows 10 to Run Older Programs,0.0,1.0,0.0,Neutral,0.038019452,0.80959594,0.15238461,Neutral,0.0015779852,0.99118364,0.0072384295,Neutral
+MSFT,2017-03-01,Editing Documents on Both a PC and a Mac,0.0,1.0,0.0,Neutral,0.022847889,0.87392384,0.10322827,Neutral,0.002233276,0.99643815,0.001328643,Neutral
+MSFT,2017-03-28,‘Mortal Kombat’ and ‘Solitaire’ Among Video Game Hall of Fame Finalists,0.225,0.775,0.0,Positive,0.053600952,0.63937914,0.30701992,Neutral,0.0013549353,0.98647004,0.012175041,Neutral
+MSFT,2017-03-15,Just What Was in That iOS System Update?,0.0,1.0,0.0,Neutral,0.27186102,0.61279184,0.115347154,Neutral,0.0037558253,0.9950348,0.001209474,Neutral
+MSFT,2017-05-05,Checking for the Latest Windows 10 Update,0.0,1.0,0.0,Neutral,0.051363897,0.76073784,0.18789835,Neutral,0.0006413795,0.9950872,0.0042713964,Neutral
+MSFT,2017-05-02,Microsoft Looks to Regain Lost Ground in the Classroom,0.0,0.777,0.223,Negative,0.7846563,0.10437916,0.11096463,Negative,0.004023076,0.06407305,0.93190384,Positive
+MSFT,2017-05-01,Daily Report: A Busy Week Ahead,0.0,1.0,0.0,Neutral,0.22530691,0.48854342,0.2861497,Neutral,0.03657912,0.93396837,0.029452484,Neutral
+MSFT,2017-05-15,"China, Addicted to Bootleg Software, Reels From Ransomware Attack",0.0,0.721,0.279,Negative,0.8142878,0.09803903,0.08767312,Negative,0.90844977,0.089728646,0.0018215092,Negative
+MSFT,2017-05-16,Use Your Phone as a Digital Magnifying Glass,0.0,1.0,0.0,Neutral,0.02005427,0.8443946,0.13555111,Neutral,0.001953322,0.99573404,0.0023126702,Neutral
+MSFT,2017-05-08,When Apple Maps Marks Your Spot,0.0,1.0,0.0,Neutral,0.02753428,0.74772006,0.22474562,Neutral,0.002053981,0.99630994,0.0016360888,Neutral
+MSFT,2017-05-16,"In Ransomware Attack, Where Does Microsoft’s Responsibility Lie?",0.0,0.693,0.307,Negative,0.70120734,0.21138749,0.087405175,Negative,0.8955801,0.1032632,0.0011566193,Negative
+MSFT,2017-05-14,The World Is Getting Hacked. Why Don’t We Do More to Stop It?,0.0,0.68,0.32,Negative,0.77863437,0.13783324,0.083532326,Negative,0.9152618,0.06801372,0.016724426,Negative
+MSFT,2017-05-16,Daily Report: Looking for Someone to Blame in the Ransomware Attack,0.0,0.621,0.379,Negative,0.6331897,0.27417853,0.09263174,Negative,0.9653677,0.033440884,0.0011914079,Negative
+MSFT,2017-05-10,Tech’s Frightful Five: They’ve Got Us,0.0,0.602,0.398,Negative,0.29112804,0.5359297,0.17294227,Neutral,0.74000776,0.25274566,0.0072466144,Negative
+MSFT,2017-04-30,"Dubai Introduces Its Own Font, Lauding Free Expression It Does Not Permit",0.231,0.769,0.0,Positive,0.019341702,0.6285922,0.35206613,Neutral,0.23743258,0.7449936,0.017573804,Neutral
+MSFT,2017-04-16,"Slack, an Upstart in Messaging, Now Faces Giant Tech Rivals",0.0,1.0,0.0,Neutral,0.18750091,0.42054707,0.39195198,Neutral,0.041302204,0.5309943,0.42770353,Neutral
+MSFT,2017-04-11,A Hangout for Old Desktop Notifications,0.0,1.0,0.0,Neutral,0.3780755,0.54559124,0.076333195,Neutral,0.0020776074,0.9916127,0.0063096858,Neutral
+MSFT,2017-04-28,Daily Report: Cloud Computing Asserts Itself,0.0,1.0,0.0,Neutral,0.037421856,0.5872272,0.37535086,Neutral,0.0027970856,0.27762693,0.719576,Positive
+MSFT,2017-04-28,"Cloud Produces Sunny Earnings at Amazon, Microsoft and Alphabet",0.391,0.609,0.0,Positive,0.011420305,0.41722584,0.57135385,Positive,0.0010861853,0.12970236,0.8692115,Positive
+MSFT,2017-04-10,"Yes, Another Windows 10 Update Is Here",0.31,0.69,0.0,Positive,0.044183664,0.41330406,0.5425122,Positive,0.002994943,0.9535362,0.043468848,Neutral
+MSFT,2017-04-21,What to Try When the Firefox Browser Stalls,0.0,1.0,0.0,Neutral,0.69026655,0.24677134,0.062962115,Negative,0.26347068,0.7227685,0.013760805,Neutral
+MSFT,2017-04-27,Movers: Dan Loeb Takes Aim at Honeywell,0.0,1.0,0.0,Neutral,0.5142052,0.30998975,0.17580506,Negative,0.06607829,0.92733836,0.006583475,Neutral
+MSFT,2017-04-01,"Pamela Edstrom, Who Helped Shape Microsoft’s Public Image, Dies at 71",0.0,1.0,0.0,Neutral,0.75443417,0.14632055,0.09924527,Negative,0.29976457,0.6092682,0.09096721,Neutral
+MSFT,2017-05-14,Ransomware’s Aftershocks Feared as U.S. Warns of Complexity,0.0,0.566,0.434,Negative,0.9255869,0.033449132,0.040963996,Negative,0.9251599,0.06777473,0.00706533,Negative
+MSFT,2017-05-16,"In Computer Attacks, Clues Point to Frequent Culprit: North Korea",0.0,0.756,0.244,Negative,0.81914353,0.111577444,0.06927898,Negative,0.89798635,0.06918621,0.032827385,Negative
+MSFT,2017-05-22,How to Make It Known There’s a Problem With an App,0.0,0.769,0.231,Negative,0.31236857,0.5990265,0.08860497,Neutral,0.79063493,0.20524292,0.004122195,Negative
+MSFT,2017-05-10,Daily Report: Too Late to Run From Tech’s Frightful Five,0.0,0.732,0.268,Negative,0.8278234,0.119231544,0.052945033,Negative,0.76395434,0.23063016,0.005415512,Negative
+MSFT,2017-05-03,Giving the Behemoths a Leg Up on the Little Guy,0.231,0.769,0.0,Positive,0.024364814,0.5180074,0.45762777,Neutral,0.46850008,0.10173587,0.42976406,Negative
+MSFT,2017-05-08,"The ‘Frightful Five’ Aren’t So Scary, as Long as They’re Competing",0.0,0.741,0.259,Negative,0.67505497,0.21274838,0.11219669,Negative,0.028438883,0.83828497,0.13327618,Neutral
+MSFT,2017-05-10,Which Tech Giant Would You Drop?,0.0,0.704,0.296,Negative,0.4986365,0.37366536,0.12769806,Negative,0.6607765,0.33465475,0.004568735,Negative
+MSFT,2017-12-19,Microsoft Moves to End Secrecy in Sexual Harassment Claims,0.0,0.696,0.304,Negative,0.17623337,0.50052345,0.32324314,Neutral,0.7951181,0.13313551,0.07174641,Negative
+MSFT,2017-12-12,"Net Neutrality Protests Move Online, Yet Big Tech Is Quiet",0.0,0.826,0.174,Negative,0.76071095,0.15164979,0.087639205,Negative,0.46298966,0.52129304,0.015717275,Neutral
+MSFT,2017-12-20,What the Tax Bill Fails to Address: Technology’s Tsunami,0.0,0.741,0.259,Negative,0.8686809,0.08656214,0.04475703,Negative,0.89148384,0.091562495,0.016953617,Negative
+MSFT,2018-01-23,"‘She’s Not Laughing’: In Davos, Taking on Sexual Harassment",0.0,0.696,0.304,Negative,0.3945867,0.4630462,0.14236711,Neutral,0.0724833,0.8678806,0.059636187,Neutral
+MSFT,2018-01-27,The Mind Meld of Bill Gates and Steven Pinker,0.0,1.0,0.0,Neutral,0.021624314,0.8526099,0.12576576,Neutral,0.002025495,0.9930012,0.0049733347,Neutral
+MSFT,2018-01-04,What You Need to Do Because of Flaws in Computer Chips,0.0,1.0,0.0,Neutral,0.8004701,0.1491917,0.05033813,Negative,0.025216708,0.96823555,0.0065476485,Neutral
+MSFT,2018-01-31,Microsoft Sales Lifted by Cloud Computing,0.0,1.0,0.0,Neutral,0.15673171,0.2270025,0.6162657,Positive,0.00042116235,0.009516722,0.9900621,Positive
+MSFT,2018-11-10,Facebook to Drop Forced Arbitration in Harassment Cases,0.0,0.368,0.632,Negative,0.7634095,0.15295665,0.08363382,Negative,0.011422693,0.44635805,0.5422193,Positive
+MSFT,2018-11-29,Microsoft Is Worth as Much as Apple. How Did That Happen?,0.16,0.84,0.0,Positive,0.06425648,0.7451583,0.19058523,Neutral,0.013672077,0.5190492,0.46727875,Neutral
+MSFT,2018-11-27,"Apple’s Bad Month Is Getting Worse, Jeopardizing Its Status as Most Valuable Company",0.17,0.5,0.33,Negative,0.9285382,0.03443251,0.037029315,Negative,0.9936253,0.004697328,0.0016773888,Negative
+MSFT,2018-10-15,"Paul G. Allen, Microsoft’s Co-Founder, Is Dead at 65",0.0,0.65,0.35,Negative,0.79631543,0.12409396,0.07959067,Negative,0.93796706,0.056873977,0.0051590377,Negative
+MSFT,2018-10-24,"Microsoft’s Earnings Surge, as Cloud Bet Continues to Pay Off",0.0,0.865,0.135,Negative,0.05728283,0.06760657,0.87511057,Positive,0.00035053096,0.0068283505,0.99282116,Positive
+MSFT,2018-10-26,Microsoft Says It Will Sell Pentagon Artificial Intelligence and Other Advanced Technology,0.338,0.662,0.0,Positive,0.028135542,0.58510995,0.38675448,Neutral,0.0022780804,0.30024356,0.6974783,Positive
+MSFT,2018-10-25,Tech Earnings Provide a Breather From the Selling,0.0,1.0,0.0,Neutral,0.05283595,0.18566033,0.76150376,Positive,0.00053644046,0.013748752,0.98571473,Positive
+MSFT,2018-06-26,Top Tech Companies Met With Intelligence Officials to Discuss Midterms,0.38,0.62,0.0,Positive,0.082994595,0.641959,0.27504644,Neutral,0.0018261381,0.91270435,0.08546953,Neutral
+MSFT,2018-06-17,"With Twitch, Amazon Tightens Grip on Live Streams of Video Games",0.145,0.855,0.0,Positive,0.78047997,0.12937953,0.090140454,Negative,0.18275985,0.78532773,0.03191237,Neutral
+MSFT,2018-06-19,"Microsoft Employees Protest Work With ICE, as Tech Industry Mobilizes Over Immigration",0.0,0.846,0.154,Negative,0.79172915,0.14180632,0.06646459,Negative,0.49791655,0.2814379,0.22064553,Negative
+MSFT,2018-06-04,"Microsoft Buys GitHub for $7.5 Billion, Moving to Grow in Coding’s New Era",0.0,1.0,0.0,Neutral,0.010931456,0.18117453,0.80789405,Positive,0.0007881225,0.037432525,0.96177936,Positive
+MSFT,2018-06-22,The Week in Tech: Silicon Valley Gets Even More Political,0.0,1.0,0.0,Neutral,0.3203534,0.45207024,0.22757642,Neutral,0.46671763,0.4970947,0.036187634,Neutral
+MSFT,2018-07-27,Microsoft Employees Question C.E.O. Over Company’s Contract With ICE,0.0,1.0,0.0,Neutral,0.7161709,0.20767112,0.076158,Negative,0.97023946,0.026842088,0.0029185177,Negative
+MSFT,2018-07-19,Microsoft Emerges as Clear No. 2 in Cloud Computing,0.241,0.556,0.204,Positive,0.022901764,0.18463746,0.7924608,Positive,0.052258305,0.22163086,0.7261108,Positive
+MSFT,2018-07-13,Microsoft Urges Congress to Regulate Use of Facial Recognition,0.0,1.0,0.0,Neutral,0.17487632,0.5352174,0.28990623,Neutral,0.18672675,0.786607,0.026666163,Neutral
+MSFT,2018-08-21,"New Russian Hacking Targeted Republican Groups, Microsoft Says",0.0,1.0,0.0,Neutral,0.74634236,0.15796623,0.09569145,Negative,0.96676165,0.029797416,0.0034409543,Negative
+MSFT,2018-08-01,Stumbles? What Stumbles? Big Tech Is as Strong as Ever,0.289,0.711,0.0,Positive,0.66642916,0.17585674,0.15771414,Negative,0.037233442,0.7793208,0.18344572,Neutral
+MSFT,2018-09-03,Silicon Valley Doesn’t Like Trump. It Can Still Work With the Government.,0.185,0.815,0.0,Positive,0.44909424,0.42891487,0.12199092,Negative,0.15481739,0.7835434,0.061639104,Neutral
+MSFT,2018-09-12,The Metamorphosis of Silicon Valley C.E.O.s: From Big to Boring,0.0,0.796,0.204,Negative,0.055934943,0.707707,0.23635812,Neutral,0.8969188,0.09648454,0.006596655,Negative
+MSFT,2018-09-09,Role Models Tell Girls That STEM’s for Them in New Campaign,0.0,1.0,0.0,Neutral,0.024150286,0.6112042,0.36464545,Neutral,0.0030594748,0.36938405,0.6275564,Positive
+MSFT,2018-02-20,The Case Against Google,0.0,1.0,0.0,Neutral,0.39342135,0.4400195,0.16655914,Neutral,0.9765339,0.021924146,0.0015419514,Negative
+MSFT,2018-02-21,"To Give A.I. the Gift of Gab, Silicon Valley Needs to Offend You",0.18,0.683,0.137,Positive,0.0207565,0.6918458,0.28739774,Neutral,0.8244702,0.16952698,0.0060027717,Negative
+MSFT,2018-02-20,Peggy Johnson on A.I.’s Potential,0.0,1.0,0.0,Neutral,0.03555994,0.74723667,0.21720341,Neutral,0.0027708325,0.9906282,0.006600976,Neutral
+MSFT,2018-03-29,Recording Skype Video Calls,0.0,1.0,0.0,Neutral,0.055054832,0.83051115,0.11443406,Neutral,0.011126273,0.98567593,0.0031978243,Neutral
+MSFT,2018-03-29,Microsoft Reorganizes to Fuel Cloud and A.I. Businesses,0.0,1.0,0.0,Neutral,0.019368723,0.4690773,0.51155394,Positive,0.002473558,0.84680724,0.15071927,Neutral
+MSFT,2018-03-10,Christopher Liddell Is Front-Runner to Become Trump’s Top Economic Adviser,0.167,0.833,0.0,Positive,0.024194296,0.54631054,0.42949516,Neutral,0.001891012,0.11336788,0.88474107,Positive
+MSFT,2018-05-07,Microsoft Tries a New Role: Moral Leader,0.0,1.0,0.0,Neutral,0.01756759,0.41822872,0.5642037,Positive,0.0023540556,0.73976696,0.25787902,Neutral
+MSFT,2018-05-18,What the Microsoft Antitrust Case Taught Us,0.0,1.0,0.0,Neutral,0.589569,0.30499336,0.10543761,Negative,0.008422387,0.95720994,0.034367744,Neutral
+MSFT,2018-04-17,Tech Firms Sign ‘Digital Geneva Accord’ Not to Aid Governments in Cyberwar,0.0,1.0,0.0,Neutral,0.40868935,0.3581426,0.23316802,Negative,0.035283126,0.89148045,0.07323644,Neutral
+MSFT,2018-04-14,When Mr. Gates Went to Washington,0.0,1.0,0.0,Neutral,0.039404586,0.725191,0.23540446,Neutral,0.0027925838,0.99535525,0.0018522204,Neutral
+MSFT,2018-04-17,Goldman’s Gains in Trading Raise a Familiar Dilemma: DealBook Briefing,0.216,0.631,0.153,Positive,0.7394706,0.09480237,0.16572697,Negative,0.0045938105,0.05972362,0.9356826,Positive
+MSFT,2018-04-26,Microsoft’s Cloud Has Business Booming Again,0.0,1.0,0.0,Neutral,0.024191184,0.13555749,0.8402513,Positive,0.00033900284,0.00873247,0.9909285,Positive
+MSFT,2018-12-14,Two Companies Finally Speak Up ,0.0,1.0,0.0,Neutral,0.05094782,0.43640643,0.5126457,Positive,0.0074104234,0.15072641,0.84186316,Positive
+MSFT,2018-12-04,"Digital Divide Is Wider Than We Think, Study Says",0.0,1.0,0.0,Neutral,0.5121078,0.20588727,0.282005,Negative,0.8466223,0.1299936,0.023384038,Negative
+MSFT,2018-12-20,PowerPoint Is the Most Efficient Way for Kids to Manage Their Parents,0.219,0.781,0.0,Positive,0.018833255,0.6458876,0.33527914,Neutral,0.0031126444,0.8798867,0.11700068,Neutral
+MSFT,2019-01-31,"Releasing Earnings, Microsoft Stays in Stride, With Cloud Powering the Way",0.0,1.0,0.0,Neutral,0.029809784,0.10285398,0.8673362,Positive,0.0009244388,0.08765846,0.91141707,Positive
+MSFT,2019-01-19,Microsoft Cannot Fix Seattle’s Housing Crisis,0.0,0.549,0.451,Negative,0.78569436,0.14722171,0.06708393,Negative,0.9823596,0.014542757,0.0030977507,Negative
+MSFT,2019-01-24,Microsoft’s Bing Back Online in China After Apparent Blockage,0.0,1.0,0.0,Neutral,0.7962947,0.114984825,0.088720426,Negative,0.0053431103,0.054587267,0.9400696,Positive
+MSFT,2019-01-17,Hadi Partovi Was Raised in a Revolution. Today He Teaches Kids to Code.,0.0,1.0,0.0,Neutral,0.02238796,0.7282133,0.24939871,Neutral,0.008548672,0.9590116,0.032439765,Neutral
+MSFT,2019-01-17,Microsoft Pledges $500 Million for Affordable Housing in Seattle Area,0.0,1.0,0.0,Neutral,0.020261712,0.19306459,0.78667367,Positive,0.0015754512,0.07803832,0.9203862,Positive
+MSFT,2019-01-24,China Appears to Block Microsoft’s Bing as Censorship Intensifies,0.0,0.734,0.266,Negative,0.6717491,0.23568977,0.09256112,Negative,0.9796521,0.017394258,0.0029537387,Negative
+MSFT,2019-01-18,Microsoft’s Leap Into Housing Illuminates Government’s Retreat ,0.231,0.769,0.0,Positive,0.6550856,0.2030959,0.14181851,Negative,0.0061260154,0.96839416,0.02547978,Neutral
+MSFT,2019-01-22,Stocks Tumble as China Trade-Deal Concerns Resurface,0.0,1.0,0.0,Neutral,0.93127817,0.032487523,0.036234293,Negative,0.9525975,0.02100106,0.026401388,Negative
+MSFT,2019-11-11,"What, if Anything, Should Be Done to Rein in Big Tech?",0.0,1.0,0.0,Neutral,0.03757555,0.6940614,0.26836303,Neutral,0.07027029,0.88872427,0.041005474,Neutral
+MSFT,2019-11-12,How Laws Against Child Sexual Abuse Imagery Can Make It Harder to Detect,0.0,0.741,0.259,Negative,0.65968025,0.26147878,0.078840934,Negative,0.99361104,0.0052405903,0.0011483622,Negative
+MSFT,2019-11-01,The Week in Tech: WhatsApp’s Spyware Fight Is at Least Good P.R.,0.187,0.645,0.168,Positive,0.5692195,0.27881587,0.15196459,Negative,0.0030867965,0.25025666,0.74665654,Positive
+MSFT,2019-11-05,"Microsoft Surface Pro X Review: Powerful Computer, but So-So Tablet",0.192,0.808,0.0,Positive,0.05643589,0.6525995,0.29096457,Neutral,0.0064680595,0.32826784,0.6652641,Positive
+MSFT,2019-10-15,Building for Real With Digital Blocks,0.0,0.725,0.275,Negative,0.015242709,0.77414435,0.2106129,Neutral,0.0011326933,0.9768968,0.021970501,Neutral
+MSFT,2019-10-25,"Microsoft Wins Pentagon’s $10 Billion JEDI Contract, Thwarting Amazon",0.412,0.458,0.13,Positive,0.025672862,0.16140376,0.8129234,Positive,0.0045790737,0.070287496,0.92513335,Positive
+MSFT,2019-10-28,Microsoft Says Russians Hacked Antidoping Agency Computers,0.0,0.69,0.31,Negative,0.7274651,0.17973387,0.092801034,Negative,0.97777677,0.020884674,0.001338632,Negative
+MSFT,2019-10-23,Microsoft Rides Cloud to a 21% Increase in Profits,0.464,0.536,0.0,Positive,0.020691637,0.05444647,0.92486185,Positive,0.00033152342,0.0057494026,0.993919,Positive
+MSFT,2019-10-12,"Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past",0.0,1.0,0.0,Neutral,0.06437189,0.6213838,0.3142443,Neutral,0.013009007,0.96062654,0.02636444,Neutral
+MSFT,2019-06-17,Exposing the Bias Embedded in Tech,0.0,0.533,0.467,Negative,0.037789833,0.8356283,0.12658192,Neutral,0.9810081,0.017729582,0.0012623143,Negative
+MSFT,2019-06-22,"The Week in Business: Stocks Hit a Record High, and Facebook Wants to Replace Your Bank",0.0,1.0,0.0,Neutral,0.7474258,0.0758295,0.17674467,Negative,0.0063039814,0.39190316,0.60179293,Positive
+MSFT,2019-06-15,The Mystery of the Miserable Employees: How to Win in the Winner-Take-All Economy,0.211,0.611,0.178,Positive,0.12840073,0.6584596,0.21313964,Neutral,0.8461684,0.09660611,0.057225518,Negative
+MSFT,2019-06-23,"5 Lessons From Microsoft’s Antitrust Woes, by People Who Lived It",0.0,0.756,0.244,Negative,0.6841178,0.22539008,0.090492174,Negative,0.23535109,0.7234333,0.041215565,Neutral
+MSFT,2019-06-27,The Great IT Awakening,0.577,0.423,0.0,Positive,0.029968085,0.60615045,0.36388153,Neutral,0.0069320663,0.5223656,0.47070235,Neutral
+MSFT,2019-07-22,"With $1 Billion From Microsoft, an A.I. Lab Wants to Mimic the Brain",0.0,1.0,0.0,Neutral,0.014261021,0.46711853,0.51862043,Positive,0.0012527617,0.9670591,0.0316881,Neutral
+MSFT,2019-07-31,"And Now, a Bicycle Built for None",0.0,1.0,0.0,Neutral,0.027714228,0.78378993,0.18849584,Neutral,0.5488669,0.44375643,0.0073765935,Negative
+MSFT,2019-07-18,Trump Says He May Intervene in Huge Pentagon Contract Sought by Amazon,0.286,0.714,0.0,Positive,0.09694988,0.55678624,0.34626395,Neutral,0.84672236,0.1307137,0.022563871,Negative
+MSFT,2019-07-18,"Microsoft Earnings: Sales Jump 12 Percent, Fueled by Cloud",0.0,1.0,0.0,Neutral,0.042891003,0.035432767,0.92167616,Positive,0.0003146553,0.0052394965,0.9944458,Positive
+MSFT,2019-07-26,The Week in Tech: Huge Fines Can’t Hide America’s Lack of a Data Privacy Law,0.133,0.636,0.231,Negative,0.8201757,0.12346079,0.05636353,Negative,0.8901637,0.09670806,0.013128181,Negative
+MSFT,2019-07-13,"Facial Recognition Tech Is Growing Stronger, Thanks to Your Face",0.507,0.493,0.0,Positive,0.01710977,0.2167735,0.76611674,Positive,0.0022207084,0.2856131,0.71216613,Positive
+MSFT,2019-07-05,Letting the Internet Regulate Itself Was a Good Idea — in the 1990s,0.225,0.775,0.0,Positive,0.029087469,0.5490209,0.4218916,Neutral,0.0053218007,0.7105828,0.28409544,Neutral
+MSFT,2019-07-10,You’re Hired. Now Wear This Headset to Learn the Job.,0.0,1.0,0.0,Neutral,0.027947294,0.7934709,0.17858174,Neutral,0.003238253,0.7580224,0.23873939,Neutral
+MSFT,2019-08-02,"In Pentagon Contract Fight, Amazon Has Foes in High Places",0.119,0.49,0.392,Negative,0.81704104,0.11917515,0.06378378,Negative,0.9629114,0.033854954,0.0032336062,Negative
+MSFT,2019-09-11,DealBook D.C. Summit: Mnuchin Talks Trade and the Economy; Microsoft’s Brad Smith on Tech Policy,0.0,1.0,0.0,Neutral,0.058650997,0.76203763,0.17931128,Neutral,0.001979628,0.961345,0.036675334,Neutral
+MSFT,2019-09-08,How Top-Valued Microsoft Has Avoided the Big Tech Backlash,0.0,0.769,0.231,Negative,0.66897815,0.13428381,0.19673805,Negative,0.0046020667,0.12131536,0.87408257,Positive
+MSFT,2019-09-04,Big Tech Companies Meeting With U.S. Officials on 2020 Election Security,0.194,0.806,0.0,Positive,0.06506617,0.660481,0.27445284,Neutral,0.0017071372,0.91984355,0.078449324,Neutral
+MSFT,2019-09-18,Microsoft’s President on Silicon Valley in the Cross Hairs,0.0,1.0,0.0,Neutral,0.070139445,0.7462701,0.18359053,Neutral,0.0028973313,0.9922977,0.0048050387,Neutral
+MSFT,2019-09-07,Director of M.I.T.’s Media Lab Resigns After Taking Money From Jeffrey Epstein,0.0,0.827,0.173,Negative,0.8049077,0.13914211,0.05595018,Negative,0.96051866,0.031041594,0.008439717,Negative
+MSFT,2019-09-06,"When the A.I. Professor Leaves, Students Suffer, Study Says",0.0,0.696,0.304,Negative,0.9173825,0.051501203,0.031116286,Negative,0.98423404,0.014072642,0.0016932719,Negative
+MSFT,2019-09-29,The Internet Is Overrun With Images of Child Sexual Abuse. What Went Wrong?,0.0,0.601,0.399,Negative,0.733444,0.19556977,0.07098624,Negative,0.97735083,0.021012979,0.001636103,Negative
+MSFT,2019-02-20,Adaptive Video Game Controllers Open Worlds for Gamers With Disabilities,0.0,1.0,0.0,Neutral,0.025698178,0.8514681,0.12283374,Neutral,0.0023179576,0.9518189,0.045863163,Neutral
+MSFT,2019-02-20,"Russian Hackers Targeted European Research Groups, Microsoft Says",0.0,1.0,0.0,Neutral,0.66376805,0.21912558,0.11710636,Negative,0.6568793,0.31587988,0.027240856,Negative
+MSFT,2019-03-13,Facebook’s Data Deals Are Under Criminal Investigation,0.0,0.638,0.362,Negative,0.5604082,0.36155474,0.078037076,Negative,0.90845144,0.09007893,0.001469544,Negative
+MSFT,2019-03-13,A Better Way to Break Up Big Tech,0.326,0.674,0.0,Positive,0.02483247,0.54144424,0.43372327,Neutral,0.13190602,0.8335337,0.03456031,Neutral
+MSFT,2019-03-27,Microsoft Seizes Websites It Traces to Iranian Hackers,0.0,1.0,0.0,Neutral,0.22623481,0.42281273,0.35095254,Neutral,0.62952316,0.35635337,0.014123535,Negative
+MSFT,2019-03-17,Why a Big Tech Breakup Looks Better to Washington,0.293,0.707,0.0,Positive,0.034379672,0.3777402,0.5878802,Positive,0.7359497,0.24942982,0.014620495,Negative
+MSFT,2019-03-06,Silicon Valley’s Military Dilemma,0.0,0.638,0.362,Negative,0.5431828,0.33952826,0.1172889,Negative,0.78884363,0.20364396,0.0075124,Negative
+MSFT,2019-03-04,Why Napalm Is a Cautionary Tale for Tech Giants Pursuing Military Contracts,0.0,1.0,0.0,Neutral,0.7507269,0.17290501,0.076368116,Negative,0.9854652,0.010499201,0.004035603,Negative
+MSFT,2019-03-11,How the Internet Travels Across Oceans,0.0,1.0,0.0,Neutral,0.03410129,0.81322217,0.15267655,Neutral,0.007319793,0.99121463,0.0014656103,Neutral
+MSFT,2019-03-05,Can A.I. Make Work Seem Less Like Work?,0.24,0.76,0.0,Positive,0.5903166,0.32207614,0.08760727,Negative,0.055337444,0.54945886,0.3952037,Neutral
+MSFT,2019-04-24,Microsoft’s Profit Rises 19% as Its Cloud Business Drives Strong Results,0.408,0.592,0.0,Positive,0.034384914,0.041519135,0.924096,Positive,0.00027876877,0.0038208792,0.99590033,Positive
+MSFT,2019-04-10,Amazon and Microsoft Are 2 Finalists for $10 Billion Pentagon Contract,0.159,0.841,0.0,Positive,0.021264585,0.42004746,0.5586879,Positive,0.003001775,0.98754334,0.009454894,Neutral
+MSFT,2019-04-12,These Funds Rode Small Companies to Big Returns,0.0,1.0,0.0,Neutral,0.03606342,0.41470614,0.5492304,Positive,0.0032436412,0.103065155,0.8936912,Positive
+MSFT,2019-04-25,"Microsoft Touches $1 Trillion Value, Signaling Big Tech’s Stock Market Comeback",0.194,0.806,0.0,Positive,0.01904834,0.17347114,0.8074805,Positive,0.00074887177,0.028480045,0.97077113,Positive
+MSFT,2019-04-11,Tech Companies Say They Care,0.444,0.556,0.0,Positive,0.026144743,0.601493,0.37236226,Neutral,0.0051573855,0.27479705,0.72004557,Positive
+MSFT,2019-12-09,Amazon Accuses Trump of ‘Improper Pressure’ on JEDI Contract,0.153,0.631,0.216,Negative,0.82471627,0.08125069,0.094033025,Negative,0.9918018,0.00640838,0.0017897827,Negative
+MSFT,2019-12-10,"Big Tech Is Under Attack, and Investors Couldn’t Care Less",0.224,0.559,0.217,Neutral,0.8418684,0.09192207,0.06620952,Negative,0.77443534,0.22264625,0.0029183822,Negative
+MSFT,2019-12-15,Why Twitch Is Still the King of Live Game Streaming,0.0,1.0,0.0,Neutral,0.018969811,0.5072803,0.47374994,Neutral,0.0019478652,0.98856634,0.009485807,Neutral
+MSFT,2020-01-22,Put Alexa and Siri to Work,0.0,1.0,0.0,Neutral,0.020611297,0.54343116,0.4359575,Neutral,0.0012424581,0.97766715,0.021090318,Neutral
+MSFT,2020-01-09,Pete Carroll Wants to Change Your Life,0.0,1.0,0.0,Neutral,0.022242231,0.6413613,0.33639643,Neutral,0.004976835,0.32344413,0.67157906,Positive
+MSFT,2020-01-14,"N.S.A. Takes Step Toward Protecting World’s Computers, Not Just Hacking Them",0.0,1.0,0.0,Neutral,0.08382109,0.36359853,0.5525804,Positive,0.011187261,0.12639992,0.86241275,Positive
+MSFT,2020-11-20,The Best Video Games to Get Lost In This Holiday Season,0.401,0.465,0.134,Positive,0.1732492,0.64935297,0.17739782,Neutral,0.0028327284,0.87440777,0.12275945,Neutral
+MSFT,2020-11-10,New Type of Test May Better Discern Immunity to the Coronavirus,0.225,0.775,0.0,Positive,0.3039751,0.45508954,0.24093544,Neutral,0.008541579,0.21056746,0.78089094,Positive
+MSFT,2020-11-30,Companies Bet Big on Working From Home,0.0,1.0,0.0,Neutral,0.016838139,0.4817654,0.5013965,Positive,0.0042148232,0.50700253,0.48878264,Neutral
+MSFT,2020-11-11,PlayStation 5: The Next Step in Sony’s Rebound,0.0,1.0,0.0,Neutral,0.027008805,0.5460957,0.42689547,Neutral,0.0017093916,0.26754424,0.73074645,Positive
+MSFT,2020-11-06,PlayStation 5 Review: Sony’s New Console Is an Entertaining Behemoth,0.266,0.734,0.0,Positive,0.017945753,0.447188,0.53486615,Positive,0.0013210052,0.14716637,0.85151255,Positive
+MSFT,2020-11-12,New PlayStation and Xbox Arrive During a Pandemic Gold Rush,0.0,1.0,0.0,Neutral,0.029555293,0.42333135,0.54711336,Positive,0.0033965223,0.80491966,0.19168381,Neutral
+MSFT,2020-11-05,Xbox Series X and S Review: Microsoft’s New Consoles Are a Good Value. Is That Enough?,0.325,0.675,0.0,Positive,0.021970619,0.4843603,0.4936691,Positive,0.0019946361,0.92978275,0.068222575,Neutral
+MSFT,2020-10-20,Google Up Against Laws That Thwarted Microsoft (and Others Since 1890),0.0,0.901,0.099,Neutral,0.5738415,0.2489959,0.17716256,Negative,0.5975854,0.39653876,0.0058758385,Negative
+MSFT,2020-10-06,House Lawmakers Condemn Big Tech’s ‘Monopoly Power’ and Urge Their Breakups,0.0,0.794,0.206,Negative,0.6455223,0.22907686,0.12540083,Negative,0.69760996,0.1618906,0.14049943,Negative
+MSFT,2020-10-09,Technology vs. Covid-19: Assessing the Threats,0.0,0.641,0.359,Negative,0.14617047,0.6740591,0.17977045,Neutral,0.014643584,0.98227376,0.0030826512,Neutral
+MSFT,2020-10-12,"Microsoft Takes Down a Risk to the Election, and Finds the U.S. Doing the Same",0.0,0.861,0.139,Negative,0.82284933,0.08816286,0.0889878,Negative,0.02103731,0.82934743,0.14961532,Neutral
+MSFT,2020-10-22,"Forget Antitrust Laws. To Limit Tech, Some Say a New Regulator Is Needed.",0.0,0.853,0.147,Negative,0.39649573,0.44250557,0.16099872,Neutral,0.07213523,0.8960257,0.031839028,Neutral
+MSFT,2020-10-20,"As Election Nears, Government and Tech Firms Push Back on Russia (and Trump)",0.0,1.0,0.0,Neutral,0.80539703,0.11173252,0.08287046,Negative,0.9673725,0.027079301,0.0055482225,Negative
+MSFT,2020-10-29,‘Perception Hacks’ and Other Potential Threats to the Election,0.0,0.741,0.259,Negative,0.8174348,0.11964592,0.062919326,Negative,0.3414857,0.60794044,0.050573822,Neutral
+MSFT,2020-10-08,Microsoft Says App Stores Should Be More Competitive,0.222,0.778,0.0,Positive,0.024767168,0.24267466,0.7325582,Positive,0.06370193,0.92251647,0.01378161,Neutral
+MSFT,2020-10-25,"Apple, Google and a Deal That Controls the Internet",0.0,1.0,0.0,Neutral,0.017329162,0.47270668,0.50996417,Positive,0.007355728,0.9908443,0.0017999859,Neutral
+MSFT,2020-08-07,Is TikTok More of a Parenting Problem Than a Security Threat?,0.163,0.406,0.431,Negative,0.62625927,0.28837386,0.08536682,Negative,0.8597033,0.13606924,0.004227443,Negative
+MSFT,2020-08-14,"A Third of TikTok’s U.S. Users May Be 14 or Under, Raising Safety Questions",0.189,0.811,0.0,Positive,0.895083,0.064094886,0.040822085,Negative,0.94522476,0.05055484,0.0042204466,Negative
+MSFT,2020-08-29,TikTok Deal Is Complicated by New Rules From China Over Tech Exports,0.0,1.0,0.0,Neutral,0.84422195,0.09985417,0.05592379,Negative,0.8958881,0.09999444,0.0041173566,Negative
+MSFT,2020-08-12,"Google, Facebook and Others Broaden Group to Secure U.S. Election",0.211,0.789,0.0,Positive,0.018382803,0.39394137,0.5876758,Positive,0.0024285049,0.12080191,0.8767696,Positive
+MSFT,2020-08-03,"TikTok Must Be Sold or Risk Being Shutdown, Trump Says",0.0,0.811,0.189,Negative,0.805915,0.13816306,0.055921942,Negative,0.4459869,0.5266566,0.027356427,Neutral
+MSFT,2020-06-04,"Chinese Hackers Target Email Accounts of Biden Campaign Staff, Google Says",0.0,1.0,0.0,Neutral,0.6704173,0.2345139,0.095068805,Negative,0.79310894,0.20033619,0.006554856,Negative
+MSFT,2020-06-13,The Economy Is Reeling. The Tech Giants Spy Opportunity.,0.259,0.741,0.0,Positive,0.22916421,0.21048062,0.5603552,Positive,0.9768968,0.019398281,0.0037048985,Negative
+MSFT,2020-07-31,"Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App",0.0,1.0,0.0,Neutral,0.4699178,0.27222106,0.25786108,Negative,0.012288174,0.14459035,0.8431214,Positive
+MSFT,2020-07-21,A Company Backs a Cause. It Funds a Politician Who Doesn’t. What Gives?,0.0,0.882,0.118,Negative,0.073372915,0.85203624,0.07459085,Neutral,0.11215268,0.8705956,0.01725173,Neutral
+MSFT,2020-07-31,I Tried to Live Without the Tech Giants. It Was Impossible.,0.0,1.0,0.0,Neutral,0.67612386,0.22556551,0.09831059,Negative,0.9613088,0.033397008,0.00529431,Negative
+MSFT,2020-07-21,"Big Tech Has a Big Climate Problem. Now, It’s Being Forced to Clean Up.",0.147,0.543,0.31,Negative,0.6281841,0.2676621,0.10415377,Negative,0.71239626,0.251545,0.03605873,Negative
+MSFT,2020-07-07,Magic Leap Hires Top Microsoft Executive as C.E.O.,0.205,0.795,0.0,Positive,0.034989193,0.4259915,0.5390193,Positive,0.0026611972,0.38311827,0.61422056,Positive
+MSFT,2020-07-21,"Say One Thing, Donate to Another",0.0,1.0,0.0,Neutral,0.05498068,0.6940254,0.25099394,Neutral,0.006505943,0.8508428,0.1426513,Neutral
+MSFT,2020-07-22,Slack Accuses Microsoft of Illegally Crushing Competition,0.0,0.505,0.495,Negative,0.9145923,0.043917496,0.04149016,Negative,0.9916449,0.006808089,0.0015469941,Negative
+MSFT,2020-08-19,Big Tech’s Domination of Business Reaches New Heights,0.143,0.714,0.143,Neutral,0.013593988,0.19457588,0.7918301,Positive,0.0077900593,0.26004553,0.7321644,Positive
+MSFT,2020-08-03,"TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America",0.0,1.0,0.0,Neutral,0.04558589,0.5356876,0.41872644,Neutral,0.0012288342,0.9840461,0.014725147,Neutral
+MSFT,2020-08-02,Microsoft Says It’ll Continue Pursuit of TikTok,0.0,1.0,0.0,Neutral,0.016129138,0.34539285,0.6384779,Positive,0.0012595903,0.09375303,0.9049874,Positive
+MSFT,2020-08-26,"Palantir, Ant and the Tech Listing Boom",0.0,1.0,0.0,Neutral,0.019883174,0.7294789,0.25063795,Neutral,0.0041031805,0.51655465,0.47934216,Neutral
+MSFT,2020-08-03,"With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens",0.318,0.682,0.0,Positive,0.02570421,0.47495946,0.49933642,Positive,0.08725699,0.829592,0.083150975,Neutral
+MSFT,2020-08-26,How TikTok’s Talks With Microsoft Turned Into a Soap Opera,0.0,1.0,0.0,Neutral,0.0322301,0.48583174,0.48193806,Neutral,0.036311317,0.928406,0.03528268,Neutral
+MSFT,2020-08-01,What’s Going On With TikTok? Here’s What We Know,0.0,1.0,0.0,Neutral,0.09562954,0.7857803,0.118590176,Neutral,0.010332736,0.9818403,0.007827017,Neutral
+MSFT,2020-08-03,What Would Microsoft Do With TikTok?,0.0,1.0,0.0,Neutral,0.07449788,0.78815913,0.13734299,Neutral,0.0083689075,0.98942554,0.002205494,Neutral
+MSFT,2020-08-18,"TikTok, Huawei and the ‘Splinternet’",0.0,1.0,0.0,Neutral,0.019927844,0.8051635,0.17490861,Neutral,0.00578422,0.95199925,0.042216558,Neutral
+MSFT,2020-08-28,"In Bid for TikTok, Microsoft Flexes Its Power in Washington",0.0,1.0,0.0,Neutral,0.019738536,0.25347626,0.72678524,Positive,0.0060355705,0.93214834,0.06181618,Neutral
+MSFT,2020-08-03,Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up,0.234,0.584,0.182,Positive,0.06501283,0.35427395,0.5807133,Positive,0.019612864,0.4137692,0.56661797,Positive
+MSFT,2020-08-31,TikTok Deal Faces Complications as U.S. and China Ratchet Up Tit-for-Tat,0.0,1.0,0.0,Neutral,0.899965,0.052070033,0.047964975,Negative,0.9838176,0.014536748,0.001645652,Negative
+MSFT,2020-08-05,Is TikTok a Good Buy? It Depends on What’s Included,0.266,0.734,0.0,Positive,0.027706042,0.85729414,0.11499976,Neutral,0.0043195877,0.97960585,0.016074475,Neutral
+MSFT,2020-08-27,TikTok Is Said to Wrestle With Two Competing Offers,0.0,1.0,0.0,Neutral,0.023379011,0.3630459,0.61357504,Positive,0.0270928,0.96406764,0.008839541,Neutral
+MSFT,2020-08-08,Trump Wants U.S. to Get Cut of Any TikTok Deal. No One Knows How That’d Work.,0.0,0.765,0.235,Negative,0.65158147,0.25206923,0.09634931,Negative,0.011433994,0.9719248,0.016641244,Neutral
+MSFT,2020-08-18,"‘This Market Is Nuts’: S&P 500 Hits Record, Defying Economic Devastation",0.0,0.781,0.219,Negative,0.81536114,0.05804048,0.12659836,Negative,0.0006078556,0.0046234713,0.99476874,Positive
+MSFT,2020-08-03,"Trump Reverses Course on TikTok, Opening Door to Microsoft Bid",0.0,1.0,0.0,Neutral,0.021218983,0.23856127,0.7402197,Positive,0.0026726457,0.03393107,0.96339625,Positive
+MSFT,2020-08-05,The Tech You Love,0.583,0.417,0.0,Positive,0.02140342,0.83091486,0.14768177,Neutral,0.002504627,0.55182,0.4456754,Neutral
+MSFT,2020-08-26,Natural History Museum Union Files Complaint Over Coronavirus App,0.214,0.598,0.188,Positive,0.71973455,0.21108156,0.069183804,Negative,0.9948401,0.0043437392,0.00081614335,Negative
+MSFT,2020-08-19,I Tried Microsoft’s Flight Simulator. The Earth Never Seemed So Real.,0.0,1.0,0.0,Neutral,0.29589257,0.5317963,0.17231116,Neutral,0.23543346,0.710894,0.053672567,Neutral
+MSFT,2020-09-13,"Oracle Chosen as TikTok’s Tech Partner, as Microsoft’s Bid Is Rejected",0.0,0.752,0.248,Negative,0.6936491,0.21267402,0.09367681,Negative,0.004580836,0.09404443,0.90137476,Positive
+MSFT,2020-09-03,Wall Street Has Its Worst Day in Months,0.0,0.631,0.369,Negative,0.93093276,0.03089239,0.038174946,Negative,0.9978154,0.0015171601,0.0006674438,Negative
+MSFT,2020-09-15,"Bill Gates Sr., Who Guided Billionaire Son’s Philanthropy, Dies at 94",0.0,1.0,0.0,Neutral,0.44764066,0.34103903,0.21132025,Negative,0.32537636,0.64086187,0.03376174,Neutral
+MSFT,2020-09-21,Microsoft Grabs Some of World’s Biggest Games in $7.5 Billion Deal,0.0,1.0,0.0,Neutral,0.017430518,0.43919683,0.5433727,Positive,0.0017762498,0.2004328,0.79779094,Positive
+MSFT,2020-09-15,Coming This Fall: Return of the Video Game Console Wars,0.0,0.714,0.286,Negative,0.042038623,0.6991606,0.25880086,Neutral,0.008229038,0.95506686,0.036704164,Neutral
+MSFT,2020-09-04,Pentagon Sticks With Microsoft for Cloud Computing Contract,0.0,1.0,0.0,Neutral,0.019258855,0.23665196,0.7440891,Positive,0.0016342719,0.19204253,0.80632323,Positive
+MSFT,2020-09-21,"TikTok Deal Exposes a Security Gap, and a Missing China Strategy",0.198,0.496,0.306,Negative,0.79805094,0.13912958,0.06281955,Negative,0.9949504,0.0033349714,0.0017145511,Negative
+MSFT,2020-09-10,"Russian Intelligence Hackers Are Back, Microsoft Warns, Aiming at Officials of Both Parties",0.337,0.581,0.081,Positive,0.84577125,0.08571225,0.06851653,Negative,0.9805115,0.016480925,0.0030076113,Negative
+MSFT,2020-02-26,Microsoft Issues Financial Warning Because of Coronavirus,0.0,0.714,0.286,Negative,0.9138125,0.056481913,0.029705537,Negative,0.9501422,0.048187453,0.001670355,Negative
+MSFT,2020-02-19,"Europe, Overrun by Foreign Tech Giants, Wants to Grow Its Own",0.0,1.0,0.0,Neutral,0.034258995,0.21287784,0.75286317,Positive,0.65052813,0.30636403,0.043107875,Negative
+MSFT,2020-02-18,The Epic Battle Between Trump and Bezos Is On,0.0,0.755,0.245,Negative,0.2609943,0.4689017,0.27010408,Neutral,0.8916945,0.10078923,0.0075162565,Negative
+MSFT,2020-02-11,"F.T.C. Broadens Review of Tech Giants, Homing In on Their Deals",0.0,1.0,0.0,Neutral,0.03257019,0.42033446,0.54709536,Positive,0.0016500041,0.08905176,0.90929824,Positive
+MSFT,2020-02-13,"Judge Halts Work on Microsoft’s JEDI Contract, a Victory for Amazon",0.159,0.841,0.0,Positive,0.08002524,0.3337255,0.5862492,Positive,0.014003114,0.10669899,0.87929785,Positive
+MSFT,2020-02-16,The Week in Business: Amazon Is Coming for Trump,0.175,0.825,0.0,Positive,0.12626323,0.57233196,0.3014049,Neutral,0.021107761,0.97379047,0.005101759,Neutral
+MSFT,2020-02-24,Can Corporations Stop Climate Change?,0.0,0.645,0.355,Negative,0.14807974,0.63032305,0.22159725,Neutral,0.2446638,0.7355164,0.019819805,Neutral
+MSFT,2020-03-05,Workplace vs. Coronavirus: ‘No One Has a Playbook for This’,0.0,1.0,0.0,Neutral,0.5000067,0.38178897,0.11820447,Negative,0.14633816,0.84614444,0.0075173643,Neutral
+MSFT,2020-03-23,"There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",0.0,1.0,0.0,Neutral,0.7189158,0.1808409,0.100243375,Negative,0.8311527,0.16506352,0.0037837771,Negative
+MSFT,2020-03-05,"Life in Seattle, America’s Coronavirus Capital",0.0,1.0,0.0,Neutral,0.039199673,0.77058774,0.19021262,Neutral,0.88540924,0.10678898,0.00780181,Negative
+MSFT,2020-03-13,Bill Gates Stepping Down From Microsoft’s Board,0.0,1.0,0.0,Neutral,0.8443767,0.107874125,0.04774919,Negative,0.73133767,0.26345646,0.0052059,Negative
+MSFT,2020-03-13,Pentagon Asks to Reconsider Awarding Huge Cloud Contract to Amazon,0.496,0.504,0.0,Positive,0.015523291,0.20036964,0.7841071,Positive,0.6087183,0.28684223,0.10443948,Negative
+MSFT,2020-03-11,"A Botnet Is Taken Down in an Operation by Microsoft, Not the Government",0.0,1.0,0.0,Neutral,0.7810539,0.15784265,0.0611034,Negative,0.058162607,0.685425,0.25641236,Neutral
+MSFT,2020-03-15,"Ahead of the Pack, How Microsoft Told Workers to Stay Home",0.0,1.0,0.0,Neutral,0.08928896,0.66197455,0.24873653,Neutral,0.1009111,0.8782472,0.020841682,Neutral
+MSFT,2020-03-26,A.I. Versus the Coronavirus,0.0,1.0,0.0,Neutral,0.21964452,0.6353065,0.14504898,Neutral,0.004243538,0.9873581,0.008398368,Neutral
+MSFT,2020-05-14,What Satya Nadella Thinks,0.0,1.0,0.0,Neutral,0.11021743,0.68867654,0.201106,Neutral,0.0047047446,0.9924682,0.0028270073,Neutral
+MSFT,2020-04-28,Investors Bet Giant Companies Will Dominate After Crisis,0.0,0.517,0.483,Negative,0.5691613,0.25143352,0.1794052,Negative,0.015100547,0.69988024,0.28501913,Neutral
+MSFT,2020-04-21,Marina Abramovic Just Wants Conspiracy Theorists to Let Her Be,0.0,0.726,0.274,Negative,0.057273805,0.672322,0.27040428,Neutral,0.00625694,0.12142798,0.8723151,Positive
+MSFT,2020-12-14,Google Dominates Thanks to an Unrivaled View of the Web,0.339,0.661,0.0,Positive,0.013433868,0.13163769,0.85492843,Positive,0.0034637197,0.23919913,0.75733715,Positive
+MSFT,2020-12-31,Microsoft Says Russian Hackers Viewed Some of Its Source Code,0.0,1.0,0.0,Neutral,0.28911534,0.5600229,0.15086176,Neutral,0.7458191,0.24981286,0.0043679923,Negative
+MSFT,2020-12-04,Why Melinda Gates Spends Time ‘Letting My Heart Break’,0.0,1.0,0.0,Neutral,0.28605047,0.54048634,0.1734632,Neutral,0.7656708,0.23222719,0.0021020873,Negative
+MSFT,2020-12-19,Cyberpunk 2077 Was Supposed to Be the Biggest Video Game of the Year. What Happened?,0.0,1.0,0.0,Neutral,0.098337494,0.63874793,0.26291457,Neutral,0.63720316,0.056735236,0.30606166,Negative
+MSFT,2020-12-02,Marc Benioff Sets His Sights on Microsoft,0.0,1.0,0.0,Neutral,0.024802113,0.38326856,0.5919293,Positive,0.003825144,0.89284676,0.10332808,Neutral
+MSFT,2020-12-14,"Big Tech Turns Its Lobbyists Loose on Europe, Alarming Regulators",0.0,0.678,0.322,Negative,0.81953853,0.10444243,0.07601897,Negative,0.75743,0.22855331,0.0140166385,Negative
+MSFT,2020-12-18,Sony Removes Cyberpunk 2077 From PlayStation Store After Complaints,0.0,0.748,0.252,Negative,0.7350468,0.19497678,0.06997639,Negative,0.981928,0.016848953,0.001223006,Negative
+MSFT,2020-12-17,More Hacking Attacks Found as Officials Warn of ‘Grave Risk’ to U.S. Government,0.0,0.706,0.294,Negative,0.8739875,0.07914517,0.046867397,Negative,0.989405,0.0060822493,0.0045127636,Negative
+MSFT,2020-12-25,Russians Are Believed to Have Used Microsoft Resellers in Cyberattacks,0.0,1.0,0.0,Neutral,0.48661602,0.32698175,0.18640229,Negative,0.46854174,0.49979255,0.03166571,Neutral
+MSFT,2021-01-23,Help With Vaccination Push Comes From Unexpected Businesses,0.278,0.722,0.0,Positive,0.106875025,0.28705263,0.60607237,Positive,0.0006954971,0.011720061,0.9875844,Positive
+MSFT,2021-01-14,Swimming With the Sharks in Facebook’s World,0.0,1.0,0.0,Neutral,0.035856225,0.73473024,0.2294135,Neutral,0.058689613,0.9295323,0.011778055,Neutral
+MSFT,2021-01-06,Widely Used Software Company May Be Entry Point for Huge U.S. Hacking,0.173,0.827,0.0,Positive,0.06985006,0.55656517,0.3735848,Neutral,0.7359485,0.25621587,0.007835588,Negative
+MSFT,2021-01-29,Still Looking for a New Gaming Console? Here’s Why,0.0,1.0,0.0,Neutral,0.041561656,0.725533,0.23290537,Neutral,0.0026321926,0.97670877,0.020659007,Neutral
+MSFT,2021-01-02,"As Understanding of Russian Hacking Grows, So Does Alarm",0.0,0.749,0.251,Negative,0.78124136,0.0990408,0.11971785,Negative,0.051062968,0.6757365,0.27320057,Neutral
+MSFT,2021-11-17,The Tech Gifts That Are Hard to Buy This Holiday Season,0.206,0.687,0.107,Positive,0.3763708,0.49516413,0.12846513,Neutral,0.057105765,0.93135804,0.011536167,Neutral
+MSFT,2021-11-15,"With Halo Infinite, Microsoft Hopes to Rekindle Its Flagship Game",0.344,0.656,0.0,Positive,0.016459621,0.21673474,0.7668056,Positive,0.0006863167,0.026004186,0.9733095,Positive
+MSFT,2021-11-03,"Google Wants to Work With the Pentagon Again, Despite Employee Concerns",0.0,1.0,0.0,Neutral,0.284544,0.19883993,0.51661605,Positive,0.0040295455,0.26833814,0.7276323,Positive
+MSFT,2021-10-18,Is Mark Zuckerberg a Man Without Principles?,0.0,1.0,0.0,Neutral,0.28200537,0.6339112,0.08408343,Neutral,0.68316245,0.31280223,0.0040353467,Negative
+MSFT,2021-10-18,Microsoft leaders warned Bill Gates over ‘inappropriate’ emails.,0.0,0.769,0.231,Negative,0.8104883,0.1288244,0.060687296,Negative,0.640105,0.35196078,0.007934225,Negative
+MSFT,2021-10-06,A Star Corporate Lawyer Now Set to Take On Corporate America,0.0,1.0,0.0,Neutral,0.035875756,0.5432813,0.42084298,Neutral,0.0066362843,0.7020151,0.29134864,Neutral
+MSFT,2021-10-26,"Microsoft profit soars 48%, to $20.5 billion.",0.326,0.674,0.0,Positive,0.040314805,0.048660927,0.91102433,Positive,0.0006381974,0.009577344,0.9897844,Positive
+MSFT,2021-10-14,"LinkedIn to Shut Down Service in China, Citing ‘Challenging’ Environment",0.0,1.0,0.0,Neutral,0.9203629,0.051099,0.028538117,Negative,0.9959002,0.003178168,0.00092161674,Negative
+MSFT,2021-10-31,"Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord",0.0,1.0,0.0,Neutral,0.022964127,0.665926,0.3111099,Neutral,0.07522135,0.1320153,0.79276335,Positive
+MSFT,2021-10-25,"Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation",0.0,0.69,0.31,Negative,0.7196018,0.1829776,0.09742055,Negative,0.2997112,0.67674553,0.023543263,Neutral
+MSFT,2021-07-26,Biden’s China Strategy Meets Resistance at the Negotiating Table,0.0,1.0,0.0,Neutral,0.7647672,0.14510342,0.090129346,Negative,0.8428929,0.14072694,0.016380193,Negative
+MSFT,2021-06-11,"In Leak Investigation, Tech Giants Are Caught Between Courts and Customers",0.0,0.806,0.194,Negative,0.7628819,0.16987754,0.06724056,Negative,0.80259603,0.19514494,0.002258993,Negative
+MSFT,2021-06-10,How Microsoft Is Ditching the Video Game Console Wars,0.0,0.69,0.31,Negative,0.59290314,0.26766264,0.13943426,Negative,0.03869896,0.6075163,0.35378474,Neutral
+MSFT,2021-06-14,"To Fill Millions of Open Jobs, Many Workers Need More Than Skills",0.0,1.0,0.0,Neutral,0.03697086,0.47931,0.48371908,Positive,0.0028010504,0.9850347,0.012164192,Neutral
+MSFT,2021-06-04,Windows Is No Big Deal. That’s Huge.,0.242,0.526,0.232,Neutral,0.029253744,0.609553,0.36119336,Neutral,0.04576878,0.8275524,0.12667885,Neutral
+MSFT,2021-06-11,Justice Dept. Watchdog to Investigate Seizure of Democrats’ Data,0.298,0.702,0.0,Positive,0.4113553,0.480899,0.10774567,Neutral,0.8885879,0.106230706,0.0051814807,Negative
+MSFT,2021-06-05,Microsoft’s Bing Briefly Blocked ‘Tank Man’ on Tiananmen Anniversary,0.0,0.792,0.208,Negative,0.86466324,0.08606682,0.049269952,Negative,0.88050866,0.115476266,0.004015023,Negative
+MSFT,2021-06-09,"Leaning on Journalists and Targeting Sources, for 50 Years",0.0,1.0,0.0,Neutral,0.43392485,0.4798097,0.08626542,Neutral,0.0010617825,0.996801,0.002137223,Neutral
+MSFT,2021-07-07,Taking Microsoft’s Windows 11 for a Test Drive,0.0,1.0,0.0,Neutral,0.022481116,0.75302595,0.22449297,Neutral,0.0028347473,0.97045857,0.02670675,Neutral
+MSFT,2021-07-29,Big Tech Has Outgrown This Planet,0.0,1.0,0.0,Neutral,0.022697555,0.46796256,0.5093398,Positive,0.9345699,0.05871664,0.0067134104,Negative
+MSFT,2021-07-13,G.O.P. Lawmakers Question Amazon’s Connections on Pentagon Contract,0.0,1.0,0.0,Neutral,0.69233316,0.22072718,0.08693962,Negative,0.9794265,0.016544003,0.0040294966,Negative
+MSFT,2021-07-19,U.S. Accuses China of Hacking Microsoft,0.0,0.676,0.324,Negative,0.8332449,0.10217,0.06458516,Negative,0.97954327,0.019171668,0.0012850134,Negative
+MSFT,2021-07-07,Government Tech Moves Too Slooowly,0.0,1.0,0.0,Neutral,0.7668604,0.15484433,0.07829522,Negative,0.98222923,0.016662693,0.0011079762,Negative
+MSFT,2021-07-01,Why Didn’t Microsoft Die?,0.0,0.435,0.565,Negative,0.64295155,0.26154986,0.095498614,Negative,0.95555925,0.042269316,0.002171454,Negative
+MSFT,2021-07-06,Pentagon Cancels a Disputed $10 Billion Technology Contract,0.0,0.538,0.462,Negative,0.84841233,0.10709748,0.04449014,Negative,0.99079585,0.008299705,0.00090438285,Negative
+MSFT,2021-07-01,"‘Crucial Time’ for Cloud Gaming, Which Wants to Change How You Play",0.179,0.821,0.0,Positive,0.030841406,0.5088859,0.46027267,Neutral,0.10659132,0.7999246,0.09348403,Neutral
+MSFT,2021-07-19,Your Tuesday Briefing,0.0,1.0,0.0,Neutral,0.04038618,0.8266216,0.13299221,Neutral,0.0039148456,0.9738046,0.022280473,Neutral
+MSFT,2021-07-27,Microsoft had its most profitable quarter.,0.39,0.61,0.0,Positive,0.05178532,0.096058965,0.8521557,Positive,0.0015944312,0.10335571,0.89504987,Positive
+MSFT,2021-03-03,Can Bill Gates Vaccinate the World?,0.0,1.0,0.0,Neutral,0.025764525,0.8333993,0.14083616,Neutral,0.0049742614,0.9043435,0.090682186,Neutral
+MSFT,2021-03-13,Microsoft Executive Says Tech Consolidation Threatens Journalism,0.0,0.698,0.302,Negative,0.8298346,0.10691559,0.063249804,Negative,0.9141803,0.08414048,0.0016792761,Negative
+MSFT,2021-08-03,"After Months of Avoiding the Vaccine Issue, Companies Begin to Mandate",0.0,0.806,0.194,Negative,0.0965382,0.41630623,0.4871556,Positive,0.93460697,0.04974664,0.015646363,Negative
+MSFT,2021-09-17,Stocks decline for a second week as September’s slow retreat continues.,0.167,0.833,0.0,Positive,0.95513755,0.015755758,0.029106723,Negative,0.98726636,0.011342751,0.0013908267,Negative
+MSFT,2021-09-09,The latest: Microsoft delays its return to the office indefinitely.,0.0,1.0,0.0,Neutral,0.83766955,0.11733786,0.04499265,Negative,0.30321297,0.69023496,0.0065520955,Neutral
+MSFT,2021-02-24,"After Russian Cyberattack, Looking for Answers and Debating Retaliation",0.0,1.0,0.0,Neutral,0.68498135,0.20327108,0.111747645,Negative,0.6938505,0.26002502,0.04612448,Negative
+MSFT,2021-02-15,How Does Bill Gates Plan to Solve the Climate Crisis?,0.129,0.576,0.295,Negative,0.041280754,0.7718612,0.18685812,Neutral,0.004266784,0.96034515,0.03538811,Neutral
+MSFT,2021-02-22,What’s Really Behind Corporate Promises on Climate Change?,0.29,0.71,0.0,Positive,0.16632326,0.6891258,0.14455102,Neutral,0.11321029,0.8810149,0.00577479,Neutral
+MSFT,2021-03-07,"Preparing for Retaliation Against Russia, U.S. Confronts Hacking by China",0.0,0.826,0.174,Negative,0.7879221,0.122035146,0.0900428,Negative,0.88721,0.07079472,0.04199522,Negative
+MSFT,2021-03-23,Discord and Microsoft Said to Discuss Deal That Could Top $10 Billion,0.124,0.69,0.186,Negative,0.021809302,0.32528967,0.652901,Positive,0.001046283,0.060844794,0.938109,Positive
+MSFT,2021-03-06,Thousands of Microsoft Customers May Have Been Victims of Hack Tied to China,0.0,0.839,0.161,Negative,0.81004196,0.1363818,0.053576358,Negative,0.99473935,0.004435306,0.0008252905,Negative
+MSFT,2021-03-18,China Punishes Microsoft’s LinkedIn Over Lax Censorship,0.0,0.659,0.341,Negative,0.7178974,0.19389068,0.08821198,Negative,0.9546298,0.041774377,0.003595717,Negative
+MSFT,2021-03-15,Who Is Making Sure the A.I. Machines Aren’t Racist?,0.173,0.526,0.301,Negative,0.12223858,0.7361675,0.1415939,Neutral,0.34267512,0.6425977,0.014727279,Neutral
+MSFT,2021-03-31,Microsoft will make augmented reality headsets for the Army in a $21.9 billion deal.,0.0,1.0,0.0,Neutral,0.010915462,0.6744269,0.3146577,Neutral,0.0021265638,0.5218215,0.47605196,Neutral
+MSFT,2021-03-22,Microsoft to Ease Workers Back to the Office Starting Next Week,0.2,0.8,0.0,Positive,0.11119193,0.1824429,0.70636517,Positive,0.0015049597,0.9491219,0.04937315,Neutral
+MSFT,2021-03-12,Faulty Software Snarls Vaccine Sign-Ups,0.0,0.635,0.365,Negative,0.80769235,0.12817112,0.06413654,Negative,0.9892435,0.00789753,0.0028588844,Negative
+MSFT,2021-03-05,Can We Put an End to the Vaccine Hunger Games?,0.0,0.818,0.182,Negative,0.52167994,0.31295535,0.16536468,Negative,0.090431415,0.76018757,0.14938106,Neutral
+MSFT,2021-03-14,White House Weighs New Cybersecurity Approach After Failure to Detect Hacks,0.0,0.752,0.248,Negative,0.815753,0.08334717,0.10089994,Negative,0.7093943,0.15510273,0.13550302,Negative
+MSFT,2021-05-26,A Culture of Fear at the Firm That Manages Bill Gates’s Fortune,0.0,0.758,0.242,Negative,0.5155205,0.38414845,0.100330964,Negative,0.9852297,0.013765255,0.001005086,Negative
+MSFT,2021-05-28,Scenes From a Mogul’s Marriage or: The Troubling Fourth Act of Bill Gates,0.0,0.759,0.241,Negative,0.27894554,0.62375987,0.0972946,Neutral,0.66668826,0.32286376,0.010447891,Negative
+MSFT,2021-05-28,Russia Appears to Carry Out Hack Through System Used by U.S. Aid Agency,0.0,1.0,0.0,Neutral,0.5120045,0.3551746,0.13282087,Negative,0.96644366,0.03199221,0.0015642395,Negative
+MSFT,2021-05-30,"In a World Let Loose, Video Game Makers Are ‘Doubling Down’",0.0,0.796,0.204,Negative,0.89826715,0.057621486,0.044111386,Negative,0.97734207,0.02139987,0.0012580528,Negative
+MSFT,2021-05-04,Business Coalitions Speak Out Against Voting Restrictions in Texas,0.0,1.0,0.0,Neutral,0.41482887,0.38926616,0.19590497,Negative,0.51750004,0.42520398,0.057296045,Negative
+MSFT,2021-05-03,Bill and Melinda Gates Are Divorcing After 27 Years of Marriage,0.0,1.0,0.0,Neutral,0.65819293,0.21581295,0.1259942,Negative,0.9881958,0.010498603,0.0013056006,Negative
+MSFT,2021-05-16,"Long Before Divorce, Bill Gates Had Reputation for Questionable Behavior",0.0,0.804,0.196,Negative,0.81543326,0.117011964,0.06755481,Negative,0.98387516,0.01465985,0.0014650337,Negative
+MSFT,2021-05-05,"Who Gets Xanadu 2.0, the Gates Family Mansion?",0.0,1.0,0.0,Neutral,0.030122317,0.8034689,0.16640878,Neutral,0.0037989938,0.9890983,0.0071026483,Neutral
+MSFT,2021-05-04,What the Gates Divorce Means for the Bill and Melinda Gates Foundation,0.0,1.0,0.0,Neutral,0.62890416,0.27204168,0.09905413,Negative,0.37947324,0.5996478,0.020878958,Neutral
+MSFT,2021-04-29,Microsoft plans to take a smaller cut from developers in its games store.,0.0,0.84,0.16,Negative,0.93643665,0.033620413,0.029942881,Negative,0.09868423,0.8965828,0.004733002,Neutral
+MSFT,2021-04-27,"Microsoft reports strongest quarterly growth in years, as profit also rises.",0.512,0.488,0.0,Positive,0.036153194,0.025741996,0.9381048,Positive,0.00030079926,0.00592681,0.99377245,Positive
+MSFT,2021-04-28,Apple doubles its profits on soaring iPhone sales.,0.293,0.707,0.0,Positive,0.014354462,0.06995414,0.91569144,Positive,0.0005211727,0.01814594,0.98133284,Positive
+MSFT,2021-04-12,Microsoft to Buy Nuance for $16 Billion to Focus on Health Care Tech,0.211,0.789,0.0,Positive,0.0117685795,0.4312221,0.5570093,Positive,0.0019210059,0.2481102,0.7499688,Positive
+MSFT,2021-04-28,Court Could Consider Whether Trump Interfered in Cloud Computing Contract,0.0,1.0,0.0,Neutral,0.16558519,0.6421141,0.19230081,Neutral,0.5583623,0.43581823,0.005819453,Negative
+MSFT,2021-04-13,Markets Fret Over Halt to Johnson & Johnson’s Vaccine,0.0,1.0,0.0,Neutral,0.87177473,0.059927844,0.068297364,Negative,0.9934862,0.0055260933,0.0009876975,Negative
+MSFT,2021-04-30,How Big Tech Won the Pandemic,0.425,0.575,0.0,Positive,0.042678535,0.290866,0.66645545,Positive,0.9001862,0.097502,0.0023118139,Negative
+MSFT,2021-04-29,‘A Perfect Positive Storm’: Bonkers Dollars for Big Tech,0.51,0.49,0.0,Positive,0.027154166,0.30119708,0.67164874,Positive,0.0015446934,0.05203363,0.94642174,Positive
+MSFT,2021-04-25,Your Smartphone Should Be Built to Last,0.0,1.0,0.0,Neutral,0.023092529,0.7943317,0.1825757,Neutral,0.003373071,0.88030225,0.116324686,Neutral
+MSFT,2021-04-23,Bill Gates Pushes for Better Climate Technology,0.326,0.674,0.0,Positive,0.022661287,0.39304766,0.58429104,Positive,0.0025343087,0.30807322,0.68939245,Positive
+MSFT,2021-12-21,Lawmakers Urge Big Tech to ‘Mitigate Harm’ of Suicide Site and Seek Justice Inquiry,0.171,0.603,0.226,Negative,0.55934167,0.2829179,0.15774049,Negative,0.0684459,0.27409697,0.6574572,Positive
+MSFT,2021-12-06,Microsoft Seizes 42 Websites From a Chinese Hacking Group,0.0,1.0,0.0,Neutral,0.829138,0.10979077,0.061071284,Negative,0.2115616,0.7791649,0.009273492,Neutral
+MSFT,2021-12-02,"A Journalist, a Philosophy Major and the Mad Scramble for Video Game Consoles",0.0,0.758,0.242,Negative,0.03657298,0.8137765,0.14965054,Neutral,0.0012864947,0.9934869,0.005226615,Neutral
+MSFT,2022-01-25,"After Urban Flight, Corporate Campuses Add a Taste of the City",0.0,1.0,0.0,Neutral,0.022807937,0.5803654,0.39682662,Neutral,0.016853115,0.9800081,0.0031387857,Neutral
+MSFT,2022-01-16,Microsoft Warns of Destructive Cyberattack on Ukrainian Computer Networks,0.0,0.565,0.435,Negative,0.89159137,0.06227058,0.04613796,Negative,0.9595046,0.037641317,0.0028540299,Negative
+MSFT,2022-01-19,Exclusive: Lina Khan Is (Still) Bursting Big Tech’s Bubble,0.158,0.842,0.0,Positive,0.5093154,0.27202854,0.21865611,Negative,0.03482115,0.21657841,0.7486005,Positive
+MSFT,2022-01-19,How Microsoft Bought Activision Blizzard,0.0,1.0,0.0,Neutral,0.048176587,0.77897024,0.17285319,Neutral,0.0057158065,0.9910144,0.0032698235,Neutral
+MSFT,2022-01-19,It’s Not Complicated. Microsoft Wants Activision for Its Games.,0.0,1.0,0.0,Neutral,0.07190348,0.7375672,0.19052944,Neutral,0.0039516115,0.85569006,0.14035828,Neutral
+MSFT,2022-01-18,"With Activision, Microsoft Bets on the Future",0.0,1.0,0.0,Neutral,0.024177808,0.6305992,0.345223,Neutral,0.0011316532,0.9471211,0.05174719,Neutral
+MSFT,2022-01-18,Regulators aim to rewrite rules for big mergers.,0.0,1.0,0.0,Neutral,0.32165056,0.45725858,0.2210909,Neutral,0.019199042,0.963438,0.017362982,Neutral
+MSFT,2022-01-03,Banks Tiptoe Toward Their Cloud-Based Future,0.0,1.0,0.0,Neutral,0.019686429,0.4140885,0.5662251,Positive,0.0027748432,0.33340752,0.6638176,Positive
+MSFT,2022-01-19,‘New Eyes’: Gamers Greet Microsoft’s Activision Deal With Guarded Optimism,0.42,0.58,0.0,Positive,0.02714343,0.23936856,0.73348796,Positive,0.001266657,0.08188717,0.91684616,Positive
+MSFT,2022-01-13,Microsoft opens a review of its sexual harassment policies.,0.0,0.667,0.333,Negative,0.1887356,0.6744049,0.13685946,Neutral,0.005334625,0.89331686,0.10134852,Neutral
+MSFT,2022-01-20,Microsoft and the Mania for Mergers,0.0,1.0,0.0,Neutral,0.026836582,0.78062457,0.19253892,Neutral,0.011969555,0.95324475,0.034785673,Neutral
+MSFT,2022-01-23,The Week in Business: A Big Bet on Gaming,0.0,1.0,0.0,Neutral,0.03458808,0.71859044,0.24682139,Neutral,0.0032673415,0.7895066,0.20722602,Neutral
+MSFT,2022-01-10,"To Understand the Metaverse, Look to Video Games",0.0,1.0,0.0,Neutral,0.035674755,0.82732475,0.13700049,Neutral,0.0011431099,0.99009514,0.008761761,Neutral
+MSFT,2022-01-18,"Microsoft will buy Activision Blizzard, betting $70 billion on the future of games.",0.0,1.0,0.0,Neutral,0.013275397,0.57193077,0.41479382,Neutral,0.0019244825,0.17945291,0.81862265,Positive
+MSFT,2022-01-31,Sony to buy game maker Bungie in $3.6 billion deal.,0.0,1.0,0.0,Neutral,0.01937228,0.463028,0.5175997,Positive,0.002899893,0.7010605,0.29603955,Neutral
+MSFT,2022-01-20,Microsoft and the Metaverse,0.0,1.0,0.0,Neutral,0.02211224,0.8672036,0.110684216,Neutral,0.0039895945,0.98885053,0.0071598934,Neutral
+MSFT,2022-01-25,Microsoft’s profit continues to climb.,0.42,0.58,0.0,Positive,0.03283339,0.0416591,0.92550755,Positive,0.00044902303,0.009055553,0.99049544,Positive
+MSFT,2022-01-18,What’s All the Hype About the Metaverse?,0.0,1.0,0.0,Neutral,0.055788554,0.8164133,0.12779818,Neutral,0.013349183,0.9799747,0.006676193,Neutral
+MSFT,2022-11-10,"Paul G. Allen’s Art at Christie’s Tops $1.5 Billion, Cracking Records",0.248,0.752,0.0,Positive,0.07419991,0.70667166,0.2191285,Neutral,0.0013671167,0.08949912,0.90913373,Positive
+MSFT,2022-11-23,Lawsuit Takes Aim at the Way A.I. Is Built,0.0,0.808,0.192,Negative,0.5669856,0.31434447,0.11866986,Negative,0.86860156,0.12764862,0.0037497703,Negative
+MSFT,2022-11-27,These Young Workers Are ‘Romanticizing’ the Return to Office,0.0,1.0,0.0,Neutral,0.5149422,0.335822,0.14923577,Negative,0.004652881,0.8920374,0.10330975,Neutral
+MSFT,2022-11-21,Can Big Tech Get Bigger? Microsoft Presses Governments to Say Yes.,0.213,0.787,0.0,Positive,0.031787626,0.52136165,0.44685066,Neutral,0.0047531566,0.40939966,0.58584714,Positive
+MSFT,2022-10-26,Tech Stocks Tumble as Growth Falters,0.342,0.658,0.0,Positive,0.936061,0.023809526,0.040129468,Negative,0.9862981,0.011701754,0.002000184,Negative
+MSFT,2022-10-26,Tech’s Biggest Companies Are Sending Worrying Signals About the Economy,0.0,0.789,0.211,Negative,0.8734739,0.071023926,0.05550216,Negative,0.99741936,0.0019848852,0.0005956916,Negative
+MSFT,2022-10-25,Microsoft Reports Slowest Revenue Growth in Five Years,0.271,0.729,0.0,Positive,0.93477964,0.01499146,0.05022885,Negative,0.9636,0.027150143,0.009249915,Negative
+MSFT,2022-06-15,What Europe’s Universal Charger Mandate Means for You,0.0,1.0,0.0,Neutral,0.026677378,0.6808313,0.29249132,Neutral,0.0037945686,0.599721,0.39648438,Neutral
+MSFT,2022-06-22,"Many Russian Cyberattacks Failed in First Months of Ukraine War, Study Says",0.0,0.581,0.419,Negative,0.86830384,0.07031494,0.061381243,Negative,0.9477139,0.034887176,0.017398898,Negative
+MSFT,2022-06-21,Microsoft Plans to Eliminate Face Analysis Tools in Push for ‘Responsible A.I.’,0.0,1.0,0.0,Neutral,0.42411372,0.31369114,0.26219517,Negative,0.00657746,0.6130765,0.38034606,Neutral
+MSFT,2022-06-15,Internet Explorer Is Shutting Down in a Burst of Nostalgia,0.0,1.0,0.0,Neutral,0.86026436,0.09196322,0.04777234,Negative,0.5929937,0.37163615,0.03537012,Negative
+MSFT,2022-06-13,Microsoft Pledges Neutrality in Union Campaigns at Activision,0.0,1.0,0.0,Neutral,0.8927035,0.056645926,0.050650585,Negative,0.011399492,0.45244545,0.53615505,Positive
+MSFT,2022-07-13,Netflix turns to Microsoft to help build its new ad-supported service.,0.213,0.787,0.0,Positive,0.013849327,0.51475406,0.47139665,Neutral,0.0027185315,0.6781577,0.3191238,Neutral
+MSFT,2022-07-19,Mourning Technoblade: Fans Grieve a Minecraft Star They Never Met,0.0,0.56,0.44,Negative,0.7604868,0.1599342,0.079579085,Negative,0.9195317,0.069651306,0.010816962,Negative
+MSFT,2022-07-08,"Even in Death, Internet Explorer Lives On in South Korea",0.0,0.698,0.302,Negative,0.7920773,0.14069022,0.06723244,Negative,0.008838428,0.9287157,0.062445834,Neutral
+MSFT,2022-07-27,The Default Tech Settings You Should Turn Off Right Away,0.0,1.0,0.0,Neutral,0.5901396,0.3281867,0.08167371,Negative,0.6834821,0.29662222,0.01989569,Negative
+MSFT,2022-07-28,Big Tech Is Proving Resilient as the Economy Cools,0.0,1.0,0.0,Neutral,0.030080494,0.09330951,0.87661,Positive,0.002654413,0.10474519,0.8926004,Positive
+MSFT,2022-07-26,Microsoft reports earnings that fall short of already-reduced expectations.,0.0,1.0,0.0,Neutral,0.9513307,0.017468208,0.031201148,Negative,0.99602485,0.0028319915,0.0011431411,Negative
+MSFT,2022-07-03,"America the Imperfect, on the Fourth of July",0.0,0.753,0.247,Negative,0.038958397,0.64683044,0.3142112,Neutral,0.39666808,0.5950084,0.008323584,Neutral
+MSFT,2022-07-29,Recession? Not for Big Tech.,0.0,0.588,0.412,Negative,0.27613348,0.62395877,0.099907786,Neutral,0.019199517,0.80128676,0.17951374,Neutral
+MSFT,2022-08-03,"Richard Tait, Co-Inventor of the Board Game Cranium, Dies at 58",0.0,1.0,0.0,Neutral,0.65225965,0.23891485,0.10882555,Negative,0.3986978,0.5784079,0.02289426,Neutral
+MSFT,2022-08-26,Christie’s to Sell Paul G. Allen’s $1 Billion Art Collection,0.0,1.0,0.0,Neutral,0.02725637,0.8211217,0.15162194,Neutral,0.003969433,0.9920541,0.00397648,Neutral
+MSFT,2022-08-12,How Much Do N.F.L. Teams Make? Packers Fans Paid to Find Out.,0.0,1.0,0.0,Neutral,0.050857976,0.8219102,0.12723182,Neutral,0.0019158685,0.99180204,0.006282098,Neutral
+MSFT,2022-09-30,The Markets Face a Rare Double Decline,0.0,1.0,0.0,Neutral,0.9331535,0.022694403,0.044152066,Negative,0.99641174,0.00292391,0.000664334,Negative
+MSFT,2022-09-23,Opening Paul Allen’s Treasure Chest,0.355,0.645,0.0,Positive,0.021224882,0.82673967,0.15203546,Neutral,0.0070695244,0.9789356,0.013994796,Neutral
+MSFT,2022-09-01,Big Tech Reconsiders the “Made in China” Way,0.0,1.0,0.0,Neutral,0.014392905,0.5707753,0.41483176,Neutral,0.025798785,0.7988781,0.17532311,Neutral
+MSFT,2022-02-10,Who Benefits From Higher Prices?,0.394,0.606,0.0,Positive,0.066644125,0.420119,0.5132369,Positive,0.9656601,0.030801136,0.0035388074,Negative
+MSFT,2022-02-09,Microsoft starts a charm offensive to push through its Activision deal.,0.197,0.584,0.219,Negative,0.0153945,0.29496333,0.68964225,Positive,0.0034753827,0.50539935,0.49112532,Neutral
+MSFT,2022-02-11,The Pandemic Culls the Big Tech Herd,0.0,1.0,0.0,Neutral,0.4658771,0.380218,0.15390491,Negative,0.12480168,0.7001663,0.1750321,Neutral
+MSFT,2022-02-14,Microsoft tells workers to prepare to return to the office.,0.0,1.0,0.0,Neutral,0.16409895,0.6190272,0.2168739,Neutral,0.08096803,0.91504747,0.0039846012,Neutral
+MSFT,2022-02-08,House Passes Bill to Nullify Forced Arbitration in Sex Abuse Cases,0.0,0.556,0.444,Negative,0.376317,0.40417343,0.21950963,Neutral,0.009237115,0.12586984,0.864893,Positive
+MSFT,2022-02-03,What Big Tech’s Riches Mean for Our Future,0.327,0.673,0.0,Positive,0.04571215,0.5552323,0.3990556,Neutral,0.0038532636,0.2618622,0.7342846,Positive
+MSFT,2022-02-16,The Rise of Big Tech May Just Be Starting,0.0,1.0,0.0,Neutral,0.031973597,0.44827962,0.5197467,Positive,0.011896376,0.61987156,0.3682321,Neutral
+MSFT,2022-02-18,The Hidden Image Descriptions Making the Internet Accessible,0.0,1.0,0.0,Neutral,0.020157993,0.77460086,0.20524119,Neutral,0.0009715708,0.99537057,0.0036578823,Neutral
+MSFT,2022-03-24,E.U. Takes Aim at Big Tech’s Power With Landmark Digital Act,0.115,0.885,0.0,Positive,0.064921334,0.34880942,0.5862692,Positive,0.071378484,0.47531575,0.45330584,Neutral
+MSFT,2022-03-11,The far right complains after the search engine DuckDuckGo vows to limit Russian propaganda.,0.0,0.723,0.277,Negative,0.7044107,0.20818433,0.087405115,Negative,0.77887946,0.2139791,0.007141461,Negative
+MSFT,2022-03-10,Microsoft’s Pursuit of Climate Goals Runs Into Headwinds,0.0,1.0,0.0,Neutral,0.73717535,0.15100233,0.11182233,Negative,0.96920073,0.022053972,0.008745316,Negative
+MSFT,2022-03-01,"As Tanks Rolled Into Ukraine, So Did Malware. Then Microsoft Entered the War.",0.0,0.755,0.245,Negative,0.7451978,0.14182039,0.11298189,Negative,0.6953842,0.29923812,0.0053777006,Negative
+MSFT,2022-03-23,Project Veritas Says Justice Dept. Secretly Seized Its Emails,0.298,0.702,0.0,Positive,0.57886827,0.32462427,0.09650741,Negative,0.9681788,0.030019179,0.0018020448,Negative
+MSFT,2022-05-11,Google Offers a More Modest Vision of the Future,0.246,0.754,0.0,Positive,0.015678575,0.2979881,0.6863333,Positive,0.007476682,0.98126155,0.011261715,Neutral
+MSFT,2022-05-23,The Era of Borderless Data Is Ending,0.0,1.0,0.0,Neutral,0.8121419,0.11778048,0.070077635,Negative,0.48191807,0.3115459,0.20653595,Negative
+MSFT,2022-05-23,"Workers at an Activision studio vote to unionize, a first for the gaming industry.",0.0,1.0,0.0,Neutral,0.616655,0.21734884,0.1659962,Negative,0.003150657,0.15284342,0.84400594,Positive
+MSFT,2022-05-20,Big Tech Is Getting Clobbered on Wall Street. It’s a Good Time for Them.,0.195,0.805,0.0,Positive,0.49905142,0.22982432,0.27112433,Negative,0.26033464,0.6130343,0.12663108,Neutral
+MSFT,2022-05-03,"Blackness and Standard English Can Coexist. Professors, Take Note.",0.0,1.0,0.0,Neutral,0.18744193,0.6583194,0.15423867,Neutral,0.007930289,0.8203158,0.17175397,Neutral
+MSFT,2022-04-08,A 4-Year Degree Isn’t Quite the Job Requirement It Used to Be,0.0,1.0,0.0,Neutral,0.34197593,0.5222453,0.1357788,Neutral,0.05717701,0.9317824,0.011040555,Neutral
+MSFT,2022-04-22,"As Europe Approves New Tech Laws, the U.S. Falls Further Behind",0.213,0.787,0.0,Positive,0.86866254,0.057655964,0.07368154,Negative,0.95744514,0.024951339,0.01760346,Negative
+MSFT,2022-04-26,"Microsoft reports rising revenue and profits, despite war and inflation.",0.43,0.57,0.0,Positive,0.05276407,0.03573919,0.9114967,Positive,0.002901955,0.040089626,0.9570085,Positive
+MSFT,2022-04-26,"Stocks drop 2.8%, led lower by tech, as April’s slump continues.",0.0,0.677,0.323,Negative,0.95651436,0.011457994,0.03202769,Negative,0.99397004,0.005098523,0.00093143724,Negative
+MSFT,2022-04-27,"Russia Uses Cyberattacks in Ukraine to Support Military Strikes, Report Finds",0.19,0.634,0.176,Positive,0.31079006,0.38124657,0.3079633,Neutral,0.6115788,0.3774216,0.010999509,Negative
+MSFT,2022-12-08,Pentagon Divides Big Cloud-Computing Deal Among 4 Firms,0.0,1.0,0.0,Neutral,0.034125093,0.15745653,0.80841833,Positive,0.009489175,0.96774083,0.02277002,Neutral
+MSFT,2022-12-30,"Deal-Making Thrived, Then Hit a Road Bump",0.0,1.0,0.0,Neutral,0.7346623,0.14534338,0.119994275,Negative,0.038200285,0.06947675,0.892323,Positive
+MSFT,2022-12-06,Computer Science Students Face a Shrinking Big Tech Job Market,0.0,1.0,0.0,Neutral,0.92861056,0.040428158,0.030961256,Negative,0.9856477,0.012642238,0.001710029,Negative
+MSFT,2022-12-08,F.T.C. Sues to Block Microsoft’s $69 Billion Acquisition of Activision,0.0,0.756,0.244,Negative,0.7057181,0.17888005,0.11540186,Negative,0.8694713,0.12444046,0.006088193,Negative
+MSFT,2022-12-09,The Stakes Behind the F.T.C.’s Bid to Block Microsoft’s Big Deal,0.0,0.775,0.225,Negative,0.2914437,0.49950054,0.20905578,Neutral,0.1386369,0.85184574,0.009517383,Neutral
+MSFT,2022-12-10,"To Rein In Big Tech, Europe Looked Beyond Lawsuits. Will the U.S. Follow?",0.0,0.882,0.118,Negative,0.06249779,0.39832407,0.53917813,Positive,0.020136418,0.8871549,0.09270872,Neutral
+MSFT,2022-12-07,Microsoft to Offer Call of Duty on Nintendo Devices if Activision Deal Closes,0.0,1.0,0.0,Neutral,0.6373495,0.25085384,0.1117967,Negative,0.002202066,0.6675846,0.33021334,Neutral
+MSFT,2022-12-05,Video Game Workers at Microsoft and Activision Take Steps to Unionize,0.0,1.0,0.0,Neutral,0.82570696,0.10169099,0.07260205,Negative,0.0033963195,0.15335763,0.84324604,Positive
+MSFT,2022-12-10,"Lina Khan, Aiming to Block Microsoft’s Activision Deal, Faces a Challenge",0.107,0.656,0.238,Negative,0.70059663,0.19524463,0.10415871,Negative,0.16965912,0.6837736,0.14656734,Neutral
+MSFT,2022-12-22,Microsoft Gambles on ‘Nice Guy’ Strategy to Close Activision Megadeal,0.0,1.0,0.0,Neutral,0.7317397,0.15393977,0.114320576,Negative,0.0025928142,0.39851713,0.59889,Positive
+MSFT,2023-01-18,Oliver Stone Goes Nuclear at Davos,0.0,1.0,0.0,Neutral,0.044291083,0.62711346,0.32859552,Neutral,0.9574623,0.040432975,0.0021046558,Negative
+MSFT,2023-01-18,"Microsoft to Lay Off 10,000 Workers as It Looks to Trim Costs",0.0,1.0,0.0,Neutral,0.9515539,0.023655033,0.02479105,Negative,0.97778666,0.020174228,0.002039137,Negative
+MSFT,2023-01-18,How the Netherlands Is Taming Big Tech,0.0,1.0,0.0,Neutral,0.06074461,0.67084914,0.26840627,Neutral,0.005741998,0.5518641,0.44239387,Neutral
+MSFT,2023-01-11,Big Cuts Are Coming to Goldman Sachs,0.0,0.732,0.268,Negative,0.49476653,0.25004792,0.2551856,Negative,0.9891958,0.009232751,0.0015714024,Negative
+MSFT,2023-01-04,Tesla Bulls Brace for a Rough Year Ahead,0.0,1.0,0.0,Neutral,0.88771075,0.068247974,0.04404129,Negative,0.78088826,0.13266857,0.08644308,Negative
+MSFT,2023-01-12,Microsoft Bets Big on the Creator of ChatGPT in Race to Dominate A.I.,0.0,0.889,0.111,Negative,0.030242013,0.2889734,0.6807845,Positive,0.0011479446,0.05928861,0.9395634,Positive
+MSFT,2023-01-23,"Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT",0.0,1.0,0.0,Neutral,0.015366795,0.46996894,0.5146643,Positive,0.0021739155,0.30391112,0.693915,Positive
+MSFT,2023-01-19,The Era of Happy Tech Workers Is Over,0.346,0.654,0.0,Positive,0.11770998,0.3392522,0.54303783,Positive,0.79434085,0.17661002,0.029049123,Negative
+MSFT,2023-01-24,Live Nation Faces a Skeptical Senate,0.0,0.635,0.365,Negative,0.8385669,0.118427895,0.043005187,Negative,0.9609789,0.036983546,0.0020375513,Negative
+MSFT,2023-01-21,Layoffs at Tech Giants Reverse Small Part of Pandemic Hiring Spree,0.0,1.0,0.0,Neutral,0.9262813,0.037943155,0.0357755,Negative,0.9931564,0.0052676033,0.0015761127,Negative
+MSFT,2023-01-06,TikTok’s Spying Scandal and ChatGPT’s Challenge to Google,0.127,0.588,0.284,Negative,0.62177,0.26613113,0.112098806,Negative,0.99089617,0.007736719,0.0013670877,Negative
+MSFT,2023-01-24,"Microsoft Revenue Up 2 Percent, but Profit Drops 12 Percent",0.325,0.675,0.0,Positive,0.72457665,0.015000392,0.26042297,Negative,0.06714174,0.017286869,0.9155714,Positive
+MSFT,2023-01-25,Microsoft Services Back Online After Morning Outages,0.0,1.0,0.0,Neutral,0.79311085,0.12686083,0.08002832,Negative,0.0037824037,0.3859513,0.61026627,Positive
+MSFT,2023-01-03,Video Game Workers Get a Union Foothold at Microsoft,0.0,1.0,0.0,Neutral,0.6018709,0.30464345,0.09348569,Negative,0.005630698,0.7646478,0.22972149,Neutral
+MSFT,2023-11-27,"How the Biden Administration Took the Pen Away From Meta, Google and Amazon",0.124,0.876,0.0,Positive,0.7567522,0.14937544,0.0938723,Negative,0.059427936,0.93751484,0.0030571718,Neutral
+MSFT,2023-11-20,"OpenAI Staff Threatens Exodus, Jeopardizing Company’s Future",0.0,0.698,0.302,Negative,0.87037265,0.08354397,0.0460834,Negative,0.99503607,0.0034531201,0.0015108716,Negative
+MSFT,2023-11-22,The Unsettling Lesson of the OpenAI Mess,0.0,0.706,0.294,Negative,0.28466144,0.5913332,0.12400533,Neutral,0.9502862,0.045900203,0.0038136097,Negative
+MSFT,2023-11-22,The Fallout From Sam Altman’s Return to OpenAI,0.0,1.0,0.0,Neutral,0.038323514,0.73523086,0.22644559,Neutral,0.76332825,0.23299803,0.0036736846,Negative
+MSFT,2023-11-21,The Long Shadow of Steve Jobs Looms Over the Turmoil at OpenAI,0.0,0.709,0.291,Negative,0.8444541,0.10168042,0.053865526,Negative,0.99475646,0.004249429,0.000994091,Negative
+MSFT,2023-11-30,"Back at OpenAI, Sam Altman Outlines the Company’s Priorities",0.0,1.0,0.0,Neutral,0.05657676,0.7782852,0.16513804,Neutral,0.0018059444,0.9893226,0.0088714445,Neutral
+MSFT,2023-11-20,What Happens When a Founder Leaves?,0.0,1.0,0.0,Neutral,0.5218959,0.40183023,0.07627395,Negative,0.0028802818,0.99567753,0.0014422637,Neutral
+MSFT,2023-11-17,"OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.",0.0,1.0,0.0,Neutral,0.8396968,0.10439547,0.055907745,Negative,0.43056133,0.5249233,0.04451524,Neutral
+MSFT,2023-11-02,Microsoft Criticized for Embedding ‘Crass’ A.I. Poll Beside News Article,0.0,0.783,0.217,Negative,0.7374084,0.1834929,0.07909872,Negative,0.98833907,0.00912754,0.0025333092,Negative
+MSFT,2023-11-21,"Before Altman’s Ouster, OpenAI’s Board Was Divided and Feuding",0.0,0.755,0.245,Negative,0.8156635,0.11942142,0.06491511,Negative,0.99477,0.004021304,0.0012086916,Negative
+MSFT,2023-10-13,How Microsoft Turned the Tide in Its Regulatory Fight Over Activision,0.0,0.794,0.206,Negative,0.27306214,0.2284621,0.49847567,Positive,0.0043786475,0.08691302,0.9087083,Positive
+MSFT,2023-10-13,"As Microsoft Completes Activision Deal, Gamers Celebrate Cautiously",0.346,0.654,0.0,Positive,0.023199812,0.2219875,0.7548127,Positive,0.0006194405,0.013321418,0.9860591,Positive
+MSFT,2023-10-13,Microsoft Beats the Antitrust Odds on Its Activision Deal,0.0,1.0,0.0,Neutral,0.6838876,0.20051597,0.115596384,Negative,0.015930733,0.26660043,0.7174688,Positive
+MSFT,2023-10-24,Microsoft’s A.I. Investment Stabilizes Its Cloud Business,0.0,1.0,0.0,Neutral,0.0327857,0.14717887,0.8200354,Positive,0.00077602203,0.042178772,0.95704514,Positive
+MSFT,2023-10-31,News Group Says A.I. Chatbots Heavily Rely on News Content,0.0,1.0,0.0,Neutral,0.029647369,0.50925136,0.46110132,Neutral,0.0013958159,0.98056823,0.018036019,Neutral
+MSFT,2023-10-13,"Across U.S., Chinese Bitcoin Mines Draw National Security Scrutiny",0.231,0.769,0.0,Positive,0.8439119,0.10221492,0.05387325,Negative,0.8983831,0.09938364,0.002233294,Negative
+MSFT,2023-10-25,"Long on Hype, A.I. Is No Guarantee for Profits",0.374,0.458,0.168,Positive,0.48682746,0.36302152,0.15015107,Negative,0.73733985,0.2524599,0.0102001615,Negative
+MSFT,2023-10-13,"Microsoft Closes $69 Billion Activision Deal, Overcoming Regulators’ Objections",0.0,1.0,0.0,Neutral,0.74304104,0.14087933,0.1160796,Negative,0.001108815,0.016997201,0.98189396,Positive
+MSFT,2023-10-13,The Upshot of Microsoft’s Activision Deal: Big Tech Can Get Even Bigger,0.0,1.0,0.0,Neutral,0.04042098,0.30799964,0.6515794,Positive,0.0016739942,0.07271162,0.92561436,Positive
+MSFT,2023-10-25,What the U.S. Has Argued in the Google Antitrust Trial,0.0,0.783,0.217,Negative,0.44381332,0.37524125,0.18094541,Negative,0.0055732005,0.98680705,0.0076198233,Neutral
+MSFT,2023-02-16,Microsoft Considers More Limits for Its New A.I. Chatbot,0.0,1.0,0.0,Neutral,0.7344619,0.18296199,0.08257619,Negative,0.68502647,0.30535448,0.009619107,Negative
+MSFT,2023-06-16,"Bill Gates, in First Visit to China Since 2019, Meets With Xi",0.0,1.0,0.0,Neutral,0.026272317,0.442144,0.53158367,Positive,0.0027958977,0.73917335,0.25803068,Neutral
+MSFT,2023-06-23,The Big Number: 70 Billion,0.245,0.755,0.0,Positive,0.031430155,0.72131705,0.24725282,Neutral,0.0039613238,0.98003507,0.01600357,Neutral
+MSFT,2023-07-13,The A.I. Wars Heat Up as Elon Musk and Meta Enter the Ring,0.0,0.769,0.231,Negative,0.038488686,0.5142127,0.44729856,Neutral,0.9033302,0.0860725,0.0105973305,Negative
+MSFT,2023-07-30,Russia Takes Its Ukraine Information War Into Video Games,0.0,0.672,0.328,Negative,0.21609534,0.57235485,0.21154976,Neutral,0.1316968,0.38823888,0.4800643,Positive
+MSFT,2023-07-20,"Hacking of Government Email Was Traditional Espionage, Official Says",0.0,1.0,0.0,Neutral,0.52063084,0.34273186,0.13663732,Negative,0.41965726,0.57747346,0.0028692053,Neutral
+MSFT,2023-07-12,"Chinese Hackers Breached Government Email Accounts, Microsoft Says",0.0,1.0,0.0,Neutral,0.7151854,0.18980345,0.09501117,Negative,0.7963508,0.18929376,0.014355531,Negative
+MSFT,2023-07-21,The White House Pushes Tech Leaders To Get Tough on A.I. Safety,0.196,0.699,0.105,Positive,0.75542486,0.14473593,0.09983918,Negative,0.008678956,0.43271455,0.55860656,Positive
+MSFT,2023-07-02,Uncensored Chatbots Provoke a Fracas Over Free Speech,0.3,0.455,0.245,Positive,0.6178125,0.26812014,0.11406724,Negative,0.9783587,0.019654315,0.0019870724,Negative
+MSFT,2023-07-27,Warren and Graham Team Up to Take on Big Tech,0.0,1.0,0.0,Neutral,0.028399788,0.53366446,0.4379357,Neutral,0.00657933,0.13571593,0.85770476,Positive
+MSFT,2023-07-21,"Pressured by Biden, A.I. Companies Agree to Guardrails on New Tools",0.187,0.672,0.142,Positive,0.024392918,0.30371848,0.6718886,Positive,0.00822443,0.3515488,0.6402268,Positive
+MSFT,2023-07-21,"In U.S., Regulating A.I. Is in Its ‘Early Days’",0.0,1.0,0.0,Neutral,0.059896212,0.44240645,0.49769726,Positive,0.030489394,0.9576665,0.011844089,Neutral
+MSFT,2023-07-21,Big Business Gets Bigger,0.0,1.0,0.0,Neutral,0.036111515,0.29057512,0.6733134,Positive,0.0068591256,0.58506763,0.40807328,Neutral
+MSFT,2023-06-22,Lina Khan Raises the Heat on Amazon,0.221,0.779,0.0,Positive,0.016566504,0.4953168,0.48811668,Neutral,0.005802549,0.36016566,0.63403183,Positive
+MSFT,2023-06-02,Apple Is Stepping Into the Metaverse. Will Anyone Care?,0.286,0.714,0.0,Positive,0.03572453,0.60550743,0.35876808,Neutral,0.010327217,0.98383373,0.005839153,Neutral
+MSFT,2023-06-12,When Doctors Use a Chatbot to Improve Their Bedside Manner,0.266,0.734,0.0,Positive,0.02353184,0.62388074,0.35258737,Neutral,0.0016164852,0.92185444,0.07652907,Neutral
+MSFT,2023-06-28,Microsoft and Activision Chiefs Testify Merger Will Benefit Consumers,0.273,0.727,0.0,Positive,0.024966566,0.14830981,0.8267237,Positive,0.0024025869,0.0747682,0.9228292,Positive
+MSFT,2023-06-22,Microsoft Says It Could Abandon Activision Deal if Judge Delays It,0.0,0.775,0.225,Negative,0.7280547,0.19313526,0.07881004,Negative,0.9177391,0.07245266,0.009808252,Negative
+MSFT,2023-06-09,Big Tech Is Bad. Big A.I. Will Be Worse.,0.0,0.515,0.485,Negative,0.8405943,0.10164265,0.057763133,Negative,0.98962027,0.008775123,0.0016046012,Negative
+MSFT,2023-06-12,F.T.C. Sues to Stop Microsoft’s Activision Deal From Closing,0.0,0.784,0.216,Negative,0.8499732,0.09431379,0.055712942,Negative,0.5939001,0.3577904,0.048309594,Negative
+MSFT,2023-06-11,Silicon Valley Confronts the Idea That the ‘Singularity’ Is Here,0.0,0.826,0.174,Negative,0.7387779,0.17870437,0.08251772,Negative,0.057068102,0.74255115,0.20038076,Neutral
+MSFT,2023-06-22,China’s Cloud Computing Firms Raise Concern for U.S.,0.0,1.0,0.0,Neutral,0.88890624,0.058939338,0.052154485,Negative,0.9475633,0.047544096,0.004892688,Negative
+MSFT,2023-06-12,"Diablo IV Breaks Blizzard Records, Surpassing ‘$666 Million’ in Sales",0.0,1.0,0.0,Neutral,0.030680437,0.111566216,0.85775334,Positive,0.0006212985,0.014952062,0.98442656,Positive
+MSFT,2023-07-11,Judge Rejects F.T.C. Delay of $70 Billion Microsoft-Activision Deal,0.0,0.56,0.44,Negative,0.72148806,0.16000189,0.11851011,Negative,0.07947278,0.8914346,0.029092688,Neutral
+MSFT,2023-07-22,How Do the White House’s A.I. Commitments Stack Up?,0.158,0.842,0.0,Positive,0.19307598,0.61561894,0.19130506,Neutral,0.007366342,0.9890627,0.0035708747,Neutral
+MSFT,2023-07-19,Microsoft and Activision Delay Deal to Settle British Regulatory Issues,0.0,0.796,0.204,Negative,0.86456704,0.08875521,0.046677735,Negative,0.1699777,0.5649938,0.26502848,Neutral
+MSFT,2023-07-25,Tech Firms Once Powered New York’s Economy. Now They’re Scaling Back.,0.0,1.0,0.0,Neutral,0.7058539,0.0828832,0.21126299,Negative,0.6768735,0.29723287,0.025893584,Negative
+MSFT,2023-07-12,F.T.C.’s Court Loss Raises Fresh Questions About Its Chair’s Strategy,0.183,0.635,0.183,Neutral,0.8964205,0.059846457,0.043733034,Negative,0.98774487,0.00798374,0.0042714835,Negative
+MSFT,2023-07-12,What the Microsoft-Activision Ruling Means for the Future of Deal-Making,0.0,1.0,0.0,Neutral,0.13011512,0.54243386,0.32745108,Neutral,0.717418,0.26934057,0.013241405,Negative
+MSFT,2023-07-25,Big Tech Earnings Will Test Investors’ Fervor for A.I.,0.0,1.0,0.0,Neutral,0.056007154,0.3058765,0.6381164,Positive,0.012851315,0.97508323,0.01206547,Neutral
+MSFT,2023-07-12,Chinese Hackers Targeted Commerce Secretary and Other U.S. Officials,0.0,1.0,0.0,Neutral,0.7859774,0.13864662,0.075375974,Negative,0.78389156,0.21190982,0.0041985526,Negative
+MSFT,2023-07-05,"As Businesses Clamor for Workplace A.I., Tech Companies Rush to Provide It",0.0,1.0,0.0,Neutral,0.017438972,0.44376814,0.5387929,Positive,0.0016175619,0.13259315,0.8657893,Positive
+MSFT,2023-07-18,Meta Unveils a More Powerful A.I. and Isn’t Fretting Over Who Uses It,0.219,0.781,0.0,Positive,0.029710757,0.5951596,0.37512967,Neutral,0.0029910575,0.40682924,0.59017974,Positive
+MSFT,2023-02-17,"The Bing Who Loved Me, and Elon Rewrites the Algorithm",0.302,0.698,0.0,Positive,0.06465057,0.6621014,0.27324802,Neutral,0.0012968116,0.96987915,0.028824015,Neutral
+MSFT,2023-02-17,"New technology, same old blind spot?",0.0,0.649,0.351,Negative,0.25925097,0.57722735,0.16352163,Neutral,0.29220313,0.66791695,0.03987987,Neutral
+MSFT,2023-02-17,Dear Mr. Chatbot: You Give Me Chills,0.302,0.698,0.0,Positive,0.041984893,0.60459656,0.35341853,Neutral,0.95295894,0.032939095,0.014101943,Negative
+MSFT,2023-02-16,Revenge of the Chatbots,0.0,0.469,0.531,Negative,0.26845002,0.51751417,0.21403581,Neutral,0.066327065,0.9279294,0.005743453,Neutral
+MSFT,2023-02-07,A Tech Race Begins as Microsoft Adds A.I. to Its Search Engine,0.0,1.0,0.0,Neutral,0.017918028,0.3771677,0.6049143,Positive,0.016417358,0.9285974,0.0549853,Neutral
+MSFT,2023-02-22,We’re Unprepared for the A.I. Gold Rush,0.0,1.0,0.0,Neutral,0.58631027,0.2581645,0.15552528,Negative,0.43134165,0.35054806,0.21811026,Negative
+MSFT,2023-02-18,Microsoft to Limit Length of Bing Chatbot Conversations,0.0,1.0,0.0,Neutral,0.5709647,0.33122072,0.097814545,Negative,0.20249416,0.7719562,0.0255496,Neutral
+MSFT,2023-02-16,A Conversation With Bing’s Chatbot Left Me Deeply Unsettled,0.0,0.73,0.27,Negative,0.80409575,0.13052148,0.06538274,Negative,0.9936732,0.003951426,0.0023754262,Negative
+MSFT,2023-02-24,"Kevin Killed Sydney, and Reddit’s C.E.O. Defends Section 230",0.0,0.64,0.36,Negative,0.7919917,0.13288032,0.07512802,Negative,0.0033779365,0.972529,0.024093071,Neutral
+MSFT,2023-02-08,"Bing (Yes, Bing) Just Made Search Interesting Again",0.278,0.722,0.0,Positive,0.02015845,0.25117454,0.72866696,Positive,0.00043391288,0.008108281,0.9914579,Positive
+MSFT,2023-11-22,Five Days of Chaos: How Sam Altman Returned to OpenAI,0.0,0.709,0.291,Negative,0.057252795,0.5041017,0.43864545,Neutral,0.7937679,0.1986003,0.0076317387,Negative
+MSFT,2023-11-20,Microsoft’s Stock Hits Record High After Hiring OpenAI Outcasts,0.0,1.0,0.0,Neutral,0.11651235,0.07848488,0.8050028,Positive,0.00050963636,0.012952311,0.98653805,Positive
+MSFT,2023-11-21,‘I Think We’re Heading Toward the Best World Ever’: An Interview With Sam Altman,0.244,0.756,0.0,Positive,0.021853786,0.46624103,0.5119052,Positive,0.0018707704,0.16499615,0.8331331,Positive
+MSFT,2023-11-20,The Shake-up at OpenAI Reshapes the Industry’s Global Order,0.0,1.0,0.0,Neutral,0.03667607,0.25536758,0.70795643,Positive,0.9235329,0.06187064,0.01459645,Negative
+MSFT,2023-11-22,Sam Altman Is Reinstated as OpenAI’s Chief Executive,0.0,1.0,0.0,Neutral,0.025362393,0.470418,0.50421953,Positive,0.011834939,0.7470669,0.24109817,Neutral
+MSFT,2023-11-06,Chatbots May ‘Hallucinate’ More Often Than Many Realize,0.0,1.0,0.0,Neutral,0.2755684,0.5843312,0.1401004,Neutral,0.80427456,0.19105865,0.004666705,Negative
+MSFT,2023-11-21,Does A.I. Have an Inherent Governance Problem?,0.0,0.69,0.31,Negative,0.43680954,0.47298935,0.090201184,Neutral,0.7461547,0.2511711,0.0026741691,Negative
+MSFT,2023-11-22,A.I. Belongs to the Capitalists Now,0.0,1.0,0.0,Neutral,0.017393436,0.5879737,0.39463285,Neutral,0.0023259106,0.9685752,0.029098941,Neutral
+MSFT,2023-11-20,How Microsoft’s Satya Nadella Kept the ‘Best Bromance in Tech’ Alive,0.206,0.794,0.0,Positive,0.03576794,0.21585253,0.7483795,Positive,0.0037614666,0.38257203,0.6136665,Positive
+MSFT,2023-11-23,(Yet Another) Emergency Pod: Sam Altman Is Back,0.0,0.729,0.271,Negative,0.10239764,0.44675815,0.45084423,Positive,0.13486157,0.79028475,0.074853666,Neutral
+MSFT,2023-10-03,Rethinking Security When So Many Threats Are Invisible,0.209,0.523,0.268,Negative,0.78151304,0.14732917,0.071157776,Negative,0.8194098,0.17228386,0.008306372,Negative
+MSFT,2023-10-13,Microsoft Finally Closes In on Activision Deal After Key Approval,0.256,0.744,0.0,Positive,0.038369145,0.20646894,0.75516194,Positive,0.00070717226,0.029317964,0.9699748,Positive
+MSFT,2023-10-16,LinkedIn Cuts 668 Jobs in Second Layoff Round This Year,0.0,0.804,0.196,Negative,0.9559131,0.01781244,0.02627444,Negative,0.98208135,0.01698381,0.0009347873,Negative
+MSFT,2023-10-02,Microsoft C.E.O. Testifies That Google’s Power in Search Is Ubiquitous,0.0,1.0,0.0,Neutral,0.032983687,0.30744636,0.65957,Positive,0.009634919,0.2944344,0.6959307,Positive
+MSFT,2023-02-17,The Chatbot Experiment Just Got Weird,0.0,0.746,0.254,Negative,0.35646966,0.4943568,0.14917351,Neutral,0.95694965,0.03913658,0.0039138063,Negative
+MSFT,2023-02-15,The Online Search Wars,0.0,0.455,0.545,Negative,0.06048866,0.80592555,0.13358578,Neutral,0.021183409,0.97447115,0.0043454566,Neutral
+MSFT,2023-02-08,Biden Makes His Business Case in the State of the Union,0.0,1.0,0.0,Neutral,0.03588445,0.6067301,0.35738543,Neutral,0.0016921352,0.96342224,0.03488557,Neutral
+MSFT,2023-02-22,"When the Movies Pictured A.I., They Imagined the Wrong Disaster",0.0,0.526,0.474,Negative,0.66156656,0.25283116,0.0856023,Negative,0.99364555,0.005453035,0.0009014672,Negative
+MSFT,2023-02-08,Disinformation Researchers Raise Alarms About A.I. Chatbots,0.0,0.741,0.259,Negative,0.7494854,0.18038057,0.07013406,Negative,0.8709041,0.118890986,0.010204959,Negative
+MSFT,2023-02-26,The Imminent Danger of A.I. Is One We’re Not Talking About,0.0,0.746,0.254,Negative,0.7127138,0.21367504,0.073611185,Negative,0.048244175,0.9460635,0.0056922673,Neutral
+MSFT,2023-02-15,A Big Breakup at the Federal Trade Commission,0.0,1.0,0.0,Neutral,0.54224795,0.3269661,0.13078596,Negative,0.98933953,0.009739492,0.0009209951,Negative
+MSFT,2023-02-15,Microsoft’s Bing Chatbot Offers Some Puzzling and Inaccurate Responses,0.0,1.0,0.0,Neutral,0.026975699,0.4851932,0.48783112,Positive,0.9954401,0.0034352147,0.0011245635,Negative
+MSFT,2023-02-17,Why China Didn’t Invent ChatGPT,0.0,1.0,0.0,Neutral,0.444948,0.39220726,0.16284476,Negative,0.26973394,0.72330654,0.0069595734,Neutral
+MSFT,2023-02-26,Why Do A.I. Chatbots Tell Lies and Act Weird? Look in the Mirror.,0.0,0.71,0.29,Negative,0.32988942,0.5769916,0.09311901,Neutral,0.8522075,0.14223166,0.0055608414,Negative
+MSFT,2023-03-31,Google C.E.O. Sundar Pichai on the A.I. Moment: ‘You Will See Us Be Bold’,0.0,1.0,0.0,Neutral,0.024662653,0.4778034,0.49753386,Positive,0.004926126,0.65718335,0.33789057,Neutral
+MSFT,2023-03-21,"Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots",0.16,0.84,0.0,Positive,0.019390577,0.3935899,0.58701956,Positive,0.0044152583,0.9766986,0.018886235,Neutral
+MSFT,2023-03-02,How A.I. Can Help,0.474,0.526,0.0,Positive,0.023479346,0.7494972,0.22702347,Neutral,0.0023335086,0.22710642,0.77056,Positive
+MSFT,2023-03-14,Bank Stocks Rebound Despite Fears Over Small Lenders’ Health,0.226,0.774,0.0,Positive,0.616105,0.04347884,0.34041616,Negative,0.003815564,0.030894961,0.9652895,Positive
+MSFT,2023-03-15,"How Siri, Alexa and Google Assistant Lost the A.I. Race",0.0,0.796,0.204,Negative,0.72535396,0.14632179,0.1283243,Negative,0.9737396,0.02388944,0.002370863,Negative
+MSFT,2023-03-29,Rift Between Gaming Giants Shows Toll of China’s Economic Crackdown,0.0,1.0,0.0,Neutral,0.8730179,0.06046134,0.066520765,Negative,0.9958176,0.0030145135,0.001167889,Negative
+MSFT,2023-03-15,Let’s Use a Chatbot to Fill Out a Bracket,0.0,1.0,0.0,Neutral,0.03324996,0.80789554,0.1588545,Neutral,0.0016533365,0.99655294,0.0017937396,Neutral
+MSFT,2023-11-14,How Microsoft’s Legal Legacy Shapes the Antitrust Case Against Google,0.143,0.857,0.0,Positive,0.5569858,0.28679693,0.15621738,Negative,0.17505987,0.81856656,0.0063735647,Neutral
+MSFT,2023-11-20,The Winners and Losers of OpenAI’s Wild Weekend,0.248,0.48,0.272,Negative,0.05235719,0.5835453,0.36409742,Neutral,0.4669768,0.51843834,0.014584847,Neutral
+MSFT,2023-11-19,Sam Altman Is Said to Be Discussing Return to OpenAI With Company’s Board,0.0,1.0,0.0,Neutral,0.021456579,0.48647273,0.49207065,Positive,0.002055016,0.7763894,0.22155556,Neutral
+MSFT,2023-11-20,Explaining the Upheaval at OpenAI,0.0,1.0,0.0,Neutral,0.025665086,0.7716518,0.20268314,Neutral,0.0070922514,0.9885339,0.004373791,Neutral
+MSFT,2023-11-20,The Employee Letter to OpenAI’s Board,0.0,1.0,0.0,Neutral,0.260948,0.61497796,0.124074,Neutral,0.0076966705,0.99025047,0.0020528955,Neutral
+MSFT,2023-09-07,2 Senators Propose Bipartisan Framework for A.I. Laws,0.0,1.0,0.0,Neutral,0.043319732,0.5557915,0.40088883,Neutral,0.0019058571,0.8733139,0.12478018,Neutral
+MSFT,2023-09-13,"In Show of Force, Silicon Valley Titans Pledge ‘Getting This Right’ With A.I.",0.0,1.0,0.0,Neutral,0.025639284,0.3447905,0.62957025,Positive,0.00890428,0.57845086,0.41264477,Neutral
+MSFT,2023-09-28,"Chinese Hackers Stole 60,000 State Dept. Emails in Breach Reported in July",0.0,1.0,0.0,Neutral,0.8739771,0.07807243,0.04795041,Negative,0.977861,0.020580668,0.0015583484,Negative
+MSFT,2023-09-08,The Big Number: $1.7 Trillion,0.245,0.755,0.0,Positive,0.024802849,0.7522548,0.22294232,Neutral,0.0047767283,0.9804997,0.014723563,Neutral
+MSFT,2023-07-15,‘Not for Machines to Harvest’: Data Revolts Break Out Against A.I.,0.0,1.0,0.0,Neutral,0.67982185,0.19097948,0.12919867,Negative,0.5107548,0.46006158,0.029183613,Negative
+MSFT,2023-07-25,Microsoft Revenue Up 8% to $56.2 Billion in Latest Quarter,0.0,1.0,0.0,Neutral,0.038959797,0.028810468,0.93222976,Positive,0.00041579714,0.003134435,0.9964497,Positive
+MSFT,2023-08-31,"Starfield’s 1,000 Planets May Be One Giant Leap for Game Design",0.0,1.0,0.0,Neutral,0.016306726,0.5862131,0.39748016,Neutral,0.010347295,0.53034616,0.45930654,Neutral
+MSFT,2023-08-28,Tech Chiefs to Gather in Washington Next Month on A.I. Regulations,0.0,1.0,0.0,Neutral,0.053104427,0.63345885,0.31343672,Neutral,0.0021616295,0.98622304,0.011615428,Neutral
+MSFT,2023-08-05,Big Tech Rebounds and Preps for Transformative A.I. Investments,0.0,1.0,0.0,Neutral,0.021032296,0.28909197,0.6898757,Positive,0.0006870928,0.023937698,0.9753752,Positive
+MSFT,2023-08-03,What Can You Do When A.I. Lies About You?,0.0,0.741,0.259,Negative,0.45499614,0.4598846,0.08511929,Neutral,0.9837646,0.014652185,0.0015831658,Negative
+MSFT,2023-08-18,Interest Rate Jitters Sink the Heavyweights of Tech,0.3,0.7,0.0,Positive,0.90074843,0.052523997,0.04672765,Negative,0.9969908,0.0022181692,0.0007909265,Negative
+MSFT,2023-08-22,Microsoft Offers British Regulators Changes to Activision Deal,0.0,1.0,0.0,Neutral,0.5177857,0.28771847,0.19449583,Negative,0.010745652,0.6086994,0.3805549,Neutral
+MSFT,2023-09-16,Leveling Up on the Video Game Beat,0.0,1.0,0.0,Neutral,0.03132159,0.36713898,0.60153943,Positive,0.001451608,0.97037953,0.028168831,Neutral
+MSFT,2023-09-27,Sony’s PlayStation Chief to Retire Next Year,0.0,1.0,0.0,Neutral,0.044509623,0.48884758,0.46664277,Neutral,0.5390348,0.45616132,0.0048039355,Negative
+MSFT,2023-09-21,"Tech Giants See Chatbots Everywhere, Including in Your Inbox",0.0,1.0,0.0,Neutral,0.01888489,0.80680466,0.17431048,Neutral,0.031581383,0.9631939,0.0052246773,Neutral
+MSFT,2023-09-11,"Microsoft, Google and Antitrust: Similar Legal Theories in a Different Era",0.143,0.857,0.0,Positive,0.39099836,0.45079947,0.15820211,Neutral,0.0022532528,0.99489224,0.0028544588,Neutral
+MSFT,2023-09-26,‘Unprecedented’ Secrecy in Google Trial as Tech Giants Push to Limit Disclosures,0.0,1.0,0.0,Neutral,0.648021,0.25387272,0.09810637,Negative,0.025585208,0.7576791,0.21673568,Neutral
+MSFT,2023-09-11,China Sows Disinformation About Hawaii Fires Using New Techniques,0.0,1.0,0.0,Neutral,0.69265884,0.21957135,0.08776979,Negative,0.92413193,0.059168722,0.016699407,Negative
+MSFT,2023-09-04,12 Video Games Releasing This Fall,0.0,1.0,0.0,Neutral,0.03165994,0.68341523,0.28492486,Neutral,0.0008977602,0.988588,0.010514299,Neutral
+MSFT,2023-09-18,A Key Question in Google’s Trial: How Formidable Is Its Data Advantage?,0.167,0.833,0.0,Positive,0.06491018,0.75149816,0.18359165,Neutral,0.003526679,0.97509664,0.021376725,Neutral
+MSFT,2023-09-22,Microsoft Closes In on Activision Deal After Britain Signals Approval,0.256,0.744,0.0,Positive,0.17424253,0.19085619,0.6349012,Positive,0.0006859533,0.024155103,0.975159,Positive
+MSFT,2023-09-20,"Franzen, Grisham and Other Prominent Authors Sue OpenAI",0.247,0.753,0.0,Positive,0.021131897,0.76959544,0.20927268,Neutral,0.0021289063,0.9913571,0.0065139714,Neutral
+MSFT,2023-02-03,"Tech’s Biggest Companies Discover Austerity, to the Relief of Investors",0.256,0.744,0.0,Positive,0.78674126,0.109419435,0.103839315,Negative,0.8046226,0.15518606,0.040191382,Negative
+MSFT,2023-02-17,The Online Search Wars Got Scary. Fast.,0.0,0.424,0.576,Negative,0.6339921,0.27664143,0.08936646,Negative,0.9306385,0.059942093,0.009419396,Negative
+MSFT,2023-02-16,‘This Is a Secret’,0.0,1.0,0.0,Neutral,0.02357042,0.82323086,0.1531988,Neutral,0.0133199915,0.982476,0.0042040376,Neutral
+MSFT,2023-02-16,"Your Friday Briefing: U.FO.s Were Likely Not Spying, Biden Says",0.0,1.0,0.0,Neutral,0.41132766,0.32185528,0.26681706,Negative,0.015630998,0.91802573,0.06634324,Neutral
+MSFT,2023-02-10,Bing’s Revenge and Google’s A.I. Face-Plant,0.0,0.595,0.405,Negative,0.12233424,0.72861755,0.14904822,Neutral,0.06743692,0.92130435,0.011258652,Neutral
+MSFT,2023-02-03,Value Stocks? Growth Stocks? Markets Last Year Turned Everything Topsy-Turvy.,0.401,0.599,0.0,Positive,0.056662057,0.19245349,0.7508845,Positive,0.98894006,0.008141912,0.0029179866,Negative
+MSFT,2023-02-16,Why Chatbots Sometimes Act Weird and Spout Nonsense,0.0,0.577,0.423,Negative,0.60855067,0.3097493,0.08170009,Negative,0.99151963,0.007533586,0.0009467703,Negative
+MSFT,2023-02-23,"History May Wonder Why Microsoft Let Its Principles Go for a Creepy, Clingy Bot",0.0,1.0,0.0,Neutral,0.11893849,0.69335914,0.18770239,Neutral,0.9744846,0.022804938,0.002710478,Negative
+MSFT,2023-02-16,Bing’s A.I. Chat: ‘I Want to Be Alive. 😈’,0.358,0.642,0.0,Positive,0.03546656,0.7706968,0.1938366,Neutral,0.01809144,0.9536072,0.02830133,Neutral
+MSFT,2023-02-07,ChatGPT Gets Fresh Competition,0.434,0.566,0.0,Positive,0.023141203,0.26417235,0.7126864,Positive,0.0021883044,0.083100334,0.9147113,Positive
+MSFT,2023-03-14,OpenAI Plans to Up the Ante in Tech’s A.I. Race,0.0,1.0,0.0,Neutral,0.019130278,0.31262055,0.6682492,Positive,0.0015759396,0.052936316,0.9454877,Positive
+MSFT,2023-03-16,Microsoft and Google Unveil A.I. Tools for Businesses,0.0,1.0,0.0,Neutral,0.017690666,0.680689,0.30162042,Neutral,0.0019393172,0.3107706,0.6872901,Positive
+MSFT,2023-03-31,What’s the Future for A.I.?,0.0,1.0,0.0,Neutral,0.0500494,0.7579917,0.19195898,Neutral,0.0024281188,0.99523443,0.0023374518,Neutral
+MSFT,2023-03-27,How to Become an Expert on A.I.,0.0,1.0,0.0,Neutral,0.028880794,0.81879675,0.15232243,Neutral,0.001122502,0.99267054,0.0062069693,Neutral
+MSFT,2023-03-21,What Google Bard Can Do (and What It Can’t),0.0,1.0,0.0,Neutral,0.05157828,0.8067769,0.1416449,Neutral,0.017040728,0.9654704,0.017488912,Neutral
+MSFT,2023-03-31,How Big Tech Camouflaged Wall Street’s Crisis,0.0,0.594,0.406,Negative,0.61140835,0.25206825,0.13652343,Negative,0.98697275,0.010497241,0.0025299254,Negative
+MSFT,2023-03-29,What Makes A.I. Chatbots Go Wrong?,0.0,0.617,0.383,Negative,0.4729616,0.4374748,0.08956354,Negative,0.9121745,0.0824918,0.0053336625,Negative
+MSFT,2023-03-15,"Russia’s Spring Offensive in Ukraine Could Include Cyberattacks, Microsoft Says",0.0,0.75,0.25,Negative,0.78772265,0.12572107,0.086556286,Negative,0.047839798,0.9226412,0.029518928,Neutral
+MSFT,2023-03-08,"The Chatbots Are Here, and the Internet Industry Is in a Tizzy",0.0,1.0,0.0,Neutral,0.21676807,0.40170968,0.38152227,Neutral,0.7236353,0.27081496,0.005549701,Negative
+MSFT,2023-03-30,Publishers Worry A.I. Chatbots Will Cut Readership,0.0,0.5,0.5,Negative,0.89767313,0.060176138,0.042150714,Negative,0.99336064,0.0050854622,0.0015539306,Negative
+MSFT,2023-12-05,Inside the A.I. Arms Race That Changed Silicon Valley Forever,0.0,1.0,0.0,Neutral,0.03746393,0.55311376,0.40942234,Neutral,0.07057879,0.9078671,0.021554125,Neutral
+MSFT,2023-05-04,White House Pushes Tech C.E.O.s to Limit Risks of A.I.,0.0,0.811,0.189,Negative,0.3880097,0.30791628,0.30407405,Negative,0.008189243,0.7332185,0.25859225,Neutral
+MSFT,2023-05-23,An A.I.-Generated Spoof Rattles the Markets,0.0,1.0,0.0,Neutral,0.45748356,0.3838798,0.1586366,Negative,0.9306576,0.06416398,0.005178324,Negative
+MSFT,2023-05-04,PacWest’s Stock Plunge Reignites Banking Sector Fears,0.0,0.682,0.318,Negative,0.9194315,0.041429013,0.039139483,Negative,0.99410063,0.004936535,0.00096287916,Negative
+MSFT,2023-05-25,Microsoft Calls for A.I. Rules to Minimize the Technology’s Risks,0.0,0.811,0.189,Negative,0.6390179,0.21511902,0.1458631,Negative,0.07863825,0.8468072,0.07455463,Neutral
+MSFT,2023-05-15,The $69 Billion Microsoft-Activision Deal Faces a Big E.U. Test,0.0,1.0,0.0,Neutral,0.03594499,0.55529076,0.40876427,Neutral,0.0032002477,0.9814425,0.0153573,Neutral
+MSFT,2023-05-25,Carl Icahn’s Battle with Illumina Comes to a Head,0.0,0.729,0.271,Negative,0.43538815,0.4206338,0.14397803,Negative,0.49431607,0.4820269,0.023657048,Negative
+MSFT,2023-05-25,Reid Hoffman Is on a Mission: To Show A.I. Can Improve Humanity,0.225,0.775,0.0,Positive,0.018419817,0.47655025,0.50502986,Positive,0.0062142415,0.44816503,0.54562074,Positive
+MSFT,2023-05-09,LinkedIn Will Cut Over 700 Jobs Worldwide and Shut Its China App,0.0,0.84,0.16,Negative,0.9291938,0.04147532,0.02933096,Negative,0.9936119,0.005678273,0.00070989854,Negative
+MSFT,2023-05-22,Google’s Photo App Still Can’t Find Gorillas. And Neither Can Apple’s.,0.0,1.0,0.0,Neutral,0.54387313,0.35667625,0.099450685,Negative,0.56833005,0.424271,0.007398942,Negative
+MSFT,2023-05-16,Microsoft Says New A.I. Shows Signs of Human Reasoning,0.0,1.0,0.0,Neutral,0.03727168,0.37248197,0.5902463,Positive,0.0027973852,0.5297859,0.46741676,Neutral
+MSFT,2023-04-27,"As Regulators Block Tech Deals, They Increasingly Look to the Future",0.0,0.775,0.225,Negative,0.034316074,0.43574688,0.5299371,Positive,0.32286915,0.3259461,0.3511847,Positive
+MSFT,2023-04-27,The Microsoft-Activision Mess Is a Blow to American Sovereignty,0.0,0.737,0.263,Negative,0.8328359,0.10982091,0.057343192,Negative,0.9835956,0.013016595,0.0033878074,Negative
+MSFT,2023-04-16,Google Devising Radical Search Changes to Beat Back A.I. Rivals,0.0,1.0,0.0,Neutral,0.38920054,0.22007918,0.39072028,Positive,0.009673027,0.051671054,0.93865585,Positive
+MSFT,2023-04-25,Microsoft Beats Financial Expectations Despite Worries About Economy,0.25,0.75,0.0,Positive,0.70387477,0.041359518,0.2547657,Negative,0.003681774,0.033625122,0.9626931,Positive
+MSFT,2023-04-18,Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems,0.167,0.833,0.0,Positive,0.029741108,0.5648075,0.40545133,Neutral,0.0018979365,0.7679646,0.23013747,Neutral
+MSFT,2023-04-26,"U.K. Blocks Microsoft’s $69 Billion Bid for Activision, a Blow for Tech Deals",0.0,0.853,0.147,Negative,0.72096354,0.16364977,0.115386695,Negative,0.86845446,0.09085051,0.040695004,Negative
+MSFT,2023-04-17,The Defamation Trial of the Century Is Delayed,0.0,0.787,0.213,Negative,0.54008704,0.37489137,0.08502158,Negative,0.3823962,0.6031969,0.014406905,Neutral
+MSFT,2023-04-28,First Republic’s Troubles Reignite Fears of a Banking Crisis,0.0,0.336,0.664,Negative,0.8884198,0.06702273,0.04455746,Negative,0.97228044,0.017179526,0.010540037,Negative
+MSFT,2023-04-26,The U.K. Deals a Huge Blow to Microsoft’s $69 Billion Activision Bid,0.187,0.813,0.0,Positive,0.76027566,0.11914837,0.12057599,Negative,0.93394697,0.045146685,0.020906447,Negative
+MSFT,2023-04-07,"In A.I. Race, Microsoft and Google Choose Speed Over Caution",0.0,1.0,0.0,Neutral,0.34547237,0.4065885,0.24793914,Neutral,0.0024619314,0.95819455,0.039343562,Neutral
+MSFT,2023-05-25,Get the Best From ChatGPT With These Golden Prompts,0.344,0.656,0.0,Positive,0.017860997,0.6957259,0.28641307,Neutral,0.0017890261,0.33838138,0.6598296,Positive
+MSFT,2023-05-26,Is a Debt Deal Nigh? The Market Sees Signs of Optimism.,0.25,0.571,0.179,Positive,0.22601652,0.24549223,0.5284912,Positive,0.0012150833,0.03998494,0.95879996,Positive
+MSFT,2023-05-15,E.U. Approves Microsoft’s $69 Billion Deal for Activision,0.278,0.722,0.0,Positive,0.028334768,0.23141763,0.7402476,Positive,0.0010062248,0.09463598,0.90435785,Positive
+MSFT,2023-05-24,Chinese Malware Hits Systems on Guam. Is Taiwan the Real Target?,0.0,1.0,0.0,Neutral,0.75990176,0.15411925,0.08597899,Negative,0.5594756,0.4352932,0.005231181,Negative
+MSFT,2023-05-18,Twitter Accuses Microsoft of Improperly Using Its Data,0.0,0.745,0.255,Negative,0.8516823,0.08921471,0.05910309,Negative,0.99098116,0.0071709286,0.0018478112,Negative
+MSFT,2023-05-18,Corporate America Faces a Bankruptcy Boom,0.0,1.0,0.0,Neutral,0.87448543,0.07743157,0.048083033,Negative,0.99568653,0.003510652,0.0008029045,Negative
+MSFT,2023-05-10,Google Builds on Tech’s Latest Craze With Its Own A.I. Products,0.0,0.862,0.138,Negative,0.0135253295,0.4991645,0.48731023,Neutral,0.0017578473,0.21967505,0.7785671,Positive
+MSFT,2023-05-01,When A.I. Chatbots Hallucinate,0.0,1.0,0.0,Neutral,0.028517455,0.85155666,0.11992592,Neutral,0.7608261,0.2356017,0.0035721418,Negative
+MSFT,2023-05-19,A.I. Is Having a ‘Netscape Moment’,0.0,1.0,0.0,Neutral,0.023016552,0.44921517,0.52776825,Positive,0.7106535,0.2765021,0.0128444005,Negative
+MSFT,2023-04-26,"China’s Search Engines Have More Than 66,000 Rules Controlling Content, Report Says",0.0,1.0,0.0,Neutral,0.12547779,0.63455033,0.23997192,Neutral,0.15212217,0.83238065,0.0154972635,Neutral
+MSFT,2023-04-26,When Megamergers Fall Apart,0.0,1.0,0.0,Neutral,0.82880753,0.112735055,0.05845738,Negative,0.8511983,0.13765661,0.011144999,Negative
+MSFT,2023-04-27,What Microsoft’s Activision Setback Means for Deal Making,0.0,1.0,0.0,Neutral,0.041904412,0.50651205,0.4515835,Neutral,0.9689069,0.025932766,0.005160372,Negative
+MSFT,2023-12-08,E.U. Agrees on Landmark Artificial Intelligence Rules,0.608,0.392,0.0,Positive,0.033049233,0.7169822,0.24996856,Neutral,0.0017167231,0.13862896,0.8596543,Positive
+MSFT,2023-12-29,Inside the News Industry’s Uneasy Negotiations With OpenAI,0.0,0.729,0.271,Negative,0.5677714,0.30877796,0.12345066,Negative,0.9398037,0.05854897,0.0016473529,Negative
+MSFT,2023-12-12,Microsoft Agrees to Remain Neutral in Union Campaigns,0.205,0.795,0.0,Positive,0.1974501,0.4298253,0.37272468,Neutral,0.009599735,0.9059999,0.084400386,Neutral
+MSFT,2023-12-22,The Eye-Popping Numbers Driving the Markets,0.0,1.0,0.0,Neutral,0.08376321,0.33287525,0.58336157,Positive,0.0854839,0.78636473,0.12815136,Neutral
+MSFT,2023-12-30,Boom in A.I. Prompts a Test of Copyright Law,0.0,1.0,0.0,Neutral,0.30028895,0.4657876,0.23392348,Neutral,0.006895903,0.67017764,0.32292646,Neutral
+MSFT,2023-12-27,The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work,0.0,1.0,0.0,Neutral,0.77790445,0.14889605,0.073199496,Negative,0.6687635,0.32500508,0.0062313527,Negative
+MSFT,2023-12-06,How Nations Are Losing a Global Race to Tackle A.I.’s Harms,0.0,0.58,0.42,Negative,0.88308835,0.0716753,0.04523633,Negative,0.97442144,0.018933607,0.006644907,Negative
+MSFT,2023-12-09,Inside OpenAI’s Crisis Over the Future of Artificial Intelligence,0.218,0.493,0.289,Negative,0.42598987,0.44523236,0.12877777,Neutral,0.4005164,0.59477246,0.0047111367,Neutral
+MSFT,2023-12-03,Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement,0.237,0.763,0.0,Positive,0.04012927,0.8033991,0.15647157,Neutral,0.001124797,0.99560875,0.0032664384,Neutral
+MSFT,2023-12-03,"Ego, Fear and Money: How the A.I. Fuse Was Lit",0.0,0.738,0.262,Negative,0.35704434,0.49603105,0.14692469,Neutral,0.013239461,0.96546745,0.021293055,Neutral
+MSFT,2024-01-20,Microsoft Executives’ Emails Hacked by Group Tied to Russian Intelligence,0.225,0.58,0.196,Positive,0.7275171,0.19492663,0.077556185,Negative,0.9761282,0.022715548,0.0011561674,Negative
+MSFT,2024-01-09,OpenAI Says New York Times Lawsuit Against It Is ‘Without Merit’,0.0,0.84,0.16,Negative,0.6117759,0.29846627,0.08975783,Negative,0.17906007,0.74594724,0.07499265,Neutral
+MSFT,2024-01-29,Nvidia’s Big Tech Rivals Put Their Own A.I. Chips on the Table,0.0,1.0,0.0,Neutral,0.023684401,0.6054132,0.3709024,Neutral,0.07860046,0.91333866,0.008060923,Neutral
+MSFT,2024-01-25,"Microsoft Cuts 1,900 Jobs in Its Video Game Division",0.0,0.784,0.216,Negative,0.94500446,0.02492922,0.030066302,Negative,0.9958034,0.0032894495,0.00090715627,Negative
+MSFT,2024-01-10,Microsoft Debates What to Do With A.I. Lab in China,0.0,1.0,0.0,Neutral,0.12074696,0.6940351,0.18521793,Neutral,0.021659862,0.96767867,0.010661498,Neutral
+MSFT,2024-01-30,Technology Companies Are Cutting Jobs and Wall Street Likes It,0.228,0.65,0.122,Positive,0.921959,0.03762319,0.04041785,Negative,0.62878793,0.122156255,0.24905592,Negative
+MSFT,2024-01-08,"Robots Learn, Chatbots Visualize: How 2024 Will Be A.I.’s ‘Leap Forward’",0.0,1.0,0.0,Neutral,0.024705753,0.6414472,0.33384705,Neutral,0.0023480617,0.5700958,0.42755613,Neutral
+MSFT,2024-01-26,The F.T.C. Takes on A.I. Deals,0.0,1.0,0.0,Neutral,0.033381853,0.740361,0.22625719,Neutral,0.00131955,0.9896758,0.009004649,Neutral
+MSFT,2024-01-25,Federal Trade Commission Launches Inquiry Into A.I. Deals by Tech Giants,0.0,1.0,0.0,Neutral,0.32309097,0.53533065,0.14157839,Neutral,0.4906292,0.46289364,0.04647724,Negative
+MSFT,2024-01-12,Microsoft Tops Apple to Become Most Valuable Public Company,0.489,0.511,0.0,Positive,0.018489147,0.2507929,0.73071796,Positive,0.005886008,0.34161416,0.65249985,Positive
+MSFT,2024-01-05,"The Times Sues OpenAI, a Debate Over iMessage and Our New Year’s Tech Resolutions",0.0,1.0,0.0,Neutral,0.813028,0.12647529,0.060496714,Negative,0.04592047,0.9433271,0.010752431,Neutral
+MSFT,2024-01-30,Focused Cuts and Fewer Layers: Tech Layoffs Enter a New Phase,0.203,0.625,0.172,Positive,0.9165087,0.046569377,0.036921915,Negative,0.36080205,0.6283079,0.010890074,Neutral
+MSFT,2024-01-12,Why Are So Many Companies ‘Rightsizing’?,0.0,1.0,0.0,Neutral,0.552395,0.34662607,0.100979,Negative,0.964805,0.03391901,0.0012759897,Negative
+MSFT,2024-01-22,These Seven Tech Stocks Are Driving the Market,0.0,1.0,0.0,Neutral,0.04583402,0.45402598,0.5001401,Positive,0.0020608697,0.9669393,0.030999826,Neutral
+MSFT,2024-01-27,The S&P 500 Through the Prism of a ‘Magnificent 7’,0.0,1.0,0.0,Neutral,0.027259553,0.6791022,0.29363817,Neutral,0.0026600524,0.35656035,0.64077955,Positive
+MSFT,2024-01-25,We Asked A.I. to Create the Joker. It Generated a Copyrighted Image.,0.286,0.714,0.0,Positive,0.029932162,0.80505294,0.16501492,Neutral,0.0036026763,0.9655805,0.030816853,Neutral
+MSFT,2024-11-22,China’s Hacking Reached Deep Into U.S. Telecoms,0.189,0.811,0.0,Positive,0.82882524,0.10033397,0.070840836,Negative,0.6491867,0.3119149,0.038898394,Negative
+MSFT,2024-11-01,U.S. Spy Agencies Issue New Warning on Russia’s Election Misinformation Campaign,0.0,0.657,0.343,Negative,0.64188594,0.24702528,0.111088775,Negative,0.92538995,0.060875714,0.013734343,Negative
+MSFT,2024-11-10,"After the Triumph of Tetris, an Unsolved Puzzle",0.307,0.693,0.0,Positive,0.02958216,0.7288066,0.24161124,Neutral,0.0041076536,0.9933576,0.002534764,Neutral
+MSFT,2024-11-15,Elon Musk Adds Microsoft to Suit Against OpenAI,0.0,1.0,0.0,Neutral,0.39287338,0.373143,0.23398364,Negative,0.1251027,0.86312103,0.011776197,Neutral
+MSFT,2024-11-25,Widespread Microsoft Outage Takes Email and Videoconferencing Offline,0.0,0.824,0.176,Negative,0.89421856,0.07051977,0.035261597,Negative,0.9938611,0.0055346824,0.00060425734,Negative
+MSFT,2024-11-27,F.T.C. Launches Antitrust Investigation Into Microsoft,0.0,1.0,0.0,Neutral,0.43098697,0.4139426,0.15507038,Negative,0.9108612,0.083533324,0.005605488,Negative
+MSFT,2024-11-23,Emerging Details of Chinese Hack Leave U.S. Officials Increasingly Concerned,0.0,0.882,0.118,Negative,0.88389045,0.07228523,0.043824363,Negative,0.94894445,0.024119688,0.02693589,Negative
+MSFT,2024-10-30,"Three Mile Island, Notorious in Nuclear Power’s Past, May Herald Its Future",0.0,0.791,0.209,Negative,0.22020721,0.50309134,0.27670148,Neutral,0.9171624,0.07680257,0.006035037,Negative
+MSFT,2024-10-18,Microsoft and OpenAI’s Close Partnership Shows Signs of Fraying,0.0,1.0,0.0,Neutral,0.8288588,0.10636167,0.06477952,Negative,0.99637234,0.0025955462,0.0010322055,Negative
+MSFT,2024-10-09,"Can You Turn Off Big Tech’s A.I. Tools? Sometimes, and Here’s How.",0.0,1.0,0.0,Neutral,0.043532405,0.79340535,0.16306226,Neutral,0.0028651156,0.98642194,0.010712932,Neutral
+MSFT,2024-10-30,Microsoft’s Quarterly Revenue Is Up 16% to $65.6 Billion,0.0,1.0,0.0,Neutral,0.033518467,0.03560763,0.9308739,Positive,0.0003582868,0.0028137316,0.996828,Positive
+MSFT,2024-10-16,"Hungry for Energy, Amazon, Google and Microsoft Turn to Nuclear Power",0.297,0.703,0.0,Positive,0.02071493,0.3374519,0.6418332,Positive,0.0045243665,0.7685323,0.22694334,Neutral
+MSFT,2024-10-22,A Dinky Little Computer Program Is My Secret Weapon for Creativity,0.203,0.625,0.172,Positive,0.0192988,0.7448414,0.23585983,Neutral,0.0014634102,0.9556495,0.04288702,Neutral
+MSFT,2024-10-18,What’s at Stake in a Strained Microsoft-OpenAI Partnership,0.0,0.69,0.31,Negative,0.021190664,0.80461955,0.17418985,Neutral,0.25368065,0.7377444,0.008575026,Neutral
+MSFT,2024-10-26,What to Know About the Chinese Hackers Who Targeted the 2024 Campaigns,0.0,1.0,0.0,Neutral,0.43593612,0.41830692,0.14575696,Negative,0.151898,0.839364,0.008738035,Neutral
+MSFT,2024-10-23,"Bots Linked to China Target Republican House and Senate Candidates, Microsoft Says",0.0,1.0,0.0,Neutral,0.34491134,0.46825325,0.18683538,Neutral,0.84774405,0.14309734,0.009158556,Negative
+MSFT,2024-10-02,OpenAI Completes Deal That Values Company at $157 Billion,0.252,0.748,0.0,Positive,0.014994137,0.31933725,0.6656686,Positive,0.0006642336,0.020918828,0.9784169,Positive
+MSFT,2024-07-31,Why Microsoft’s Earnings Miss Won’t Stall the A.I. Boom,0.0,0.673,0.327,Negative,0.88094455,0.047150012,0.07190538,Negative,0.8201638,0.17478204,0.005054159,Negative
+MSFT,2024-07-23,Congress Calls for Tech Outage Hearing to Grill CrowdStrike C.E.O.,0.0,1.0,0.0,Neutral,0.7619668,0.17361183,0.06442128,Negative,0.9020226,0.09461309,0.0033643271,Negative
+MSFT,2024-07-10,Amazon Says It Reached a Climate Goal Seven Years Early,0.307,0.693,0.0,Positive,0.025715845,0.26295143,0.7113328,Positive,0.0018042945,0.0859867,0.912209,Positive
+MSFT,2024-07-19,What to Do if Your Computer Is Affected by the Microsoft Outage,0.0,0.873,0.127,Negative,0.8824229,0.08159527,0.035981767,Negative,0.6272118,0.36978635,0.0030018592,Negative
+MSFT,2024-07-19,Frontier Airlines Briefly Grounds All Flights Amid Microsoft Outage,0.0,1.0,0.0,Neutral,0.8978939,0.06483111,0.037274938,Negative,0.9577758,0.04095569,0.001268558,Negative
+MSFT,2024-07-19,What Is CrowdStrike?,0.0,1.0,0.0,Neutral,0.07159782,0.8229465,0.10545563,Neutral,0.0064382222,0.98992014,0.0036416498,Neutral
+MSFT,2024-06-09,"For Trump, Doug Burgum Emerges as a Safe Option, and a Wild Card",0.225,0.775,0.0,Positive,0.022576645,0.26783738,0.709586,Positive,0.009073488,0.7338551,0.25707132,Neutral
+MSFT,2024-06-23,What the Arrival of A.I. Phones and Computers Means for Our Data,0.0,1.0,0.0,Neutral,0.5717164,0.2486663,0.17961724,Negative,0.22979039,0.71423197,0.0559777,Neutral
+MSFT,2024-06-13,Lawmakers Question Microsoft’s President About Its Presence in China,0.0,1.0,0.0,Neutral,0.6960162,0.2222497,0.081734054,Negative,0.16404344,0.83370334,0.0022532165,Neutral
+MSFT,2024-06-13,How Big Tech Is Killing Innovation,0.236,0.364,0.4,Negative,0.69676805,0.19894163,0.104290344,Negative,0.99442863,0.0047684596,0.00080292515,Negative
+MSFT,2024-06-25,E.U. Charges Microsoft With Antitrust Violations Over Teams Bundling,0.0,0.56,0.44,Negative,0.75171983,0.15719205,0.091088094,Negative,0.99593997,0.0033271052,0.000732854,Negative
+MSFT,2024-06-06,‘This Is Going to Be Painful’: How a Bold A.I. Device Flopped,0.206,0.794,0.0,Positive,0.71633416,0.17575794,0.10790787,Negative,0.976779,0.020842332,0.0023786034,Negative
+MSFT,2024-06-14,"Apple Joins the A.I. Party, Elon’s Wild Week and HatGPT",0.231,0.769,0.0,Positive,0.03681009,0.46594742,0.49724248,Positive,0.0019234128,0.7540448,0.24403174,Neutral
+MSFT,2024-06-06,"U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI",0.115,0.885,0.0,Positive,0.067325585,0.79501307,0.13766143,Neutral,0.0055876356,0.24697214,0.7474402,Positive
+MSFT,2024-06-18,"Nvidia Becomes Most Valuable Public Company, Topping Microsoft",0.326,0.674,0.0,Positive,0.017637454,0.30660078,0.67576176,Positive,0.0014775724,0.062070914,0.9364515,Positive
+MSFT,2024-06-03,Fake News Reports and Videos Seek to Undermine the Paris Olympics,0.0,0.629,0.371,Negative,0.3647205,0.5232134,0.11206608,Neutral,0.56616884,0.3752675,0.058563642,Negative
+MSFT,2024-07-11,A.I.’s Insatiable Appetite for Energy,0.344,0.656,0.0,Positive,0.020920351,0.58919424,0.3898854,Neutral,0.023244198,0.8238472,0.15290862,Neutral
+MSFT,2024-07-30,"Microsoft Profit Jumps 10%, but Cloud Computing Grows Less Than Expected",0.163,0.837,0.0,Positive,0.8454822,0.012337214,0.14218059,Negative,0.012761545,0.010246224,0.97699225,Positive
+MSFT,2024-07-19,Chaos and Confusion: Tech Outage Causes Disruptions Worldwide,0.0,0.376,0.624,Negative,0.8773566,0.07480213,0.0478413,Negative,0.9948605,0.004295891,0.00084356125,Negative
+MSFT,2024-07-14,How Microsoft’s Satya Nadella Became Tech’s Steely Eyed A.I. Gambler,0.0,1.0,0.0,Neutral,0.039454676,0.60310096,0.35744438,Neutral,0.13890907,0.838244,0.022846846,Neutral
+MSFT,2024-07-09,Employees With Autism Find New Ways to Navigate the Workplace,0.0,1.0,0.0,Neutral,0.03857306,0.65068674,0.3107402,Neutral,0.003576905,0.88289046,0.1135327,Neutral
+MSFT,2024-07-20,"When Tech Fails, It Is Usually With a Whimper Instead of a Bang",0.0,0.781,0.219,Negative,0.8425911,0.10454639,0.05286255,Negative,0.18354975,0.7193555,0.0970947,Neutral
+MSFT,2024-07-19,The Data That Powers A.I. Is Disappearing Fast,0.0,1.0,0.0,Neutral,0.79250675,0.14026959,0.067223676,Negative,0.27950382,0.712028,0.008468179,Neutral
+MSFT,2024-07-22,Delta Cancels More Flights as It Struggles to Recover From Tech Outage,0.0,0.694,0.306,Negative,0.94290286,0.029741066,0.027356079,Negative,0.9963068,0.00271403,0.0009792527,Negative
+MSFT,2024-07-25,Microsoft’s World of Warcraft Workers Vote to Unionize,0.0,1.0,0.0,Neutral,0.57995373,0.23455219,0.18549411,Negative,0.0061700656,0.12934631,0.8644836,Positive
+MSFT,2024-07-10,Microsoft Surrenders OpenAI Board Position,0.0,1.0,0.0,Neutral,0.02666863,0.315729,0.65760237,Positive,0.24822307,0.7393825,0.012394436,Neutral
+MSFT,2024-02-29,Unpacking the Investigations Into OpenAI,0.0,1.0,0.0,Neutral,0.024210446,0.73733073,0.23845886,Neutral,0.005513563,0.9922346,0.002251844,Neutral
+MSFT,2024-03-29,A.I.’s Messy Moment + Listeners Respond to Jonathan Haidt + Shrimp Jesus,0.0,0.783,0.217,Negative,0.30736548,0.502109,0.19052555,Neutral,0.24372281,0.73373026,0.022546904,Neutral
+MSFT,2024-08-04,"With Smugglers and Front Companies, China Is Skirting American A.I. Bans",0.0,0.806,0.194,Negative,0.6320266,0.26621237,0.10176101,Negative,0.031725436,0.9612732,0.0070013353,Neutral
+MSFT,2024-08-06,How the Google Antitrust Ruling May Influence Tech Competition,0.0,1.0,0.0,Neutral,0.76300216,0.15937811,0.07761975,Negative,0.32602474,0.6600374,0.013937833,Neutral
+MSFT,2024-08-06,Microsoft Says Delta Was Largely Responsible for Flight Cancellations,0.223,0.777,0.0,Positive,0.84052855,0.07981657,0.07965485,Negative,0.99584407,0.0033590654,0.00079694187,Negative
+MSFT,2024-08-04,Takeaways From Our Investigation Into Banned A.I. Chips in China,0.0,0.75,0.25,Negative,0.581616,0.34296268,0.075421266,Negative,0.052164584,0.9120597,0.03577572,Neutral
+MSFT,2024-08-14,How One Tech Monopoly Paved the Way for Another,0.0,1.0,0.0,Neutral,0.04237104,0.33861452,0.61901444,Positive,0.011700596,0.88436455,0.10393484,Neutral
+MSFT,2024-08-30,How Do You Change a Chatbot’s Mind?,0.0,1.0,0.0,Neutral,0.040001325,0.7825343,0.17746443,Neutral,0.059411887,0.93325645,0.00733165,Neutral
+MSFT,2024-08-08,The New A.I. Deal: Buy Everything but the Company,0.0,1.0,0.0,Neutral,0.027262472,0.7368555,0.23588195,Neutral,0.008943506,0.96860236,0.022454174,Neutral
+MSFT,2024-08-02,Tech Bosses Preach Patience as They Spend and Spend on A.I.,0.0,1.0,0.0,Neutral,0.04037139,0.73416823,0.22546026,Neutral,0.0042826016,0.97703063,0.018686756,Neutral
+MSFT,2024-08-29,Apple and Nvidia in Talks to Invest in OpenAI,0.0,1.0,0.0,Neutral,0.023901343,0.42155522,0.5545434,Positive,0.0017613039,0.17831881,0.8199199,Positive
+MSFT,2024-08-12,"F.B.I. Investigating Efforts to Infiltrate Presidential Campaigns, Possibly by Iran",0.0,1.0,0.0,Neutral,0.36105812,0.48297432,0.15596755,Neutral,0.58535045,0.38463098,0.030018603,Negative
+MSFT,2024-09-15,"Noisy, Hungry Data Centers Are Catching Communities by Surprise",0.194,0.648,0.157,Positive,0.8172889,0.108378395,0.07433276,Negative,0.9947172,0.004450015,0.00083281077,Negative
+MSFT,2024-09-25,Behind OpenAI’s Audacious Plan to Make A.I. Flow Like Electricity,0.355,0.645,0.0,Positive,0.0145991435,0.5267971,0.45860368,Neutral,0.011280645,0.92970324,0.05901612,Neutral
+MSFT,2024-09-27,OpenAI Is Growing Fast and Burning Through Piles of Money,0.159,0.841,0.0,Positive,0.01829728,0.31724018,0.6644626,Positive,0.05061107,0.6546056,0.29478332,Neutral
+MSFT,2024-09-05,U.S. Indicts Members of Russian Military Intelligence Over Cyberattack on Ukraine,0.237,0.763,0.0,Positive,0.77504003,0.13564871,0.08931122,Negative,0.93765914,0.053191304,0.009149582,Negative
+MSFT,2024-09-23,Is Math the Path to Chatbots That Don’t Make Stuff Up?,0.0,1.0,0.0,Neutral,0.16186324,0.69938487,0.13875188,Neutral,0.17561477,0.8173934,0.0069918064,Neutral
+MSFT,2024-09-25,"Google, Visa, JetBlue: A Guide to a New Era of U.S. Antitrust Cases",0.0,1.0,0.0,Neutral,0.021578783,0.7195305,0.25889063,Neutral,0.015375356,0.97788256,0.0067420793,Neutral
+MSFT,2024-02-27,OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit,0.0,0.84,0.16,Negative,0.63495,0.26384208,0.10120789,Negative,0.021920208,0.93852574,0.039554052,Neutral
+MSFT,2024-02-25,"Why Microsoft Has Accepted Unions, Unlike Its Rivals",0.231,0.769,0.0,Positive,0.09886746,0.14358984,0.75754267,Positive,0.005809435,0.8954617,0.09872892,Neutral
+MSFT,2024-02-14,"Hackers for China, Russia and Others Used OpenAI Systems, Report Says",0.0,1.0,0.0,Neutral,0.38031855,0.42368227,0.19599923,Neutral,0.15241057,0.844708,0.0028813854,Neutral
+MSFT,2024-02-22,An A.I. ‘Tipping Point’ Ignites a New Market Rally,0.0,1.0,0.0,Neutral,0.04442075,0.19877084,0.7568084,Positive,0.00073987036,0.02700725,0.9722529,Positive
+MSFT,2024-02-28,Microsoft Word’s Subtle Typeface Change Affected Millions. Did You Notice?,0.0,0.849,0.151,Negative,0.9024211,0.054200906,0.04337793,Negative,0.03457413,0.96010154,0.0053244033,Neutral
+MSFT,2024-02-28,Digital Media Outlets Sue OpenAI for Copyright Infringement,0.0,0.693,0.307,Negative,0.763994,0.1661505,0.069855586,Negative,0.9900101,0.008984547,0.0010053688,Negative
+MSFT,2024-02-14,The Year Chatbots Were Tamed,0.0,1.0,0.0,Neutral,0.054198597,0.65298724,0.29281414,Neutral,0.007587704,0.959797,0.032615237,Neutral
+MSFT,2024-02-05,Why Is Big Tech Still Cutting Jobs?,0.0,0.8,0.2,Negative,0.92026013,0.043934986,0.035804953,Negative,0.97768813,0.020895561,0.0014163123,Negative
+MSFT,2024-02-01,Apple Sees First Quarterly Revenue Increase in a Year,0.247,0.753,0.0,Positive,0.03232781,0.052555725,0.9151164,Positive,0.00037006623,0.004140865,0.99548906,Positive
+MSFT,2024-02-16,"The State of A.I., and Will Perplexity Beat Google or Destroy the Web?",0.0,0.774,0.226,Negative,0.4774282,0.3564703,0.1661016,Negative,0.11463874,0.8807026,0.0046586166,Neutral
+MSFT,2024-03-01,Elon Musk Sues OpenAI and Sam Altman for Violating the Company’s Principles,0.0,0.759,0.241,Negative,0.7897898,0.14268805,0.0675221,Negative,0.92028856,0.06595107,0.013760283,Negative
+MSFT,2024-03-05,Microsoft Seeks to Dismiss Parts of Suit Filed by The New York Times,0.0,1.0,0.0,Neutral,0.74152005,0.19233975,0.06614014,Negative,0.5657846,0.42407462,0.010140921,Negative
+MSFT,2024-03-15,"If Nvidia Keeps Rising Like This, It Will Be Bigger Than the Global Economy",0.161,0.839,0.0,Positive,0.022034971,0.12809101,0.84987396,Positive,0.0007198473,0.02805787,0.9712223,Positive
+MSFT,2024-03-09,About 600 Workers Unionize at Microsoft-Owned Activision,0.0,1.0,0.0,Neutral,0.76648223,0.17049053,0.06302716,Negative,0.2764956,0.70577693,0.017727468,Neutral
+MSFT,2024-03-02,Why Elon Musk’s OpenAI Lawsuit Leans on A.I. Research From Microsoft,0.0,0.84,0.16,Negative,0.6300257,0.28198576,0.0879886,Negative,0.005841491,0.9928906,0.0012678347,Neutral
+MSFT,2024-03-04,Forced to Change: Tech Giants Bow to Global Onslaught of Rules,0.0,0.769,0.231,Negative,0.7451576,0.1335786,0.12126381,Negative,0.030072812,0.51105267,0.45887455,Neutral
+MSFT,2024-03-02,The Paradox at the Heart of Elon Musk’s OpenAI Lawsuit,0.0,0.708,0.292,Negative,0.4873315,0.40716434,0.1055041,Negative,0.68224335,0.31354433,0.004212284,Negative
+MSFT,2024-03-20,Is Microsoft Building an Unassailable Lead in A.I.?,0.0,1.0,0.0,Neutral,0.013571668,0.6902478,0.2961806,Neutral,0.0028571284,0.49220964,0.50493324,Positive
+MSFT,2024-03-19,Microsoft Hires DeepMind Co-Founder to Run Consumer A.I.,0.0,1.0,0.0,Neutral,0.019572735,0.45903018,0.52139705,Positive,0.004563238,0.51186424,0.48357248,Neutral
+MSFT,2024-03-19,Apple and Google Are Discussing a Deal to Bring Generative A.I. to iPhones,0.0,1.0,0.0,Neutral,0.02693252,0.3265727,0.64649487,Positive,0.0012595225,0.13529253,0.863448,Positive
+MSFT,2024-05-21,Scarlett Johansson and OpenAI’s Trust Issues,0.398,0.602,0.0,Positive,0.38550505,0.53792125,0.07657372,Neutral,0.98955244,0.009982437,0.00046517546,Negative
+MSFT,2024-05-20,Can Artificial Intelligence Make the PC Cool Again?,0.474,0.526,0.0,Positive,0.017057203,0.5072111,0.4757317,Neutral,0.0043512434,0.8292584,0.16639042,Neutral
+MSFT,2024-05-09,The C.E.O.s Who Just Won’t Quit,0.0,1.0,0.0,Neutral,0.6360264,0.24144275,0.122530796,Negative,0.0077680573,0.5642817,0.4279503,Neutral
+MSFT,2024-05-15,A Big Plot Twist at OpenAI,0.0,1.0,0.0,Neutral,0.048667636,0.63755214,0.31378025,Neutral,0.09501244,0.6181304,0.2868572,Neutral
+MSFT,2024-05-21,"C. Gordon Bell, Creator of a Personal Computer Prototype, Dies at 89",0.0,1.0,0.0,Neutral,0.5547559,0.33617505,0.10906904,Negative,0.19275162,0.7904804,0.016767973,Neutral
+MSFT,2024-05-27,Musk’s A.I. Firm Raises $6 Billion in Race With Rivals,0.0,1.0,0.0,Neutral,0.016052753,0.20700477,0.7769425,Positive,0.0025132766,0.18818323,0.8093035,Positive
+MSFT,2024-05-24,"ScarJo vs. ChatGPT, Neuralink’s First Patient Opens Up, and Microsoft’s A.I. PCs",0.0,1.0,0.0,Neutral,0.0395567,0.6046042,0.35583913,Neutral,0.003102677,0.35306242,0.6438348,Positive
+MSFT,2024-05-08,"Biden, Announcing A.I. Center, Highlights a Win of His and a Failing of Trump’s",0.222,0.585,0.193,Positive,0.04914801,0.27633503,0.67451704,Positive,0.008400894,0.016547034,0.97505206,Positive
+MSFT,2024-05-24,"Uvalde Families Accuse Instagram, ‘Call of Duty’ and Rifle Maker of ‘Grooming’ Gunman",0.0,0.87,0.13,Negative,0.04258537,0.5892225,0.36819214,Neutral,0.9334402,0.064125285,0.0024344993,Negative
+MSFT,2024-05-06,"Wayve, an A.I. Start-Up for Autonomous Driving, Raises $1 Billion",0.0,1.0,0.0,Neutral,0.013706294,0.27625376,0.71004,Positive,0.0017071763,0.7399487,0.25834414,Neutral
+MSFT,2024-04-16,Microsoft Makes High-Stakes Play in Tech Cold War With Emirati A.I. Deal,0.147,0.613,0.239,Negative,0.01814036,0.2759514,0.70590824,Positive,0.02437111,0.77878153,0.1968474,Neutral
+MSFT,2024-04-08,Deepfake Porn Sites Used Her Image. She’s Fighting Back.,0.0,0.762,0.238,Negative,0.48476768,0.37424913,0.14098318,Negative,0.09727451,0.83640826,0.06631727,Neutral
+MSFT,2024-04-03,Did One Guy Just Stop a Huge Cyberattack?,0.242,0.526,0.232,Neutral,0.49192348,0.26746067,0.2406158,Negative,0.014802572,0.5836163,0.40158108,Neutral
+MSFT,2024-04-25,Microsoft Reports Rising Revenues as A.I. Investments Bear Fruit,0.0,1.0,0.0,Neutral,0.07242884,0.060736116,0.86683506,Positive,0.00034480606,0.006696018,0.99295914,Positive
+MSFT,2024-04-16,How Washington Played A.I. Matchmaker,0.375,0.625,0.0,Positive,0.03425017,0.80325,0.16249983,Neutral,0.0035404537,0.99456453,0.001894922,Neutral
+MSFT,2024-04-05,Is A.I. Already Taking Jobs? +A Filmmaker Tries Sora + The XZ Backdoor Caper,0.0,1.0,0.0,Neutral,0.041828986,0.67307705,0.2850939,Neutral,0.0019618985,0.9842306,0.0138075985,Neutral
+MSFT,2024-04-30,8 Daily Newspapers Sue OpenAI and Microsoft Over A.I.,0.0,1.0,0.0,Neutral,0.64136255,0.2517005,0.1069369,Negative,0.16867624,0.8247293,0.0065945312,Neutral
+MSFT,2024-04-27,"In Race to Build A.I., Tech Plans a Big Plumbing Upgrade",0.0,1.0,0.0,Neutral,0.025850639,0.31351548,0.6606339,Positive,0.016839566,0.8236905,0.15946993,Neutral
+MSFT,2024-04-23,Microsoft Makes a New Push Into Smaller A.I. Systems,0.0,1.0,0.0,Neutral,0.01518235,0.27047154,0.71434605,Positive,0.0010108257,0.091215335,0.9077738,Positive
+MSFT,2024-04-29,Friends From the Old Neighborhood Turn Rivals in Big Tech’s A.I. Race,0.22,0.78,0.0,Positive,0.044001285,0.6225412,0.33345756,Neutral,0.89787966,0.09289955,0.00922081,Negative
+MSFT,2024-04-25,Wall Street’s Patience for a Costly A.I. Arms Race Is Waning,0.0,0.865,0.135,Negative,0.8187144,0.10770576,0.07357994,Negative,0.9677663,0.021881558,0.010352084,Negative
+MSFT,2024-04-02,Regulators Force Another Microsoft Split,0.0,1.0,0.0,Neutral,0.8407021,0.09279676,0.06650111,Negative,0.96325386,0.034810454,0.0019357159,Negative
+MSFT,2024-04-10,"Blizzard and NetEase Settle Their Beef, Returning Warcraft to China",0.0,1.0,0.0,Neutral,0.03689244,0.22298951,0.7401181,Positive,0.6815548,0.25826967,0.060175497,Negative
+MSFT,2024-12-17,How OpenAI Hopes to Sever Its Nonprofit Roots,0.286,0.714,0.0,Positive,0.019591574,0.4029182,0.57749027,Positive,0.17605014,0.7909164,0.033033404,Neutral
+MSFT,2024-12-14,"Sam Altman on Microsoft, Trump and Musk",0.0,1.0,0.0,Neutral,0.092686236,0.7072452,0.20006862,Neutral,0.002871234,0.99440587,0.0027229572,Neutral
+MSFT,2024-12-26,Video Games Can’t Afford to Look This Good,0.293,0.707,0.0,Positive,0.6004187,0.31683198,0.08274932,Negative,0.057488054,0.13494863,0.80756336,Positive
+MSFT,2024-12-25,"A.I., the Electricians and the Boom Towns of Central Washington",0.0,1.0,0.0,Neutral,0.032258574,0.80148184,0.16625962,Neutral,0.002761511,0.95348257,0.04375601,Neutral

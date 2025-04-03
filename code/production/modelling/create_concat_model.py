@@ -234,7 +234,7 @@ if __name__ == '__main__':
     text_type = getenv('text_type')
     detailed_model_name = model_name + '_' + text_type
 
-    target_stock = ['AAPL', 'AMZN', 'MSFT', 'CRM', 'IBM', 'NVDA']
+    target_stock = ['AAPL', 'AMZN', 'CRM', 'IBM', 'MSFT', 'NVDA']
 
     for t in target_stock:
 

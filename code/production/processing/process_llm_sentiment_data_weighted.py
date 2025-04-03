@@ -14,7 +14,7 @@ def map_sentiment(row):
     return sentiment_map[row['gemini_sentiment']]
 
 # Function to calculate weighted rolling average
-def weighted_rolling_avg(price_df, sent_df, window_size=6, sentiment_effect=0.01):
+def weighted_rolling_avg(price_df, sent_df, window_size=7, sentiment_effect=0.01):
     """
     Calculate rolling average for sentiment data over x number of days before (window size), weighted by recency
 
@@ -61,7 +61,7 @@ if __name__ == '__main__':
     llm_sentiment_output_weighted_filepath = getenv('llm_sentiment_output_weighted_filepath') + text_type + '_' + target_stock + '.csv'
 
     # Initialise key variables
-    window_size = 6
+    window_size = 7
     sentiment_effect = 0.01
     
     lstm_df = read_csv(stock_data_filepath, index_col='Date')

@@ -69,15 +69,15 @@ def create_early_fusion_model(X_train_reshaped, text_train):
 
     # Adam optimizer with learning rate scheduler
     lr_schedule = ExponentialDecay(
-        initial_learning_rate=0.0001,
-        decay_steps=20000,
+        initial_learning_rate=0.001,
+        decay_steps=10000,
         decay_rate=0.1
     )
     optimizer = Adam(learning_rate=lr_schedule)
 
     # Define the model
     model = Model(inputs=[lstm_input, text_input], outputs=output)
-    model.compile(optimizer=optimizer, loss="mae")
+    model.compile(optimizer=optimizer, loss="mse")
 
     return model
 
@@ -230,30 +230,34 @@ if __name__ == '__main__':
 
     # Name Variables
     model_name = getenv('model_name')
-    target_stock = getenv('target_stock')
+    target_stock = [getenv('target_stock')]
     text_type = getenv('text_type')
     detailed_model_name = model_name + '_' + text_type
 
-    # Filepaths
-    stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'
-    text_analysis_filepath = getenv('text_analysis_filepath') + text_type + '_' + target_stock + '.csv'
+    target_stock = ['AAPL', 'AMZN', 'MSFT', 'CRM', 'IBM', 'NVDA']
 
-    # Train model?
-    train_model = bool(int(getenv('train_model')))
+    for t in target_stock:
 
-    # Preprocessing Stock Price Data
-    lstm_df = read_csv(stock_data_filepath, index_col='Date')
-    train, test = train_test_split(lstm_df, train_pct)
-    train_array = train.to_numpy()
-    test_array = test.to_numpy()
-    train_scaled, test_scaled, scaler = minmax_scale(train_array, test_array)
-    X_train, y_train, X_test, y_test = separate_features_from_target(train_scaled, test_scaled)
-    X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, num_features)
+        # Filepaths
+        stock_data_filepath = getenv('stock_data_filepath') + t + '.csv'
+        text_analysis_filepath = getenv('text_analysis_filepath') + text_type + '_' + t + '.csv'
 
-    # Preprocessing Text Analysis Data
-    text_df = read_csv(text_analysis_filepath, index_col='Date')
-    text_train, text_test = train_test_split(text_df, train_pct)
+        # Train model?
+        train_model = bool(int(getenv('train_model')))
 
-    # Modelling
-    train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, scaler, text_train, text_test, epochs, 
-                            batch_size, train_model, target_stock, detailed_model_name, iterations)
+        # Preprocessing Stock Price Data
+        lstm_df = read_csv(stock_data_filepath, index_col='Date')
+        train, test = train_test_split(lstm_df, train_pct)
+        train_array = train.to_numpy()
+        test_array = test.to_numpy()
+        train_scaled, test_scaled, scaler = minmax_scale(train_array, test_array)
+        X_train, y_train, X_test, y_test = separate_features_from_target(train_scaled, test_scaled)
+        X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, num_features)
+
+        # Preprocessing Text Analysis Data
+        text_df = read_csv(text_analysis_filepath, index_col='Date')
+        text_train, text_test = train_test_split(text_df, train_pct)
+
+        # Modelling
+        train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, scaler, text_train, text_test, epochs, 
+                                batch_size, train_model, t, detailed_model_name, iterations)

@@ -21,14 +21,14 @@ def create_lstm_model(X_train_reshaped):
 
     # Adam optimizer with learning rate scheduler
     lr_schedule = ExponentialDecay(
-        initial_learning_rate=0.0001,
-        decay_steps=20000,
+        initial_learning_rate=0.001,
+        decay_steps=10000,
         decay_rate=0.1
     )
     optimizer = Adam(learning_rate=lr_schedule)
     
     model = Model(inputs=lstm_input, outputs=output)
-    model.compile(optimizer=optimizer, loss='mae')
+    model.compile(optimizer=optimizer, loss="mse")
 
     return model
 
@@ -105,23 +105,28 @@ if __name__ == '__main__':
 
     # Misc
     model_name = getenv('model_name')
-    target_stock = getenv('target_stock')
-    stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'
+    target_stock = [getenv('target_stock')]
     train_model = bool(int(getenv('train_model')))
 
-    # Preprocessing
-    df = read_csv(stock_data_filepath, index_col='Date')
-    train, test = train_test_split(df, train_pct)
-    train_array = train.to_numpy()
-    test_array = test.to_numpy()
+    # target_stock = ['AAPL', 'AMZN', 'MSFT', 'CRM', 'IBM', 'NVDA', '^DJI']
 
-    train_scaled, test_scaled, scaler = minmax_scale(train_array, test_array)
-    X_train, y_train, X_test, y_test = separate_features_from_target(train_scaled, test_scaled)
+    for t in target_stock:
 
-    X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, num_features)
+        stock_data_filepath = getenv('stock_data_filepath') + t + '.csv'
 
-    # Modelling
-    train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, target_stock, train_model, y_test, scaler, iterations)
+        # Preprocessing
+        df = read_csv(stock_data_filepath, index_col='Date')
+        train, test = train_test_split(df, train_pct)
+        train_array = train.to_numpy()
+        test_array = test.to_numpy()
+
+        train_scaled, test_scaled, scaler = minmax_scale(train_array, test_array)
+        X_train, y_train, X_test, y_test = separate_features_from_target(train_scaled, test_scaled)
+
+        X_train_reshaped, X_test_reshaped = reshape_X(X_train, X_test, num_features)
+
+        # Modelling
+        train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epochs, batch_size, model_name, t, train_model, y_test, scaler, iterations)
 
     
 

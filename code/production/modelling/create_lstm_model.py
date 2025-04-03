@@ -6,6 +6,8 @@ import sys
 
 from keras.models import Model
 from keras.layers import Dense, LSTM, Input, LeakyReLU
+from keras.optimizers.schedules import ExponentialDecay
+from keras.optimizers import Adam
 from keras.callbacks import EarlyStopping
 
 sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
@@ -16,9 +18,17 @@ def create_lstm_model(X_train_reshaped):
     lstm_hidden = LSTM(96, activation="tanh", name="lstm_layer")(lstm_input)
     lstm_dense = Dense(32, activation=LeakyReLU(negative_slope=0.01), name="lstm_dense")(lstm_hidden)
     output = Dense(1, name="output_layer")(lstm_dense)
+
+    # Adam optimizer with learning rate scheduler
+    lr_schedule = ExponentialDecay(
+        initial_learning_rate=0.0001,
+        decay_steps=20000,
+        decay_rate=0.1
+    )
+    optimizer = Adam(learning_rate=lr_schedule)
     
     model = Model(inputs=lstm_input, outputs=output)
-    model.compile(optimizer='adam', loss='mae')
+    model.compile(optimizer=optimizer, loss='mae')
 
     return model
 

@@ -21,7 +21,7 @@ def aggregate_sentiment(row):
     return sentiment_map[majority_sentiment]
 
 # Function to calculate weighted rolling average
-def weighted_rolling_avg(price_df, sent_df, window_size=6, sentiment_effect=0.01):
+def weighted_rolling_avg(price_df, sent_df, window_size=7, sentiment_effect=0.01):
     """
     Calculate rolling average for sentiment data over x number of days before (window size), weighted by recency
 
@@ -65,10 +65,10 @@ if __name__ == '__main__':
     stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'
     text_type = getenv('text_type')
     sentiment_input_filepath = '../../../data/clean/sentiment_analysis_results/finetuned_sentiment_analysis_' + text_type + '_' + target_stock + '.csv'
-    sentiment_output_filepath = getenv('text_analysis_filepath') + text_type + '_' + target_stock + '.csv'
+    sentiment_output_filepath = getenv('weighted_sentiment_analysis_filepath') + text_type + '_' + target_stock + '.csv'
 
     # Initialise key variables
-    window_size = 6
+    window_size = 7
     sentiment_effect = 0.01
     
     lstm_df = read_csv(stock_data_filepath, index_col='Date')

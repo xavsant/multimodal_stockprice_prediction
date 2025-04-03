@@ -1,0 +1,2572 @@
+,pub_date,headline,sentiment_score,impact_days
+0,2015-10-22,daily report a trio of earnings from tech behemoths,0.1,7
+1,2015-10-19,daily report tech tussles take center stage in earnings,0.1,7
+2,2015-10-14,ennis esmer of red oaks talks tennis and comedy,0.0,1
+3,2015-10-14,walmart takes aim at cloud lockin,0.1,7
+4,2015-10-07,amazon messes with billions in corporate computing dollars,-0.2,8
+5,2015-10-09,amazon building a tech business for the long haul,0.1,8
+6,2015-10-07,review amazons red oaks aims for 80s affection not satire,0.0,3
+7,2015-10-20,amazon spars with the times over investigative article,0.0,3
+8,2015-10-26,a penny for your books,0.0,1
+9,2015-10-19,walmart chief defends investments in labor stores and the web,0.1,7
+10,2015-11-04,reviews amazon pilots include a revolt and the supernatural,0.0,3
+11,2015-11-03,amazon adds new perks for workers and opens a bookstore,0.1,4
+12,2015-11-18,covering your browser tracks,0.0,3
+13,2015-11-17,morning agenda the economic cost of terrorism,0.0,15
+14,2015-11-18,how amazons long game yielded a retail juggernaut,0.0,3
+15,2015-11-07,farhad and mikes week in tech airbnb takes san francisco,0.0,3
+16,2015-11-04,digital transformation going mainstream in 2016 idc predicts,0.3,5
+17,2015-11-18,a martha stewart store makes a leap to amazon,0.1,3
+18,2015-11-28,black friday shopping shifts online as stores see less foot traffic,0.1,4
+19,2015-11-19,red reich and blue building the world of the man in the high castle,0.0,3
+20,2015-07-13,accusing amazon of antitrust violations authors and booksellers demand inquiry,-0.6,7
+21,2015-07-24,daily report amazon shows profit for a change,0.1,7
+22,2015-07-31,daily report that facebook drone is ready for takeoff,0.1,8
+23,2015-07-30,jeremy clarkson former top gear host announces deal with amazon,0.0,3
+24,2015-07-13,the authors united position paper on amazons book selling practices,0.0,4
+25,2015-07-13,documents authors and booksellers call for amazon inquiry,-0.2,7
+26,2015-07-13,american booksellers letter to the justice department,0.0,4
+27,2015-07-13,authors guilds call to investigate amazon,-0.2,7
+28,2015-06-11,amazons ebooks business investigated by european antitrust regulators,-0.4,7
+29,2015-06-23,retailers ban sale of merchandise bearing confederate flag,0.0,3
+30,2015-07-08,amazon gears up for new york fashion week for men,0.0,4
+31,2015-07-15,more fizzle than sizzle on amazons prime day,-0.2,3
+32,2015-07-24,limited too 2 project runways record and rip elio fiorucci,0.0,3
+33,2015-07-07,gunshaped iphone case is a terrible idea police officials warn,-0.7,3
+34,2015-07-15,amazon dreams up a sale in a calendar bursting with them,0.1,3
+35,2015-07-14,daily report writers and booksellers seek us antitrust inquiry into amazon,-0.3,7
+36,2015-07-15,amazon lands spike lees chiraq as its first original movie,0.0,3
+37,2015-07-17,amazon says prime day beat black friday in sales numbers,0.1,7
+38,2015-07-31,amazon pushes to deliver more prime time,0.1,7
+39,2015-07-23,amazon reports unexpected profit and stock soars,0.7,7
+40,2015-06-18,rob delaney a hit on twitter turns to television with catastrophe,0.0,1
+41,2015-06-23,confederate flag sales soar as retailers pull stock,0.0,3
+42,2015-06-17,review catastrophe on amazon prime shares a special comedy relationship,0.0,3
+43,2015-06-16,google is its own secret weapon in the cloud,0.1,7
+44,2015-06-13,at audible work speaks volumes,0.0,3
+45,2015-06-12,youtube takes on amazon with new gaming app,0.1,7
+46,2015-06-23,tech companies line up behind containers and the cloud,0.4,7
+47,2015-06-05,selling ecommerce while avoiding amazon,0.1,8
+48,2015-06-24,amazon echo aka alexa is a personal aide in need of schooling,0.1,4
+49,2015-06-05,walmart lagging in online sales is strengthening ecommerce,0.1,7
+50,2015-08-20,neither rain nor snow nor gloom of night stays amazon deliveries,0.0,1
+51,2015-08-22,jeff bezos and the amazon way,0.0,3
+52,2015-08-17,daily report where to see the inequality gap wrought by the tech boom,-0.4,15
+53,2015-08-18,work policies may be kinder but brutal competition isnt,-0.1,3
+54,2015-08-06,review in sneaky pete and casanova a fast talker and a smooth talker,0.0,3
+55,2015-08-19,elisabeth egans a window opens has echoes of her amazon odyssey,0.0,3
+56,2015-08-19,amazons social rift,0.0,3
+57,2015-10-22,walmart plays catchup with amazon,0.0,7
+58,2015-10-02,daily report amazon and the clash of the titans,0.1,3
+59,2015-10-06,eu to force members to share data on multinationals tax deals,0.0,7
+60,2015-10-31,amazon shutting down its register credit card processor,0.0,7
+61,2015-10-23,what were reading,0.0,1
+62,2015-10-24,mike and nicks week in tech microsoft in the cloud,0.1,3
+63,2015-10-28,purchasing fine art is increasingly just a click away,0.0,3
+64,2015-10-26,walmart seeks permit to do tests with drones,0.1,4
+65,2015-10-23,the cloud is here separating disrupters from disrupted,0.1,7
+66,2015-10-27,oracle will not build a giant cloud system like aws,0.0,3
+67,2015-11-27,in transparent a heroine evolves further still,0.0,1
+68,2015-11-10,amazons streaming music aims for more casual listeners,0.1,4
+69,2015-11-04,public companies trying to mimic private firms,0.0,3
+70,2015-11-04,the high price of delivery app convenience,-0.2,3
+71,2015-11-30,drone videos could help amazon sell prime subscriptions,0.4,4
+72,2015-11-19,review the man in the high castle imagines america ruled by 2 foreign powers,0.0,3
+73,2015-11-20,daily report google gets serious about competing in cloud with amazon web services,0.1,10
+74,2015-01-19,as content pours from everywhere new network shows strive for boldness,0.1,3
+75,2015-01-16,amazons tax deal with luxembourg may break rules eu regulator says,-0.4,7
+76,2015-01-27,amazon investigated in japan over child pornography,-0.9,10
+77,2015-01-12,with win amazon shakes up yet another industry,0.1,8
+78,2015-01-18,for musicians a tv series underscores diminishing role,-0.1,3
+79,2015-01-01,writers are mixed over amazon unlimited,0.0,3
+80,2015-01-29,amazon reports a profit citing prime as the key,0.3,7
+81,2015-01-25,tech giants invest in new dreams of grandeur,0.4,8
+82,2015-01-18,classical music as jungle rings true,0.0,1
+83,2015-01-13,amazon signs woody allen to write and direct tv series,0.0,3
+84,2015-01-28,amazons got mail,0.0,3
+85,2015-01-14,amazon comes out swinging,0.1,3
+86,2015-01-04,for the indie writers of amazon its publish or perish,-0.1,3
+87,2015-01-19,movie studio by amazon for screens big and small,0.1,8
+88,2015-01-22,amazon to buy israeli chip developer,0.1,14
+89,2015-01-26,amazon and its friends,0.0,3
+90,2015-01-19,saturday night in taipei and the cool kids are at the bookstore,0.0,1
+91,2015-04-07,star wars movies will be available at digital stores like amazon and itunes,0.1,3
+92,2015-04-24,daily report amazon dominates cloud computing but tech giants are in pursuit,0.1,7
+93,2015-04-23,amazon swings to small loss while revenue jumps 15,-0.3,7
+94,2015-04-22,working with old office files on a new mac os,0.1,3
+95,2015-04-12,amazon google and more are drawn to home services market,0.1,7
+96,2015-04-13,daily report amazon google and more are drawn to home services market,0.1,7
+97,2015-04-14,harpercollins and amazon in multiyear publishing deal,0.1,4
+98,2015-04-07,mba programs that get you where you want to go,0.0,3
+99,2015-04-24,with amazon atop the cloud big tech rivals are giving chase,0.3,7
+100,2015-04-09,amazon to sell predictions in cloud race against google and microsoft,0.0,8
+101,2015-05-24,amazon to stop funneling european sales through lowtax haven,0.0,10
+102,2015-05-22,forwarding text messages on the iphone,0.1,3
+103,2015-05-04,tech startups in india attract big name investors and money,0.3,7
+104,2015-05-06,two retail veterans take aim at amazons ecommerce reign,-0.2,14
+105,2015-05-06,eu commission opens antitrust inquiry into ecommerce sector,-0.3,7
+106,2015-05-05,european union delays action on apple amazon and starbucks tax inquiries,0.0,7
+107,2015-04-27,silicon valley recap its not about how much you earn,0.0,3
+108,2015-04-16,scribd expands audiobook catalog in deal with penguin random house,0.1,4
+109,2015-04-22,audi to test plan to deliver amazon packages to drivers trunks,0.1,3
+110,2015-04-08,amazon web services takes fuller aim at enterprise computing,0.1,7
+111,2015-04-29,who is the biggest publisher of foreign literature in the us,0.0,1
+112,2015-04-09,lyft hires amazon executive as chief operating officer,0.0,7
+113,2015-04-28,europes google problem,0.0,7
+114,2015-04-26,the sensorrich datascooping future,0.1,3
+115,2015-04-13,how europe is going after apple google and other us tech giants,-0.6,14
+116,2015-12-16,streaming tv isnt just a new way to watch its a new genre,0.1,3
+117,2015-12-05,all the product reviews money can buy,-0.5,3
+118,2015-12-31,daily report a happy holiday for amazon,0.1,3
+119,2015-12-24,watching video on amazon prime,0.0,1
+120,2015-12-31,its amazon and alsorans in retailers race for online sales,0.0,7
+121,2015-12-02,how to sell or recycle old electronics,0.0,3
+122,2015-12-28,the most commentedon articles of 2015,0.0,3
+123,2015-12-08,season 2 of transparent expands its view of the pfefferman clan,0.0,1
+124,2015-12-14,amazon pulls hoverboards,-0.2,7
+125,2015-03-11,nielsen charts reach of video streaming,0.1,4
+126,2015-03-25,wall st stars join silicon valley gold rush,0.6,7
+127,2015-03-18,suddenly plenty of options for cord cutters,0.1,7
+128,2015-03-20,amazon letter to the federal aviation administration,0.0,4
+129,2015-10-02,amazon to stop selling apple tv and chromecast,-0.3,7
+130,2015-10-22,amazon posts an unexpected profit and its shares soar,0.7,7
+131,2015-10-08,amazon challenges etsy with strictly handmade marketplace,0.1,8
+132,2015-10-27,walmart withdraws hooked sheik fagin nose from halloween store,0.0,1
+133,2015-10-29,how apple tv stacks up a rundown of streaming devices,0.1,3
+134,2015-10-23,jim stewart on walmarts challenges,0.0,3
+135,2015-09-15,blue origin jeff bezos rocket company to launch from florida,0.0,3
+136,2015-09-05,mike and quentins week in tech amazons offline game changer,0.1,3
+137,2015-08-21,what were reading,0.0,1
+138,2015-08-18,a deluge of comments from readers with an opinion about amazon,0.0,3
+139,2015-08-17,jeff bezos and amazon employees join debate over its culture,0.0,7
+140,2015-08-25,a stock market rout in a month that hedge funds would sooner forget,-0.8,10
+141,2015-08-22,farhad and katies week in tech amazon and ashley madison exposed,-0.1,3
+142,2015-08-21,preparing for life after cable,0.1,8
+143,2015-08-03,new york reaches accords with sellers of toy guns,0.0,1
+144,2015-08-18,amazon chiefs message to employees,0.0,3
+145,2015-08-30,soulsearching in tv land over the challenges of a new golden age,0.0,3
+146,2015-08-29,farhad and mikes week in tech facebook assistant,0.0,3
+147,2015-09-03,review hand of god on amazon is a california neonoir thriller,0.0,3
+148,2015-09-17,amazon updates its fire tv and tablet offerings,0.1,4
+149,2015-09-23,the plot twist ebook sales slip and print is far from dead,-0.2,3
+150,2015-09-28,amazon envisions a new tech hub as it expands its detroit presence,0.1,8
+151,2015-09-09,google follows amazon web services into ondemand supercomputing,0.3,7
+152,2015-09-08,mining the movies for the next tv hit,0.1,3
+153,2015-09-23,amazon announces new pilots from louis ck tig notaro and sacha baron cohen,0.0,3
+154,2015-09-01,inside amazon reporters notebook,0.0,3
+155,2015-09-07,humanizing technology a history of humancomputer interaction,0.1,3
+156,2015-09-18,shopping for amazon apps with android,0.0,3
+157,2015-08-29,the tesla cheerleader,0.1,3
+158,2015-08-17,why amazon may take a page from walmarts labor playbook,0.0,7
+159,2015-08-12,stopping the iphone step counter,-0.1,3
+160,2015-08-18,depiction of amazon stirs a debate about work culture,0.0,3
+161,2015-08-26,facebook tests a digital assistant for its messaging app,0.1,4
+162,2015-08-15,inside amazon wrestling big ideas in a bruising workplace,-0.2,3
+163,2015-08-21,have you cut the cable cord,0.1,3
+164,2015-08-21,why jeff bezos should care more for amazons employees,0.0,3
+165,2015-08-22,a look inside amazon,0.0,3
+166,2015-08-18,daily report amazons workplace culture continues to spur online debates,0.0,3
+167,2015-03-27,beyonc designs a shoe mcdonalds readytowear and the american apparel saga continues,0.0,3
+168,2015-03-18,european union moves to limit special tax deals,0.0,7
+169,2015-03-26,drones beaming web access are in the stars for facebook,0.1,8
+170,2015-03-20,hackers attack greatfireorg a workaround for websites censored in china,-0.2,4
+171,2015-03-31,amazon dash aims to be a pushbutton substitute for the supply run,0.0,3
+172,2015-03-11,google offers cheap storage for certain kinds of data,0.1,4
+173,2015-03-20,amazon wins approval to test delivery drones outdoors,0.1,8
+174,2015-03-30,q and a adam fisk on evading internet censorship in china,0.0,3
+175,2015-03-20,daily report faa gives amazon limited permission on drones,0.1,7
+176,2015-03-24,netflix amazon and hulu no longer find themselves upstarts in online streaming,0.1,7
+177,2015-02-16,goodbye to the electronics store,-0.1,14
+178,2015-02-27,choosing between amazons tv streaming hardware,0.0,3
+179,2015-02-27,amazon hires jay carney former obama press secretary,0.0,3
+180,2015-02-12,jetcom gets investment that values it at 600 million,0.1,8
+181,2015-02-15,faa rules would limit commercial drone use,-0.2,7
+182,2015-02-10,box toughens security to draw regulated customers,0.1,7
+183,2015-02-18,amazon orders full seasons for five new shows,0.1,4
+184,2015-02-12,review bosch amazon primes new crime series,0.0,1
+185,2016-10-01,a peek at the secret english farm where amazon tests its drones,0.1,4
+186,2016-10-02,google lagging amazon races across the threshold into the home,0.1,8
+187,2016-10-03,us tech giants are investing billions to keep data in europe,0.1,7
+188,2016-10-26,matthew weiner to create a series for amazon,0.0,3
+189,2016-10-29,farhad and mikes week in tech microsoft apple and halloween,0.1,3
+190,2016-10-17,guide for borrowing library books on your phone and tablet,0.1,3
+191,2016-10-28,morning agenda shunning hedge funds chip makers consolidate tech lessons,0.1,3
+192,2016-10-27,review in good girls revolt the nasty women of the 1960s fight job discrimination,0.0,1
+193,2016-10-03,daily report googles slow response to amazons echo is a warning,-0.2,7
+194,2016-10-02,taking the temperature inside the feverish cloud,0.1,3
+195,2016-11-03,google home vs amazon echo a faceoff of smart speakers,0.1,3
+196,2016-11-26,stalking black friday bargains,0.1,3
+197,2016-11-11,american companies tailor responses to trump election,0.0,10
+198,2016-11-23,airline used by amazon wins order to end cargo pilots strike,0.1,4
+199,2016-11-17,targets turnaround still faces challenges,-0.2,7
+200,2016-11-16,how not to overpay on black friday let the web be your guide,0.0,1
+201,2016-11-29,skip the phish on the menu,0.0,1
+202,2016-11-17,actors flock to netflix to satisfy their most loyal fans,0.0,3
+203,2016-11-14,how to stream video on an older tv,0.0,1
+204,2016-07-30,farhads and mikes week in tech the cautionary tale of the fall of yahoo,-0.2,3
+205,2016-07-25,amazon expands drone testing in britain,0.1,4
+206,2016-07-27,alexa what else can you do getting more from amazon echo,0.1,3
+207,2016-07-29,flowing internet video streams through the television,0.1,8
+208,2016-07-29,morning agenda profits tumble at european banks,-0.2,7
+209,2016-06-13,liberal return policies for consumers can reduce retail workers pay,-0.1,4
+210,2016-06-30,how much do we love tv let us count the ways,0.0,3
+211,2016-06-17,amazons literary forays for tv the interestings and the last tycoon,0.0,3
+212,2016-06-03,forbidden love,0.0,1
+213,2016-07-25,tech behemoths report their results,0.1,7
+214,2016-07-25,google races to catch up in cloud computing,0.0,7
+215,2016-07-01,amazon prime strikes deal for most pbs childrens shows,0.0,4
+216,2016-07-11,daily report amazon flaunts its prominence with new construction in seattle,0.0,3
+217,2016-07-29,gathering cloudcomputing,0.1,3
+218,2016-07-28,amazons profits grow more than 800 percent lifted by cloud services,0.7,7
+219,2016-07-13,partying with common kellan lutz and others at mens fashion week,0.0,1
+220,2016-07-03,amazon is quietly eliminating list prices,0.0,7
+221,2016-07-10,forget beanbag chairs amazon is giving its workers treehouses,0.1,3
+222,2016-07-07,amazons audible goes long on shortform audio,0.1,4
+223,2016-06-01,why the world is drawing battle lines against american tech giants,-0.7,14
+224,2016-06-01,american tech giants vs the nationstate,0.0,14
+225,2016-06-28,downloading video streams to go,0.1,3
+226,2016-06-27,amazon unveils online education service for teachers,0.1,8
+227,2016-06-01,silicon valley finds trumps disruption unwelcome,-0.3,7
+228,2016-06-01,jeff bezos riding high defends decision to buy washington post,0.0,3
+229,2016-06-27,tech makes its pitch to the education community,0.3,3
+230,2016-06-28,amazon kindle learns to navigate literary thickets,0.1,4
+231,2016-06-29,amazon inspire removes some content over copyright issues,0.0,4
+232,2016-06-07,online reviews researchers give them a low rating,-0.5,3
+233,2016-03-14,real and false discounts,0.0,3
+234,2016-10-27,amazon comes up short on profits focusing on warehouses and movies,-0.3,7
+235,2016-10-26,banks bet on the next big thing financial chatbots,0.3,7
+236,2016-10-12,amazon pairs its speaker with streaming music at a bargain price,0.1,7
+237,2016-10-04,comixology joining the original programming party with exclusive comics,0.1,4
+238,2016-10-31,daily report googles day in europes court highlights nature of new tech,0.0,5
+239,2016-10-04,getting your money back for a digital book,0.0,1
+240,2016-10-07,billy bob thornton plays a lawyer in goliath a drunkard too,0.0,1
+241,2016-10-15,jims and nicks week in tech smoldering phones the yahoo markdown and amazon music,0.0,3
+242,2016-01-20,techs frightful 5 will dominate digital life for foreseeable future,0.5,14
+243,2016-01-30,farhad and mikes week in tech lessons from earnings season,0.0,7
+244,2016-01-29,sundance fights tide with films like the birth of a nation,0.0,3
+245,2016-01-20,review on mad dogs an amazon series male bellicosity rules,0.0,1
+246,2016-01-12,golden globes reflect a new trajectory for tv,0.0,3
+247,2016-01-29,daily report divergent fortunes in cloud computing,0.1,7
+248,2016-01-11,daily report the tech news cycle is about to ramp up,0.1,3
+249,2016-01-13,daily report the netflixamazon connection,0.0,3
+250,2016-01-26,miley cyrus joins the cast of woody allens amazon series,0.0,1
+251,2016-01-05,despite the ces hype its better to wait on that 4k tv,-0.1,3
+252,2016-04-18,amazon challenges netflix by opening prime to monthly subscribers,0.1,7
+253,2016-04-06,catastrophe adds a new wrinkle to its ribald love story children,0.0,1
+254,2016-04-13,kindle oasis from amazon promises months and months of battery life,0.1,3
+255,2016-04-10,billing by millionths of pennies cloud computings giants take in billions,-0.2,10
+256,2016-04-29,cloud services show their value in earnings reports,0.4,7
+257,2016-01-19,tvs selfreflection ratings may be down but the choices are many,0.0,3
+258,2016-01-27,siri alexa and other virtual assistants put to the test,0.1,4
+259,2016-01-01,a word with cherry jones im having the kind of year actors live for,0.1,1
+260,2016-01-14,amazon subsidiary gains approval to ship ocean freight,0.1,7
+261,2016-01-15,fund managers win with tech stalwarts and burly brand names,0.7,3
+262,2016-01-28,amazon sales soared 22 in holiday quarter but profit fell short,-0.2,7
+263,2016-01-14,amazon prime video home and away,0.0,3
+264,2016-01-26,so far amazon and netflix are sundances top buyers,0.0,3
+265,2016-12-05,amazon moves to cut checkout line promoting a grabandgo experience,0.1,8
+266,2016-12-23,stephen root is just the man for a cubicle or a castle,0.0,1
+267,2016-12-27,walmart slowly makes strides in ecommerce,0.0,4
+268,2016-12-14,the quest for your dream streamer,0.0,3
+269,2016-04-27,taking the stigma out of buying used electronics,0.6,4
+270,2016-04-28,amazons cloud business lifts its profit to a record,0.3,7
+271,2016-04-25,technology and banking sectors brace for earnings reports,0.0,7
+272,2016-04-15,bob dylaninspired drama is in the works,0.0,1
+273,2016-04-28,will amazon stand apart from weak tech earners,0.1,7
+274,2016-04-02,mike and john on annotation terror and annoying video alerts,-0.1,1
+275,2016-04-09,congratulations youve been fired,-1.0,1
+276,2016-04-01,moving cdripped music from the computer to the ipad,0.0,1
+277,2016-04-30,farhad and mikes week in tech the unstoppable facebook,0.1,3
+278,2016-04-01,dude wheres my city,0.0,1
+279,2016-05-19,silicon valleys artificial intelligence marathon is on,0.4,5
+280,2016-05-12,antitrust in the age of amazon,-0.2,14
+281,2016-05-21,farhad and mikes week in tech the herd mentality of tech ceos,0.0,3
+282,2016-05-26,salesforce to use amazons cloud to expand in canada and australia,0.1,7
+283,2016-05-28,farhad and mikes week in tech techies vs the media,0.0,3
+284,2016-05-26,new amazon pilots star matt bomer and kelsey grammer among others,0.0,1
+285,2016-05-18,google home vs amazon echo let the battle begin,0.1,3
+286,2016-05-16,amazon proves infertile soil for unions so far,-0.3,7
+287,2016-05-04,lured by seattles tech boom but being left behind,-0.3,3
+288,2016-05-19,review julian fellowes hosts doctor thorne a british period drama on amazon,0.0,1
+289,2016-04-28,keeping notes and highlights from kindle books,0.1,3
+290,2016-04-26,what were reading,0.0,1
+291,2016-04-08,amazon encounters a bumpy road in india,0.0,7
+292,2016-04-08,amazon may violate indias new rules on foreign ecommerce,-0.3,10
+293,2016-04-13,some online bargains may only look like one,-0.1,3
+294,2016-04-21,with seattle shelter effort amazon shows glimmers of a good neighbor,0.1,3
+295,2016-04-09,taking shelter in oldschool dividend stocks,0.1,3
+296,2016-04-22,whats on tv friday,0.0,1
+297,2016-04-05,with a standalone app starz looks beyond the cable bundle,0.1,4
+298,2016-04-04,michael c fina park avenue wedding retailer bets on amazoncom,0.0,3
+299,2016-05-13,all the weeks fashion news thats fit to reprint,0.0,3
+300,2016-05-20,walmart outperforms estimates but online retail lags,0.0,7
+301,2016-12-29,bid for access to amazon echo audio in murder case raises privacy concerns,-0.2,4
+302,2016-12-14,in major step for drone delivery amazon flies package to customer in england,0.6,8
+303,2016-12-15,the man in the high castle an alternative america hits home,0.0,1
+304,2016-12-13,forget att the real monopolies are google and facebook,-0.1,3
+305,2016-12-16,in shadow of amazon european challenger looks to china for inspiration,0.0,3
+306,2016-12-25,why the computing cloud will keep growing and growing,0.6,7
+307,2016-12-30,rundmc sues amazon and walmart for infringement,-0.2,4
+308,2016-12-13,when trump meets tech leaders jobs will be on the agenda,0.0,4
+309,2016-12-16,ok who put the nazi zombie under the tree,0.0,1
+310,2016-12-29,oh my aching head movies for the soused or now sober,0.0,1
+311,2016-03-09,jeff bezos lifts veil on his rocket company blue origin,0.0,3
+312,2016-03-03,apple is rolling up backers in iphone privacy fight against fbi,-0.2,7
+313,2016-03-25,the race is on to control artificial intelligence and techs future,0.3,14
+314,2016-03-20,amazon leans on government in its quest to be a delivery powerhouse,0.0,7
+315,2016-03-29,a red carpet for amazon in fall river mass and hopes for more,0.0,3
+316,2016-03-06,its discounted but is it a deal how list prices lost their meaning,-0.1,3
+317,2016-03-24,morning agenda valeant losses drag ackman hedge fund down,-0.7,3
+318,2016-03-30,on catastrophe a monsterinlaw and more chaos,0.0,1
+319,2016-03-05,farhad and joe examine silicon valleys pull in washington,0.0,3
+320,2016-03-10,a trip through amazons first physical store,0.1,3
+321,2016-02-23,loading the kindle library on an ipad,0.1,1
+322,2016-02-03,amazon is said to be planning an expansion into retail bookstores,0.1,7
+323,2016-09-30,amazon creates 3 games for twitch fans,0.1,4
+324,2016-09-03,goodbye ivory tower hello silicon valley candy store,0.1,3
+325,2016-08-24,subscribe and save on amazon dont count on it,0.0,3
+326,2016-08-18,jill soloway of transparent aims to challenge with i love dick on amazon,0.0,3
+327,2016-08-13,farhads and mikes week in tech betting on jet and diverse work forces,0.0,3
+328,2016-08-09,walmarts new ecommerce strategy,0.0,7
+329,2016-09-13,eu rules look to unify digital market but us sees protectionism,0.0,10
+330,2016-09-16,as amazon arrives the campus bookstore is a books store no more,-0.1,3
+331,2016-09-04,julie rapaport greg levine,0.0,1
+332,2016-09-11,amazon and pandora to gauge musics value in the internet age,0.1,8
+333,2016-09-01,how tech giants are devising real ethics for artificial intelligence,0.4,7
+334,2016-09-28,dior and tv a new look all around,0.0,3
+335,2016-09-08,amazon has a potent weapon in the tablet wars low prices,0.1,4
+336,2016-09-08,review have you heard the one about the grieving daughter,0.0,1
+337,2016-09-07,phoebe wallerbridges rage and sex in fleabag,0.0,1
+338,2016-09-28,protecting humans and jobs from robots is 5 tech giants goal,0.1,14
+339,2016-08-10,think amazons drone delivery idea is a gimmick think again,0.1,8
+340,2016-08-26,small cloud computing firm turns to helping others work with giants,0.1,4
+341,2016-08-01,pocket constitution sales soar after trump feud with khan family,0.0,3
+342,2016-08-07,amazon has big plans for alexa running the star trek home,0.1,8
+343,2016-08-11,daily report amazons drones may not be so crazy after all,0.1,3
+344,2016-08-24,emeril lagasse takes bitesize steps across the world,0.0,1
+345,2016-08-25,a modest reward for helping amazon fix a mistake,0.1,3
+346,2016-08-10,why its not enough just to be disruptive,0.0,3
+347,2016-08-08,walmart rewrites its ecommerce strategy with 33 billion deal for jetcom,0.0,14
+348,2016-08-06,when every company is a tech company does the label matter,0.0,3
+349,2016-03-07,tech companies new and old clamor to entice cloud computing experts,0.3,7
+350,2016-03-03,amazon introduces 2 alexa voicecontrolled devices,0.1,7
+351,2016-03-21,morning agenda banks pull financing from coal industry,0.0,10
+352,2016-03-09,the echo from amazon brims with groundbreaking promise,0.1,8
+353,2016-03-07,tech giants battle for top cloud talent,0.6,7
+354,2016-03-23,convoy sees itself as the uber of local trucking,0.1,3
+355,2016-03-06,europes antitrust enforcer on google apple and the year ahead,-0.3,7
+356,2016-03-31,more brands mean many more buttons for quirky amazon service,0.1,3
+357,2016-03-28,silicon valley looks to artificial intelligence for the next big thing,0.3,8
+358,2016-03-09,review bosch returns a detective to the force,0.0,1
+359,2016-02-13,indie bookstores are back with a passion,0.1,3
+360,2016-02-02,us and europe in safe harbor data deal but legal fight may await,0.1,7
+361,2016-02-10,tech stocks have fallen faster and further than broader market,-0.7,7
+362,2016-02-02,techs track record of shakeups at the top,-0.2,3
+363,2016-02-03,mall executive backtracks from statement on amazon retail stores,0.0,3
+364,2016-02-24,amazon puts spotlight on the fashion fund,0.1,4
+365,2016-02-04,daily report the mystery of amazons bookstores,0.0,3
+366,2016-02-16,ecommerce convenience built on a mountain of cardboard,0.0,3
+367,2016-02-06,farhad and mikes week in tech startups and the circle of life,0.0,3
+368,2016-02-02,nielsen plays catchup as streaming era wreaks havoc on tv raters,0.0,7
+369,2017-10-26,review amazons british thriller fearless is for the conspiracyminded,0.0,3
+370,2017-10-13,us and europe may collide on taxing apple and amazon,-0.3,14
+371,2017-10-13,whats new on netflix and amazon prime this weekend,0.0,1
+372,2017-10-17,roy price quits amazon studios after sexual harassment claim,-0.9,7
+373,2017-10-20,how amazon took seattles soul,-0.1,3
+374,2017-10-11,why tech is starting to make me uneasy,-0.3,3
+375,2017-10-27,the women behind good girls revolt think the time is right to revive the feminist show,0.0,3
+376,2017-10-31,aetna could offer cvs valuable protection,0.0,7
+377,2017-10-19,what may seem good for new york is not always good for its mayor,0.0,1
+378,2017-10-15,5 cheapish things to help you recover from a tough workout,0.0,1
+379,2017-11-26,as health care changes insurers hospitals and drugstores team up,0.0,7
+380,2017-11-28,as walmart buys online retailers their health benefits suffer,0.0,3
+381,2017-11-17,stitch fix prepares an ipo in the shadow of amazon,0.0,10
+382,2017-11-15,amazon sellers brood as states come calling for taxes,-0.3,7
+383,2017-11-02,alibabas earnings jump as chinas online shopping boom continues,0.3,7
+384,2017-11-28,review in the marvelous mrs maisel a comic asks take my strife please,0.0,1
+385,2017-11-22,retailers recipe for the holidays big sales fewer seasonal workers,0.1,4
+386,2017-11-29,microsoft to expand campus as amazon looks elsewhere,0.1,8
+387,2017-11-16,5 lessons seattle can teach other cities about amazon,0.0,3
+388,2017-11-13,lord of the rings series coming to amazon,0.0,3
+389,2017-07-31,as amazons influence grows marketers scramble to tailor strategies,0.1,7
+390,2017-07-28,the mindboggling ascent of amazon and jeff bezos,0.1,10
+391,2017-07-11,ecommerce as a jobs engine one economists unorthodox view,0.1,4
+392,2017-07-28,the riches of jeff bezos,0.0,3
+393,2017-07-18,daily report reinventing food isnt easy,0.0,3
+394,2017-07-18,what will service work look like under amazon,0.0,3
+395,2017-07-11,did an echo call 911 during a domestic assault amazon says no,-0.1,1
+396,2017-07-10,how to make the most of amazons prime day,0.0,3
+397,2017-06-23,you dont want to buy groceries from a robot,-0.1,1
+398,2017-06-17,whole foods deal shows amazons prodigious tolerance for risk,0.0,14
+399,2017-06-16,how whole foods became the organic giant,0.0,3
+400,2017-06-20,when amazon comes to town,0.1,8
+401,2017-06-19,walmart will struggle to top amazons offer for whole foods,0.0,3
+402,2017-06-15,jeff bezos wants ideas for philanthropy so he asked twitter,0.0,3
+403,2017-06-20,can amazon be the next apple,0.1,3
+404,2017-06-15,at last jeff bezos offers a hint of his philanthropic plans,0.0,3
+405,2017-06-07,what you get and what you dont from a 50 amazon fire,0.0,3
+406,2017-06-21,amazon bites off even more monopoly power,-0.7,14
+407,2017-07-05,tech stocks boom but some stock pickers are wary,0.3,5
+408,2017-07-15,farhads and mikes and nellies week in tech struggles for snap,-0.1,3
+409,2017-07-22,farhad and mikes week in tech meal kits lyft and despacito,0.0,3
+410,2017-07-13,david lynch weaves film history into twin peaks the return,0.0,1
+411,2017-07-22,pittsburgh gets a tech makeover,0.1,3
+412,2017-07-20,amazon tackles hollywoods f scott fitzgerald obsession,0.0,3
+413,2017-07-26,want a job mate amazon is hiring aussie speakers,0.0,3
+414,2017-07-11,alexa where have you been all my life,0.1,3
+415,2017-07-28,amazon profits fall far short of expectations but investors shrug,-0.2,7
+416,2017-07-29,farhads and mikes week in tech the end of the ipod plus uber news,0.0,4
+417,2017-06-01,climate change is real many us companies lament paris accord exit,0.0,15
+418,2017-06-17,in whole foods bezos gets a sustainably sourced guinea pig,0.0,1
+419,2017-06-16,groundbreaking tv about female desire thanks to playwrights,0.0,1
+420,2017-06-24,a street fight among grocers to deliver your milk eggs bananas,0.0,3
+421,2017-06-10,what to cook watch listen to and more this weekend,0.0,1
+422,2017-06-09,taylor swift returns her music catalog to streaming services,0.1,3
+423,2017-06-17,amazons move signals end of line for many cashiers,0.0,8
+424,2017-06-26,alexa what happens if the echo has a screen you get this review,0.0,3
+425,2017-06-17,i have stopped taking my notebooks and pens to meetings,0.0,1
+426,2017-06-12,a slump in tech stocks that leaves some investors mystified,-0.5,7
+427,2017-09-22,farhads and mikes week in tech a very bad week for digital giants,-0.7,7
+428,2017-09-01,farhads and nicks week in review ubers new boss and amazons new supermarket,0.0,3
+429,2017-09-09,dear amazon we picked your new headquarters for you,0.0,3
+430,2017-09-10,robots and humans team up at amazon,0.1,8
+431,2017-10-25,can washington stop big tech companies dont bet on it,-0.2,14
+432,2017-10-25,big techs rivals pounce at chances to win in washington,0.0,7
+433,2017-10-26,following the bike trail to amazons second headquarters,0.0,3
+434,2017-10-26,5 cheapish things to improve your home office,0.0,1
+435,2017-10-25,amazons latest way into your life is through the front door,0.0,8
+436,2017-10-12,tech giants once seen as saviors are now viewed as threats,-0.7,10
+437,2017-10-26,australia battles amazon with populist defiance,0.0,14
+438,2017-10-27,hearing amazons footsteps the health care industry shudders,-0.2,10
+439,2017-10-27,what are the billboard charts really measuring,0.0,3
+440,2017-10-26,what worries big tech companies post glowing quarterly profits,0.1,7
+441,2017-11-20,jeffrey tambor leaves transparent after sexual misconduct allegations,0.0,1
+442,2017-11-17,apple postpones release of homepod speaker,-0.3,7
+443,2017-11-30,jeanclaude van damme plays jeanclaude van damme for kicks,0.0,1
+444,2017-11-26,amazon in hunt for lower prices recruits indian merchants,0.0,8
+445,2017-11-01,the upside of being ruled by the five tech giants,0.5,14
+446,2017-11-15,peltz may have won after all dealbook briefing,0.0,8
+447,2017-11-10,review amazons new pilots the end of an era,0.0,3
+448,2017-11-01,not the bots we were looking for,-0.1,3
+449,2017-11-30,amazon trumpets its cloud lead with nfl and other deals,0.1,7
+450,2017-11-17,alia shawkat on growing up and gaining control,0.0,1
+451,2017-01-05,amazon to open retail store in manhattan at time warner center,0.1,8
+452,2017-01-01,in year of antimuslim vitriol brands promote inclusion,0.0,3
+453,2017-01-13,amazon to add 100000 jobs as bricksandmortar retail crumbles,0.1,14
+454,2017-01-04,tech giants seem invincible that worries lawmakers,-0.3,7
+455,2017-01-01,what us tech giants face in europe in 2017,0.0,7
+456,2017-01-24,how alexa fits into amazons prime directive,0.0,3
+457,2017-01-28,uneasy about the future readers turn to dystopian classics,0.0,3
+458,2017-01-05,coming from automakers voice control that understands you better,0.1,8
+459,2017-01-16,ask alexa no hear this alexa,0.0,1
+460,2017-01-31,tech companies fight trump immigration order in court,-0.3,7
+461,2017-01-20,seniors welcome new batterypowered friends,0.1,3
+462,2017-01-06,daily report the next voice you hear will be amazons,0.0,3
+463,2017-01-14,farhads and mikes week in tech thiel tech companies and trump,0.0,3
+464,2017-01-26,review z hardly the last word on the fitzgeralds,0.0,1
+465,2017-01-17,sears clings to catalog thinking in an online world,-0.8,3
+466,2017-01-06,american apparel could bolster amazons standing with trump,0.0,14
+467,2017-01-18,clearing out the app stores government censorship made easier,-0.7,14
+468,2017-01-12,review con man poses as longlost grandson in sneaky pete,-0.1,1
+469,2017-01-25,george orwells 1984 is suddenly a bestseller,0.0,1
+470,2017-01-06,department stores once anchors at malls become millstones,-0.3,10
+471,2017-12-20,what the tax bill fails to address technologys tsunami,-0.3,7
+472,2017-12-13,the biggest tech failures and successes of 2017,0.1,3
+473,2017-12-13,how 2017 became a turning point for tech giants,0.1,10
+474,2017-12-08,farhad and mikes week in tech the big bitcoin boom,0.1,3
+475,2017-12-28,bookstore chains long in decline are undergoing a final shakeout,0.0,3
+476,2017-12-21,review the last post shows an empire awash in adultery and gin and tonics,0.0,1
+477,2017-12-29,how amazon rattles other companies,-0.2,3
+478,2017-12-07,the tarnished image of transparent,-0.3,3
+479,2017-04-30,amid brickandmortar travails a tipping point for amazon in apparel,0.0,14
+480,2017-04-22,is it time to break up google,-0.2,14
+481,2017-04-28,sharon horgan and the fun filth of catastrophe,0.0,1
+482,2017-04-28,daily report cloud computing asserts itself,0.1,5
+483,2017-04-28,cloud produces sunny earnings at amazon microsoft and alphabet,0.7,7
+484,2017-04-24,fortitude bosch gomorrah tv crime never sleeps,0.0,1
+485,2017-04-30,detailing amazons customclothing patent,0.1,3
+486,2017-04-05,season 2 of fortitude has more icy dread in store,0.0,1
+487,2017-04-27,movers dan loeb takes aim at honeywell,0.0,3
+488,2017-04-05,amazon will stream nfls thursday night games,0.0,7
+489,2017-05-05,open thread this week in style news,0.0,1
+490,2017-05-02,twitter signs a deal to stream regularseason wnba games,0.1,4
+491,2017-05-09,with new echo speakers amazon lets you ask alexa to phone mom,0.1,4
+492,2017-05-16,20 years on amazon and jeff bezos prove naysayers wrong,0.1,4
+493,2017-05-05,chris kraus and jill soloway talk about the show i love dick,0.0,1
+494,2017-05-23,need mood lighting to go with your music ask alexa no app required,0.1,3
+495,2017-05-11,review i love dick sketches an artistic love triangle,0.0,1
+496,2017-05-09,daily report using amazons echo to phone home,-0.1,3
+497,2017-05-24,transparent the musical coming soon,0.0,3
+498,2017-05-09,in praise of international crime dramas,0.0,1
+499,2017-10-13,silicon valley is not your friend,-0.3,3
+500,2017-05-30,a price amazon is content to keep high 1000 a share,0.0,3
+501,2017-05-27,at amazons bookstore no coffee but all the data you can drink,0.0,3
+502,2017-05-10,techs frightful five theyve got us,-0.3,3
+503,2017-05-24,amazon sets up shop in the heart of the publishing industry,0.1,14
+504,2017-05-03,giving the behemoths a leg up on the little guy,0.0,3
+505,2017-05-08,the frightful five arent so scary as long as theyre competing,0.1,3
+506,2017-05-10,which tech giant would you drop,0.0,3
+507,2017-12-07,holiday treats for australian readers,0.0,1
+508,2017-12-20,porch pirates steal holiday packages as they pile up at homes,-0.3,3
+509,2017-12-26,how big tech is going after your health care,-0.3,14
+510,2017-12-06,the hidden player spurring a wave of cheap consumer devices amazon,0.1,7
+511,2017-12-05,amazons australian debut brings excitement dread and defiance,0.1,4
+512,2017-12-14,review in jeanclaude van johnson van damme gives us the true hollywood story,0.0,1
+513,2017-12-06,for transparent accusations against jeffrey tambor burst an idealistic bubble,0.0,1
+514,2017-12-06,how the bot stole christmas toys like fingerlings are snapped up and resold,-0.2,3
+515,2017-12-12,net neutrality protests move online yet big tech is quiet,0.0,4
+516,2017-12-03,cvs to buy aetna for 69 billion in a deal that may reshape the health industry,0.0,14
+517,2017-06-28,amazons vision of computings future an information appliance,0.1,8
+518,2017-06-11,former amazon warehouse manager sues for overtime wages,-0.2,3
+519,2017-06-17,the decline of the baronial ceo,-0.1,3
+520,2017-06-19,for your consideration an increasingly lavish emmy campaign season,0.0,3
+521,2017-06-06,apple needs to reinvent itself it just might be doing so,0.3,14
+522,2017-06-16,amazon is trying to do and sell everything,0.0,8
+523,2017-11-28,the trump administrations incoherent stance on competition,0.0,7
+524,2017-10-13,amazon studios chief suspended after sexual harassment claim,-0.8,7
+525,2017-10-16,newark says hey amazon look over here,0.0,3
+526,2017-10-10,hellofresh the meal delivery service pursues ipo in frankfurt,0.0,4
+527,2017-10-25,how australias technology stands out,0.1,3
+528,2017-10-18,in amazon bid new york brags about well everything,0.0,3
+529,2017-10-05,walmart puts its eggs in a timesaving basket grocery pickup,0.0,4
+530,2017-10-23,amazon counts its suitors 238 want to be home for 2nd headquarters,0.1,8
+531,2017-10-20,inside amazon diversity concerns flare up after harassment accusations,-0.7,7
+532,2017-10-27,cvs is said to be in talks to buy aetna in landmark acquisition,0.0,10
+533,2017-10-07,coparenting with alexa,0.0,3
+534,2017-06-05,fear of a monopoly will help amazons cloud rivals,-0.2,7
+535,2017-06-20,jeff bezoss philanthropy,0.0,3
+536,2017-06-16,walmart to buy bonobos mens wear company for 310 million,0.0,4
+537,2017-06-08,surfing with a new keyboard,0.1,3
+538,2017-06-16,amazon deal for whole foods starts a supermarket war,0.1,14
+539,2017-06-20,amazon will let customers try on clothes before buying,0.1,8
+540,2017-06-16,jeff bezos goes grocery shopping,0.0,1
+541,2017-06-29,trump amazon and internet taxes what did he mean,0.0,7
+542,2017-06-16,the amazonwalmart showdown that explains the modern economy,0.0,10
+543,2017-06-20,tech titans make pilgrimage to white house to discuss government systems,0.1,7
+544,2017-09-20,internet giants face new political resistance in washington,-0.3,7
+545,2017-09-13,how to keep on top of technology when you write about it,0.0,3
+546,2017-09-02,silicon valley courts brandname teachers raising ethics issues,-0.2,7
+547,2017-09-09,shades of noir my hunt for an eclipse glasses villain,0.0,1
+548,2017-09-18,best buys secrets for thriving in the amazon age,0.1,3
+549,2017-09-08,where amazon should go,0.0,3
+550,2017-09-22,whats new on netflix and amazon prime this weekend,0.0,3
+551,2017-09-21,lets stop government giveaways to corporations,-0.1,3
+552,2017-09-26,tech firms add 300 million to trump administrations computer science push,0.3,7
+553,2017-09-26,wooing amazon your turn,0.0,3
+554,2017-08-01,amazons black america imagines a new nation in the south,0.0,1
+555,2017-08-03,nostalgia goes niche in wet hot american summer and comrade detective,0.0,1
+556,2017-08-02,amazons jobs fair sends clear message now hiring thousands,0.1,4
+557,2017-08-21,whole foods voting on amazon takeover and pending verdict in samsung case,0.1,10
+558,2017-08-01,joining apple amazons china cloud service bows to censors,-0.6,10
+559,2017-08-30,cortana open alexa amazon says and microsoft agrees,0.1,3
+560,2017-08-16,does amazon pay taxes contrary to trump tweet yes,0.0,1
+561,2017-08-08,how to make your house a smart home,0.1,3
+562,2017-08-11,how to watch a solar eclipse,0.0,1
+563,2017-09-06,democrats begin legal assault on trumps move to end dreamer program,0.0,7
+564,2017-09-20,amazon reviewing its website after it suggested bombmaking items,-0.8,4
+565,2017-09-29,farhad and mikes week in tech twitters eventful few days,0.0,3
+566,2017-09-15,while amazon plays the field walmart stays true to arkansas,0.0,3
+567,2017-09-30,dear amazon please build here,0.0,1
+568,2017-09-07,amazon plans second headquarters opening a bidding war among cities,0.1,7
+569,2017-09-25,for cities wooing amazons new headquarters nothing is too strange,0.0,3
+570,2017-09-16,meet me in st louis bezos,0.0,1
+571,2017-09-10,as amazon pushes forward with robots workers find new roles,0.1,7
+572,2017-09-27,amazon wants you to wake up with alexa and thats just the start,0.1,8
+573,2017-08-18,alaska warily eyes change bringing suburbs and amazon boxes,0.0,3
+574,2017-08-28,the retailers that can resist the amazon onslaught,0.0,7
+575,2017-08-24,amazons play to rattle whole foods rivals cheaper kale and avocado,0.1,4
+576,2017-08-16,16 billion bond sale shows amazons power to pursue deals,0.0,8
+577,2017-08-25,farhad and mikes week in review apples selfdriving shift,0.1,3
+578,2017-08-28,the amazon effect how prices dropped at whole foods,0.0,3
+579,2017-08-23,amazonwhole foods deal clears last two major hurdles,0.1,14
+580,2017-08-10,wade into the deep bollywood pool with amazons heera,0.1,3
+581,2017-08-23,google and walmart partner with eye on amazon,0.1,7
+582,2017-08-11,neverending superheroes here come the defenders and the tick,0.0,1
+583,2017-06-17,rooted in counterculture whole foods founder finds an unlikely refuge,0.0,3
+584,2017-06-07,the antithesis of amazons retail shop,0.0,3
+585,2017-06-16,an online retailer walked into a salad bar,0.0,1
+586,2017-06-08,at the cannes film festival tech and tradition collide,0.1,3
+587,2017-06-25,amazonwhole foods a good deal,0.1,3
+588,2017-06-07,five big tech stocks build market euphoria and jitters,0.3,7
+589,2017-06-16,amazon to buy whole foods for 134 billion,0.1,14
+590,2017-06-20,conglomerates didnt die they look like amazon,0.1,14
+591,2017-06-29,tech fed trump so many reasons to worry about the market,-0.3,3
+592,2017-06-07,whats on tv wednesday queen sugar and the cmt music awards,0.0,1
+593,2017-10-03,eu said to order luxembourg to collect back taxes from amazon,-0.3,7
+594,2017-10-22,a showdown brews between amazon and alibaba far from home,0.0,7
+595,2017-10-15,amazon turns on the charm amid criticism from right and left,0.0,4
+596,2017-10-04,eu citing amazon and apple tells nations to collect tax,-0.3,7
+597,2017-10-11,the frightful five want to rule entertainment they are hitting limits,-0.3,8
+598,2017-10-19,editing your history on amazon,0.0,3
+599,2017-10-12,from amazon a change that hurts authors,-0.3,7
+600,2017-10-19,australias amazon book battle,0.0,3
+601,2017-10-20,why we dont vote with our wallets,0.0,1
+602,2017-10-18,how the frightful five put startups in a loselose situation,-0.3,3
+603,2017-03-02,matthew weiner shares details about his amazon series,0.0,3
+604,2017-03-20,walmart expands its ecommerce ambitions with a new investment arm,0.1,7
+605,2017-03-23,amazon takes a gamble on middle eastern ecommerce,0.0,7
+606,2017-03-02,corporations show support for transgender boy in supreme court case,0.0,4
+607,2017-03-12,miscue calls attention to amazons dominance in cloud computing,0.1,7
+608,2017-03-13,tech roundup amazon error is a reminder that no company is infallible,-0.2,3
+609,2017-03-17,amy shermanpalladinos newest is an amazon pilot standout,0.0,3
+610,2017-03-08,thinking of rigging your home with smart devices start here,0.1,3
+611,2017-03-27,barry jenkinss the underground railroad in the works at amazon,0.0,3
+612,2017-03-25,amazons ambitions unboxed stores for furniture appliances and more,0.1,8
+613,2017-02-13,daily report why retails future is in seattle,0.0,3
+614,2017-02-03,amazons holiday quarter doesnt match high expectations,-0.3,7
+615,2017-02-23,review amazons patriot takes the spy thriller to a new place,0.0,1
+616,2017-02-14,dont look now but the great unbundling has spun into reverse,0.1,14
+617,2017-02-13,amazons living lab reimagining retail on seattle streets,0.1,8
+618,2017-02-17,netflix and chill sure but there are others too,0.0,3
+619,2018-10-31,tech drove stocks skyward it was a different story on the way down,-0.2,3
+620,2018-10-03,ebay claims amazon illegally tried to poach top sellers,-0.3,7
+621,2018-10-11,review the romanoffs is elegant but frustrating,0.0,1
+622,2018-10-26,silicon valley cant escape the business of war,-0.3,14
+623,2018-10-23,when sears flourished so did workers at amazon its more complicated,0.0,3
+624,2018-10-01,the best tv shows and movies new to netflix amazon and more in october,0.0,3
+625,2018-10-05,childrens allowances in a new form debit cards linked to parents phones,0.0,3
+626,2018-10-31,the problems with britains new digital tax,0.0,7
+627,2018-10-21,few big names expected at saudi conference and data on us economy,0.0,7
+628,2018-10-09,why some amazon workers are fuming about their raise,-0.3,3
+629,2018-11-15,why amazon chose the wrong locations for its hq2,0.0,3
+630,2018-11-15,everything on amazon is amazon,0.0,3
+631,2018-11-06,what amazon may mean for queens gentrification and more packed trains,0.0,3
+632,2018-11-23,the owls legacy explores the glory that was greece,0.0,1
+633,2018-11-14,amazons new york home qualifies as distressed under federal tax law,0.0,4
+634,2018-11-13,with hoopla and murals crystal city welcomes amazon,0.0,3
+635,2018-11-20,the tech stock fall lost these 5 companies 800 billion in market value,-0.9,7
+636,2018-11-07,after protest booksellers are victorious against amazon subsidiary,-0.2,7
+637,2018-11-16,new york city needs amazon as much as amazon needs us,0.0,3
+638,2018-11-13,dominating retail yes reviving a city no thanks,0.0,1
+639,2018-07-19,the pursuit of 1 trillion amazon closes in on apple,-0.2,14
+640,2018-07-18,when a tech reporter doesnt use much tech,0.0,1
+641,2018-07-13,microsoft urges congress to regulate use of facial recognition,0.0,7
+642,2018-07-25,waymo teams up with walmart avis and others for short driverless rides,0.1,8
+643,2018-07-09,how to make the most of amazon prime day 2018,0.0,3
+644,2018-07-15,amazons curious case of the 263052 used paperback,0.0,3
+645,2018-07-20,on netflix a genuine nailbiter and on amazon a genuine eccentric,0.0,1
+646,2018-07-03,silicon valleys giants take their talent hunt to cambridge,0.1,3
+647,2018-06-28,sex cash and death the story behind a very english scandal,0.0,1
+648,2018-06-28,amazon to buy online pharmacy pillpack jumping into the drug business,0.1,14
+649,2018-06-05,jordan peele signs tv deal with amazon,0.0,3
+650,2018-06-28,amazon has a business proposition for you deliver its packages,0.0,3
+651,2018-06-13,how technology transforms the world of comic books,0.1,3
+652,2018-06-20,want to understand what ails the modern internet look at ebay,0.0,3
+653,2018-06-19,amazon urged not to sell facial recognition technology to police,-0.2,7
+654,2018-06-18,googles jdcom deal shows silicon valley still wants in on china,0.1,7
+655,2018-06-22,amazon is latest tech giant to face staff backlash over government work,-0.4,7
+656,2018-06-11,amazon studios new boss is reshaping its strategy step one lure new talent,0.1,7
+657,2018-07-19,who gets left out of the urban tech boom,0.0,5
+658,2018-07-26,amazons facial recognition wrongly identifies 28 lawmakers aclu says,-0.4,7
+659,2018-07-02,why amazons push into prescription drugs isnt a guaranteed success,-0.2,7
+660,2018-07-11,have the tech giants grown too powerful thats an easy one,-0.2,14
+661,2018-07-26,amazon delivers a pile of cash but no fireworks,0.0,7
+662,2018-07-08,amazon is used to promote white supremacist merchandise and views report says,-0.9,7
+663,2018-07-02,delivering amazon packages to the top of the world,0.0,3
+664,2018-07-22,tech and auto earning reports and an eu official visits trump,0.1,7
+665,2018-07-13,a robot romance on amazon american indies and a taxi driver commentary,0.0,3
+666,2018-07-19,microsoft emerges as clear no 2 in cloud computing,-0.2,7
+667,2018-06-28,review a very english scandal is very good and scandalous,0.0,1
+668,2018-06-07,amazon wins exclusive uk rights to broadcast some premier league matches,0.0,7
+669,2018-06-11,foxconn is under scrutiny for worker conditions its not the first time,-0.7,7
+670,2018-06-15,punishing job creation,-0.7,3
+671,2018-06-26,top tech companies met with intelligence officials to discuss midterms,0.0,7
+672,2018-06-17,with twitch amazon tightens grip on live streams of video games,0.1,7
+673,2018-06-23,how amazon steers shoppers to its own products,-0.2,7
+674,2018-06-22,for hugh grant a smaller screen brings a more complex role,0.0,1
+675,2018-06-08,why cities cant stop poaching from one another,0.0,3
+676,2018-06-25,orlando pulls the plug on its amazon facial recognition program,0.0,4
+677,2018-09-07,the mystery of amazon hq2 has finalists seeing clues everywhere,0.0,3
+678,2018-09-23,jeff bezos and the trap of the charitableindustrial complex,0.0,3
+679,2018-09-20,hey alexa why is amazon making a microwave,0.0,3
+680,2018-09-19,tilrays wild day dealbooks closing bell,0.0,3
+681,2018-09-14,elizabeth warren on big banks and the democratic party 5 takeaways,0.0,7
+682,2018-09-13,jeff and mackenzie bezos pledge 2 billion for homeless and preschoolers,0.0,3
+683,2018-09-05,jeff bezos first major political donation is 10 million to elect veterans,0.0,3
+684,2018-09-19,amazon dominates as a merchant and platform europe sees reason to worry,-0.2,10
+685,2018-09-23,the house with a clock in its walls is no 1 as life itself fizzles,0.0,3
+686,2018-02-14,ryan murphy heads to netflix in deal said to be worth up to 300 million,0.0,3
+687,2018-02-20,jeff weiner on jobs of the future,0.0,3
+688,2018-02-20,jeff wilke on worker retraining,0.0,3
+689,2018-10-10,a future where everything becomes a computer is as creepy as you feared,-0.7,3
+690,2018-10-02,amazons wage increase comes down to cost vs political capital for investors,0.0,7
+691,2018-10-02,amazon to raise minimum wage to 15 for all us workers,0.1,7
+692,2018-10-05,dealbook briefing the big problem at the heart of techs latest spy scandal,-0.7,7
+693,2018-10-18,amazon hq2 watch northern virginia checks the most boxes,0.0,3
+694,2018-10-26,in homecoming a sound experiment becomes something to see,0.1,3
+695,2018-10-03,amazons surrender is inspiring,0.0,3
+696,2018-10-25,there is a silver lining for losers of amazons hq2 competition,0.1,3
+697,2018-10-16,there may soon be three internets americas wont necessarily be the best,0.0,15
+698,2018-10-31,review homecoming is military industrial and complex,0.0,3
+699,2018-11-16,review digital renaissance argues consumers of media never had it so good is that the case,0.1,3
+700,2018-11-06,lets hear it quickly for the halfhour drama,0.0,1
+701,2018-11-14,amazons hq2 in virginia leaves a real estate firm poised to cash in,0.0,3
+702,2018-11-06,amazons hq2 make that q for queens,0.0,8
+703,2018-11-19,amazon apple and facebook once led the market now they are driving it down,-0.7,14
+704,2018-11-09,new york today we like big are google and amazon too big,0.0,3
+705,2018-11-14,amazon to queens jonathan adler is ready,0.0,3
+706,2018-11-20,cuomo and de blasio saw the amazon deal as a winner now comes the backlash,-0.2,7
+707,2018-11-22,how was your experience please rate the entire world,0.0,1
+708,2018-11-20,somali workers in minnesota force amazon to negotiate,0.0,4
+709,2018-12-20,facebook rebuked for failing to disclose datasharing deals,-0.7,7
+710,2018-12-12,amazon went to city hall things got loud quickly,0.0,3
+711,2018-12-10,what happens when 25000 amazon workers flush toilets,0.0,1
+712,2018-12-03,review the marvelous mrs maisel takes its time as fast as it can,0.0,3
+713,2018-12-13,the effort to reimagine company towns,0.0,3
+714,2018-12-29,when the bubble bursts consider the antibubble,-0.5,3
+715,2018-12-11,what happened in 2018 shake to remember,0.0,3
+716,2018-12-12,amazon has got to go protesters tell executives,-0.5,3
+717,2018-01-31,cities bid for amazon isnt a oneway street,0.0,3
+718,2018-01-31,the 3 giants health plan,0.0,3
+719,2018-01-31,can amazon and friends handle health care theres reason for doubt,-0.2,7
+720,2018-01-18,amazon names newark and new york city as hq2 finalists,0.0,8
+721,2018-01-19,why toronto made the playoffs for amazons headquarters,0.0,3
+722,2018-01-18,amazon hq2 choices are disappointingly undisruptive,-0.3,3
+723,2018-01-11,review in electric dreams the future seems outdated,-0.1,3
+724,2018-01-26,promising billions to amazon is it a good deal for cities,0.0,3
+725,2018-01-28,can woody allen work in hollywood again,0.0,3
+726,2018-01-21,inside amazon go a store of the future,0.1,3
+727,2018-11-13,cuomo and de blasio team up to welcome amazon,0.0,4
+728,2018-05-01,amazon not waiting for hq2 announces projects in boston and vancouver,0.1,7
+729,2018-05-09,better ways for jeff bezos to spend 131 billion,0.0,3
+730,2018-05-25,america last trumps attack on the amazon job machine,0.0,15
+731,2018-05-20,uk vs us how much of your personal data can you get,0.0,3
+732,2018-04-23,what might happen to amazons profit if it paid its workers more,0.0,7
+733,2018-04-20,kevins week in tech jeff bezos reminds tech whos boss,0.1,3
+734,2018-04-29,one goal of amazons hq2 learn the lessons of seattle,0.0,7
+735,2018-04-25,what amazons new headquarters could mean for rents,0.0,3
+736,2018-04-04,amazon has lots of company as trump slams stupid businesses,-0.3,3
+737,2018-04-06,kevins week in tech extra extra news beyond facebook,0.0,3
+738,2018-04-04,is amazon bad for the postal service or its savior,0.0,3
+739,2018-04-25,raising the rent,0.0,1
+740,2018-01-02,peter thiel is a bitcoin believer dealbook briefing,0.0,3
+741,2018-01-02,tv content wars too many characters chasing not enough action,0.0,3
+742,2018-01-01,states pay the price when you buy online,0.0,3
+743,2018-01-05,with electric dreams philip k dick gets the tv anthology treatment,0.0,3
+744,2018-01-28,how amazon benefits from losing cities hq2 bids,0.0,3
+745,2018-01-30,amazon berkshire hathaway and jpmorgan team up to try to disrupt health care,0.1,14
+746,2018-01-15,alexa were still trying to figure out what to do with you,-0.1,3
+747,2018-01-19,farhads week in tech big tech is pouring love on america thank trump,0.1,3
+748,2018-01-28,tech giants brace for europes new data privacy rules,-0.2,7
+749,2018-01-02,toasts to the deals and other winners of 2017,0.1,3
+750,2018-12-13,maybe its not taxes that scare off business but failing subways,0.0,3
+751,2018-12-29,the 3 biggest challenges for tech in 2019,0.0,7
+752,2018-12-21,in 2018 did business get too big,0.0,3
+753,2018-12-11,making a difference in 2018,0.0,1
+754,2018-12-12,hightech degrees and the price of an avocado the data new york gave to amazon,0.0,3
+755,2018-12-02,marketing through smart speakers brands dont need to be asked twice,0.6,4
+756,2018-12-27,amazon sees in brazil continentsize profits and problems,0.0,7
+757,2018-12-23,bottleneck at printers has derailed some holiday book sales,-0.3,4
+758,2018-12-05,ny today why police drones are coming,0.0,3
+759,2018-12-12,yes you can be an ethical tech consumer heres how,0.1,3
+760,2018-01-25,alexa what happened to my car,0.0,3
+761,2018-01-17,how technology is and isnt changing our reading habits,0.0,3
+762,2018-01-18,where amazon may build its new headquarters,0.0,3
+763,2018-01-11,review even on the internet whats old is new again,0.0,3
+764,2018-01-18,amazon chooses 20 finalists for second headquarters,0.1,7
+765,2018-01-15,more bank earnings chinas growth and sundance without weinstein,0.0,4
+766,2018-01-12,jeff bezos mr amazon steps out,0.0,3
+767,2018-01-23,teaching activities for inside amazon go a store of the future,0.1,3
+768,2018-01-30,dr alexa ive been sneezing and my throat is sore,0.0,1
+769,2018-01-19,executive behind facebooks china charm campaign is out,-0.2,7
+770,2018-12-20,after amazon contest ny lawmakers want to block negotiations done in secret,-0.2,7
+771,2018-12-23,the top 18 media grinches of 2018,-0.1,3
+772,2018-12-18,france not waiting for european union to tax us tech firms as 19 starts,-0.3,10
+773,2018-12-08,hate amazon try living without it,0.0,1
+774,2018-12-20,deputy mayor who oversaw amazon deal and troubled housing authority is leaving,0.0,4
+775,2018-12-21,lastminute shoppers increasingly trust only amazon to deliver,-0.2,7
+776,2018-12-12,amazon hires lobbyists for ny site and tries to fend off ocasiocortezs supporters,-0.2,4
+777,2018-12-16,nashvilles star rises as midsize cities break into winners and losers,0.0,3
+778,2018-12-04,trump said amazon was scamming the post office his administration disagrees,-0.2,4
+779,2018-12-18,the amazon hq2 document we werent supposed to see,0.0,3
+780,2018-04-17,supreme court divided on sales taxes for online purchases,0.0,7
+781,2018-04-03,us stocks rebound slightly after techdriven slump,0.1,3
+782,2018-04-03,to trump its the amazon washington post to its editor thats baloney,0.0,1
+783,2018-04-01,retailers race against amazon to automate stores,0.3,7
+784,2018-04-13,facebook takes the punches while rest of silicon valley ducks,0.0,7
+785,2018-04-01,they tried to boycott facebook apple and google they failed,0.0,3
+786,2018-04-02,markets that climbed the trump bump are tumbling down from it,-0.5,10
+787,2018-04-04,the true damage of trumps fake news,0.0,3
+788,2018-04-24,3 gadgets you didnt know you needed but are worth buying,0.6,3
+789,2018-04-22,amazons critics get new life with trumps attacks on the company,-0.3,7
+790,2018-05-06,save barnes noble,0.0,3
+791,2018-05-18,when the president takes on amazon nobody wins,-0.2,14
+792,2018-05-25,is alexa listening amazon echo sent out recording of couples conversation,-0.6,7
+793,2018-05-08,yes the economy helped elect trump,0.0,15
+794,2018-05-07,amazon vs barnes noble,0.0,3
+795,2018-05-24,review taking another spooky hike up hanging rock,0.0,1
+796,2018-05-29,costume secrets from picnic at hanging rock,0.0,1
+797,2018-05-07,microsoft tries a new role moral leader,0.1,3
+798,2018-05-05,berkshires annual meeting buffett approves of apples buyback plan,0.8,7
+799,2018-05-22,amazon pushes facial recognition to police critics see surveillance risk,-0.3,7
+800,2018-11-15,how parents teach smart spending with apps not cash,0.1,3
+801,2018-11-13,cities should stop playing the amazon hq2 bidding game,0.0,3
+802,2018-11-15,missing from top colleges veterans,0.0,3
+803,2018-11-14,a 2 billion question did new york and virginia overpay for amazon,0.0,3
+804,2018-11-06,a warning from seattle to amazons hq2,0.0,3
+805,2018-11-09,the week in tech social media faces another election test,0.0,7
+806,2018-11-14,new york is a genuine tech hub and that was before amazon,0.1,3
+807,2018-11-12,amazons new neighbor the nations largest housing project,0.0,3
+808,2018-11-15,what amazons hq2 winners look like before amazon,0.0,3
+809,2018-11-13,amazon is getting at least 17 billion to come to queens now comes the fight over whether its worth it,0.0,14
+810,2018-11-15,some new yorkers hate the amazon deal can they stop it,-0.2,7
+811,2018-11-12,amazons hq2 will benefit from new york city but what does new york get,0.0,4
+812,2018-11-19,the secret of amazons success,0.0,3
+813,2018-11-13,before a deal amazon had to know could cuomo and de blasio get along,0.0,3
+814,2018-11-07,losers in amazon sweepstakes arent ready to throw in the towel,-0.2,3
+815,2018-11-07,in superstar cities the rich get richer and they get amazon,0.0,3
+816,2018-11-01,the best movies and tv shows new to netflix amazon and more in november,0.0,3
+817,2018-11-21,why amazon wants to buy 22 regional sports networks,0.0,8
+818,2018-11-27,a business with no end,0.0,3
+819,2018-11-14,everything you need to know about long island city amazons new home,0.0,3
+820,2018-04-13,trump targets a postal service rainmaker package delivery,-0.2,10
+821,2018-04-24,amazon tries a new delivery spot your car,0.1,4
+822,2018-04-10,farmers hit the road to reach shoppers before amazon does,0.0,3
+823,2018-04-19,wells fargo is about to be hit with 1 billion fine dealbook briefing,-0.9,7
+824,2018-04-02,big business is too big,-0.1,3
+825,2018-04-18,techs hollywood takeover amazon reboots citizen kane and et studio,0.1,14
+826,2018-04-26,walmart with billions to spend seeks flipkart ecommerce site in india,0.0,8
+827,2018-04-02,the autocrats playbook,0.0,3
+828,2018-04-26,amazons profit swells to 16 billion lifted by its cloud business,0.6,7
+829,2018-04-06,moving your ebook collection to one device,0.1,3
+830,2018-05-03,amazon pauses huge development plans in seattle over tax plan,0.0,7
+831,2018-05-10,is trumps tax incoherence just a way to hurt amazon,-0.2,7
+832,2018-05-11,spike lees pass over an offbeat melding of cinema and theater,0.0,1
+833,2018-05-10,alexa and siri can hear this hidden command you cant,-0.1,7
+834,2018-05-10,one risk to the economy a slowdown in lending dealbook briefing,-0.3,7
+835,2018-05-31,amazon rankles australian customers by pushing them to a local site,0.0,4
+836,2018-05-16,next up at amazonrun whole foods halfpriced halibut steaks,0.0,3
+837,2018-05-15,seattle scales back tax in face of amazons revolt but tensions linger,-0.2,7
+838,2018-05-03,amazon the elephant in the antitrust room,-0.2,14
+839,2018-05-16,clifford the big red dog returning to tv in 2019,0.0,1
+840,2018-12-10,amazons homegrown chips threaten silicon valley giant intel,-0.2,14
+841,2018-12-16,tech workers got paid in company stock they used it to agitate for change,-0.2,4
+842,2018-12-12,ny today amazon takes on ocasiocortez and her supporters,0.0,3
+843,2018-12-14,what amazon could learn from google in new york city,0.0,3
+844,2018-12-01,the best movies and tv shows new to netflix amazon and more in december,0.0,3
+845,2018-12-24,the five most important stories of 2018,0.0,3
+846,2018-12-13,chase for talent pushes tech giants far beyond west coast,0.4,7
+847,2018-12-27,an amazon effect on queens real estate heres why brokers say its real,0.0,3
+848,2018-12-26,india curbs power of amazon and walmart to sell products online,-0.7,14
+849,2018-12-27,interest in court square condo spikes thanks to amazon,0.0,3
+850,2018-01-25,is indianapolis cool enough for amazon it just might be,0.0,3
+851,2018-01-17,9 points to guide your investments in 2018,0.0,3
+852,2018-01-19,a maine racetrack didnt lure amazon multiply that disappointment by 218,-0.8,1
+853,2018-01-18,amazon cancels one mississippi i love dick and jeanclaude,0.0,3
+854,2018-01-19,bizarre bids to be amazons new home,0.0,3
+855,2018-03-07,amazon offers prime discount for medicaid recipients,0.0,4
+856,2018-03-22,at mars jeff bezos hosted roboticists astronauts other brainiacs and me,0.0,3
+857,2018-03-26,grocery wars turn small chains into battlefield casualties,-0.2,3
+858,2018-03-18,fedex follows amazon into the robotic future,0.1,7
+859,2018-03-29,why reining in amazon could be difficult dealbook briefing,-0.2,7
+860,2018-03-25,to invade homes tech is trying to get in your kitchen,-0.3,3
+861,2018-03-29,trump attacks amazon saying it does not pay enough taxes,-0.4,7
+862,2018-03-08,amazon knows why alexa was laughing at its customers,0.0,3
+863,2018-03-30,trumps attack on amazon over taxes,-0.7,7
+864,2018-02-02,amazon and apple gush over holiday sales,0.8,7
+865,2018-02-21,why we may soon be living in alexas world,0.1,3
+866,2018-02-01,a good health care deal but only for some,0.0,3
+867,2018-02-02,let the preoscar bingeing begin,0.0,3
+868,2018-02-21,in an era of smart things sometimes dumb stuff is better,0.0,3
+869,2018-02-28,can we really scrub carbon dioxide from the atmosphere,0.0,15
+870,2018-02-02,farhads week in tech less time on facebook more noise from amazon,0.0,3
+871,2018-02-09,nbc executive takes over amazon studios,0.0,4
+872,2018-02-15,amazon moves on without transparent actor jeffrey tambor,0.0,1
+873,2018-02-01,employer health insurance oftenhated sometimes pioneering and now on amazons radar,0.1,7
+874,2018-11-26,sleepwalking markets woke up this year thats a good thing,0.6,3
+875,2018-11-06,was amazons headquarters contest a baitandswitch critics say yes,-0.1,3
+876,2018-11-08,google is said to be shopping for more real estate in new york,0.0,3
+877,2018-11-07,visions of a tech hub landing amazon is just a start,0.3,8
+878,2018-11-13,amazons hq2 plan gets a cool reception,-0.1,4
+879,2018-11-14,amazon hq2 how new york and virginia won the beauty contest,0.0,3
+880,2018-11-16,the week in tech amazon finally makes an hq2 decision,0.1,8
+881,2018-11-14,amazon and the urban hypocrite,0.0,3
+882,2018-11-20,amazon is coming can new yorks transit system handle it,0.0,3
+883,2018-11-21,will amazon ruin or revitalize new york city,0.0,1
+884,2018-10-10,earning more at amazon maybe,0.0,4
+885,2018-10-25,amazon squeezes out more profit as sales growth slows,0.0,7
+886,2018-10-15,how sears was the amazon of its day,0.0,3
+887,2018-10-30,deutschland 83 was a hit abroad but a flop at home what about deutschland 86,0.0,3
+888,2018-10-19,a romanov is not too happy with the romanoffs,0.0,1
+889,2018-10-12,the week in tech fears of the supply chain in china,-0.3,7
+890,2018-10-16,the billionaire who led sears into bankruptcy court,-1.0,3
+891,2018-10-03,matthew weiner on life after mad men sexual harassment and his new amazon show,0.0,1
+892,2018-09-19,why jeff bezos should push for nobody to get as rich as jeff bezos,0.0,3
+893,2018-09-05,dealbook briefing amazon could march past 1 trillion,0.6,8
+894,2018-09-18,when an owners new company puts the old one in trumps cross hairs,-0.7,14
+895,2018-09-26,anthony hopkins returns to king lear finally up to the challenge,0.0,1
+896,2018-09-03,hard lessons thanks amazon breathe new life into retail stores,0.1,8
+897,2018-09-18,the best and worst moments of the 2018 emmys,0.0,1
+898,2018-09-19,the most fun and useful things you can do with an amazon echo or google home,0.0,3
+899,2018-09-12,the metamorphosis of silicon valley ceos from big to boring,-0.2,3
+900,2018-09-28,in pretty poison and gun crazy femmes fatales with deadly firepower,0.0,1
+901,2018-09-26,how apple thrived in a season of tech scandals,0.7,7
+902,2018-08-30,maya rudolph and fred armisen play it relatively straight,0.0,1
+903,2018-08-14,the unlikely activists who took on silicon valley and won,0.7,7
+904,2018-08-21,amazons ripple effect on grocery industry rivals stock up on startups,0.1,8
+905,2018-08-31,india pushes back against tech colonization by internet giants,-0.2,14
+906,2018-08-09,how it ends and no blade of grass grim visions of tomorrow,-0.1,1
+907,2018-08-31,the last company you would expect is reinventing health benefits,0.1,8
+908,2018-08-02,amazon removes products featuring nazi symbols,0.0,4
+909,2018-08-17,alexa vs siri vs google which can carry on a conversation best,0.1,3
+910,2018-09-12,review forever is a thrilling story of boring love,0.0,1
+911,2018-09-14,how maya rudolph became the master of impressions,0.0,1
+912,2018-09-18,hbo and netflix reluctant rivals party down after winning 23 emmys apiece,0.0,3
+913,2018-09-07,amazons antitrust antagonist has a breakthrough idea,0.1,10
+914,2018-09-03,amazon sets its sights on the 88 billion online ad market,0.0,8
+915,2018-09-03,silicon valley doesnt like trump it can still work with the government,0.0,3
+916,2018-09-04,amazons plan to reach 500 million indians speak their language,0.0,8
+917,2018-09-06,trumps thumps dont cause stock slumps,0.0,1
+918,2018-09-04,amazon hits 1000000000000 in value following apple,0.8,14
+919,2018-09-23,want to see whats up amazons sleeve take a tour of seattle,0.0,3
+920,2018-08-25,are superstar firms and amazon effects reshaping the economy,0.1,15
+921,2018-08-08,for icahn amazon is a reason not to do a deal,-0.1,3
+922,2018-08-02,apples 1 trillion milestone reflects rise of powerful megacompanies,0.8,14
+923,2018-08-01,stumbles what stumbles big tech is as strong as ever,0.1,3
+924,2018-08-08,playing catchup with walmart amazon offers digital grocery pickup at whole foods,0.1,7
+925,2018-08-30,review meet the new jack ryan same as the old jack ryan,0.0,1
+926,2018-08-03,ciscos duo acquisition is part of an industry push to secure the cloud,0.3,8
+927,2018-08-22,jack ryan still just wants to sit at a desk,0.0,1
+928,2018-08-05,cities offers for amazon base are secrets even to many city leaders,0.0,3
+929,2018-08-02,jeff bezos style icon,0.0,1
+930,2018-06-21,supreme court widens reach of sales tax for online retailers,0.0,7
+931,2018-06-20,how tech companies conquered americas cities,0.1,8
+932,2018-06-22,amazon looks at new sales taxes and shrugs dealbook briefing,0.0,3
+933,2018-06-20,amazon berkshire hathaway and jpmorgan name ceo for health initiative,0.0,14
+934,2018-06-21,shares of amazon wayfair and others hit by the supreme courts ruling on internet sales taxes,-0.3,7
+935,2018-06-05,tech stocks are hitting highs as economic uncertainty rises,0.1,7
+936,2018-06-29,the week in tech amazon continues its quest for world domination,0.1,14
+937,2018-06-12,seattle officials repeal tax that upset amazon,0.0,7
+938,2018-06-04,facebook gave device makers deep access to data on users and friends,-0.7,10
+939,2018-11-10,the week in business what the midterms mean for taxes and amazons 2 new homes,0.0,7
+940,2018-11-09,new york should say no to amazon,-0.2,3
+941,2018-11-22,what amazon means for long island city,0.0,3
+942,2018-11-15,is amazon bad for america,-0.1,3
+943,2018-11-22,amazon lifts ban on australians shipping from its main site,0.1,4
+944,2018-11-16,can new york citys mayor be an amazon booster and still be progressive,0.0,3
+945,2018-11-06,amazon plans to split hq2 between long island city ny and arlington va,0.0,7
+946,2018-11-14,new yorks amazon deal is a bad bargain,-0.2,3
+947,2018-11-20,turbulent stock market is flashing a warning about the economy,-0.3,10
+948,2018-11-04,booksellers protest amazon sites move to drop stores from certain countries,-0.3,7
+949,2018-03-30,silicon valley warms to trump after a chilly start,0.1,7
+950,2018-03-02,the supreme court case that could give tech giants more power,0.1,14
+951,2018-03-04,attention 1916 shoppers the doctor is in,0.0,1
+952,2018-03-19,europes planned digital tax heightens tensions with us,-0.3,10
+953,2018-03-06,review the big picture chronicles a changing entertainment industry,0.1,10
+954,2018-03-09,giovanni ribisi has been conned so have you,-0.1,1
+955,2018-03-31,hey alexa what can you hear and what will you do with it,0.0,3
+956,2018-03-29,the facts behind trumps tweets on amazon taxes and the postal service,0.0,7
+957,2018-03-25,as amazon steps up tax collections some cities are left out,0.0,4
+958,2018-03-01,bit by bit whole foods gets an amazon touch,0.3,7
+959,2018-02-09,amazon to test a new delivery service for sellers,0.1,7
+960,2018-02-01,if workers slack off the wristband will know and amazon has a patent for it,-0.5,8
+961,2018-02-04,amazon asked for patience remarkably wall street complied,0.1,3
+962,2018-02-27,amazon buys ring maker of smart home products,0.1,8
+963,2018-02-03,amazon effect meatball edition,0.0,3
+964,2018-02-01,businesses look at washington and say never mind well do it,0.0,3
+965,2018-02-01,alibabas online growth surges even as it looks offline,0.1,7
+966,2018-02-20,albertsons is buying rite aid walmarts stock falls theres a common rival,0.0,7
+967,2018-02-15,as the streaming wars heat up ryan murphy cashes in,0.1,3
+968,2018-02-14,sams club makes ecommerce push with amazon prime competitor,0.0,7
+969,2019-10-21,amazons first fully automated factory is anything but,-0.2,7
+970,2019-10-09,tech giants shift profits to avoid taxes theres a plan to stop them,-0.6,14
+971,2019-10-30,2 plead guilty in 2016 uber and lyndacom hacks,-0.1,3
+972,2019-10-16,australian booksellers block sales of ronan farrows book,0.0,3
+973,2019-10-22,esper removes himself from reviewing cloudcomputing contract,-0.1,3
+974,2019-10-28,how your amazon delivery helps to clog the streets,-0.1,3
+975,2019-10-16,how amazon has transformed the hasidic economy,0.0,3
+976,2019-10-30,amazon tests soul of seattle with deluge of election cash,0.0,4
+977,2019-10-25,microsoft wins pentagons 10 billion jedi contract thwarting amazon,-0.2,14
+978,2019-10-02,the best movies and tv shows new to netflix amazon and stan in australia in october,0.0,3
+979,2019-11-15,doing tiny jobs for tinier pay,-0.1,1
+980,2019-11-22,with big tech in their path startups turn to business markets,0.1,7
+981,2019-11-28,when is a star not always a star when its an online review,0.0,3
+982,2019-11-25,chasing amazon retailers are in a neverending arms race,0.0,3
+983,2019-11-28,donald trump jr debut author sees sales bolstered by gop allies,0.0,3
+984,2019-11-14,amazon protesting pentagons 10 billion jedi contract,-0.2,10
+985,2019-11-07,powerful coalition pushes back on antitech fervor,0.6,7
+986,2019-11-15,will streaming kill the art of cinema or grant it new life,0.0,3
+987,2019-11-30,prime mover how amazon wove itself into the life of an american city,0.0,3
+988,2019-11-26,activists build a grassroots alliance against amazon,0.0,7
+989,2019-02-21,with 2020 in sight de blasio turns against amazon,-0.2,4
+990,2019-02-07,jeff bezos accuses national enquirer of extortion and blackmail,0.0,3
+991,2019-02-02,how silicon valley puts the con in consent,-0.9,7
+992,2019-02-18,new york did us all a favor by standing up to amazon,0.0,4
+993,2019-02-15,new york returns 25000 jobs to amazon,0.0,7
+994,2019-02-21,how new york lost amazon,-0.2,4
+995,2019-02-15,big investors shed tech stocks as markets tumbled last quarter,-0.7,7
+996,2019-02-16,for some 2020 democrats rejection of amazon aligns with liberal policy views,0.0,3
+997,2019-02-14,amazon pulls out of planned new york city headquarters,0.0,14
+998,2019-02-24,nyc special election 7 factors that will help decide the public advocate race,0.0,3
+999,2019-03-06,the imposing venture of 3 corporate giants gets a notsoimposing new name,0.0,8
+1000,2019-03-11,how the internet travels across oceans,0.0,3
+1001,2019-09-06,when the ai professor leaves students suffer study says,-0.1,3
+1002,2019-09-15,steal this book theres a price,-1.0,1
+1003,2019-09-06,13 ways the government went after google facebook and other tech giants this year,-0.7,10
+1004,2019-07-01,the best movies and tv shows new to netflix amazon and more in july,0.0,3
+1005,2019-07-10,alexa now gives uk users nhs medical advice,0.0,4
+1006,2019-07-16,tech hearings congress unites to take aim at amazon apple facebook and google,-0.7,14
+1007,2019-07-18,trump says he may intervene in huge pentagon contract sought by amazon,-0.3,10
+1008,2019-07-10,amazon hq2 is upending northern virginias already unstable housing market,0.0,3
+1009,2019-07-10,the great race to rule streaming tv,0.1,10
+1010,2019-07-25,amazon earnings impatient shoppers help lift sales 20 percent,0.3,7
+1011,2019-07-08,kohls is betting on amazon returns to drive sales,0.1,4
+1012,2019-07-02,meet the man quietly building the tesla of trucks with jeff bezos aboard,0.1,14
+1013,2019-07-28,amazon wants to rule the grocery aisles and not just at whole foods,0.1,8
+1014,2019-06-11,house opens tech antitrust inquiry with look at threat to news media,-0.3,7
+1015,2019-06-05,tech giants amass a lobbying army for an epic washington battle,-0.3,7
+1016,2019-06-03,big tech shares slide as prospect of antitrust scrutiny mounts,-0.7,10
+1017,2019-06-25,how to prepare for amazon prime day,0.0,3
+1018,2019-06-22,the week in business stocks hit a record high and facebook wants to replace your bank,0.6,14
+1019,2019-06-11,amazon to end its restaurant delivery service,0.0,4
+1020,2019-06-19,if youve built a chaos factory you cant dodge responsibility for the chaos,-0.2,3
+1021,2019-06-07,the week in tech what not to expect from big techs antitrust showdown,-0.2,7
+1022,2019-06-10,anger at big tech unites noodle pullers and code writers,-0.3,3
+1023,2019-06-14,stanford team aims at alexa and siri with a privacyminded alternative,-0.2,8
+1024,2019-07-03,hacking glitches disinformation why experts are worried about the 2020 census,-0.4,7
+1025,2019-07-23,how to get a 5000 amazon credit buy a house through realogy,0.0,3
+1026,2019-07-15,beware other nations will follow france with their own digital tax,-0.3,7
+1027,2019-07-15,amazon prime day brings sales and risks for retailers,0.1,7
+1028,2019-07-04,independent bookstores vs amazon,-0.1,3
+1029,2019-07-29,for tech were the gift that keeps on giving but we get prime,0.0,3
+1030,2019-07-09,your inbox is spying on you,-0.3,3
+1031,2019-07-11,5 things to avoid on amazon prime day,0.0,3
+1032,2019-07-17,amazon faces eu inquiry over data from independent sellers,-0.2,7
+1033,2019-07-19,the week in tech some workers hate robots retraining may change that,0.1,7
+1034,2019-06-04,why does google know everything youve bought on amazon for the past six years,-0.2,7
+1035,2019-06-23,what happens after amazons domination is complete its bookstore offers clues,0.0,8
+1036,2019-06-03,elizabeth warren sticks her message in big techs face,-0.4,7
+1037,2019-06-28,the buffalo hunt review the sacred ties that bind,0.0,1
+1038,2019-06-06,democratic candidates woo silicon valley for donations then bash it,-0.3,4
+1039,2019-06-27,smile your city is watching you,0.0,1
+1040,2019-06-27,elizabeth warren on breaking up big tech,-0.5,7
+1041,2019-06-02,google and amazon are at the center of a storm brewing over big tech,-0.3,10
+1042,2019-06-28,what i learned poking around amazons bookstore,0.0,3
+1043,2019-06-18,facebook under oath you have no expectation of privacy,-0.2,7
+1044,2019-08-23,i visited 47 sites hundreds of trackers followed me,-0.2,1
+1045,2019-09-12,review in the entrancing undone life is but a dream state,0.0,1
+1046,2019-09-19,amazon accelerates efforts to fight climate change,0.1,7
+1047,2019-09-27,the week in tech why californians have better privacy protections,0.1,4
+1048,2019-09-13,house antitrust panel seeks documents from 4 big tech firms,-0.4,7
+1049,2019-09-24,the loophole that turns your apps into spies,-0.8,10
+1050,2019-09-01,the best movies and tv shows coming to netflix amazon and more in september,0.0,3
+1051,2019-09-26,at techs leading edge worry about a concentration of power,-0.2,7
+1052,2019-09-02,after times of turmoil transparent goes out singing,0.0,3
+1053,2019-09-11,staying on top of techs changing story,0.1,3
+1054,2019-09-09,google antitrust investigation outlined by state attorneys general,-0.4,7
+1055,2019-02-14,in the end amazon didnt win its own subsidy game,-0.2,3
+1056,2019-02-01,dealbook briefing trump may leave tariffs on china in place,-0.2,7
+1057,2019-02-15,dealbook briefing the bigger picture behind amazon ditching ny,0.0,7
+1058,2019-02-14,amazons exit forces a reckoning for ny political leaders,0.0,3
+1059,2019-02-20,does new york still have a future in tech,0.0,3
+1060,2019-02-16,amazon bails and new york reacts the city was never really on board,0.0,3
+1061,2019-02-16,a better way to attract amazons jobs,0.0,3
+1062,2019-02-15,the week in tech a break from consumer tech,0.0,3
+1063,2019-02-14,for once amazon loses a popularity contest,-0.2,3
+1064,2019-02-12,the bezos story is big,0.0,3
+1065,2019-03-06,amazon is closing popup stores as its retail strategy evolves,0.0,4
+1066,2019-03-20,amazon and union at odds over firing of staten island warehouse worker,-0.3,4
+1067,2019-03-19,alexandria ocasiocortez is top villain in amazon pullout poll finds,0.0,3
+1068,2019-03-02,how jeff bezos went to hollywood and lost control,0.0,3
+1069,2019-03-06,silicon valleys military dilemma,0.0,10
+1070,2019-03-03,new york weather snow storm moves out but worries over freezing remain,0.0,3
+1071,2019-03-13,review in catastrophe true love is not convenient,0.0,1
+1072,2019-03-02,after cuomos calls to amazon a flurry of conversations to rally support,0.1,3
+1073,2019-03-02,amazon the doors still open,0.0,3
+1074,2019-03-04,why napalm is a cautionary tale for tech giants pursuing military contracts,-0.7,7
+1075,2019-10-09,behind amazons sudden change in its film strategy,0.0,7
+1076,2019-10-16,europes margrethe vestager takes a rare step toward big tech,0.1,7
+1077,2019-10-23,microsoft rides cloud to a 21 increase in profits,0.4,7
+1078,2019-10-15,my algorithm makeover,0.0,3
+1079,2019-10-31,california attorney general is a noshow on tech investigations,-0.2,7
+1080,2019-10-09,2200 viewed germany shooting before twitch removed post,0.0,1
+1081,2019-10-27,15 million packages a day the internet brings chaos to ny streets,0.0,3
+1082,2019-10-18,in house antitrust hearing lawmakers focus on harms to privacy,-0.3,7
+1083,2019-10-29,amazon turns to more free grocery delivery to lift food sales,0.1,7
+1084,2019-10-18,the week in tech amazon muscles in on seattle election,0.0,4
+1085,2019-11-01,the best movies and tv shows new to netflix amazon and stan in australia in november,0.0,3
+1086,2019-11-19,big techs toughest opponent says shes just getting started,0.1,7
+1087,2019-11-04,with a laser researchers say they can hack alexa google home or siri,-0.5,7
+1088,2019-11-01,the great streaming spacetime warp is coming,0.1,3
+1089,2019-11-26,the amazon coat one year later,0.0,3
+1090,2019-11-11,fervor grows for regulating big tech,-0.3,7
+1091,2019-11-02,trumps twitter presidency 9 key takeaways,0.0,3
+1092,2019-11-26,trumps tax truce with france expires but the path ahead remains unclear,0.0,7
+1093,2019-11-01,the week in tech whatsapps spyware fight is at least good pr,0.1,3
+1094,2019-11-15,two reporters navigate mountains of packages in new york,0.0,1
+1095,2019-12-16,the decade tech lost its way,-0.8,15
+1096,2019-01-31,releasing earnings microsoft stays in stride with cloud powering the way,0.4,7
+1097,2019-01-09,ces 2019 its the year of virtual assistants and 5g,0.3,7
+1098,2019-01-19,microsoft cannot fix seattles housing crisis,0.0,3
+1099,2019-01-14,what if you could literally talk to the new york times,0.0,3
+1100,2019-01-11,real estate funds have been a balm in a stinging market,0.0,3
+1101,2019-01-01,in the race for content hollywood is buying up hit podcasts,0.1,8
+1102,2019-01-01,the best movies and tv shows new to netflix amazon and more in january,0.0,3
+1103,2019-01-04,the week in tech amazons burning problems,-0.2,7
+1104,2019-01-18,why jeff bezos divorce should worry amazon investors,-0.4,7
+1105,2019-01-18,the sexts of jeff bezos and the death of privacy,-0.1,3
+1106,2019-02-07,woody allen sues amazon over canceled 68 million deal,-0.1,4
+1107,2019-02-03,super bowl commercials 2019 brands play it safe and look to the future,0.1,3
+1108,2019-02-14,what people are saying about amazons breakup with new york city,0.0,4
+1109,2019-02-10,jeff bezos please release your dirty selfies,0.0,1
+1110,2019-02-15,amazon invests in rivian a tesla rival in electric vehicles,0.1,14
+1111,2019-02-22,unitedhealth loses case to the health venture begun by amazon berkshirehathaway and jpmorgan chase,-0.2,7
+1112,2019-02-01,numbers are in for marvelous mrs maisel courtesy of nielsen,0.0,1
+1113,2019-02-12,new york needs amazon,0.0,3
+1114,2019-02-18,thank you new york,0.0,1
+1115,2019-02-21,a times square billboard hits ocasiocortez on amazon she hits back,0.0,3
+1116,2019-05-28,mackenzie bezos owns 36 billion in amazon shares now she is vowing to give away much of her wealth,0.0,3
+1117,2019-05-09,amazon dropped woody allens latest film europe has picked it up,0.0,3
+1118,2019-05-08,3 muslim workers at amazon file federal discrimination complaint,-0.7,4
+1119,2019-04-25,microsoft touches 1 trillion value signaling big techs stock market comeback,0.6,7
+1120,2019-04-18,amazon gives up on chinese domestic shopping business,0.0,10
+1121,2019-04-18,battle for amazon domain pits retailer against south american nations,0.0,8
+1122,2019-04-19,review bosch is back still on the straight and narrow,0.0,3
+1123,2019-04-13,hollywood upended as unions tell writers to fire agents,0.0,3
+1124,2019-04-16,we built an unbelievable but legal facial recognition machine,0.8,8
+1125,2019-04-11,tech companies say they care,0.0,3
+1126,2019-04-11,its time to panic about privacy,-0.7,7
+1127,2019-02-12,on his visit to albany de blasio gets a mostly hearty embrace,0.0,1
+1128,2019-02-16,in amazon fight progressives showed what they want a new economic agenda,0.0,3
+1129,2019-02-03,big tech is no longer carrying the stock market,-0.5,14
+1130,2019-02-01,amazons sales growth slows even as cloud business stays hot,-0.3,7
+1131,2019-02-08,gavin de becker bezos security chief is a guardian to the stars,0.0,1
+1132,2019-02-04,amazon deal meets new resistance as cuomo and ny senate clash,0.0,10
+1133,2019-02-08,jeff bezos isnt afraid of total exposure,0.0,3
+1134,2019-02-22,it started with a jolt how new york became a tech town,0.1,3
+1135,2019-02-19,amazon and the autocrats,0.0,10
+1136,2019-02-02,clash of giants unitedhealth takes on amazon berkshire hathaway and jpmorgan chase,0.0,7
+1137,2019-01-07,there is a free lunch after all its at the office,0.0,1
+1138,2019-01-10,how companies like apple sprinkle secrets in earnings reports,-0.2,7
+1139,2019-01-17,microsoft pledges 500 million for affordable housing in seattle area,0.1,4
+1140,2019-01-03,devices that will invade your life in 2019 and whats overhyped,0.1,3
+1141,2019-01-18,crazy rich progressives,0.0,1
+1142,2019-01-30,amazon has a new strategy to sway skeptics in new york,0.0,4
+1143,2019-01-15,netflix is raising prices heres why,-0.2,7
+1144,2019-01-09,jeff bezos of amazon and mackenzie bezos plan to divorce,0.0,3
+1145,2019-01-20,amazon knows what you buy and its building a big ad business from it,0.1,7
+1146,2019-01-30,amazon users in india will get less choice and pay more under new selling rules,-0.3,7
+1147,2019-12-12,want a bigger say on corporate behavior move your money,0.0,3
+1148,2019-12-15,why twitch is still the king of live game streaming,0.0,3
+1149,2019-12-16,boeing may suspend 737 max production,0.0,14
+1150,2019-12-07,amazon grows in new york reviving debate over abandoned queens project,0.0,4
+1151,2019-12-22,the week in tech how is antitrust enforcement changing,0.0,7
+1152,2019-12-01,the best movies and tv shows coming to netflix apple tv plus and more in december,0.1,3
+1153,2019-12-29,the week in business amazon won christmas,0.6,7
+1154,2019-12-18,the catastrophists 2019 tech gift guide,0.0,3
+1155,2019-12-20,the 30 best international tv shows of the decade,0.0,1
+1156,2019-12-07,the loss of momandpop stores that cant compete with amazon,-0.3,10
+1157,2019-01-25,amazon is pushing facial technology that a study says could be biased,-0.4,7
+1158,2019-01-26,the secret life of amazons vine reviewers,0.0,3
+1159,2019-01-30,amazons new york charm offensive includes a veiled threat,0.0,7
+1160,2019-01-10,review informer finds a fresh take on the terrorism thriller,0.0,1
+1161,2019-01-01,big tech may look troubled but its just getting started,0.6,14
+1162,2019-01-12,who is mackenzie scott,0.0,1
+1163,2019-12-02,90000 packages disappear daily in nyc is help on the way,0.0,3
+1164,2019-12-30,in 2019 netflix and amazon set their sights on india,0.0,8
+1165,2019-12-27,prime anchor an amazon warehouse town dreams of a better life,0.0,1
+1166,2019-12-05,fight against colorism takes on amazon beauty cannot be one skin color,0.0,3
+1167,2019-12-18,hms different kind of clickbait,0.0,1
+1168,2019-12-10,big tech is under attack and investors couldnt care less,-0.2,3
+1169,2019-12-23,rivian gets 13 billion investment in electric truck venture,0.1,14
+1170,2019-12-27,the week in tech what 5 billion means to amazon,0.0,7
+1171,2019-12-19,many facialrecognition systems are biased says us study,-0.3,7
+1172,2019-12-31,the best movies and tv shows new to netflix amazon and stan in australia in january,0.0,3
+1173,2019-04-11,donald glover and rihannas guava island heres what we know,0.0,3
+1174,2019-04-16,privacy is too big to understand,0.0,3
+1175,2019-04-25,amazon expanding oneday prime shipping as sales growth slows,0.1,7
+1176,2019-04-01,the best movies and tv shows new to netflix amazon and more in april,0.0,3
+1177,2019-04-12,in the stock market value again lags growth,-0.3,3
+1178,2019-04-13,donald glovers guava island debuts after coachella set as childish gambino,0.1,3
+1179,2019-04-24,nora roberts sues brazilian writer who she says plagiarized her work,0.0,3
+1180,2019-04-25,sweetgreen scraps its cashless policy as criticism grows,-0.2,3
+1181,2019-04-03,ai experts question amazons facialrecognition technology,-0.3,7
+1182,2019-04-05,game of thrones changed tv let us count the ways,0.0,3
+1183,2019-05-23,heres what to watch on tv this summer,0.0,1
+1184,2019-05-20,amazon faces investor pressure over facial recognition,-0.3,7
+1185,2019-05-22,amazon investors reject proposals on climate change and facial recognition,-0.2,7
+1186,2019-05-15,fleabag is finally back heres a refresher,0.0,1
+1187,2019-05-28,the reason you hate online ads,-0.3,3
+1188,2019-05-27,amazons facial recognition technology,0.0,7
+1189,2019-05-09,amazon flunks childrens privacy advocacy groups charge,-0.7,7
+1190,2019-05-16,review as she was saying brilliantly in a new fleabag,0.0,1
+1191,2019-05-02,why does apple control its competitors,0.0,3
+1192,2019-05-14,attention amazon shoppers google wants some of your spending money,0.0,3
+1193,2019-02-15,amazon and new york unions had productive meeting then came a shock,0.0,7
+1194,2019-02-15,even without amazon tech could keep gaining ground in new york,0.1,3
+1195,2019-02-15,why the new york amazon deal fell apart,-0.2,3
+1196,2019-02-08,jeff bezos vs the national enquirer how a tabloid tale escalated and exploded,0.0,3
+1197,2019-02-16,the week in business amazon breaks up with new york and warren buffett takes stock,0.1,14
+1198,2019-02-19,can a republican win a citywide race in ny maybe with amazons help,0.0,3
+1199,2019-02-10,the week in business jeff bezos private texts and more fog in london,0.0,3
+1200,2019-02-15,northern virginia is keeping amazons 25000 jobs and wants you to know it,0.0,4
+1201,2019-02-28,andrew cuomo speaks with jeff bezos hints of other ways to clear path for amazons return,0.1,10
+1202,2019-02-06,review hong kong touristnoir in amazons white dragon,0.0,1
+1203,2019-02-08,amazon hq2 deal stirs new tensions in new york,0.0,4
+1204,2019-02-21,woody allen is shooting a new movie in spain,0.0,1
+1205,2019-02-12,washington post finds itself in the middle of the jeff bezos story,0.0,3
+1206,2019-04-29,profitable giants like amazon pay 0 in corporate taxes some voters are sick of it,-0.3,7
+1207,2019-04-03,whole foods cut prices it saved us 5 cents,0.1,1
+1208,2019-04-10,over 4200 amazon workers push for climate change action including cutting some ties to big oil,0.0,4
+1209,2019-04-27,the week in business teslas driverless taxis and ubers ipo,0.1,7
+1210,2019-04-04,jeff bezos amazon ceo and mackenzie bezos finalize divorce details,0.0,3
+1211,2019-04-09,an indian tv show points the way for a new generation,0.0,3
+1212,2019-04-28,which tech company is uber most like its answer may surprise you,0.0,3
+1213,2019-04-04,amazon studios counters woody allens lawsuit and defends severing of ties,0.0,4
+1214,2019-04-10,amazon and microsoft are 2 finalists for 10 billion pentagon contract,0.1,8
+1215,2019-04-12,these funds rode small companies to big returns,0.1,3
+1216,2019-05-29,apps that blast out crime alerts dont have to rattle you,0.0,3
+1217,2019-05-31,the best movies and tv shows new to netflix amazon and more in june,0.0,3
+1218,2019-05-14,throw your laptop into the sea the surveillance economy will still win,-0.8,3
+1219,2019-05-01,the best movies and tv shows new to netflix amazon and more in may,0.0,3
+1220,2019-05-13,amazon will pay workers to quit and start their own delivery businesses,0.0,7
+1221,2019-05-08,after a messy breakup with new york amazon is back with a cashierless go store,0.1,7
+1222,2019-05-18,the week in business a facial recognition ban and trade war blues,-0.3,7
+1223,2019-05-17,amazon to invest in deliveroo a rival to uber in food delivery,0.0,8
+1224,2019-05-22,siri and alexa reinforce gender bias un finds,-0.3,7
+1225,2019-05-01,tech is changing new york but not how he reports on the city,0.0,3
+1226,2019-12-02,amazon removes holiday ornaments with images of auschwitz after criticism,0.0,3
+1227,2019-12-17,brian tarantina marvelous mrs maisel actor died of overdose medical examiner says,-0.9,1
+1228,2019-12-08,this man may be big techs biggest threat,-0.3,3
+1229,2019-12-04,park it trucks here come new yorks cargo bikes,0.0,3
+1230,2019-12-07,11 of our best weekend reads,0.0,1
+1231,2019-12-04,sundance gets real with a lineup of newsy films for 2020,0.0,3
+1232,2019-12-05,15 million packages a day what your online ordering does to ny,0.0,3
+1233,2019-12-19,prime power how amazon squeezes the businesses behind its store,-0.5,14
+1234,2019-12-15,prime leverage how amazon wields power in the technology world,0.1,10
+1235,2019-12-09,amazon accuses trump of improper pressure on jedi contract,-0.2,4
+1236,2019-03-09,are you an amazon or an apple family,0.0,3
+1237,2019-03-29,beat the devil the bogart flop that spawned a cult,0.0,1
+1238,2019-03-19,skies arent clogged with drones yet but dont rule them out,0.0,3
+1239,2019-03-31,7 takeaways from new yorks 175 billion budget,0.0,4
+1240,2019-03-03,amazon bets on an empathetic alexa,0.3,8
+1241,2019-03-29,review amazons hanna genetically modified for streaming video,0.0,3
+1242,2019-03-04,amazons hard bargain extends far beyond new york,0.0,10
+1243,2019-03-01,the best movies and tv shows new to netflix amazon and more in march,0.0,3
+1244,2019-03-22,the week in tech our future robots will need supersmart safety checks,0.1,5
+1245,2019-03-06,trumps big tech bluster,-0.3,4
+1246,2019-02-21,ny today the race for public advocate,0.0,1
+1247,2019-02-19,amazon resets its film operation after rough year at box office,0.0,7
+1248,2019-02-13,can a progressive case be made for a amazon campus in queens,0.0,3
+1249,2019-02-09,jeff bezos extortion claim said to be under review by prosecutors,-0.1,3
+1250,2019-02-14,amazon to new york fuhgeddaboudit,0.0,3
+1251,2019-02-11,ny today is amazon still coming to new york city,0.0,3
+1252,2019-02-15,amazon isnt interested in making the world a better place,-0.1,3
+1253,2019-02-16,after amazon deals demise raw feelings and democratic infighting,0.0,3
+1254,2019-02-14,new york doesnt need amazons sweetheart deal,-0.2,3
+1255,2019-02-09,daddy warbucks goes to war,0.0,3
+1256,2019-11-18,the streaming era has finally arrived everything is about to change,0.1,15
+1257,2019-11-11,we teach ai systems everything including our biases,0.0,14
+1258,2019-11-10,woody allen and amazon settle breach of contract lawsuit,0.0,1
+1259,2019-11-11,europe is toughest on big tech yet big tech still reigns,0.1,7
+1260,2019-11-08,are my neighbors spying on me,0.0,1
+1261,2019-11-13,were stuck with the tech giants but theyre stuck with each other,0.0,3
+1262,2019-11-09,child abusers run rampant as tech companies look the other way,-1.0,14
+1263,2019-11-15,i found work on an amazon website i made 97 cents an hour,-0.9,1
+1264,2019-10-18,review modern love is charming but uneven,0.0,1
+1265,2019-10-31,how much watching time do you have this weekend,0.0,1
+1266,2019-10-24,amazons profit falls sharply as company buys growth,-0.6,7
+1267,2019-07-31,the tools for covering tech are the same as in 2009,0.0,3
+1268,2019-07-05,letting the internet regulate itself was a good idea in the 1990s,0.0,3
+1269,2019-07-23,justice department opens antitrust review of big tech companies,-0.7,14
+1270,2019-07-05,amazons deliveroo investment is halted for uk scrutiny,0.0,7
+1271,2019-07-17,dealbook briefing big techs tough day in dc,-0.3,7
+1272,2019-07-12,day care and dog care helped plump these funds returns,0.0,3
+1273,2019-07-12,as nations look to tax tech firms us scrambles to broker a deal,0.0,10
+1274,2019-07-24,ingmar bergmans summer movies raise the temperature,0.0,1
+1275,2019-07-13,the week in business amazon wont let the robots take over,0.1,3
+1276,2019-07-26,review the boys deconstructs the superhero with a light touch,0.0,1
+1277,2019-09-19,bezos and zuckerberg take their pitches to washington,0.0,7
+1278,2019-09-17,lawmakers urge aggressive action from regulators on big tech,-0.5,7
+1279,2019-09-20,the week in tech an emerging twist on antitrust,0.1,7
+1280,2019-09-08,how each big tech company may be targeted by regulators,-0.3,10
+1281,2019-09-05,amazon pushes fast shipping but avoids responsibility for the human cost,-0.3,7
+1282,2019-09-06,11 of our best weekend reads,0.0,1
+1283,2019-09-16,a challenge to big tech and antitrust thinking in a surprising place,-0.2,7
+1284,2019-09-20,congress asks more than 80 companies for big tech complaints,-0.3,7
+1285,2019-09-14,there is no tech backlash,0.1,3
+1286,2019-09-27,review transparent and its unsettling technicolor dream theater,-0.1,1
+1287,2019-08-02,in pentagon contract fight amazon has foes in high places,-0.2,7
+1288,2019-08-30,review orlando bloom among the immigrant beasts in carnival row,0.0,1
+1289,2019-08-20,how should big tech be reined in here are 4 prominent ideas,-0.1,7
+1290,2019-08-01,amazon kindle oasis review now is the perfect time to buy an ereader,0.1,3
+1291,2019-08-11,a financiers end and uber hits the skids,-0.8,3
+1292,2019-08-03,the week in business the china trade war clobbers the markets,-0.7,10
+1293,2019-08-07,tech meets health care sometimes shakily,0.1,3
+1294,2019-08-09,can netflix the king of standup specials be dethroned,0.0,3
+1295,2019-08-19,paging big brother in amazons bookstore orwell gets a rewrite,0.0,3
+1296,2019-08-18,ge is accused of major fraud and stocks take a beating,-1.0,14
+1297,2019-09-23,as hbo celebrates a big night questions about its future loom,0.0,3
+1298,2019-09-10,how undone takes viewers through the looking glass,0.0,3
+1299,2019-09-09,amazon has 30000 open jobs yes you read that right,0.1,3
+1300,2019-09-17,amazon offers millions of songs in highquality audio even neil young approves,0.7,7
+1301,2019-09-10,eus new digital czar most powerful regulator of big tech on the planet,0.0,10
+1302,2019-09-25,amazon wants alexa to move with you far beyond the living room,0.1,8
+1303,2019-09-11,rihannas spectacular sexy underpants variety hour,0.0,1
+1304,2019-09-09,how democracy dies americanstyle,0.0,1
+1305,2019-09-06,how to build artificial intelligence we can trust,0.1,4
+1306,2019-09-26,twitch users watch billions of hours of video but the site wants to go beyond fortnite,0.1,4
+1307,2019-08-21,hi alexa how do i stop you from listening in on me,0.0,3
+1308,2019-08-15,amazon uses a twitter army of employees to fight criticism of warehouses,-0.5,4
+1309,2019-08-12,the phony patriots of silicon valley,-0.7,3
+1310,2019-08-01,pentagon delays award of 10 billion cloud computing contract,-0.3,7
+1311,2019-08-07,fedex ends amazons us ground deliveries as retailer rises as rival,-0.3,14
+1312,2019-08-01,ebay accuses amazon managers of conspiring to poach its sellers,-0.7,7
+1313,2019-08-22,how much watching time do you have this weekend,0.0,1
+1314,2019-08-08,can britains top bookseller save barnes noble,0.0,3
+1315,2019-08-01,the best movies and tv shows new to netflix amazon and more in august,0.0,3
+1316,2019-08-08,the secret history of easter eggs,0.0,1
+1317,2019-06-07,fedex says its ending express shipping service for amazon,-0.2,7
+1318,2019-06-17,the us has its eye on big tech will criminal inquiries result,-0.3,14
+1319,2019-06-14,how secured credit cards can build or rebuild your credit,0.0,1
+1320,2019-06-03,antitrust troubles snowball for tech giants as lawmakers join in,-0.7,14
+1321,2019-06-04,the people screaming for blood have no idea how tech actually works,0.0,1
+1322,2019-06-04,dealbook briefing big tech enters antitrust purgatory,-0.8,14
+1323,2019-06-20,to take down big tech they first need to reinvent the law,0.0,10
+1324,2019-07-11,prime days best sellers by year,0.1,3
+1325,2019-07-12,judge clears way for amazon and microsoft to compete for giant pentagon contract,0.1,7
+1326,2019-07-03,inside an amazon warehouse robots ways rub off on humans,0.1,3
+1327,2019-07-30,capital one breach shows a bank hacker needs just one gap to wreak havoc,-0.7,7
+1328,2019-07-03,suspect in mackenzie lueck case wrote a novel with 2 burning deaths,-0.9,1
+1329,2019-07-16,game of thrones and hbo dominate 2019 emmy nominations,0.0,3
+1330,2019-07-11,amazons latest experiment retraining its work force,0.0,7
+1331,2019-07-09,friends to leave netflix for hbo max atts new streaming service,0.0,3
+1332,2019-07-30,capital one data breach compromises data of over 100 million,-1.0,10
+1333,2019-07-12,investors use indexes to play in the video game business,0.1,3
+1334,2019-03-13,facebooks data deals are under criminal investigation,-0.7,10
+1335,2019-03-08,elizabeth warren proposes breaking up tech giants like amazon and facebook,-0.7,14
+1336,2019-03-06,a stark divide in americas retail industry is coming into focus,0.0,10
+1337,2019-03-22,the great american cardboard comeback,0.0,3
+1338,2019-03-20,giant military contract has a hitch a littleknown entrepreneur,0.0,3
+1339,2019-03-31,bezos security consultant accuses saudis of hacking the amazon ceos phone,-0.3,10
+1340,2019-03-17,why a big tech breakup looks better to washington,-0.4,14
+1341,2019-03-07,the mueller report is already a hit sight unseen,0.0,3
+1342,2019-03-13,amazon pulls 2 books that promote unscientific autism cures,0.1,4
+1343,2019-03-22,why netflix wont be part of apple tv,-0.1,3
+1344,2019-02-01,the best movies and tv shows new to netflix amazon and more in february,0.0,3
+1345,2019-02-16,bill de blasio the path amazon rejected,0.0,3
+1346,2019-02-21,is trump the real national emergency,0.0,3
+1347,2019-02-08,excerpts from jeff bezos blog post accusing national enquirer of blackmail,-0.1,4
+1348,2019-02-15,why the amazon deal collapsed a tech giant stumbles in nys raucous political arena,-0.3,10
+1349,2019-02-15,ny today how the amazon deal fell apart,0.0,3
+1350,2019-02-13,why amazon is caught in an unexpected brawl in new york,0.0,7
+1351,2019-02-22,labors hard choice in amazon age play along or get tough,0.0,10
+1352,2019-02-05,amazon wants to come to new york this senator may stand in the way,0.0,7
+1353,2019-02-22,after days of silence on amazon defeat governor cuomo vents about the left,0.0,3
+1354,2020-10-12,you cant escape ubers lobbying,0.0,4
+1355,2020-10-30,amazon and googles true advantage,0.1,3
+1356,2020-10-06,house lawmakers condemn big techs monopoly power and urge their breakups,-0.8,14
+1357,2020-10-13,amazon workers call for a day off to vote,0.0,3
+1358,2020-10-13,manhattan emptied out during the pandemic but big tech is moving in,0.4,14
+1359,2020-10-21,big techs professional opponents strike at google,-0.3,10
+1360,2020-10-06,for postal workers the challenges go way beyond ballots,0.0,3
+1361,2020-10-07,congress agrees big tech is broken,-0.7,14
+1362,2020-10-22,forget antitrust laws to limit tech some say a new regulator is needed,-0.2,10
+1363,2020-10-29,big tech continues its surge ahead of the rest of the economy,0.7,7
+1364,2020-11-01,the best movies and tv shows coming to amazon hbo max hulu and more in november,0.0,3
+1365,2020-11-12,the evolving travel experience virtual actual and in between,0.0,3
+1366,2020-11-30,amazon shopping needs a prime army,0.1,3
+1367,2020-11-10,amazon charged with antitrust violations by european regulators,-0.7,10
+1368,2020-11-11,in small axe steve mcqueen explores britains caribbean heritage,0.0,1
+1369,2020-11-23,as customers move online so does the holiday shopping season,0.1,4
+1370,2020-11-20,who postpones black friday this year the french,0.0,3
+1371,2020-11-27,the loneliness of oneclick shopping,-0.1,3
+1372,2020-11-02,the best movies and tv shows new to netflix amazon and stan in australia in november,0.0,3
+1373,2020-11-03,we want to open french shopkeepers revolt against orders to close,0.0,3
+1374,2020-04-24,the next round of bailouts will name names,-0.3,7
+1375,2020-04-17,a privacy absolutist isnt so sure anymore,-0.1,3
+1376,2020-04-30,the best movies and tv shows new to netflix amazon and stan in australia in may,0.0,3
+1377,2020-07-23,tech is about power and these four moguls have too much of it,-0.4,7
+1378,2020-07-02,the best movies and tv shows new to netflix amazon and stan in australia in july,0.0,3
+1379,2020-07-08,the tech giants invisible helpers,0.1,3
+1380,2020-07-31,amazon wins without even trying,0.1,3
+1381,2020-07-28,amazon apple facebook and google prepare for their big tobacco moment,-0.7,14
+1382,2020-07-30,grilled by lawmakers big tech turns up the gaslight,-0.7,7
+1383,2020-07-02,here come the 4 horsemen of the techopolypse,-1.0,14
+1384,2020-07-24,big tech funds a think tank pushing for fewer rules for big tech,-0.3,7
+1385,2020-07-09,warehouse workers in a bind as virus spikes in southern california,-0.3,3
+1386,2020-07-09,stocks that could thrive in a postpandemic world,0.3,7
+1387,2020-06-24,amazon workers urge bezos to match his words on race with actions,0.0,3
+1388,2020-06-03,corporate hashtag activism,0.0,3
+1389,2020-06-09,what it looks like inside an amazon warehouse now,0.0,3
+1390,2020-06-15,corporate america says black lives matter it needs to hold up a mirror,0.0,3
+1391,2020-06-11,did washington get in ubers way,0.0,3
+1392,2020-06-26,amazon to buy zoox in a move toward selfdriving cars,0.3,14
+1393,2020-06-10,amazon pauses police use of its facial recognition software,0.0,7
+1394,2020-06-11,amazon set to face antitrust charges in european union,-0.7,10
+1395,2020-06-12,amazon pushing fashion opened photo studio as a warehouse exemption,0.0,8
+1396,2020-06-12,the real dangers of surveillance,-0.2,3
+1397,2020-07-10,amazon backtracks from demand that employees delete tiktok,0.0,3
+1398,2020-07-29,we have questions,0.0,1
+1399,2020-07-29,congress doesnt get big tech by design,-0.2,7
+1400,2020-07-31,the best movies and tv shows coming to netflix amazon and more in august,0.0,3
+1401,2020-07-28,amazon is jeff bezos,0.0,1
+1402,2020-07-01,the best movies and tv shows coming to netflix amazon and more in july,0.0,3
+1403,2020-07-29,how to fight against big techs power,-0.3,7
+1404,2020-07-27,jeff bezos cast in a role he never wanted amazons dc defender,0.0,3
+1405,2020-07-30,congress versus the emperors,0.0,14
+1406,2020-07-14,hero pay raises disappear for many essential workers,0.0,3
+1407,2020-06-01,the best movies and tv shows new to netflix amazon and stan in australia in june,0.0,3
+1408,2020-06-15,captain of the day traders,0.0,3
+1409,2020-06-16,bookstores are struggling is a new ecommerce site the answer,0.0,3
+1410,2020-06-02,trump administration escalates global fight over taxing tech,-0.3,14
+1411,2020-06-12,amazon said to be under scrutiny in 2 states for abuse of power,-0.7,7
+1412,2020-06-11,when amazon flexes its power,0.1,8
+1413,2020-06-15,amazon says jeff bezos is willing to testify before congress,0.0,4
+1414,2020-06-24,sorry ebay and uber youre hated,-0.5,1
+1415,2020-06-22,tech goliaths act like davids,0.0,3
+1416,2020-06-19,heres what companies are promising to do to fight racism,0.0,4
+1417,2020-09-22,stakeholder capitalism gets a report card its not good,-0.3,4
+1418,2020-09-26,pasta wine and inflatable pools how amazon conquered italy in the pandemic,0.0,3
+1419,2020-09-02,amazons biggest leap was boring,-0.1,3
+1420,2020-09-28,5 things to avoid on prime day,0.0,3
+1421,2020-09-23,beyond tiktok walmart looks to transform,0.1,8
+1422,2020-02-22,digital tax fight emerges as global economic threat,-0.3,15
+1423,2020-02-20,clicking buy on amazon its trying to prevent a coronavirus caveat,0.1,3
+1424,2020-02-12,the trouble with breaking up amazon its online store is so good,0.0,3
+1425,2020-02-03,heres the latest in nordic tv noir and otherwise,0.0,1
+1426,2020-02-10,the best movies and tv shows new to netflix amazon and stan in australia in february,0.0,3
+1427,2020-02-19,your doorbell camera spied on you now what,-0.5,4
+1428,2020-02-28,the week in tech coronavirus disrupts the industry,-0.5,14
+1429,2020-02-10,why bernie sanders praised amazon,0.0,3
+1430,2020-02-19,from rep nita lowey trump vs npr,0.0,3
+1431,2020-02-19,review al pacino and nazis in amazons hunters,0.0,1
+1432,2020-03-13,pentagon asks to reconsider awarding huge cloud contract to amazon,-0.2,14
+1433,2020-03-24,when fashion tv becomes an anthropological treasure,0.0,1
+1434,2020-03-27,the week in tech were testing how much the internet can handle,0.1,3
+1435,2020-03-19,the delivery workers who risk their health to bring you food,-0.1,3
+1436,2020-03-28,price gouging complaints surge amid coronavirus pandemic,-0.4,7
+1437,2020-03-24,facebook dont exploit us in our time of need,-0.8,3
+1438,2020-03-05,missing gomorrah watch this,0.0,1
+1439,2020-03-27,seattle is living your coronavirus future,-0.5,15
+1440,2020-03-25,will our most important industry survive the coronavirus,-0.5,15
+1441,2020-03-17,to focus on necessities amazon stops accepting some items in warehouses,0.0,7
+1442,2020-10-09,customers still like to shop in person even if they get only to the curb,0.1,3
+1443,2020-10-23,paid time off free fries how corporate america is getting out the vote,0.0,3
+1444,2020-10-17,for longterm investors small things like presidential elections dont matter,0.0,3
+1445,2020-10-05,introducing time a film from the times and amazon studios,0.0,3
+1446,2020-10-11,are amazon jobs worth 1400 loads of traffic french region is split,0.0,3
+1447,2020-10-06,12 accusations in the damning house report on amazon apple facebook and google,-0.8,14
+1448,2020-10-29,shes bursting big techs bubble,-0.8,3
+1449,2020-10-06,big tech was their enemy until partisanship fractured the battle plans,-0.2,3
+1450,2020-10-22,amazon workers threaten to shut down warehouses if employees dont get a day off to vote,0.0,4
+1451,2020-10-08,dont let amazon get any bigger,-0.1,3
+1452,2020-11-10,biden is expected to keep scrutiny of tech front and center,-0.2,7
+1453,2020-11-25,what does amazon know about your thanksgiving groceries,0.0,3
+1454,2020-11-11,ring recalls video doorbells after several catch fire,-0.9,7
+1455,2020-11-24,can shopify compete with amazon without becoming amazon,0.1,7
+1456,2020-11-27,amazon wants to get even closer skintight,0.0,3
+1457,2020-11-27,pushed by pandemic amazon goes on a hiring spree without equal,0.1,7
+1458,2020-11-19,how fake reviews hurt us and amazon,-0.3,4
+1459,2020-11-29,the luxury ecommerce wars heat up,0.1,7
+1460,2020-01-22,put alexa and siri to work,0.1,8
+1461,2020-01-31,in talks on taxing tech companies its america vs the world,-0.2,10
+1462,2020-01-24,jeff bezos hack inquiry falls short of implicating national enquirer,0.0,3
+1463,2020-01-22,how jeff bezos iphone x was hacked,-0.5,3
+1464,2020-01-14,why elizabeth warren feels very uneasy online,0.0,3
+1465,2020-01-07,sonos squeezed by the tech giants sues google,-0.3,7
+1466,2020-01-26,india restores some internet access in kashmir after long shutdown,0.0,3
+1467,2020-01-24,the week in tech a tech moguls phone and the saudi crown prince,0.0,3
+1468,2020-01-17,please stop big tech small rivals tell lawmakers,-0.3,7
+1469,2020-01-29,how much are we paying for our subscription services a lot,-0.1,1
+1470,2020-05-29,we work in an amazon warehouse we didnt sign up to be heroes,-0.1,1
+1471,2020-05-06,5 ways to stay in touch with less techsavvy family and friends,0.0,1
+1472,2020-05-29,what could kill my new york bookstores,0.0,3
+1473,2020-05-22,what role should employers play in testing workers,0.0,3
+1474,2020-05-22,amazon angles to grab back customers,-0.2,7
+1475,2020-05-01,congress calls on jeff bezos of amazon to testify,0.0,7
+1476,2020-05-15,amazon makes no promises on bezos testimony,0.0,3
+1477,2020-05-26,amazon misses a shopping opportunity,-0.2,3
+1478,2020-05-29,how the vast of night builds tension with a strange sound,0.0,1
+1479,2020-05-28,amazons big breakdown,-0.7,10
+1480,2020-04-22,reliable amazon isnt anymore,-0.3,3
+1481,2020-04-01,the best movies and tv shows coming to netflix amazon and more in april,0.0,3
+1482,2020-04-17,when even amazon is sold out of exploding kittens,0.0,3
+1483,2020-04-15,amazon to suspend operations in france over coronavirus dispute,0.0,7
+1484,2020-04-05,gaps in amazons response as virus spreads to more than 50 warehouses,-0.3,7
+1485,2020-04-01,welcome to the second quarter brace yourself,0.0,3
+1486,2020-04-03,how techs lobbyists are using the pandemic to make gains,-0.3,7
+1487,2020-04-02,home depot halts sales of n95 masks amid shortage company says,-0.2,4
+1488,2020-04-28,another way the 2020s might be like the 1930s,-0.2,15
+1489,2020-04-15,whats an essential service in a pandemic the post office,0.0,3
+1490,2020-04-10,how do i get help dying coronavirus patient asked alexa,-0.9,3
+1491,2020-04-27,europes privacy law hasnt shown its teeth frustrating advocates,0.0,7
+1492,2020-04-28,you are being influenced,0.0,1
+1493,2020-04-23,what to do when your uncle believes coronavirus conspiracies,0.0,1
+1494,2020-04-02,amazon pushes into making video games not just streaming their play,0.1,8
+1495,2020-04-30,the coronavirus could rewrite the rules for silicon valley,-0.2,15
+1496,2020-04-16,bosch and fauda the platonic ideal of the tough guy,0.0,1
+1497,2020-04-22,with upload greg daniels takes a leap into the great unknown,0.0,3
+1498,2020-04-29,the bad news wont stop but markets keep rising,0.1,3
+1499,2020-04-02,my partner works in an amazon warehouse im worried and proud,0.0,1
+1500,2020-01-20,india targets jeff bezos over amazon and washington post,-0.3,14
+1501,2020-01-13,welcome to india mr bezos heres an antitrust complaint,-0.5,7
+1502,2020-01-23,the boys return to their comic book roots,0.0,3
+1503,2020-01-30,amazon powers ahead with robust profit,0.3,7
+1504,2020-01-16,how much watching time do you have this weekend,0.0,1
+1505,2020-01-21,how amazon geico and walmart fund propaganda,-0.5,14
+1506,2020-01-19,whos watching your porch,0.0,1
+1507,2020-01-23,jeff bezos tabloid man,0.0,1
+1508,2020-01-22,analysis ties hacking of bezos phone to saudi leaders account,-0.1,10
+1509,2020-01-05,silicon valleys newest rival the banks of the hudson,0.0,14
+1510,2020-12-30,when is a comedy special also a corporate synergy message,0.0,3
+1511,2020-01-22,bezos phone hack tied to saudi crown prince puts new pressure on kingdom,-0.2,10
+1512,2020-01-14,how to navigate a flood of streaming tv subscriptions,0.0,3
+1513,2020-01-11,techlash hits college campuses,-0.3,7
+1514,2020-01-30,how much watching time do you have this weekend,0.0,1
+1515,2020-01-31,how amazon keeps defying gravity,0.0,3
+1516,2020-01-17,you dont need to travel to profit from international stocks,0.1,3
+1517,2020-01-10,a glimpse of our connected tech future courtesy of ces 2020,0.1,7
+1518,2020-01-31,what we lose by hiring someone to pick up our avocados for us,0.0,1
+1519,2020-01-26,the week in business beware mysterious videos on your phone,-0.1,3
+1520,2020-01-24,art experts warn of a surging market in fake prints,0.0,3
+1521,2020-12-23,the tech that was fixed in 2020 and the tech that still needs fixing,0.0,3
+1522,2020-12-15,review catching up to the expanse the space opera you love,0.0,3
+1523,2020-12-14,autonomous vehicles take another big leap,0.4,14
+1524,2020-12-07,the best movies and tv shows new to netflix amazon and stan in australia in december,0.0,3
+1525,2020-12-09,amazon halo review the fitness gadget we dont deserve or need,-0.2,3
+1526,2020-12-17,googles legal peril grows in face of third antitrust suit,-0.7,10
+1527,2020-12-13,apple tv was making a show about gawker then tim cook found out,-0.1,3
+1528,2020-12-15,big fines and strict rules unveiled against big tech in europe,-0.7,10
+1529,2020-12-01,amazon and apple are powering a shift away from intels chips,0.7,14
+1530,2020-12-22,amazon workers near vote on joining union at alabama warehouse,-0.2,7
+1531,2020-04-28,investors bet giant companies will dominate after crisis,0.3,10
+1532,2020-04-15,the virus revealed our essential tech and weeded out the excess,0.1,15
+1533,2020-04-24,amazon loses appeal of french order to stop selling nonessential items,-0.3,7
+1534,2020-04-15,as online buying surges so do noisy cargo flights,0.0,3
+1535,2020-04-28,new york attorney general scrutinizes amazon for firing warehouse worker,-0.3,4
+1536,2020-04-03,we didnt sign up for this amazon workers on the front lines,-0.3,3
+1537,2020-04-22,bezos takes back the wheel at amazon,0.0,10
+1538,2020-04-08,the pandemic feeds tech companies power,0.6,15
+1539,2020-04-17,a prescription for reviving the economy,0.0,15
+1540,2020-04-13,food workers say cdc guidelines put them at greater risk for infection,0.0,3
+1541,2020-05-01,big techs worries should worry you,-0.3,3
+1542,2020-05-01,for most food stamp users online shopping isnt an option,0.0,3
+1543,2020-05-04,an amazon vice president quit over firings of employees who protested,-0.3,4
+1544,2020-05-08,is death diving the future of tv,0.0,3
+1545,2020-05-08,whitecollar companies race to be last to return to the office,0.0,5
+1546,2020-05-14,amazons showdown in france tests its ability to sidestep labor,-0.3,7
+1547,2020-05-27,how do i get hbo max if i already have hbo,0.0,1
+1548,2020-05-06,online retailers spend millions on ads backing postal service bailout,0.0,7
+1549,2020-05-01,the immunity of the tech giants,0.0,14
+1550,2020-05-07,senators want to know if amazon retaliated against whistleblowers,-0.6,7
+1551,2020-04-20,youre on your own essential workers are being told,0.0,1
+1552,2020-04-30,amazon sells more but warns of much higher costs ahead,0.0,7
+1553,2020-04-21,you have to pay to give oil away,0.0,15
+1554,2020-04-23,victorias secret and sycamore partners play lets break a deal,0.0,14
+1555,2020-04-06,its now amazons turn in the spotlight,0.0,3
+1556,2020-04-10,a short recommendation watch the stage version of fleabag on amazon video,0.0,1
+1557,2020-04-18,as amazon rises so does the opposition,0.0,3
+1558,2020-04-29,how french workers took on amazonin the middle of a pandemicand won,0.0,3
+1559,2020-04-16,15 documentaries that get inside an artists head,0.0,1
+1560,2020-04-02,the best movies and tv shows new to netflix amazon and stan in australia in april,0.0,3
+1561,2020-05-14,amazon to the rescue of the fashion world,0.0,8
+1562,2020-05-19,way too late inside amazons biggest outbreak,-0.8,3
+1563,2020-05-01,jeff bezos doubles down on amazons pandemic response,0.0,7
+1564,2020-05-16,amazon reaches deal with french unions in coronavirus safety dispute,0.0,4
+1565,2020-05-20,janelle mone touches down in homecoming,0.0,1
+1566,2020-05-03,one of amazons most powerful critics lives in its backyard,-0.1,3
+1567,2020-05-19,life is more like a simulation on these shows so is death,0.0,1
+1568,2020-05-08,with four more shots please india gets its own sex and the city,0.0,1
+1569,2020-05-12,reopening prompts new agitation over workers virus exposure,-0.3,4
+1570,2020-05-01,a record sale in brooklyn among aprils closings,0.1,3
+1571,2020-12-01,the best movies and tv shows coming to amazon hbo max hulu and more in december,0.0,3
+1572,2020-12-28,for his second act nnamdi asomugha made preparation his byword,0.0,1
+1573,2020-12-29,life without amazon well almost,0.0,3
+1574,2020-12-24,an oscar winner made a khashoggi documentary streaming services didnt want it,0.0,3
+1575,2020-12-16,mackenzie scott announces 42 billion more in charitable giving,0.0,3
+1576,2020-12-30,amazon buys wondery as podcasting race continues,0.1,7
+1577,2020-12-24,bollywood reeling from the pandemic shifts to streaming,0.0,4
+1578,2020-12-18,big tech should try radical candor,0.0,3
+1579,2020-12-14,big tech turns its lobbyists loose on europe alarming regulators,-0.4,7
+1580,2020-12-05,with 3 billion packages to go online shopping faces tough holiday test,0.1,4
+1581,2020-01-30,the robots are coming prepare for trouble,-0.2,3
+1582,2020-01-03,alexa awake,0.0,3
+1583,2020-07-23,google takes aim at amazon again,0.0,7
+1584,2020-07-09,can facebook ever stop the drama,0.0,3
+1585,2020-07-29,bezos grilled about amazons predatory practices,-0.7,7
+1586,2020-07-29,watch live tech ceos testify before congress,0.0,4
+1587,2020-03-31,we need amazon during the coronavirus thats a problem,0.0,3
+1588,2020-03-12,this movie is streaming only should we lower our expectations,0.0,3
+1589,2020-03-22,help wanted grocery stores pizza chains and amazon are hiring,0.1,3
+1590,2020-03-10,algorithms learn our workplace biases can they help us unlearn them,0.1,3
+1591,2020-03-27,making the cut is new but the pattern is familiar,0.0,3
+1592,2020-03-03,the best movies and tv shows new to netflix amazon and stan in australia in march,0.0,3
+1593,2020-03-15,the man with 17700 bottles of hand sanitizer just donated them,0.1,3
+1594,2020-03-04,the best movies and tv shows coming to netflix amazon and more in march,0.0,3
+1595,2020-03-23,big tech could emerge from coronavirus crisis stronger than ever,0.7,14
+1596,2020-03-14,he has 17700 bottles of hand sanitizer and nowhere to sell them,-0.9,3
+1597,2020-02-21,the week in tech coronavirus hits apples financial forecast,-0.8,14
+1598,2020-02-18,the epic battle between trump and bezos is on,0.0,3
+1599,2020-02-11,ftc broadens review of tech giants homing in on their deals,-0.5,7
+1600,2020-02-11,all your favorite brands from bstoem to zggcd,0.0,1
+1601,2020-02-21,amazon confronts criticism over hunters and sale of nazi propaganda,-0.7,7
+1602,2020-02-13,judge halts work on microsofts jedi contract a victory for amazon,-0.3,7
+1603,2020-02-16,the week in business amazon is coming for trump,0.0,3
+1604,2020-02-11,she wants to break up big everything,-0.1,3
+1605,2020-02-02,does your pet really need cat tv or a dog playlist,0.0,1
+1606,2020-02-07,tech companies detect a surge in online videos of child sexual abuse,-0.9,7
+1607,2020-10-31,how to take on the tech barons,0.0,3
+1608,2020-10-29,simon pegg and nick frost are back with a british xfiles,0.0,1
+1609,2020-10-23,the borat sequels 3 wildest scenes heres what happens,0.0,1
+1610,2020-10-06,the house antitrust report on big tech,-0.3,7
+1611,2020-10-13,the amazon prime day deals worth buying,0.1,3
+1612,2020-07-28,techs big tobacco moment,-0.7,14
+1613,2020-07-30,big techs backlash is just starting,-0.5,10
+1614,2020-07-29,we have a question for jeff bezos and other billionaires,0.0,3
+1615,2020-07-24,the new tech cold war,-0.5,15
+1616,2020-07-29,titans of tech testify in their trustme suits,-0.2,10
+1617,2020-07-24,digital habits are hard to break,0.0,3
+1618,2020-07-10,investors posted returns so great they seemed wrong,0.1,3
+1619,2020-07-22,the amazon critic who saw its power from the inside,0.0,3
+1620,2020-07-29,a handbook to todays tech hearing,0.0,3
+1621,2020-07-17,comfort viewing 3 reasons i love supermarket sweep,0.0,1
+1622,2020-09-04,pentagon sticks with microsoft for cloud computing contract,0.0,7
+1623,2020-09-07,amazon bans sale of foreign seeds in the us,0.0,7
+1624,2020-09-30,the best movies and tv shows coming to hulu amazon and more in october,0.1,3
+1625,2020-09-28,can amazon conquer the world,0.1,3
+1626,2020-09-21,as school begins mothers working retail jobs feel extra burden,0.0,3
+1627,2020-09-24,whole foods founder the whole world is getting fat,0.0,3
+1628,2020-09-24,amazon unveils drone that films inside your home what could go wrong,-0.5,8
+1629,2020-09-22,can luxury fashion ever regain its luster,0.0,3
+1630,2020-09-02,the economy needs help,0.0,15
+1631,2020-09-30,how facebook entrenches itself,0.0,3
+1632,2020-08-31,drone delivery amazon moves closer with faa approval,0.7,7
+1633,2020-08-28,will more data make us healthier,0.1,3
+1634,2020-08-27,soon the kitty litter will come by electric truck,0.0,3
+1635,2020-08-10,big tech makes inroads with the biden campaign,0.3,7
+1636,2020-08-10,amazon satellites add to astronomers worries about the night sky,0.0,4
+1637,2020-08-18,amazon sticks with office expansion plans in new york and elsewhere,0.0,4
+1638,2020-09-22,americas tech billionaires could help protect the election if they wanted to,0.0,7
+1639,2020-09-11,europe feels squeeze as tech competition heats up between us and china,0.0,10
+1640,2020-09-30,the best movies and tv shows new to netflix amazon and stan in australia in october,0.0,3
+1641,2020-09-24,beyond the pandemic libraries look toward a new era,0.0,3
+1642,2020-09-23,hooray mostly for the government,0.0,1
+1643,2020-09-23,gillian flynn takes her paranoia to television,0.0,1
+1644,2020-09-04,stocks slide again as a promising week turns south,-0.5,3
+1645,2020-09-03,wall street has its worst day in months,-0.7,7
+1646,2020-09-01,the best movies and tv shows new to netflix amazon and stan in australia in september,0.0,3
+1647,2020-09-10,the best movies on amazon prime video right now,0.0,1
+1648,2020-08-12,amazon is so much bricks and mortar,0.0,3
+1649,2020-08-18,this market is nuts sp 500 hits record defying economic devastation,0.1,10
+1650,2020-08-19,big techs domination of business reaches new heights,0.4,14
+1651,2020-08-25,in south india amazon builds its largest office yet,0.1,4
+1652,2020-08-06,the best movies and tv shows new to netflix amazon and stan in australia in august,0.0,3
+1653,2020-08-04,what years of emails and texts reveal about your friendly tech companies,-0.2,7
+1654,2020-08-12,progressives killed amazons deal in new york is industry city next,-0.2,7
+1655,2020-08-10,after a flop amazon makes another foray into video games,-0.3,4
+1656,2020-08-14,a steal might actually be a raw deal,-0.1,3
+1657,2020-08-21,jeff wilke amazons chief of consumer business will retire next year,0.0,4
+1658,2020-06-13,the economy is reeling the tech giants spy opportunity,0.4,10
+1659,2020-06-01,the best movies and tv shows coming to netflix amazon and more in june,0.0,3
+1660,2020-06-25,when bosses shared their profits,0.1,3
+1661,2020-06-18,where black lives matter protesters stream live every day twitch,0.0,1
+1662,2020-06-25,how much watching time do you have this weekend,0.0,1
+1663,2020-07-30,this is a new phase europe shifts tactics to limit techs power,-0.3,14
+1664,2020-07-30,the big tech hearing,0.0,7
+1665,2020-07-30,the economy is in record decline but not for the tech giants,0.7,15
+1666,2020-07-31,i tried to live without the tech giants it was impossible,0.0,3
+1667,2020-07-29,lawmakers united in their ire lash out at big techs leaders,-0.7,7
+1668,2020-07-21,big tech has a big climate problem now its being forced to clean up,-0.3,10
+1669,2020-07-28,four of the worlds wealthiest men are preparing for battle,0.0,14
+1670,2020-07-01,four top tech ceos will testify in antitrust inquiry panel says,-0.3,7
+1671,2020-07-30,the last days of the tech emperors,-0.8,14
+1672,2020-07-31,they made how much,0.0,1
+1673,2020-03-05,workplace vs coronavirus no one has a playbook for this,0.0,3
+1674,2020-03-23,there is a racial divide in speechrecognition systems researchers say,0.0,4
+1675,2020-03-31,a revolt over safety and pay,-0.7,7
+1676,2020-03-31,strikes at instacart and amazon over coronavirus health concerns,-0.3,7
+1677,2020-03-04,tesla isnt the only startup disrupting the car business,0.1,3
+1678,2020-03-17,amazon bans then reinstates hitlers mein kampf,0.0,4
+1679,2020-03-18,curbside pickup bicycle deliveries virtual book discussions amid virus bookstores get creative,0.1,3
+1680,2020-03-13,alex jones is told to stop selling sham anticoronavirus toothpaste,0.0,1
+1681,2020-03-05,life in seattle americas coronavirus capital,-0.8,15
+1682,2020-03-02,lawmakers propose making ecommerce companies liable for counterfeits,-0.3,7
+1683,2020-02-02,jeff bezos is sued by his girlfriends brother,0.0,3
+1684,2020-02-21,freshdirect after broken eggs and angry customers stages a comeback,-0.2,4
+1685,2020-02-27,unions push ftc to study if amazon warps the economy,-0.3,7
+1686,2020-02-04,the gap between the haves and havenots of tech widens,-0.3,15
+1687,2020-02-19,europe overrun by foreign tech giants wants to grow its own,0.0,10
+1688,2020-02-10,amazon looks to question trump in pentagon contracting case,0.0,4
+1689,2020-02-14,in hunters al pacino stalks nazis into new territory,0.0,1
+1690,2020-02-17,jeff bezos commits 10 billion to address climate change,0.1,7
+1691,2020-02-09,in amazons bookstore no second chances for the third reich,0.0,3
+1692,2020-02-14,activate this bracelet of silence and alexa cant eavesdrop,0.1,3
+1693,2021-10-06,a potentially disastrous data breach hits twitch the livestreaming site,-0.7,4
+1694,2021-10-01,rivian an electric vehicle startup reveals large losses in its ipo filing,-0.3,7
+1695,2021-10-02,will tiktok make you buy it,0.1,3
+1696,2021-10-11,amazon expands flexibility for some employees to work from home indefinitely,0.1,4
+1697,2021-10-01,the best movies and tv shows coming to amazon hbo hulu and more in october,0.0,3
+1698,2021-10-13,new digital companies old ad habits,0.0,3
+1699,2021-10-12,as big tech grows in the pandemic seattle grows with it,0.1,7
+1700,2021-10-03,dont let amazon eat the film industry,-0.1,3
+1701,2021-10-18,lawmakers question whether amazon executives including jeff bezos misled congress,-0.7,7
+1702,2021-10-24,inside amazons worst human resources problem,-0.8,4
+1703,2021-11-02,corporate climate pledges often ignore a key component supply chains,0.0,7
+1704,2021-11-26,here are 5 familyfriendly things to stream this weekend,0.0,1
+1705,2021-11-17,amazon railing against high fees will stop accepting visa credit cards issued in britain,0.0,7
+1706,2021-11-19,a hoffa ally then a foe and soon the teamsters president,0.0,3
+1707,2021-11-04,is metas facial recognition retreat another head fake,-0.1,7
+1708,2021-11-22,jeff bezos gives 100 million to the obama foundation,0.0,3
+1709,2021-11-08,retailers scramble to attract workers ahead of the holidays,0.1,4
+1710,2021-11-10,amazon on the high seas,0.0,3
+1711,2021-11-16,amazon agrees to pay 500000 in california over claims that it hid covid19 cases from workers,-0.7,7
+1712,2021-11-01,amazon to launch first two internet satellites in 2022,0.1,8
+1713,2021-02-11,republican attacks on aoc,0.0,3
+1714,2021-02-02,how to fix facebook groups,0.0,1
+1715,2021-02-26,amazon moves from film industrys margins to the mainstream,0.0,8
+1716,2021-02-02,jeff bezos to step down as amazon ceo,0.0,14
+1717,2021-02-15,parler a social network that attracted trump fans returns online,0.0,3
+1718,2021-03-15,the need for a strong privacy law,0.0,7
+1719,2021-03-09,how biden is trying to help workingclass voters in redstate alabama,0.0,3
+1720,2021-03-30,the amazon union vote what happens next,0.0,7
+1721,2021-03-26,in invincible a young hero arrives for a mature audience,0.0,3
+1722,2021-03-05,when amazon raises its minimum wage local companies follow suit,0.1,4
+1723,2021-03-01,biden expresses solidarity with alabama workers attempting to unionize an amazon warehouse,0.0,7
+1724,2021-03-23,big tech wants points for jobs,0.1,7
+1725,2021-03-14,livestreaming still niche grows as a tool for retailers,0.1,4
+1726,2021-07-02,amazon after bezos,0.0,3
+1727,2021-07-01,the best movies and tv shows coming to amazon hbo hulu and more in july,0.0,3
+1728,2021-07-20,bezos launches to space aiming to reignite his rocket companys ambitions,0.0,8
+1729,2021-07-30,nooses anger and no answers inside the uproar over a future amazon site,-0.8,3
+1730,2021-07-05,american internet giants hit back at hong kong doxxing law,-0.3,7
+1731,2021-07-07,government tech moves too slooowly,-0.1,3
+1732,2021-07-04,investigating amazon the employer,-0.2,7
+1733,2021-07-22,amazon ends use of arbitration for customer disputes,0.0,4
+1734,2021-07-25,should big states be broken up,0.0,3
+1735,2021-07-29,amazons quarterly profit jumps to 78 billion,0.1,7
+1736,2021-06-07,why all the fury at apple,-0.4,3
+1737,2021-06-07,why amazon is confronting the richest man in india,0.0,10
+1738,2021-06-16,amazon is brilliant why not at hr,0.1,3
+1739,2021-06-11,lawmakers taking aim at big tech push sweeping overhaul of antitrust,-0.7,14
+1740,2021-06-02,the best movies and tv shows new to netflix amazon and stan in australia in june,0.0,3
+1741,2021-06-14,googles privacy backpedal shows why its so hard not to be evil,-0.7,7
+1742,2021-06-24,what congress wants from big tech,0.0,7
+1743,2021-06-22,the teamsters consider a new emphasis on organizing amazon workers,0.0,7
+1744,2021-06-20,as france chases title at euros its league faces a 400 million hole,0.0,3
+1745,2021-06-18,amazons open secret,0.0,3
+1746,2021-07-03,the jeff bezos paradox,0.0,3
+1747,2021-07-05,amazon transformed seattle now its workers are poised to take it back,-0.1,14
+1748,2021-07-09,finance ministers meet in venice to finalize global tax agreement,0.0,10
+1749,2021-07-29,big tech has outgrown this planet,0.1,14
+1750,2021-07-02,bezos exit is one of many among amazons top ranks,0.0,4
+1751,2021-07-23,amazon will investigate gender bias claims in its cloud division,-0.3,7
+1752,2021-07-04,the week in business start with a bang,0.1,3
+1753,2021-07-13,gop lawmakers question amazons connections on pentagon contract,-0.2,7
+1754,2021-07-20,disney is chipping away at netflixs dominance,0.1,7
+1755,2021-07-20,bezos thanks amazon workers and customers for his vast wealth prompting backlash,-0.3,3
+1756,2021-06-22,tech giants fearful of proposals to curb them blitz washington with lobbying,-0.5,7
+1757,2021-06-29,boom times for lawyers as washington pursues big tech,-0.3,7
+1758,2021-06-28,the mike pence saga tells us more than we want to know,0.0,3
+1759,2021-06-30,amazon says the new ftc chair lina khan should recuse herself from investigations,-0.2,7
+1760,2021-06-23,house lawmakers are considering 6 bills aimed at big tech,-0.3,7
+1761,2021-06-15,are you a current or former amazon employee,0.0,1
+1762,2021-06-10,meet big techs tormenter in chief,-0.3,3
+1763,2021-06-03,amazon wants a lot of new laws,0.0,7
+1764,2021-06-15,power and peril 5 takeaways on amazons employment machine,0.0,4
+1765,2021-06-13,winning bidder paid 28 million for ticket to space with jeff bezos,0.0,3
+1766,2021-02-16,your tuesday briefing,0.0,1
+1767,2021-02-04,its memes vs regulators,-0.1,3
+1768,2021-02-03,how andy jassy amazons next ceo was a brain double for jeff bezos,0.0,3
+1769,2021-02-12,amazon sues new york attorney general to block covid19 charges,0.0,7
+1770,2021-02-03,jeff bezos renews focus on blue origin which has been slower to launch,0.0,7
+1771,2021-02-27,how marty baron and jeff bezos remade the washington post,0.0,3
+1772,2021-02-02,amazon agrees to 62 million settlement for withholding tips to delivery drivers,-0.7,7
+1773,2021-02-03,what jeff bezos does next,0.0,3
+1774,2021-02-02,the best movies and tv shows new to netflix amazon and stan in australia in february,0.0,3
+1775,2021-02-18,who wins the online corner store,0.1,3
+1776,2021-03-25,amazon walks a political tightrope in its union fight,-0.3,7
+1777,2021-03-02,biden is saying things amazon doesnt want to hear,-0.2,4
+1778,2021-03-31,why amazons union vote matters,0.1,7
+1779,2021-03-28,the week in business a big win for marijuana,0.0,4
+1780,2021-03-28,a country that values guns more than children,-0.9,15
+1781,2021-03-24,what is amazon doing to our country,0.0,15
+1782,2021-03-11,south koreas answer to amazon debuts on wall street,0.1,8
+1783,2021-03-17,the amazon unionization vote what to know,0.0,7
+1784,2021-03-27,google aims to be the antiamazon of ecommerce it has a long way to go,0.1,7
+1785,2021-03-25,biden may be the most prolabor president ever that may not save unions,0.0,7
+1786,2021-10-29,an arena where the goal is net zero carbon emissions even from fans,0.1,4
+1787,2021-10-13,back on earth shatner and bezos have a kirkspock moment,0.0,3
+1788,2021-10-21,amazon workers on staten island aim for union vote,0.0,7
+1789,2021-10-25,why republican ken buck believes in antitrust and doesnt believe in the big lie,0.0,1
+1790,2021-10-28,amazon sales growth slows and costs rise,-0.3,7
+1791,2021-10-25,amazon workers on staten island show they have enough support to hold a union election,0.0,7
+1792,2021-10-21,us agrees to drop tariffs on countries that imposed digital services taxes as a global tax overhaul moves ahead,0.1,14
+1793,2021-10-12,spending is big techs superpower,0.7,3
+1794,2021-10-05,the best movies and tv shows new to netflix amazon and stan in australia in october,0.0,3
+1795,2021-10-25,why amazon is in business with judge judy,0.0,3
+1796,2021-11-18,the internet broke brand loyalty,0.0,10
+1797,2021-11-12,amazon staten island workers withdraw request for union vote,0.0,4
+1798,2021-11-03,google wants to work with the pentagon again despite employee concerns,0.0,7
+1799,2021-11-10,rivian ipo is embraced by investors looking for another tesla,0.3,8
+1800,2021-11-30,counterfeit covid masks are still sold everywhere despite misleading claims,-0.3,3
+1801,2021-11-19,critic of teamsters leader claims victory in race to succeed him,0.0,3
+1802,2021-11-01,the best movies and tv shows coming to amazon hbo hulu and more in november,0.0,3
+1803,2021-11-18,review this wheel of time goes nowhere fast,-0.2,3
+1804,2021-11-29,union vote at amazon warehouse in alabama is overturned by regional labor office,-0.3,7
+1805,2021-11-09,satellite hopes meet internet reality,0.1,8
+1806,2021-01-26,silicon valley workers have had enough,-0.3,3
+1807,2021-01-14,consumer groups target amazon primes cancellation process,-0.3,4
+1808,2021-01-11,how parler a chosen app of trump fans became a test of free speech,0.0,3
+1809,2021-01-14,connecticut is investigating amazons practices in the ebooks market,-0.3,7
+1810,2021-01-23,help with vaccination push comes from unexpected businesses,0.1,3
+1811,2021-01-24,the week in business biden gets down to business,0.0,3
+1812,2021-01-22,director of amazon india drama cuts scenes amid outcry from hindu nationalists,0.0,3
+1813,2021-01-12,how the turner diaries incites white supremacists,-1.0,1
+1814,2021-01-12,the scary power of the companies that finally shut trump up,0.0,3
+1815,2021-01-12,air cargo construction is booming thanks to amazon,0.1,8
+1816,2021-05-21,amazons great purge,-0.2,10
+1817,2021-05-04,the best movies and tv shows new to netflix amazon and stan in australia in may,0.0,3
+1818,2021-05-06,the epic journey to the underground railroad,0.0,1
+1819,2021-05-27,wall street rebels against exxon,0.0,14
+1820,2021-05-08,ecommerce megawarehouses a smog source face new pollution rule,0.0,7
+1821,2021-05-19,should alexa read our moods,0.0,3
+1822,2021-05-25,dc accuses amazon of controlling online prices,-0.7,7
+1823,2021-04-21,seven house republicans pledge to take no donations from major tech companies,-0.3,7
+1824,2021-04-30,how big tech won the pandemic,0.7,14
+1825,2021-04-06,garment workers who lost jobs in pandemic still wait for severance pay,-0.1,3
+1826,2021-04-27,extremists find a financial lifeline on twitch,-0.8,3
+1827,2021-04-09,here is how the amazon unionization vote broke down,0.0,7
+1828,2021-04-10,man who boasted he was at capitol riot is charged in bomb plot,0.0,3
+1829,2021-04-29,amazons profit soars 220 percent as pandemic drives shopping online,0.1,7
+1830,2021-04-20,americas amazon problems,0.0,3
+1831,2021-04-29,a perfect positive storm bonkers dollars for big tech,1.0,3
+1832,2021-04-05,amazon illegally fired activist workers labor board finds,-0.8,7
+1833,2021-04-09,amazon workers vote down union drive at alabama warehouse,0.0,4
+1834,2021-04-21,why is big tech under assault power,-0.3,7
+1835,2021-04-15,why the amazon workers never stood a chance,-0.2,3
+1836,2021-04-27,to understand tech look beyond the ceos,0.0,3
+1837,2021-04-12,the notquiteeverything store,0.0,3
+1838,2021-04-16,why amazon workers sided with the company over a union,0.0,3
+1839,2021-04-08,partial tally in amazon union drive favors no votes,-0.2,4
+1840,2021-04-09,republicans fake war against woke capital,0.0,3
+1841,2021-04-05,this peeler did not need to be wrapped in so much plastic,-0.1,1
+1842,2021-04-09,amazon workers felt intimidated labor leader says,-0.3,3
+1843,2021-01-07,the best movies and tv shows new to netflix amazon and stan in australia in january,0.0,3
+1844,2021-01-18,amazon web drama draws the wrath of indias hindu nationalists,0.0,4
+1845,2021-01-19,why tshirts promoting the capitol riot are still available online,-0.8,1
+1846,2021-01-21,how wall street reflects the economy biden inherits,0.0,15
+1847,2021-01-12,getting corporate cash out of politics,0.0,7
+1848,2021-01-11,parler accuses amazon of breaking antitrust law in suspending hosting services,-0.7,7
+1849,2021-01-05,a cure for politicians stock trades,0.0,15
+1850,2021-01-25,amazon union drive takes hold in unlikely place,-0.3,7
+1851,2021-01-02,a canadian buy local effort fights amazon on its own turf,0.0,3
+1852,2021-01-26,tony hsiehs fatal night an argument drugs a locked door and sudden fire,-1.0,1
+1853,2021-12-10,5 things to do this weekend,0.0,1
+1854,2021-12-11,video shows tornado destruction at amazon warehouse in illinois,-0.3,4
+1855,2021-12-12,images show amazon warehouse before and after tornado,0.0,3
+1856,2021-01-04,amazon berkshire and jpmorgan will end joint health care venture,-0.2,14
+1857,2021-01-19,the next tesla investors bet big on electric truck maker rivian,0.0,3
+1858,2021-01-26,why is big tech policing speech because the government isnt,-0.2,7
+1859,2021-01-21,what internet censorship looks like,0.0,3
+1860,2021-01-20,parler tries to survive with help from russian company,-0.5,4
+1861,2021-01-29,amazons cynical antiunion attack on mail voting,-0.8,7
+1862,2021-01-27,one tale from an amazon seller,0.0,3
+1863,2021-01-15,when tech antitrust failed,-0.8,14
+1864,2021-01-21,a judge declines to force amazon to resume hosting parler,0.0,4
+1865,2021-01-13,is more violence coming,-0.5,3
+1866,2021-12-19,the week in business taking on inflation,0.0,7
+1867,2021-12-11,what to know about the deadly tornado outbreak,0.0,3
+1868,2021-12-13,a new focus on amazon warehouses,0.0,3
+1869,2021-12-13,in kentucky tallying the grim scale of destruction,0.0,3
+1870,2021-12-14,this is what happens when workers dont control their own lives,0.0,1
+1871,2021-12-09,amazon is fined 13 billion in italy over antitrust violations,-0.9,14
+1872,2021-12-22,why christmas gifts are arriving on time this year,0.1,3
+1873,2021-12-22,labor organizers at amazons staten island warehouse refile petition for a union election,-0.2,4
+1874,2021-12-20,the new getrichfaster job in silicon valley crypto startups,0.1,3
+1875,2021-12-11,at least six people died after an amazon warehouse in illinois took a direct hit,-1.0,3
+1876,2021-04-10,the force that can help amazons workers amazons shoppers,0.0,3
+1877,2021-04-28,amazon to raise pay for 500000 workers,0.1,7
+1878,2021-04-30,the best movies and tv shows coming to amazon hbo hulu and more in may,0.0,3
+1879,2021-04-05,amazons clashes with labor days of conflict and control,-0.3,7
+1880,2021-04-08,in them a black family is haunted by reallife monsters,0.0,1
+1881,2021-04-13,amazons big win over the little guy,-0.2,3
+1882,2021-04-26,marco rubios woke capital tantrum,-0.5,3
+1883,2021-04-01,a union drive at amazon,-0.3,7
+1884,2021-04-11,the week in business amazon defeats the union,-0.7,7
+1885,2021-04-12,america needs to empower workers again,0.0,3
+1886,2021-05-26,james bond meet jeff bezos amazon makes 845 billion deal for mgm,0.1,14
+1887,2021-05-13,to understand amazon we must understand jeff bezos,0.0,3
+1888,2021-05-04,stores still matter wheres amazon,0.0,3
+1889,2021-05-20,companies write their own rules and make a mockery of democracy,-0.7,15
+1890,2021-05-13,review the underground railroad weaves an epic vision,0.0,3
+1891,2021-05-21,amazon pauses construction at connecticut site after nooses are found,-0.7,4
+1892,2021-05-18,stereotypes are rife among asian and pacific islander film roles study finds,0.0,1
+1893,2021-05-18,mgm looks to amazon as the hollywood studio tries to find a buyer,0.0,8
+1894,2021-05-04,amazon had a big year but paid no tax to luxembourg,0.0,7
+1895,2021-05-17,wearing masks even after getting vaccinated,0.0,1
+1896,2021-04-30,where should you buy your books,0.0,1
+1897,2021-04-09,the union defeat at an amazon warehouse,-0.3,7
+1898,2021-04-13,transformers and a zombie comedy what invincible is made of,0.0,3
+1899,2021-04-09,union loss may bring new phase of campaign against amazon,-0.3,7
+1900,2021-04-02,jeff bezos is taunting politicians will they take the bait,0.0,3
+1901,2021-04-20,a global tipping point for reining in tech has arrived,-0.3,15
+1902,2021-04-01,the best movies and tv shows coming to amazon hbo max hulu and more in april,0.0,3
+1903,2021-04-28,court could consider whether trump interfered in cloud computing contract,-0.1,7
+1904,2021-04-28,the rise of woke capital is nothing to celebrate,0.0,3
+1905,2021-04-07,jpmorgans chief sees a boom coming,0.3,3
+1906,2021-05-11,l brands plans to spin off victorias secret,0.0,7
+1907,2021-05-26,amazons big day,0.1,3
+1908,2021-05-25,the big deal in amazons antitrust case,-0.3,14
+1909,2021-05-14,as congress dithers states step in to set rules for the internet,0.0,7
+1910,2021-05-13,the apple and amazon side hustles,0.1,3
+1911,2021-05-26,why is amazon in entertainment,0.0,3
+1912,2021-05-18,amazon indefinitely extends a moratorium on the police use of its facial recognition software,0.0,7
+1913,2021-05-12,amazons 300 million european tax charge is rejected by an eu court,0.0,7
+1914,2021-05-31,i wrote james bond movies the amazonmgm deal gives me chills,0.0,3
+1915,2021-05-12,inside jeff bezos obsessions,0.0,3
+1916,2021-12-12,at amazon site tornado collided with companys peak delivery season,-0.3,4
+1917,2021-12-23,amazon reaches labor deal giving workers more power to organize,0.0,7
+1918,2021-12-03,thefts always an issue for retailers become more brazen,-0.3,3
+1919,2021-12-03,what happened to amazons bookstore,0.0,3
+1920,2021-12-16,rivian an ev maker with big ambitions but few sales will build a new factory in georgia,0.1,7
+1921,2021-12-01,the best movies and tv shows coming to amazon hbo hulu and more in december,0.0,3
+1922,2021-12-07,amazons cloud computing outage disrupts its warehouse operations,0.0,7
+1923,2021-12-08,being the ricardos review kiss fight rinse repeat,0.0,1
+1924,2021-12-22,amazon requires masks again at all us warehouses,0.0,3
+1925,2021-12-22,the year in tech empires,0.0,3
+1926,2021-01-31,the best movies and tv shows coming to amazon hbo max hulu and more in february,0.0,3
+1927,2021-03-16,there was no mercy,-0.1,1
+1928,2021-03-03,amazon quietly tweaks logo some say resembled hitlers mustache,-0.5,3
+1929,2021-03-07,mackenzie scott a philanthropist and exwife of jeff bezos remarries,0.0,1
+1930,2021-03-02,the best movies and tv shows coming to amazon hbo hulu and more in march,0.0,3
+1931,2021-03-10,in fulfillment oneclick shopping is cheap easy and economically unsustainable,-0.2,3
+1932,2021-03-30,how big is amazon really,0.0,3
+1933,2021-03-23,organizing gravediggers cereal makers and maybe amazon employees,0.0,3
+1934,2021-03-09,amazon and the breaking of baltimore,0.0,3
+1935,2021-03-16,maybe amazon has no master plan,0.0,3
+1936,2021-03-19,the pay tv model is declining the nfl is still banking on it,-0.2,4
+1937,2021-02-03,amazon without jeff bezos,0.0,14
+1938,2021-02-03,as jeff bezos takes off meet his earthbound successor,0.0,3
+1939,2021-02-16,adam kinzinger i can relate when politics divides families,0.0,1
+1940,2021-02-13,whats amazons secret,0.0,3
+1941,2021-02-08,what jeff bezos hath wrought,0.0,3
+1942,2021-02-22,a city with amazon at the center,0.0,8
+1943,2021-02-17,new york sues amazon saying it inadequately protected workers from covid19,-0.7,7
+1944,2021-02-26,want to buy a scrunchie mask great but forget about that n95,0.0,1
+1945,2021-02-17,how to buy a real n95 mask online,0.0,1
+1946,2021-02-17,this cloud computing billing expert is very funny seriously,0.0,1
+1947,2021-11-11,always jane is part of a new generation of trans documentaries,0.0,1
+1948,2021-11-02,jeff bezos pledges investments in restoring the earth,0.0,3
+1949,2021-10-21,do you work at amazon or another powerful employer,0.0,1
+1950,2021-10-19,what amazon did to fiction,0.0,3
+1951,2021-10-28,cracking amazons worst hr problem,-0.2,3
+1952,2021-10-08,5 things to do this weekend,0.0,1
+1953,2021-06-29,how amazon google and other companies exploit ndas,-0.3,7
+1954,2021-06-09,you wont find the hardcover of dave eggerss next novel on amazon,0.0,3
+1955,2021-06-09,man pleads guilty to plotting to bomb amazon data center,-0.9,3
+1956,2021-06-29,congress faces renewed pressure to modernize our antitrust laws,0.0,7
+1957,2021-06-07,what to know about amazons new network,0.0,8
+1958,2021-06-17,what to avoid on amazon prime day,0.0,3
+1959,2021-06-15,the amazon that customers dont see,0.0,3
+1960,2021-09-29,amazon should invent with care,0.0,3
+1961,2021-09-13,dave eggers created the googleamazon mashup of your nightmares,-0.3,3
+1962,2021-09-10,can tv get big again,0.1,3
+1963,2021-09-09,elizabeth warren asks amazon to stop peddling misinformation about covid vaccines and treatments,-0.4,4
+1964,2021-09-17,the endless facebook apology,-0.2,3
+1965,2021-09-06,california bill could alter amazon labor practices,0.0,7
+1966,2021-08-31,the best movies and tv shows coming to amazon hbo hulu and more in september,0.0,3
+1967,2021-08-04,amazon faces wider fight over labor practices,-0.3,7
+1968,2021-08-04,the best movies and tv shows new to netflix amazon and stan in australia in august,0.0,3
+1969,2021-08-20,nicole kidmans quarantine pass generates anger in hong kong,0.0,3
+1970,2021-08-17,how amazon won shopping,0.1,3
+1971,2021-08-20,how amazon managed to dethrone walmart,0.0,10
+1972,2021-09-30,ladies and gentlemen daniel craig,0.0,1
+1973,2021-09-10,brickandmortar retail in the age of covid and amazon,-0.2,10
+1974,2021-09-08,california senate passes bill reining in amazon labor model,-0.3,7
+1975,2021-09-28,for flagging amazon games unit new world has to be our breakthrough,0.1,8
+1976,2021-09-10,a sept 11 conundrum,0.0,1
+1977,2021-09-22,voice assistants dont understand us they should,-0.1,3
+1978,2021-09-03,consumers and companies are buying in on paying later,0.3,7
+1979,2021-09-29,macys sues to block amazon from taking over the billboard at its herald square flagship,-0.1,3
+1980,2021-09-28,amazon announces astro a home robot that it swears is more than alexa on wheels,0.1,8
+1981,2021-09-29,amazon settles with activist workers who say they were illegally fired,-0.6,7
+1982,2021-08-02,labor board official backs union challenge on amazon vote,-0.3,7
+1983,2021-08-20,bill ackmans spac deal gets messier,-0.6,7
+1984,2021-08-28,amazon strikes a deal with affirm the buynow paylater provider,0.0,7
+1985,2021-08-04,the subscription buffet may be over,-0.3,14
+1986,2021-08-02,three white male tough guys sign off is it a moment,0.0,1
+1987,2021-08-23,yes the owner of a movie theater chain feels bad for me,0.0,1
+1988,2021-08-18,facebook plays the underdog,0.0,3
+1989,2021-08-27,rivian electric truck maker backed by amazon and ford files for ipo,0.1,10
+1990,2021-08-17,people now spend more at amazon than at walmart,0.0,8
+1991,2021-08-06,amazon wins court battle in india against a local powerhouse,0.0,4
+1992,2021-06-24,antitrust overhaul passes its first tests now the hard parts,-0.3,7
+1993,2021-06-07,jeff bezos will fly aboard blue origins first human trip to space,0.0,3
+1994,2021-06-15,mackenzie scott gives away another 274 billion even as her wealth grows,0.0,3
+1995,2021-06-28,a final word before mr bezos blasts off,0.0,3
+1996,2021-06-07,a pact to tax the world,0.0,15
+1997,2021-06-10,counting down to a big inflation number,-0.3,7
+1998,2021-06-08,teaching students about racism in america,0.0,1
+1999,2021-06-17,carelessly dishonestly and inhumanely how amazon treats its workers,-0.9,7
+2000,2021-06-16,buyers of amazon devices are guinea pigs thats a problem,-0.7,3
+2001,2021-06-15,biden names lina khan a bigtech critic as ftc chair,-0.4,7
+2002,2021-07-23,how tech won the pandemic and now may never lose,0.8,14
+2003,2021-07-08,ireland fights for its tax breaks,0.0,7
+2004,2021-07-06,they resurrected mgm amazon bought the studio now what,0.1,8
+2005,2021-07-06,pentagon cancels a disputed 10 billion technology contract,-0.7,7
+2006,2021-07-01,trump organization voting rights cloud gaming your thursday evening briefing,0.0,3
+2007,2021-07-01,crucial time for cloud gaming which wants to change how you play,0.1,8
+2008,2021-07-24,bidens antitrust team signals a big swing at corporate titans,-0.7,10
+2009,2021-07-20,very profound bezos says of spaceflight experience,0.0,3
+2010,2021-03-02,amazon workers union drive reaches far beyond alabama,0.0,7
+2011,2021-03-04,as online shopping surged amazon planned its new york takeover,0.0,14
+2012,2021-03-18,nfl signs media deals worth over 100 billion,0.0,4
+2013,2021-03-29,contentious union vote at amazon heads to a count,-0.2,4
+2014,2021-03-18,amazon says it pays alabama workers well other local employers pay more,-0.2,4
+2015,2021-03-05,a leading critic of big tech will join the white house,-0.3,7
+2016,2021-03-17,the great amazon flipathon,0.0,8
+2017,2021-03-15,who is making sure the ai machines arent racist,0.0,7
+2018,2021-03-02,the best movies and tv shows new to netflix amazon and stan in australia in march,0.0,3
+2019,2021-03-16,how amazon crushes unions,-0.9,3
+2020,2021-02-26,the deep south has a rich history of resistance as amazon is learning,0.0,3
+2021,2021-02-18,amazons great labor awakening,0.0,10
+2022,2021-02-02,one property at a time a city tries to revive without gentrifying,0.0,3
+2023,2021-02-09,what exactly is amazon web services,0.0,3
+2024,2021-02-10,profits steer our digital future,0.1,3
+2025,2021-02-18,dont look away from amazon workers latest union drive,-0.2,7
+2026,2021-02-24,after russian cyberattack looking for answers and debating retaliation,-0.2,10
+2027,2021-02-12,hey alexa are you sexist,0.0,3
+2028,2021-02-07,the week in business the meme stock bubble bursts,-0.7,7
+2029,2021-02-25,5 things to do this weekend,0.0,1
+2030,2022-10-28,will elon musk be able to keep twitters advertisers happy,0.0,7
+2031,2022-10-22,twitchs relationship with its streamers shows its cracks,-0.3,7
+2032,2022-10-28,house of the dragon and the rings of power both use diverse casting one of them does it better,0.0,1
+2033,2022-10-26,tech stocks tumble as growth falters,-0.7,7
+2034,2022-10-11,amazon labor union with renewed momentum faces next test,0.0,7
+2035,2022-10-14,the rings of power charlie vickers on that monster revelation,0.0,1
+2036,2022-10-28,the peripheral isnt really about the future,-0.1,3
+2037,2022-10-20,modern love goes global in new television series,0.0,3
+2038,2022-10-09,is there a future for latenight talk shows,0.0,1
+2039,2022-10-28,elon musk faces another big decision at twitter,0.0,7
+2040,2022-11-03,a host of tech companies announce hiring freezes and job cuts,-0.7,7
+2041,2022-11-07,what to know about irvings antisemitic movie post and the fallout,-0.9,3
+2042,2022-11-30,amazon wants to review your sleep no thanks,-0.1,3
+2043,2022-11-22,nanny review a new job that swallows her life,0.0,1
+2044,2022-11-15,why the g20 summit matters to investors,0.0,7
+2045,2022-11-18,a beloved show gets another life,0.1,3
+2046,2022-11-06,amazon considers disclaimer to antisemitic film irving shared online,-0.7,3
+2047,2022-11-02,security cameras make us feel safe but are they worth the invasion,-0.1,3
+2048,2022-11-19,this week billionaires made a strong case for abolishing themselves,0.0,3
+2049,2022-11-15,as uk braces for painful budget cuts the mood is gloomy,-0.3,15
+2050,2022-07-18,amazon ceo andy jassy breaks from the bezos way,0.0,7
+2051,2022-07-12,how deep is our love for prime day,0.1,3
+2052,2022-07-27,big tech and the fed,0.0,7
+2053,2022-07-24,the week in business amazons latest acquisition,0.1,8
+2054,2022-07-27,the default tech settings you should turn off right away,0.1,3
+2055,2022-07-06,amazon strikes a deal with grubhub as the fooddelivery business struggles,0.1,7
+2056,2022-07-28,the word of the year is uncertainty,0.0,15
+2057,2022-07-28,big tech is proving resilient as the economy cools,0.6,7
+2058,2022-07-24,why big tech is making a big play for live sports,0.3,7
+2059,2022-07-15,chinas shuddering economic engine,-0.7,15
+2060,2022-06-29,amazon restricts lgbtq products in united arab emirates,-0.2,7
+2061,2022-06-08,fraud and identity theft trial to test american antihacking law,-0.7,7
+2062,2022-06-22,will bidens gas tax holiday make a difference,0.0,3
+2063,2022-06-02,the end of the sandberg era at meta,0.0,7
+2064,2022-06-23,transparent musical highlights center theater group season,0.0,1
+2065,2022-07-06,what amazon primes deal with grubhub means for consumers,0.0,4
+2066,2022-07-25,cooling the economy without crushing it,0.0,15
+2067,2022-07-26,will streaming save sports or kill it,0.0,7
+2068,2022-07-22,amazon wants to be your doctor too,0.1,8
+2069,2022-07-18,amazon is giving prime video a facelift,0.1,4
+2070,2022-07-02,the best movies and tv shows coming to hbo hulu apple tv and more in july,0.1,3
+2071,2022-07-13,twitter unloads on musk,-0.5,3
+2072,2022-07-06,a darkened outlook for britain,0.0,15
+2073,2022-07-18,the andy jassy way at amazon,0.0,3
+2074,2022-07-29,the country that wants to be average vs jeff bezos and his 500 million yacht,0.0,3
+2075,2022-06-16,my fake boyfriend review deepfake dating,-0.1,3
+2076,2022-06-27,women on why theyre stocking up on the morningafter pill,0.0,1
+2077,2022-06-21,higher ground the obamas production company signs multiyear deal with amazons audible,0.1,4
+2078,2022-06-21,senior black executives depart amazon as it names new consumer boss,-0.2,7
+2079,2022-06-03,the chief executive of amazons consumer business is leaving,0.0,8
+2080,2022-06-18,examazon worker convicted in capital one hacking,-0.7,4
+2081,2022-06-09,lina khan a big tech critic tries answering her own detractors,0.0,7
+2082,2022-06-23,netflix needs some help with ads,-0.2,7
+2083,2022-06-16,where are the delivery drones,0.0,3
+2084,2022-06-03,the best movies and tv shows coming to hbo hulu apple tv and more in june,0.1,3
+2085,2022-03-09,a house panel calls for a criminal investigation into amazon,-0.8,10
+2086,2022-10-27,amazon returns to growth but signals slowness ahead,0.1,7
+2087,2022-10-26,how is your company responding to labor organizing we want to hear,-0.3,3
+2088,2022-10-26,techs biggest companies are sending worrying signals about the economy,-0.6,14
+2089,2022-10-20,tesla optimists are in retreat,-0.3,3
+2090,2022-10-31,ftc accuses ed tech firm chegg of careless data security,-0.7,7
+2091,2022-10-05,amazon suspends workers after protest over warehouse fire,-0.3,4
+2092,2022-10-14,the rings of power the showrunners unpack that twisty finale,0.0,1
+2093,2022-10-04,amazon freezes corporate hiring in its retail business,0.0,4
+2094,2022-10-18,amazon labor union loses election at warehouse near albany,0.0,4
+2095,2022-10-19,the existential horror of thursday night football,0.0,1
+2096,2022-11-14,jeff bezos says he will give away most of his fortune,0.0,14
+2097,2022-11-30,andy jassy says amazon will allow the antisemitic film that kyrie irving tweeted to remain on sale for now,-0.8,3
+2098,2022-11-14,amazon is said to plan to lay off thousands of employees,-0.6,7
+2099,2022-11-10,the english emily blunt and chaske spencer saddle up,0.0,1
+2100,2022-11-02,overtime elite gets media deal with amazon prime video,0.1,4
+2101,2022-11-23,billions of dollars are at stake in a puzzling holiday shopping season,0.0,7
+2102,2022-11-28,where does all the cardboard come from i had to know,0.0,1
+2103,2022-11-14,who bears blame for ftxs failure,-0.8,4
+2104,2022-11-02,investors await the feds next move,0.0,7
+2105,2022-11-30,top questions for todays dealbook summit speakers,0.0,3
+2106,2022-01-19,amazon unveils the title for its bigbudget lord of the rings streaming series,0.0,3
+2107,2022-01-20,amazon plans a new rival for retailers a physical clothing store,-0.1,14
+2108,2022-01-18,regulators aim to rewrite rules for big mergers,-0.2,10
+2109,2022-01-12,amazon prime loved at almost any price,0.1,3
+2110,2022-01-21,as we see it is not a typical portrayal of autism,0.0,3
+2111,2022-01-03,banks tiptoe toward their cloudbased future,0.1,7
+2112,2022-01-13,businesses are whipsawed again as the supreme court blocks oshas vaccine mandate,-0.3,7
+2113,2022-01-11,a timeline is set for a new unionization vote at an amazon warehouse,-0.3,7
+2114,2022-01-18,can anyone satisfy amazons craving for electric vans,0.0,3
+2115,2022-01-13,stocks drop as turbulence continues on wall street,-0.5,3
+2116,2022-04-29,prayer on a school football field awaiting a supreme court ruling,0.0,3
+2117,2022-04-20,from amazon to starbucks america is unionizing will politics catch up,0.0,10
+2118,2022-04-02,how two best friends beat amazon,0.7,3
+2119,2022-04-07,nlrb counsel calls for a ban on mandatory antiunion meetings,0.0,7
+2120,2022-04-19,the next big thing in streaming,0.1,8
+2121,2022-04-13,amazon adds a fuel and inflation surcharge to the fees it charges to sellers,0.0,4
+2122,2022-04-08,amazon says landmark staten island union vote should be thrown out,-0.3,7
+2123,2022-04-25,union vote begins at another amazon facility on staten island,-0.2,4
+2124,2022-04-04,a small earthquake on staten island,0.0,1
+2125,2022-04-19,and now a word from your streaming sponsor,0.0,1
+2126,2022-04-28,amazon reports slowing sales growth and indicates slowdown may continue,-0.4,7
+2127,2022-04-15,imogen poots keeps everyone guessing in outer range,0.0,1
+2128,2022-04-01,amazon workers on staten island vote to unionize in landmark win for labor,0.0,7
+2129,2022-04-15,a duchess brought low by a very british scandal,0.0,1
+2130,2022-04-07,9 ways to imagine jeff bezos wealth,0.0,3
+2131,2022-01-13,how i quit prime and survived,0.0,1
+2132,2022-01-28,rochelle feinstein makes work that is purposefully hard to define,0.0,1
+2133,2022-01-26,amazon pays 225 million to settle a pricefixing investigation,-0.4,7
+2134,2022-01-14,googles chief executive signed off on deal at center of antitrust case states say,-0.6,10
+2135,2022-01-20,efforts to rein in big tech may be running out of time,-0.3,10
+2136,2022-01-25,the us labor movement is popular prominent and also shrinking,0.0,4
+2137,2022-12-18,streamings golden age is suddenly dimming,-0.3,7
+2138,2022-12-15,you bought the thing now you regret the thing,-0.8,3
+2139,2022-12-15,amazon to publish the next tomb raider video game,0.0,8
+2140,2022-12-21,youtube in advanced talks for nfl sunday ticket,0.1,7
+2141,2022-12-27,how two friends beat amazon and built a union an update,0.0,7
+2142,2022-12-15,amazon agrees to change some business practices in eu settlement,0.0,7
+2143,2022-04-15,amazon vs the union,-0.3,7
+2144,2022-04-19,a judge ruled that amazon must reinstate a staten island worker who was fired,-0.2,3
+2145,2022-04-06,does the amazon union win portend a comeback for organized labor,0.0,7
+2146,2022-04-21,what you dont know about amazon,0.0,3
+2147,2022-04-05,amazon tried one of the oldest tricks in the book and it backfired,-0.5,3
+2148,2022-04-02,what one brotherhood of coal miners learned from a year above ground,0.0,3
+2149,2022-04-06,biden appears to show support for amazon workers who voted to unionize,0.0,7
+2150,2022-04-22,eu takes aim at social medias harms with landmark new law,0.0,7
+2151,2022-04-01,the best movies and tv shows coming to hbo hulu apple tv and more in april,0.1,3
+2152,2022-04-07,amazon workers who won a union their way open labor leaders eyes,-0.2,7
+2153,2022-05-06,labor regulators find merit in accusations by unions at amazon and starbucks,-0.3,7
+2154,2022-05-06,amazon abruptly fires senior managers tied to unionized warehouse,-0.5,7
+2155,2022-05-05,bosch legacy review more of the same good thing,0.1,3
+2156,2022-05-10,i think its fine to say i feel like i reckon others do too,0.0,1
+2157,2022-05-12,a union blitzed starbucks at amazon its a slog,0.0,3
+2158,2022-05-23,the era of borderless data is ending,-0.3,15
+2159,2022-05-14,the gunman broadcast the attack on a livestreaming site,-1.0,3
+2160,2022-05-02,amazon union loses vote at second staten island warehouse,-0.2,7
+2161,2022-05-20,big tech is getting clobbered on wall street its a good time for them,-0.2,3
+2162,2022-05-02,the best movies and tv shows coming to hbo max hulu apple tv and more in may,0.1,3
+2163,2022-04-28,the revolt of the collegeeducated working class,0.0,15
+2164,2022-04-06,youre still being tracked on the internet just in a different way,-0.1,3
+2165,2022-04-13,etsy and the sameness of internet fights,0.0,3
+2166,2022-04-01,the people united must fight hard or be defeated,0.0,1
+2167,2022-04-22,as europe approves new tech laws the us falls further behind,-0.3,10
+2168,2022-04-27,one month after amazon takeover two top mgm executives announce their departures,-0.2,8
+2169,2022-04-07,what is putin really after in ukraine,0.0,15
+2170,2022-04-01,house committee opens investigation into amazons labor practices,-0.3,7
+2171,2022-04-15,reporting from amazons hometown and seeing the company everywhere,0.0,3
+2172,2022-04-26,stocks drop 28 led lower by tech as aprils slump continues,-0.7,7
+2173,2022-05-24,an american comeback on amazon,0.1,3
+2174,2022-05-03,in housing court tenants are being evicted again,-0.1,3
+2175,2022-05-05,biden and harris meet with labor organizers from amazon and starbucks,0.0,4
+2176,2022-05-24,the kids in the hall have gotten old their comedy hasnt,0.0,1
+2177,2022-05-09,a portrait of ed kochs secret gay life,0.0,1
+2178,2022-12-29,as silicon valley retrenches a tech talent shift accelerates,-0.2,14
+2179,2022-12-20,amazon and eu reach deal to end antitrust investigation,0.0,7
+2180,2022-12-14,tech trade group sues california to halt childrens online safety law,-0.3,7
+2181,2022-12-08,pentagon divides big cloudcomputing deal among 4 firms,0.0,7
+2182,2022-12-06,computer science students face a shrinking big tech job market,-0.4,7
+2183,2022-12-08,at the dealbook summit untangling the now and the future,0.0,3
+2184,2022-12-09,tell us how your family uses alexa,0.0,3
+2185,2022-12-01,what we learned from sam bankmanfried mark zuckerberg reed hastings and more,0.0,3
+2186,2022-12-03,did you miss the dealbook summit,0.0,3
+2187,2022-12-22,holiday shoppers and shipping companies are keeping a close eye on the storm,0.0,3
+2188,2022-03-16,a hollywood production made in liverpool,0.0,1
+2189,2022-03-10,rivian pares delivery targets for 2022 citing supply problems,-0.3,7
+2190,2022-03-21,plan for amazon headquarters in south africa in peril after court order,0.0,7
+2191,2022-03-08,amazon web services blocks new signups from russia and belarus,0.0,4
+2192,2022-03-03,twitch says it will bar chronic spreaders of misinformation,0.1,4
+2193,2022-03-01,the best movies and tv shows coming to hbo hulu apple tv and more in march,0.1,3
+2194,2022-03-18,dc suit accusing amazon of controlling prices is thrown out,0.0,4
+2195,2022-03-03,a second amazon site on staten island will have a union election,0.0,7
+2196,2022-03-09,companies are getting out of russia sometimes at a cost,-0.3,7
+2197,2022-03-21,bridgerton tea outlander castles and lodges in yellowstone favorite tv shows inspire trip ideas,0.0,3
+2198,2022-02-17,do todays unions have a fighting chance against corporate america,0.0,7
+2199,2022-02-28,here comes the full amazonification of whole foods,0.0,8
+2200,2022-02-12,walmart says vaccinated workers no longer have to wear masks in most states,0.0,3
+2201,2022-02-11,dance i said dance and leave the package on the porch,0.0,1
+2202,2022-02-04,lawmakers press amazon on sales of chemical used in suicides,-0.8,7
+2203,2022-02-03,what big techs riches mean for our future,0.1,15
+2204,2022-02-07,amazon doubles its cap on base salaries for corporate employees,0.1,7
+2205,2022-02-16,the rise of big tech may just be starting,0.6,14
+2206,2022-02-04,stocks climb as investors weigh a surprising jobs report and amazon earnings,0.3,7
+2207,2022-02-26,does anyone know what paper towels should cost,0.0,1
+2208,2022-11-30,amazon will challenge staten island union election ceo says,0.0,7
+2209,2022-10-19,dan snyder wasnt on the nfl owners meeting agenda heres what was,0.0,1
+2210,2022-07-15,are middlemen really profitmaking parasites,0.0,3
+2211,2022-07-19,amazon sues leaders of more than 10000 facebook groups it says churn out fake reviews,0.0,4
+2212,2022-09-29,guess whos coming to mordor,0.0,1
+2213,2022-09-21,regulators accuse amazon of singling out union organizers for discipline,-0.7,7
+2214,2022-08-02,the books merger thats about amazon,0.0,14
+2215,2022-08-09,walmart ponders streaming deal with paramount disney and comcast,0.1,8
+2216,2022-08-05,amazon to buy maker of the roomba for 17 billion,0.1,10
+2217,2022-09-08,40 tv shows to watch this fall,0.0,1
+2218,2022-09-01,the lord of the rings the rings of power the reviews are in,0.0,3
+2219,2022-09-08,a goodbye to readers and a reflection,0.0,1
+2220,2022-09-15,this ads for you not your neighbor,0.0,1
+2221,2022-09-14,california files antitrust lawsuit against amazon,-0.7,10
+2222,2022-09-01,please dont make a tolkien cinematic universe,0.0,1
+2223,2022-09-01,labor board official says amazon effort to overturn staten island warehouse election should be rejected,-0.3,7
+2224,2022-09-01,the rings of power review shiny not yet precious,0.0,3
+2225,2022-09-18,wegmans discontinues selfcheckout app citing losses,-0.3,3
+2226,2022-09-05,fantasy faceoff the rings of power vs house of the dragon,0.0,3
+2227,2022-08-31,with house of the dragon and the rings of power weve entered the age of blockbuster tv,0.0,3
+2228,2022-08-24,peloton will sell fitness equipment and apparel on amazon,0.3,7
+2229,2022-08-24,amazon says it will shut down amazon care its primary and urgent health care business,-0.7,7
+2230,2022-08-22,a coal miners political transformation,0.0,1
+2231,2022-08-05,in a league of their own abbi jacobson makes the team,0.0,1
+2232,2022-08-25,why peloton is selling on amazon,0.0,4
+2233,2022-08-31,zach sang the ryan seacrest of the youth wants to save radio,0.0,3
+2234,2022-08-12,review a league of their own broadens the field,0.0,3
+2235,2022-08-05,clock running out on antitrust bill targeting big tech,-0.3,7
+2236,2022-08-11,rivian reports 17 billion quarterly loss as supply chain problems persist,-0.9,7
+2237,2022-07-22,jay carney amazons top policy executive will join airbnb,0.0,4
+2238,2022-07-21,amazon wants 100000 electric vans can rivian deliver,0.1,8
+2239,2022-07-28,amazon posts 72 percent increase in revenue the slowest growth rate in two decades,-0.4,7
+2240,2022-07-21,amazon to acquire one medical clinics in latest push into health care,0.1,14
+2241,2022-07-12,new climate promises same old global warming,-0.1,3
+2242,2022-07-29,recession not for big tech,0.7,15
+2243,2022-07-04,she inspired a league of their own at 95 shes far from done,0.0,1
+2244,2022-07-14,amazon moves to end a longrunning antitrust case in europe,0.1,7
+2245,2022-07-07,amazon hub in newark is canceled after unions and local groups object,-0.2,4
+2246,2022-07-12,abubakr ali gets a boost from whalewatching and eid fashions,0.0,3
+2247,2022-03-16,warehouses transform nyc neighborhoods as ecommerce booms,0.3,7
+2248,2022-03-24,mandatory meetings reveal amazons approach to resisting unions,-0.7,7
+2249,2022-03-17,nlrb sues amazon over labor practices at a staten island facility,-0.7,7
+2250,2022-03-31,union trails in amazon vote in alabama with challenges pending,-0.2,7
+2251,2022-03-23,theres no global shopping mall,0.0,1
+2252,2022-03-24,eu takes aim at big techs power with landmark digital act,-0.3,14
+2253,2022-03-22,mackenzie scott gives 436 million to habitat for humanity,0.0,3
+2254,2022-03-02,amazon plans to shut down more than 50 brickandmortar stores,0.0,7
+2255,2022-03-31,stephen merchant is an unsmooth criminal,0.0,1
+2256,2022-03-24,the corporations passing and failing the ukraine morality test,0.0,10
+2257,2022-02-04,amazon warehouse in alabama is set to begin second union election,-0.2,7
+2258,2022-02-16,a union election at the amazon warehouse on staten island is set for march,0.0,7
+2259,2022-02-03,amazon confronts pandemic costs and raises the price of prime,0.0,7
+2260,2022-02-09,rivian loses its shine as investors fret about production delays,-0.6,7
+2261,2022-02-08,joe rogan is a drop in the ocean of medical misinformation,-0.1,3
+2262,2022-02-26,new amazon headquarters sparks feud among indigenous south africans,0.0,3
+2263,2022-02-22,big tech makes a big bet offices are still the future,0.1,7
+2264,2022-02-15,the age of antiambition,0.0,3
+2265,2022-02-03,this jack reacher is going to be big,0.1,3
+2266,2022-02-03,rotterdam may dismantle part of bridge for jeff bezos superyacht,0.0,3
+2267,2023-10-26,amazon revenue jumps as consumer and business spending improves,0.4,7
+2268,2023-10-18,maybe we will finally learn more about how ai works,0.1,3
+2269,2023-10-05,the best movies and tv shows coming to hbo hulu apple tv and more in october,0.1,3
+2270,2023-10-02,amazons most beloved features may turn out to be illegal,-0.7,7
+2271,2023-10-13,retailers seasonal hiring plans signal a cooling labor market,0.0,7
+2272,2023-10-06,amazon launches first project kuiper satellites to orbit,0.1,8
+2273,2023-10-06,amazon launches its first internet satellite prototypes,0.1,8
+2274,2023-11-27,theres a lot riding on black friday and cyber monday,0.1,4
+2275,2023-11-27,how the biden administration took the pen away from meta google and amazon,-0.3,7
+2276,2023-11-15,amazon to stop selling seven eyedrops after fda warning,-0.3,4
+2277,2023-11-13,fake reviews are rampant online can a crackdown end them,-0.2,4
+2278,2023-11-03,jeff bezos says he is leaving seattle for miami,0.0,3
+2279,2023-11-24,these retail workers make your holiday shopping spree possible,0.1,3
+2280,2023-11-14,fdny commissioner blames ecommerce giants in deadly battery fires,-0.7,7
+2281,2023-11-14,the nfl looks beyond game day to try to create a streaming universe,0.0,3
+2282,2023-11-28,amazon introduces q an ai chatbot for companies,0.1,8
+2283,2023-11-04,look up in the sky its a can of soup,0.0,1
+2284,2023-07-01,how amazon taught alexa to speak in an irish brogue,0.1,3
+2285,2023-07-07,tips for canceling online subscriptions,0.0,1
+2286,2023-07-27,warren and graham team up to take on big tech,-0.3,14
+2287,2023-07-07,the avoidable mistake of a ups strike,-0.3,3
+2288,2023-07-21,pressured by biden ai companies agree to guardrails on new tools,0.0,7
+2289,2023-07-31,heat is costing the us economy billions in lost productivity,0.0,15
+2290,2023-07-27,lindsey graham and elizabeth warren when it comes to big tech enough is enough,-0.3,7
+2291,2023-07-19,biden administration unveils tougher guidelines on mergers,-0.3,7
+2292,2023-07-07,examazon manager sentenced to 16 years in prison in 9 million theft scheme,-0.9,3
+2293,2023-07-25,tech firms once powered new yorks economy now theyre scaling back,-0.4,10
+2294,2023-07-10,amazon union dissidents in challenge to leader move to force vote,-0.2,4
+2295,2023-07-13,the summer i turned pretty lola tung on growing up alongside belly,0.0,1
+2296,2023-07-05,as businesses clamor for workplace ai tech companies rush to provide it,0.6,7
+2297,2023-07-06,a lot of opera is now streaming heres where to start,0.0,3
+2298,2023-07-12,amazon prime day walmart plus week and the battle of the retail giants,0.1,7
+2299,2023-07-05,in the horror of dolores roach the empanadas are to die for,0.0,1
+2300,2023-07-14,the economic stakes in the hollywood shutdown,0.0,4
+2301,2023-06-08,hey alexa what should students learn about ai,0.1,3
+2302,2023-06-20,return to office enters the desperation phase,-0.2,4
+2303,2023-06-14,at a british amazon warehouse a union bid surges then stalls,0.0,4
+2304,2023-06-20,business lessons from blinkens trip to china,0.0,3
+2305,2023-06-21,ftc accuses amazon of tricking users into subscribing to prime,-0.9,10
+2306,2023-06-02,the great debt ceiling dramas finale,0.0,15
+2307,2023-06-22,lina khan raises the heat on amazon,-0.2,7
+2308,2023-06-22,review im a virgo goes big,0.0,1
+2309,2023-06-22,chinas cloud computing firms raise concern for us,-0.2,7
+2310,2023-06-26,how reviewbombing can tank a book before its published,0.0,3
+2311,2023-09-07,rewards cards put those points to work,0.1,3
+2312,2023-09-25,amazon takes a big stake in the ai startup anthropic,0.1,14
+2313,2023-09-27,lina khan vs jeff bezos this is big techs real cage match,0.0,7
+2314,2023-01-31,judge finds amazon broke labor law in antiunion effort,-0.7,7
+2315,2023-01-12,hunters david weil on hunting nazis as collective catharsis,0.0,1
+2316,2023-01-19,amazon axes smile charity program citing limited impact,0.0,3
+2317,2023-01-30,a short seller costs an indian giant billions,-0.7,14
+2318,2023-01-05,amazon expands corporate layoffs to 18000 jobs,-0.8,7
+2319,2023-01-23,for tech companies years of easy money yield to hard times,-0.7,15
+2320,2023-01-06,streaming changed tv is tv changing streaming back,0.1,3
+2321,2023-01-31,when animals are used in research,0.0,1
+2322,2023-01-05,kevin mccarthys business ties complicate his rise to power,0.0,3
+2323,2023-01-19,the era of happy tech workers is over,-0.6,4
+2324,2023-01-03,three pines based on louise penny books tackles indigenous suffering,0.0,1
+2325,2023-01-24,live nation faces a skeptical senate,-0.2,7
+2326,2023-01-28,how barnes noble came back from near death,0.0,3
+2327,2023-01-07,alexa why do we keep buying you,0.0,1
+2328,2023-01-26,with layoffs retailers aim to be safe rather than sorry again,-0.3,4
+2329,2023-01-21,layoffs at tech giants reverse small part of pandemic hiring spree,-0.3,7
+2330,2023-01-12,the seven faces of jane review one movie eight directors,0.0,1
+2331,2023-01-25,a short seller takes aim at an indian corporate giant,-0.3,7
+2332,2023-01-12,amazon loses bid to overturn union victory at staten island warehouse,-0.4,7
+2333,2023-01-18,retail sales fell in december as holiday shoppers held back,-0.3,7
+2334,2023-12-29,what your favorite streaming services will cost you in 2024,0.0,3
+2335,2023-12-19,amazon to bring warhammer 40000 to the screen with henry cavill,0.1,8
+2336,2023-12-02,gambling risky pranks and lucrative contracts inside the streaming site kick,0.0,3
+2337,2023-04-02,apples new app aims to make classical music more accessible,0.7,8
+2338,2023-04-13,when your boss is an app,0.0,3
+2339,2023-04-26,as new york boosts tax breaks for movies some critics pan the program,0.0,3
+2340,2023-04-28,first republics troubles reignite fears of a banking crisis,-0.7,14
+2341,2023-04-11,the marvelous mrs maisel takes its final curtsy,0.0,1
+2342,2023-04-17,satellites threaten astronomy but a few scientists see an opportunity,0.0,4
+2343,2023-04-27,amazons growth is slow but good enough,0.1,4
+2344,2023-04-14,what bank earnings reveal about the health of the economy,0.0,7
+2345,2023-04-07,hoping to draw moviegoers and filmmakers amazon heads to theaters,0.1,8
+2346,2023-04-27,the spies of citadel have big plans global domination,-0.1,3
+2347,2023-05-10,the companies trying to make live shopping a thing in the us,0.1,3
+2348,2023-05-23,an aigenerated spoof rattles the markets,-0.4,7
+2349,2023-05-04,pacwests stock plunge reignites banking sector fears,-0.7,7
+2350,2023-05-17,for gen z playing an influencer on tiktok comes naturally,0.1,3
+2351,2023-05-22,googles photo app still cant find gorillas and neither can apples,-0.1,3
+2352,2023-05-11,nfl reveals broadcast ambitions with 2023 schedule,0.0,3
+2353,2023-05-08,corporate giants buy up primary care practices at rapid pace,0.1,10
+2354,2023-05-19,aigenerated content discovered on news sites content farms and product reviews,-0.2,7
+2355,2023-05-31,amazon to pay 25 million to settle childrens privacy charges,-0.6,7
+2356,2023-05-19,amazon is everywhere thats what makes it so vulnerable,0.0,3
+2357,2023-04-16,supreme court weighs clash of postal workers sabbath and sunday deliveries,0.0,4
+2358,2023-05-18,corporate america faces a bankruptcy boom,-0.9,15
+2359,2023-05-31,how remote work connected employees making 19 an hour and 80000 a year,0.0,3
+2360,2023-05-26,my fantasy bookshelf,0.0,1
+2361,2023-12-01,jeff bezos giant yacht is apparently too big to anchor near others in florida,0.0,1
+2362,2023-12-22,the eyepopping numbers driving the markets,0.1,3
+2363,2023-12-10,amazon suit claims international ring stole millions in fraudulent refunds,-0.2,7
+2364,2023-12-13,pharmacies shared patient records without a warrant an inquiry finds,-0.7,7
+2365,2023-12-08,googles next top model will the cybertruck crash and this week in ai,0.0,3
+2366,2023-12-22,our 2024 predictions and jenny slate answers your hard questions,0.0,3
+2367,2023-12-24,lets rescue book lovers from this online hellscape,0.0,3
+2368,2023-12-06,from the dealbook summit experts look forward,0.0,3
+2369,2023-12-08,amazon is cracking down on union organizing workers say,-0.6,7
+2370,2023-12-21,tolkien estate wins court order to destroy fans lord of the rings sequel,-0.8,3
+2371,2023-03-15,how siri alexa and google assistant lost the ai race,-0.7,8
+2372,2023-03-02,daisy jones the six review between rock and a soft place,0.0,1
+2373,2023-02-02,investors cheer metas slimmeddown ambitions,0.1,7
+2374,2023-09-21,tech giants see chatbots everywhere including in your inbox,0.4,7
+2375,2023-09-22,amazon will show commercials on prime video starting next year,0.1,7
+2376,2023-09-14,visiting new york make sure ai didnt write your guidebook,0.0,1
+2377,2023-09-26,here are the 2 tactics amazon used to undermine competition the ftc says,-0.7,7
+2378,2023-09-30,impeachments metoo trump running the washington post during a decade of turmoil,0.0,3
+2379,2023-09-06,tv shows and movies streaming in september 2023 the wheel of time gen v and more,0.1,3
+2380,2023-09-25,chatgpt can now respond with spoken words,0.4,7
+2381,2023-09-11,the ins outs ups and downs of one womans 12year amazon career,0.0,3
+2382,2023-09-08,it only seems like everything on streaming gets canceled now,-0.1,3
+2383,2023-09-21,the era of prestige tv is ending were going to miss it when its gone,0.0,3
+2384,2023-09-29,what ceos mean when they talk about moats,0.0,3
+2385,2023-09-27,todays top news biden joins autoworkers on picket line and more,0.0,4
+2386,2023-09-29,the flaw in the case against amazon,0.0,3
+2387,2023-09-27,what to watch as lina khan finally takes on amazon,-0.2,7
+2388,2023-09-29,all gas no brakes in ai metaverse update lessons from a prompt engineer,0.3,8
+2389,2023-09-08,the subtlety of jrr tolkien,0.0,1
+2390,2023-09-26,for amazons andy jassy a cleanup job just got a lot bigger,0.0,7
+2391,2023-09-26,us accuses amazon of illegally protecting monopoly in online retail,-0.7,14
+2392,2023-09-28,whats driving the september stock swoon,-0.3,3
+2393,2023-09-27,amazon is the apex predator of our platform era,0.1,3
+2394,2023-08-04,apples and amazons report cards for the global economy,0.0,10
+2395,2023-08-24,james mcbride doesnt read reviews heres why,0.0,1
+2396,2023-08-03,amazon posts 11 rise in revenue as growth improves,0.3,7
+2397,2023-08-16,authors and booksellers urge justice dept to investigate amazon,-0.3,7
+2398,2023-08-05,big tech rebounds and preps for transformative ai investments,0.7,7
+2399,2023-08-17,something has changed on city streets and amazon is to blame,0.0,3
+2400,2023-08-07,amazon to meet regulators as us considers possible antitrust suit,-0.3,14
+2401,2023-08-03,the lost flowers of alice hart review the right kind of melodrama,0.0,1
+2402,2023-08-05,a new frontier for travel scammers aigenerated guidebooks,-0.1,3
+2403,2023-08-17,cant hear the dialogue in your streaming show youre not alone,0.0,3
+2404,2023-03-16,twitchs chief executive says he is resigning,-0.3,4
+2405,2023-03-02,office mandates pickleball beer what will make hybrid work stick,0.0,3
+2406,2023-03-21,strains emerge inside the union that beat amazon,-0.2,3
+2407,2023-03-21,the feds dilemma raise rates during a banking crisis,-0.7,14
+2408,2023-03-08,the chatbots are here and the internet industry is in a tizzy,0.1,8
+2409,2023-03-03,amazon pauses work on 2nd headquarters in virginia,0.0,7
+2410,2023-03-08,the perils of working on a ceos pet project,-0.3,3
+2411,2023-03-16,dominique fishback knows you think shes sweet swarm may confuse that,0.0,1
+2412,2023-03-23,amazon union gets favorable finding on warehouse access for organizing,-0.2,7
+2413,2023-03-20,amazon plans to lay off another 9000 employees,-0.7,7
+2414,2023-02-03,techs biggest companies discover austerity to the relief of investors,0.6,7
+2415,2023-02-15,podcast companies once walking on air feel the strain of gravity,-0.3,4
+2416,2023-02-24,the consultant review when your startup goes to hell,-0.9,3
+2417,2023-02-03,value stocks growth stocks markets last year turned everything topsyturvy,0.1,5
+2418,2023-02-20,black bear sharp stick and more streaming gems,0.0,1
+2419,2023-02-02,a film critic who embraces his role as a guide,0.0,1
+2420,2023-02-18,daisy jones the six and the ballad of making rock n roll tv,0.0,1
+2421,2023-02-02,amazon reports almost no profit and slowing growth,-0.7,7
+2422,2023-02-20,its time to tear up big techs getoutofjailfree card,-0.8,10
+2423,2023-02-03,tech earnings give a wakeup call to investors,-0.2,7
+2424,2024-10-28,corporate america hedges on trump 20,0.0,10
+2425,2024-10-17,union review a labor fight to the finish at amazon,-0.3,7
+2426,2024-10-31,amazon reports record 153 billion profit,0.1,7
+2427,2024-10-24,the white house bet big on intel will it backfire,-0.2,7
+2428,2024-10-31,culte is a fascinating romp through the dawn of french reality tv,0.0,1
+2429,2024-10-16,hungry for energy amazon google and microsoft turn to nuclear power,0.1,14
+2430,2024-10-12,executives and research disagree about hybrid work why,0.0,3
+2431,2024-10-07,how ecommerce is making chinas deflation worse,-0.3,15
+2432,2024-10-10,amazon could be forced to treat drivers as employees,-0.3,7
+2433,2024-10-27,mr bezos went to washington but he never arrived,0.0,1
+2434,2024-11-26,the worlds pioneering tech cop is making her exit,0.0,4
+2435,2024-11-09,big techs hotbeds of employee activism quiet after trumps victory,0.0,4
+2436,2024-11-22,three short posts show a new power dynamic between musk and bezos,0.0,3
+2437,2024-11-06,what a trump victory means for tech,0.0,14
+2438,2024-11-07,before the election tech ceos were quietly courting trump,0.0,4
+2439,2024-11-29,holiday shopping season separates winning retailers from losers,0.1,7
+2440,2024-11-22,amazon invests 4 billion in anthropic deepening its ai ties,0.1,14
+2441,2024-11-13,nlrb says employers cant hold mandatory antiunion meetings,0.0,7
+2442,2024-11-19,robots struggle to match warehouse workers on really hard jobs,-0.1,3
+2443,2024-11-13,the streaming wars didnt kill the little guys in fact theyre thriving,0.3,4
+2444,2024-07-01,signs of life appear in tv show purchases,0.3,4
+2445,2024-07-30,dissident group wins amazon union leadership vote,-0.3,7
+2446,2024-06-18,amazon is fined nearly 6 million over warehouse work quotas,-0.4,4
+2447,2024-06-13,the curse is a pulpy and selfaware heist series,0.0,1
+2448,2024-07-11,ais insatiable appetite for energy,0.0,3
+2449,2024-07-25,bats were already struggling now theyre selling on ebay,-0.9,3
+2450,2024-07-17,nba board backs tv rights deals but steps remain,0.0,3
+2451,2024-07-26,warner bros discovery sues nba over rights deal,0.0,4
+2452,2024-07-24,nba announces lucrative rights deals with disney comcast and amazon,0.0,3
+2453,2024-07-26,a new batman is less a dark knight than a weird and creepy one,0.0,1
+2454,2024-07-18,my lady jane is a sly and sassy historical comedy,0.0,1
+2455,2024-07-03,265 billion saksneiman marcus acquisition will create a luxury retail giant,0.1,14
+2456,2024-07-31,colin jost will host the new jeopardy pop culture spinoff,0.0,1
+2457,2024-07-10,amazon says it reached a climate goal seven years early,0.3,7
+2458,2024-06-22,the future of streaming according to the moguls figuring it out,0.1,5
+2459,2024-06-18,film crew veteran injured in an accident faults amazon for his pain,-0.5,3
+2460,2024-06-28,my lady jane asks what if history were different,0.0,1
+2461,2024-06-18,how the teamsters and a homegrown union plan to take on amazon,0.0,7
+2462,2024-06-14,erin moriarty is a woman among the boys,0.0,1
+2463,2024-06-20,580000 glass coffee mugs are recalled after hot liquid causes some to break,-0.7,3
+2464,2024-06-13,how big tech is killing innovation,-0.7,14
+2465,2024-06-20,amazon says it will stop using puffy plastic shipping pillows,0.1,4
+2466,2024-06-24,hollywood sharpens aim at online pirates,0.0,4
+2467,2024-06-16,as nba tv deal nears warner bros discovery is on the outside,0.0,3
+2468,2024-10-22,the ai power grab,0.1,8
+2469,2024-10-23,kroger and walmart deny surge pricing after adopting digital price tags,0.0,4
+2470,2024-10-25,good omens season 3 cut short amid allegations against gaiman,-0.1,3
+2471,2024-10-24,investigation of georgia movie set crash finds no violations,0.0,3
+2472,2024-10-30,jeff bezos elon musk and the billions of ways to influence an election,0.0,14
+2473,2024-10-17,amazon enters news with live election coverage from brian williams,0.0,3
+2474,2024-11-27,i haul therefore i am,0.0,1
+2475,2024-11-13,cross and the lincoln lawyer offer different spins on the same formula,0.0,1
+2476,2024-11-14,amazon is phasing out its freevee streaming service,0.0,4
+2477,2024-11-06,jeff bezos congratulates trump on victory,0.0,3
+2478,2024-01-18,on this comedy show youd better not laugh,0.0,1
+2479,2024-01-29,nvidias big tech rivals put their own ai chips on the table,0.1,8
+2480,2024-01-23,the great freighttrain heists of the 21st century,-0.1,1
+2481,2024-01-29,amazon scraps deal to buy maker of roomba amid regulatory scrutiny,-0.3,10
+2482,2024-01-22,hazbin hotel is a childhood dream streamed out to the world,0.0,1
+2483,2024-01-29,after a slow start sundance finishes with plenty of sales,0.1,3
+2484,2024-01-26,the ftc takes on ai deals,-0.3,7
+2485,2024-01-25,federal trade commission launches inquiry into ai deals by tech giants,-0.7,10
+2486,2024-01-18,why reacher is more than just peak dad tv,0.0,3
+2487,2024-01-28,ring to stop allowing police to request videos from security cameras,-0.2,7
+2488,2024-01-30,amazon filmed expats in hong kong but people there cant watch it,0.0,3
+2489,2024-01-31,a beloved 90s tv show finally comes to streaming,0.0,1
+2490,2024-01-10,amazon cuts hundreds of jobs at studios and twitch,-0.3,4
+2491,2024-01-30,focused cuts and fewer layers tech layoffs enter a new phase,-0.3,7
+2492,2024-01-12,why are so many companies rightsizing,-0.1,3
+2493,2024-01-22,these seven tech stocks are driving the market,0.3,7
+2494,2024-01-27,the sp 500 through the prism of a magnificent 7,0.1,7
+2495,2024-12-13,what is or was perks culture,0.0,1
+2496,2024-12-23,haitians in ohio work to keep the holidays on track but they wonder can they stay,0.0,1
+2497,2024-12-13,openais sam altman to donate 1 million to trumps inaugural fund,0.0,3
+2498,2024-12-05,jeff bezos a past trump foe is optimistic about a second term,0.0,3
+2499,2024-12-19,amazon delivery drivers at seven hubs walk out,-0.3,4
+2500,2024-12-05,bezos is very optimistic about a second trump term,0.0,3
+2501,2024-12-20,from amazon to space jeff bezos talks innovation progress and whats next,0.0,8
+2502,2024-12-07,why jeff bezos likes messy meetings,0.0,3
+2503,2024-12-20,packed cubicles empty corner office remote work is increasingly a right of the rich,-0.2,3
+2504,2024-12-03,the furious contest to unseat nvidia as king of ai chips,-0.2,14
+2505,2024-12-14,in display of fealty tech industry curries favor with trump,-0.2,7
+2506,2024-12-21,what do we want from the mall,0.0,1
+2507,2024-12-20,are amazons drones finally ready for prime time,0.1,7
+2508,2024-12-17,the great capitulation,-0.5,30
+2509,2024-12-16,amazon disregarded internal warnings on injuries senate investigation claims,-0.4,7
+2510,2024-12-13,media moguls set the stage for deal mania,0.3,10
+2511,2024-04-27,the comfortable problem of mid tv,0.0,1
+2512,2024-04-24,crew members were ejected from vehicle in movie set crash police say,-0.1,3
+2513,2024-04-29,stowaway cat gets from utah to california in amazon returns package,0.0,1
+2514,2024-04-27,in race to build ai tech plans a big plumbing upgrade,0.3,8
+2515,2024-04-22,is online shopping bad for the planet,0.0,3
+2516,2024-04-09,fallout finds the fun in an apocalyptic hellscape,0.0,3
+2517,2024-04-25,tiktok broke the tech law logjam can that success be repeated,0.1,7
+2518,2024-04-25,how to claim your part of a 56 million ring settlement,0.0,3
+2519,2024-04-10,welcome vault dwellers a guide to the fallout universe,0.0,1
+2520,2024-04-30,amazon reports 1433 billion in revenue for first quarter of 2024,0.1,7
+2521,2024-05-27,the delivery business shows why unions are struggling to expand,0.0,3
+2522,2024-05-21,outer range is a dizzying scifi drama with buffalo,0.0,1
+2523,2024-05-03,us antitrust case against google is just the start,-0.3,10
+2524,2024-05-26,what happened to our adfree tv,-0.1,3
+2525,2024-05-06,how bad is ai for the climate,0.0,3
+2526,2024-05-22,testing the nvidia boom,0.1,5
+2527,2024-12-21,amazon warehouse workers in new york city join protest,-0.3,3
+2528,2024-12-17,heres a hollywood twist streaming success runs through theaters,0.1,8
+2529,2024-12-20,is amazons drone delivery finally ready for prime time,0.1,7
+2530,2024-12-13,amazon plans 1 million donation to trumps inaugural fund,0.0,3
+2531,2024-12-14,a postal strike means fewer gifts under canadian christmas trees,0.0,3
+2532,2024-12-03,you want that gift to arrive today this is what it takes,0.1,1
+2533,2024-12-19,amazon reaches settlement to resolve federal safety accusations,-0.3,7
+2534,2024-12-04,amazon sued over slow deliveries to lowincome areas,-0.3,4
+2535,2024-12-17,jeff bezos prepares to close the gap in his space race with elon musk,0.0,3
+2536,2024-12-31,population 11 is a peppy smalltown outback mystery,0.0,1
+2537,2024-02-13,the labor movement hasnt taken off a new book explains why,0.0,3
+2538,2024-09-15,noisy hungry data centers are catching communities by surprise,-0.2,4
+2539,2024-09-19,a very royal scandal is a juicy british drama,0.0,3
+2540,2024-09-18,beast games contestants file lawsuit claiming dangerous conditions on set,-0.7,3
+2541,2024-09-19,amazon joins hollywoods top lobbying group,0.1,7
+2542,2024-09-16,amazon tells corporate workers to be back in the office 5 days a week,0.0,4
+2543,2024-09-27,extreme weather is taxing utilities more often can ai help,0.1,5
+2544,2024-09-20,openais reasoning machine instagram teen changes and amazon rto drama,0.1,4
+2545,2024-09-14,new tariff rules could reverse a paradigm shift in retail,-0.2,14
+2546,2024-09-16,intel aiming to reverse slump unveils new contracts and cost cuts,0.3,7
+2547,2024-08-05,after google antitrust ruling heres where other big tech cases stand,-0.3,7
+2548,2024-08-01,amazon cautions that when the news gets nutty people shop less,0.0,3
+2549,2024-08-09,googles monopoly money is the ai bubble popping the hotmess express,-0.8,10
+2550,2024-08-08,the new ai deal buy everything but the company,0.1,14
+2551,2024-08-30,leonard riggio 83 dies founded barnes noble and upended publishing,0.0,3
+2552,2024-08-02,tech bosses preach patience as they spend and spend on ai,0.1,7
+2553,2024-08-02,willing to die for mrbeast and 5 million,0.0,1
+2554,2024-03-18,dan loeb enters the chip wars,0.1,8
+2555,2024-03-08,musk vs openai europes tech crackdown and a month with the vision pro,0.1,14
+2556,2024-03-26,the united states vs the iphone,-0.3,14
+2557,2024-03-04,forced to change tech giants bow to global onslaught of rules,-0.6,14
+2558,2024-03-27,amazon adds 275 billion to its stake in the ai startup anthropic,0.1,14
+2559,2024-03-10,hes not just looking to make a quick billion,0.0,3
+2560,2024-03-22,five us cases targeting big tech,-0.6,7
+2561,2024-02-25,why microsoft has accepted unions unlike its rivals,0.0,7
+2562,2024-02-20,inside the funding frenzy at anthropic one of ais hottest startups,0.1,8
+2563,2024-02-01,amazon enters chatbot fray with shopping tool,0.1,8
+2564,2024-02-18,a celebrity dies and new biographies pop up overnight the author ai,0.0,3
+2565,2024-02-02,ai promises give tech earnings a jolt,0.6,7
+2566,2024-02-05,why is big tech still cutting jobs,-0.5,7
+2567,2024-02-16,amazon argues labor board is unconstitutional,0.0,7
+2568,2024-02-16,what amazon the ftc and cia wont say when youve been scammed,-0.7,3
+2569,2024-02-09,tech rally lifts sp 500 above 5000 mark,0.4,4
+2570,2024-02-28,streaming prices keep going up heres how to manage subscriptions,0.0,3

@@ -101,9 +101,9 @@ Based on the results, the rest of the models will be built using **LSTM** as a b
 
 ## Ensemble Sentiment Model
 
-### Aggregated Sentiment
+### Ensemble Voting
 
-> INSERT TEXT HERE
+For every article, the output sentiment is chosen based on the max vote from the 3 baseline sentiment models. In the case of a tie (each baseline model outputs a different sentiment), the output sentiment defaults to neutral.
 
 ### Sentiment Effect Duration*
 
@@ -119,7 +119,7 @@ $$
 - $w$: Window size (number of days to look back, excluding today)
 - $\mathcal{A}_d$: Set of articles published on day ( $d$ )
 - $s_i$: Sentiment score of article ( $i$ )
-- $\alpha$: Sentiment effect multiplier (i.e., sentiment_effect)
+- $\alpha$: Sentiment effect multiplier
 - $(w - (t - d) + 1)$: Time decay function — weight decreases the further back the article is
 
 Based on the findings from the **root paper**, $w$ = 7 and $\alpha$ = 0.0001.

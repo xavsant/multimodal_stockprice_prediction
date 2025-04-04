@@ -22,25 +22,35 @@ def run_merged_models(input_path, output_path, ticker_mapping, text_type='headli
     
     # Run through files for all companies
     for file in input_path.rglob('*'):
-        if file.is_file():
-            print(file.name)
+        
+        # Check if valid file
+        if file.is_file() and file.name.endswith('.csv'):
             company = file.name.removesuffix("_text_data.csv")
             ticker = ticker_mapping[company]
-            
-            # Process headlines/abstract
-            if text_type == 'headline':
-                sentiment_df = process_headlines(input_path / file.name, ticker)
-            else:
-                sentiment_df = process_abstract(input_path / file.name)
-
-            # Run models
-            sentiment_df = run_vader(sentiment_df)
-            sentiment_df = run_distilRoberta(sentiment_df)
-            sentiment_df = run_deberta(sentiment_df)
 
             # Output
             output_name = 'finetuned_sentiment_analysis_' + text_type + '_' + ticker +  '.csv'
-            sentiment_df.to_csv(output_path / output_name, index=False)
+            print(output_name)
+
+            # File does not exist yet
+            if not os.path.exists(output_path / output_name):
+                print(file.name)
+                
+                # Process headlines/abstract
+                if text_type == 'headline':
+                    sentiment_df = process_headlines(input_path / file.name, ticker)
+                else:
+                    sentiment_df = process_abstract(input_path / file.name)
+
+                # Run models
+                sentiment_df = run_vader(sentiment_df)
+                print("vader done")
+                sentiment_df = run_distilRoberta(sentiment_df)
+                print("distil done")
+                sentiment_df = run_deberta(sentiment_df)
+                print("deberta done")
+
+                sentiment_df.to_csv(output_path / output_name, index=False)
     
 def process_abstract(path):
     # TO DO
@@ -174,7 +184,8 @@ if __name__ == '__main__':
                       'International_Business_Machines_Corporation':'IBM',
                       'Microsoft_Corp':'MSFT',
                       'Nvidia_Corporation':'NVDA',
-                      'Salesforce.com_Inc':'CRM'
+                      'Salesforce.com_Inc':'CRM',
+                      '^DJI':'^DJI'
                     }
 
     run_merged_models(input_path, output_path, ticker_mapping, text_type)

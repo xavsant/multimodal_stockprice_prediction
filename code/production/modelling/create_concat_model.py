@@ -14,38 +14,6 @@ from keras.callbacks import EarlyStopping
 sys.path.append(path.abspath(path.join(path.dirname(__file__), '..', 'utility'))) # Quick-fix to access utility functions
 from model_utility_functions import train_test_split, minmax_scale, separate_features_from_target, reshape_X, transform_y, iterator_results, iterator_average_results, update_best_results, get_training_plot, get_validation_plot
 
-def create_concat_model_old(X_train_reshaped, text_train, target_stock):
-    '''Concat model that combines baseline LSTM model hidden layers with text input and trains through a final density layer'''
-    lstm_path = f'../../../data/weights/baseline_lstm_{target_stock}.weights.h5'
-
-    # Create LSTM modality
-    lstm_input = Input(shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), name="stock_input")
-    lstm_hidden = LSTM(96, name="lstm_layer")(lstm_input)
-    lstm_dense = Dense(32, activation=LeakyReLU(negative_slope=0.01), name="lstm_dense")(lstm_hidden)
-
-    ## Load weights
-    lstm_model = Model(inputs=lstm_input, outputs=lstm_dense)
-    lstm_model.load_weights(lstm_path)
-
-    for layer in lstm_model.layers:
-        layer.trainable = True
-
-    # Create text modality
-    text_input = Input(shape=(text_train.shape[1],))
-    text_dense = Dense(32, activation='sigmoid')(text_input)
-
-    # Concatenate modalities
-    concatenated = Concatenate(name="concatenation_layer")([lstm_dense, text_dense])
-
-    ## Add final density layers
-    dense_layer = Dense(32, activation=LeakyReLU(negative_slope=0.01), name="dense_final")(concatenated)
-    output = Dense(1, name="output_layer")(dense_layer)
-    
-    model = Model(inputs=[lstm_input, text_input], outputs=output)
-    model.compile(optimizer='adam', loss='mean_squared_error')
-
-    return model
-
 def create_early_fusion_model(X_train_reshaped, text_train):
     '''Concat model that combines stock price and text inputs and trains LSTM model from scratch'''
     # Create LSTM modality (stock input)

@@ -1,12 +1,12 @@
 ticker,pub_date,headline,gemini_sentiment
-MSFT,2015-11-17,microsoft sheds reputation as an easy mark for hackers,neutral
+MSFT,2015-11-17,microsoft sheds reputation as an easy mark for hackers,positive
 MSFT,2015-11-30,how to enlarge the text cursor,neutral
 MSFT,2015-11-04,digital transformation going mainstream in 2016 idc predicts,neutral
-MSFT,2015-11-17,daily report microsoft finds its security groove,neutral
+MSFT,2015-11-17,daily report microsoft finds its security groove,positive
 MSFT,2015-11-25,updating windows 10,neutral
-MSFT,2015-11-07,microsofts stock math fewer shares pricier shares,neutral
+MSFT,2015-11-07,microsofts stock math fewer shares pricier shares,positive
 MSFT,2015-11-19,backing up icloud contacts,neutral
-MSFT,2015-11-20,a reality check for microsofts hololens,neutral
+MSFT,2015-11-20,a reality check for microsofts hololens,negative
 MSFT,2015-11-11,weighing benefits of windows 10 upgrade,neutral
 MSFT,2015-10-22,daily report a trio of earnings from tech behemoths,neutral
 MSFT,2015-10-20,as us tech companies scramble group sees opportunity in safe harbor decision,neutral
@@ -14,73 +14,73 @@ MSFT,2015-10-19,daily report tech tussles take center stage in earnings,neutral
 MSFT,2015-10-02,scheduling automatic backups in windows 10,neutral
 MSFT,2015-10-30,us tech giants may blur national security boundaries in china deals,negative
 MSFT,2015-10-14,daily report putting twitters layoffs in perspective,neutral
-MSFT,2015-10-22,microsoft earnings climb lifted by strong growth in cloud computing,neutral
+MSFT,2015-10-22,microsoft earnings climb lifted by strong growth in cloud computing,positive
 MSFT,2015-10-02,dear minecraft villagers im worried about you,neutral
 MSFT,2015-10-16,keeping a hard drive from getting too full,neutral
 MSFT,2015-10-30,more than one way to fix firefox,neutral
-MSFT,2015-07-31,microsoft said to invest big sum in uber,neutral
+MSFT,2015-07-31,microsoft said to invest big sum in uber,positive
 MSFT,2015-07-26,facebook and other tech giants expand internet access in africa,neutral
 MSFT,2015-07-31,for sympathetic ear more chinese turn to smartphone program,neutral
-MSFT,2015-07-28,windows 10 review a throwback with upgrades in software and security,neutral
-MSFT,2015-07-30,addicted to your smartphone the company that made it would like you to think so,negative
+MSFT,2015-07-28,windows 10 review a throwback with upgrades in software and security,positive
+MSFT,2015-07-30,addicted to your smartphone the company that made it would like you to think so,neutral
 MSFT,2015-07-30,in microsofts nokia debacle a view of an industrys feet of clay,negative
 MSFT,2015-07-29,daily report the tough realities of a twitter turnaround,neutral
 MSFT,2015-07-31,chatting with xiaoice,neutral
-MSFT,2015-10-09,microsofts mission to reignite pc sector may be taking hold,neutral
-MSFT,2015-10-26,microsoft goes upscale with fifth avenue flagship store,neutral
+MSFT,2015-10-09,microsofts mission to reignite pc sector may be taking hold,positive
+MSFT,2015-10-26,microsoft goes upscale with fifth avenue flagship store,positive
 MSFT,2015-10-28,streamlining datahoarding apps,neutral
 MSFT,2015-10-24,mike and nicks week in tech microsoft in the cloud,neutral
 MSFT,2015-10-05,tech giants top best global brands list,positive
-MSFT,2015-10-21,microsofts rulebreaking vision of a future with countless devices,neutral
+MSFT,2015-10-21,microsofts rulebreaking vision of a future with countless devices,positive
 MSFT,2015-10-10,obama wont seek access to encrypted user data,neutral
-MSFT,2015-10-23,the cloud is here separating disrupters from disrupted,neutral
+MSFT,2015-10-23,the cloud is here separating disrupters from disrupted,positive
 MSFT,2015-10-20,looking for sharper images in google earth,neutral
 MSFT,2015-10-14,restoring sound to windows 10,neutral
-MSFT,2015-10-07,daily report microsoft turns on the hardware charm,neutral
-MSFT,2015-10-06,the hardware side of microsoft unveils a pile of new devices,neutral
+MSFT,2015-10-07,daily report microsoft turns on the hardware charm,positive
+MSFT,2015-10-06,the hardware side of microsoft unveils a pile of new devices,positive
 MSFT,2015-08-07,bringing paternity leave into the mainstream,neutral
 MSFT,2015-08-04,with halo 5 guardians microsoft seeks to lure esports players back,neutral
 MSFT,2015-08-03,morning agenda health care deals raise doubts for consumers,neutral
-MSFT,2015-09-09,daily report china asserts tech presence apple shows off new products,positive
+MSFT,2015-09-09,daily report china asserts tech presence apple shows off new products,neutral
 MSFT,2015-09-07,apple and other tech companies tangle with us over data access,negative
-MSFT,2015-09-26,microsoft leads movement to offset emissions with internal carbon tax,neutral
-MSFT,2015-09-08,dell agrees to sell microsofts surface tablet,neutral
-MSFT,2015-09-24,xi jinping hears tough complaints of american business,negative
+MSFT,2015-09-26,microsoft leads movement to offset emissions with internal carbon tax,positive
+MSFT,2015-09-08,dell agrees to sell microsofts surface tablet,negative
+MSFT,2015-09-24,xi jinping hears tough complaints of american business,neutral
 MSFT,2015-09-02,app smart the best of windows 10 apps,neutral
-MSFT,2015-08-05,following netflix microsoft sweetens parental leave benefits,neutral
+MSFT,2015-08-05,following netflix microsoft sweetens parental leave benefits,positive
 MSFT,2015-08-05,daily report esports continues to reshape gaming landscape,neutral
 MSFT,2015-08-28,protecting your mac from malware and viruses,neutral
 MSFT,2015-08-12,stopping the iphone step counter,neutral
 MSFT,2015-08-01,farhad and mikes week in review twitter problems,neutral
 MSFT,2015-08-26,facebook tests a digital assistant for its messaging app,neutral
-MSFT,2015-08-06,salesforce ventures and microsoft join informatica buyout,neutral
+MSFT,2015-08-06,salesforce ventures and microsoft join informatica buyout,positive
 MSFT,2015-08-09,after nokia layoffs tech workers in finland regroup and refocus,neutral
-MSFT,2015-08-26,the appeal of free 75 million users download windows 10 in first month,neutral
+MSFT,2015-08-26,the appeal of free 75 million users download windows 10 in first month,positive
 MSFT,2015-08-07,morning agenda ackmans bet on mondelez sales,neutral
 MSFT,2015-09-30,easing screenbased eyestrain,neutral
 MSFT,2015-09-02,understanding mac os x disk permissions and how to repair them,neutral
 MSFT,2015-09-27,narendra modi indian premier courts silicon valley to try to ease nations poverty,neutral
 MSFT,2015-09-25,changing the search engine in microsoft edge,neutral
 MSFT,2015-09-16,how to talk to microsofts cortana,neutral
-MSFT,2015-09-30,microsoft and google call an end to patent battles,neutral
-MSFT,2015-09-21,skype service problems for some users worldwide,neutral
+MSFT,2015-09-30,microsoft and google call an end to patent battles,positive
+MSFT,2015-09-21,skype service problems for some users worldwide,negative
 MSFT,2015-09-03,this week sizing up smartphone plans,neutral
 MSFT,2015-09-18,shopping for amazon apps with android,neutral
-MSFT,2015-09-22,microsoft releases office 2016 with features focused on teamwork,neutral
+MSFT,2015-09-22,microsoft releases office 2016 with features focused on teamwork,positive
 MSFT,2015-12-10,virtually using windows xp,neutral
-MSFT,2015-12-10,a learning advance in artificial intelligence rivals human abilities,neutral
+MSFT,2015-12-10,a learning advance in artificial intelligence rivals human abilities,positive
 MSFT,2015-12-08,how to see what windows 10 just installed,neutral
 MSFT,2015-12-08,qualcomm is accused of violating antitrust rules in europe,negative
 MSFT,2015-12-29,former xbox chief robbie bach on console battles,neutral
-MSFT,2015-12-31,microsoft to notify users of government hackings,neutral
+MSFT,2015-12-31,microsoft to notify users of government hackings,negative
 MSFT,2015-12-20,as downloads take over a turning point for the video game industry,neutral
 MSFT,2016-01-05,microsoft faces new scrutiny in china,negative
 MSFT,2016-01-20,techs frightful 5 will dominate digital life for foreseeable future,neutral
 MSFT,2016-01-27,protecting personal information from virtual assistants,neutral
-MSFT,2016-01-22,making the screen easier to read,positive
+MSFT,2016-01-22,making the screen easier to read,neutral
 MSFT,2016-01-30,farhad and mikes week in tech lessons from earnings season,neutral
 MSFT,2016-01-11,printing a paper backup of your icloud contacts,neutral
-MSFT,2016-01-19,microsoft acquires minecraft app for schools,neutral
+MSFT,2016-01-19,microsoft acquires minecraft app for schools,positive
 MSFT,2016-01-31,microsoft plumbs oceans depths to test underwater data center,neutral
 MSFT,2016-01-29,daily report divergent fortunes in cloud computing,neutral
 MSFT,2016-01-06,morning agenda bank rule distorting performance is repealed,neutral
@@ -90,16 +90,16 @@ MSFT,2016-01-04,bill gates on books and blogging,neutral
 MSFT,2016-01-25,with imposed transparency and concerned millennials a boom in corporate responsibility,neutral
 MSFT,2016-01-27,siri alexa and other virtual assistants put to the test,neutral
 MSFT,2016-01-29,replacing windows media center,neutral
-MSFT,2016-01-19,microsoft to donate 1 billion in cloud services to nonprofits and researchers,neutral
+MSFT,2016-01-19,microsoft to donate 1 billion in cloud services to nonprofits and researchers,positive
 MSFT,2016-01-15,fund managers win with tech stalwarts and burly brand names,positive
 MSFT,2016-01-19,sticking with windows 7,negative
 MSFT,2016-01-06,setting up tabs to open automatically in microsoft edge,neutral
 MSFT,2016-11-05,farhads and mikes week in tech gaming as prophylaxis to elections,neutral
 MSFT,2016-11-02,microsoft puts slack in cross hairs with new office chat app,negative
-MSFT,2016-11-10,parallels between europes antitrust cases against google and microsoft,neutral
+MSFT,2016-11-10,parallels between europes antitrust cases against google and microsoft,negative
 MSFT,2016-11-07,business leaders support steps to rescue climate,neutral
-MSFT,2016-11-05,how linkedin drove a wedge between microsoft and salesforce,neutral
-MSFT,2016-11-20,microsoft spends big to build a computer out of science fiction,neutral
+MSFT,2016-11-05,how linkedin drove a wedge between microsoft and salesforce,negative
+MSFT,2016-11-20,microsoft spends big to build a computer out of science fiction,positive
 MSFT,2016-11-04,a formula for easiertoread excel work sheets,neutral
 MSFT,2016-11-07,larry ellisons hardball tactics win netsuite for oracle,neutral
 MSFT,2016-11-21,making movies with windows 10,neutral
@@ -107,37 +107,37 @@ MSFT,2016-10-03,us tech giants are investing billions to keep data in europe,neu
 MSFT,2016-10-12,how to bid adieu to yahoo,neutral
 MSFT,2016-10-29,farhad and mikes week in tech microsoft apple and halloween,neutral
 MSFT,2016-10-18,bill belichick throws in the tablet,neutral
-MSFT,2016-10-21,daily report microsoft ahead in the cloud,neutral
+MSFT,2016-10-21,daily report microsoft ahead in the cloud,positive
 MSFT,2016-10-16,earnings reports for goldman sachs and yahoo,neutral
-MSFT,2016-10-20,microsoft shares hit a high with promise of the clouds profit margins,neutral
-MSFT,2016-10-26,microsoft unveils its first desktop pc,neutral
+MSFT,2016-10-20,microsoft shares hit a high with promise of the clouds profit margins,positive
+MSFT,2016-10-26,microsoft unveils its first desktop pc,positive
 MSFT,2016-10-10,looking for a choice of voices in ai technology,neutral
-MSFT,2016-06-14,why microsoft likes linkedin,neutral
+MSFT,2016-06-14,why microsoft likes linkedin,positive
 MSFT,2016-06-17,microsoft makes a marijuana play,neutral
 MSFT,2016-06-16,unhitching the pc from onedrive,neutral
 MSFT,2016-06-27,tech makes its pitch to the education community,neutral
 MSFT,2016-06-08,getting over stage fright with the help of your smartphone,neutral
 MSFT,2016-06-14,morning agenda the unspoken reason behind the linkedin sale,neutral
-MSFT,2016-06-16,the first big company to say its serving the legal marijuana trade microsoft,neutral
-MSFT,2016-06-13,for microsoft linkedin deal could be a 262 billion time machine,neutral
+MSFT,2016-06-16,the first big company to say its serving the legal marijuana trade microsoft,positive
+MSFT,2016-06-13,for microsoft linkedin deal could be a 262 billion time machine,positive
 MSFT,2016-06-14,checking your windows 10 lists,neutral
 MSFT,2016-06-13,microsofts deal for linkedin raises red flags,negative
 MSFT,2016-07-08,morning agenda growing unease as british mutual funds block the exit doors,negative
 MSFT,2016-07-25,getting extensions for edge,neutral
 MSFT,2016-07-15,morning agenda yahoo is said to collect final bids,neutral
-MSFT,2016-07-20,microsoft earnings are up cushioned by its cloud business,neutral
+MSFT,2016-07-20,microsoft earnings are up cushioned by its cloud business,positive
 MSFT,2016-06-01,why the world is drawing battle lines against american tech giants,negative
-MSFT,2016-06-17,why linkedin will make you hate microsoft word,neutral
+MSFT,2016-06-17,why linkedin will make you hate microsoft word,negative
 MSFT,2016-06-17,weighing the system upgrade decision,neutral
-MSFT,2016-06-14,one unspoken reason behind the microsoftlinkedin deal,neutral
-MSFT,2016-06-07,microsoft finds cancer clues in search queries,neutral
+MSFT,2016-06-14,one unspoken reason behind the microsoftlinkedin deal,positive
+MSFT,2016-06-07,microsoft finds cancer clues in search queries,positive
 MSFT,2016-06-28,downloading video streams to go,neutral
 MSFT,2016-06-27,amazon unveils online education service for teachers,neutral
 MSFT,2016-06-17,morning agenda a whos who of financiers expected at trump fundraiser,neutral
-MSFT,2016-06-13,microsoft buys linkedin for 262 billion reasserting its muscle,neutral
-MSFT,2016-06-18,farhads and mikes week in tech that business of microsoft buying linkedin,neutral
-MSFT,2016-07-25,google races to catch up in cloud computing,neutral
-MSFT,2016-07-14,microsoft wins appeal on overseas data searches,neutral
+MSFT,2016-06-13,microsoft buys linkedin for 262 billion reasserting its muscle,positive
+MSFT,2016-06-18,farhads and mikes week in tech that business of microsoft buying linkedin,positive
+MSFT,2016-07-25,google races to catch up in cloud computing,negative
+MSFT,2016-07-14,microsoft wins appeal on overseas data searches,positive
 MSFT,2016-07-01,what to try when the start menu just wont start,neutral
 MSFT,2016-07-19,morning agenda trump and pence same ticket but not the same page,neutral
 MSFT,2016-07-18,microsoft case shows the limits of a data privacy law,neutral
@@ -150,38 +150,38 @@ MSFT,2016-02-18,windows 10 upgrade options for vista users,neutral
 MSFT,2016-02-04,in silicon valley a timehonored sport looks to the future,neutral
 MSFT,2016-02-23,bill gates weighs in on apples clash with the fbi,neutral
 MSFT,2016-02-24,watching dvd movies on windows 10,neutral
-MSFT,2016-03-25,how to live without windows 10,neutral
-MSFT,2016-03-07,microsoft to close 2 game development studios,neutral
-MSFT,2016-03-07,microsoft opens its corporate data software to linux,neutral
+MSFT,2016-03-25,how to live without windows 10,negative
+MSFT,2016-03-07,microsoft to close 2 game development studios,negative
+MSFT,2016-03-07,microsoft opens its corporate data software to linux,positive
 MSFT,2016-09-26,what its like to fight online hate,neutral
 MSFT,2016-09-28,protecting humans and jobs from robots is 5 tech giants goal,neutral
 MSFT,2016-09-27,daily report twitter attracts a wide range of suitors,neutral
 MSFT,2016-09-03,goodbye ivory tower hello silicon valley candy store,neutral
-MSFT,2016-06-23,buybacks by companies like apple may signal danger not growth,negative
+MSFT,2016-06-23,buybacks by companies like apple may signal danger not growth,neutral
 MSFT,2016-06-24,sharing screens between pcs running different versions of windows,neutral
 MSFT,2016-06-13,a linkedin timeline,neutral
 MSFT,2016-06-08,how gaming helped launch the attack of the internet trolls,neutral
 MSFT,2016-06-29,thirdparty keyboards give mobile users more options,neutral
-MSFT,2016-06-13,handful of advisers behind microsofts deal for linkedin,neutral
+MSFT,2016-06-13,handful of advisers behind microsofts deal for linkedin,positive
 MSFT,2016-06-13,microsoft and apple making headlines,neutral
-MSFT,2016-06-13,microsoft takes aim at sony with cheaper xbox virtual reality and crossplatform games,negative
-MSFT,2016-06-13,microsofts biggest deal,neutral
+MSFT,2016-06-13,microsoft takes aim at sony with cheaper xbox virtual reality and crossplatform games,positive
+MSFT,2016-06-13,microsofts biggest deal,positive
 MSFT,2016-06-13,microsoft linkedin ceos on deal,neutral
 MSFT,2016-08-17,converting spreadsheets in apples numbers to excel,neutral
-MSFT,2016-08-04,finding alternatives to microsoft excel,neutral
-MSFT,2016-08-09,in buying linkedin microsoft might pay heed to monster,neutral
+MSFT,2016-08-04,finding alternatives to microsoft excel,negative
+MSFT,2016-08-09,in buying linkedin microsoft might pay heed to monster,positive
 MSFT,2016-08-06,when every company is a tech company does the label matter,neutral
 MSFT,2016-08-26,cloud computing brings sprawling centers but few jobs to small towns,neutral
 MSFT,2016-08-19,picking a digital publishing format,neutral
 MSFT,2016-09-13,will trump release his tax returns billionaire pledges up to 5 million for veterans if so,neutral
 MSFT,2016-09-26,so now you want windows 10,neutral
 MSFT,2016-09-15,how to manage your windows drivers,neutral
-MSFT,2016-09-03,microsofts challenge to government secrecy wins dozens of supporters,neutral
+MSFT,2016-09-03,microsofts challenge to government secrecy wins dozens of supporters,positive
 MSFT,2016-09-01,how tech giants are devising real ethics for artificial intelligence,neutral
-MSFT,2016-09-29,microsoft reorganizes its research efforts around ai,neutral
+MSFT,2016-09-29,microsoft reorganizes its research efforts around ai,positive
 MSFT,2016-09-20,get sharper text on your windows screen,neutral
 MSFT,2016-09-30,daily report trust busters destined to dig into data,neutral
-MSFT,2016-09-29,salesforce is said to question microsoftlinkedin deal in europe,neutral
+MSFT,2016-09-29,salesforce is said to question microsoftlinkedin deal in europe,negative
 MSFT,2016-09-13,move your address book from outlook to google,neutral
 MSFT,2016-02-03,an expanding universe of space apps,neutral
 MSFT,2016-02-26,a brief explanation of apples showdown with the us government,neutral
@@ -195,24 +195,24 @@ MSFT,2016-02-23,bill gates the impatient optimist lays out his cleanenergy innov
 MSFT,2016-02-01,creating a family website,neutral
 MSFT,2016-03-07,tech giants battle for top cloud talent,neutral
 MSFT,2016-03-01,keeping track of windows updates,neutral
-MSFT,2016-03-30,microsoft trumpets windows 10 and pushes into scifi tech,neutral
+MSFT,2016-03-30,microsoft trumpets windows 10 and pushes into scifi tech,positive
 MSFT,2016-03-02,checking the graphics card specifications on your computer,neutral
 MSFT,2016-03-28,silicon valley looks to artificial intelligence for the next big thing,neutral
 MSFT,2016-03-11,getting the weather report from windows,neutral
 MSFT,2016-03-24,finding photo programs that recognize faces,neutral
-MSFT,2016-03-24,microsoft created a twitter bot to learn from users it quickly became a racist jerk,neutral
+MSFT,2016-03-24,microsoft created a twitter bot to learn from users it quickly became a racist jerk,negative
 MSFT,2016-03-03,apple is rolling up backers in iphone privacy fight against fbi,neutral
 MSFT,2016-03-25,the race is on to control artificial intelligence and techs future,neutral
 MSFT,2016-05-04,restoring windows photo viewer in windows 10,neutral
-MSFT,2016-05-25,microsoft cutting 1850 jobs in smartphone unit,neutral
+MSFT,2016-05-25,microsoft cutting 1850 jobs in smartphone unit,negative
 MSFT,2016-05-19,silicon valleys artificial intelligence marathon is on,neutral
 MSFT,2016-05-24,locating a lost windows device,neutral
 MSFT,2016-05-27,fixing microsoft office for mac update errors,neutral
 MSFT,2016-05-09,the clash of privacy legislation and software,neutral
 MSFT,2016-05-13,brooklyn judge will not force facebooks silence on subpoenas,neutral
 MSFT,2016-05-25,morning agenda hewlettpackard spinoff prepares to split again,neutral
-MSFT,2016-05-24,microsoft awards first grants to help expand global internet access,neutral
-MSFT,2016-05-18,why windows 10 upgrades go wrong and how to avoid it,neutral
+MSFT,2016-05-24,microsoft awards first grants to help expand global internet access,positive
+MSFT,2016-05-18,why windows 10 upgrades go wrong and how to avoid it,negative
 MSFT,2016-04-21,what chatbots reveal about our own shortcomings,neutral
 MSFT,2016-04-22,the nogood week in techs hopeful trip to a bright future,neutral
 MSFT,2016-04-08,for some top nonprofits changing the world begins in seattle,neutral
@@ -220,16 +220,16 @@ MSFT,2016-04-25,removing quicktime for windows in a hurry,neutral
 MSFT,2016-04-29,microsoft will not donate money to republicans convention,neutral
 MSFT,2016-04-04,adding links to the windows 10 start menu,neutral
 MSFT,2016-04-21,microsofts cloud business falls short of investors hopes,negative
-MSFT,2016-04-14,microsoft sues justice department to protest electronic gag order statute,neutral
+MSFT,2016-04-14,microsoft sues justice department to protest electronic gag order statute,negative
 MSFT,2016-04-20,watching the clock on that windows 10 deal,neutral
 MSFT,2016-04-28,europes case against google might help rivals more than consumers,neutral
-MSFT,2016-05-13,what to do if windows 10 eats your files,neutral
+MSFT,2016-05-13,what to do if windows 10 eats your files,negative
 MSFT,2016-05-18,nokia phones may find life after microsoft,neutral
 MSFT,2016-04-22,microsoft and google agree to drop mutual complaints,neutral
 MSFT,2016-04-14,the minecraft generation,neutral
 MSFT,2016-04-10,billing by millionths of pennies cloud computings giants take in billions,neutral
 MSFT,2016-04-11,marking up web pages in windows 10,neutral
-MSFT,2016-04-15,microsoft goes on offensive against justice department,neutral
+MSFT,2016-04-15,microsoft goes on offensive against justice department,negative
 MSFT,2016-12-06,adding desktop icons for windows 10,neutral
 MSFT,2016-12-06,europe presses american tech companies to tackle hate speech,negative
 MSFT,2016-12-06,facebook and other tech companies seek to curb flow of terrorist content,neutral
@@ -245,50 +245,50 @@ MSFT,2017-01-01,in year of antimuslim vitriol brands promote inclusion,neutral
 MSFT,2017-01-31,give windows 10 a restart schedule,neutral
 MSFT,2017-01-04,tech giants seem invincible that worries lawmakers,negative
 MSFT,2017-01-12,a new destination for files downloaded from microsoft edge,neutral
-MSFT,2017-01-27,microsofts profit rises 4 percent as cloud business booms,neutral
+MSFT,2017-01-27,microsofts profit rises 4 percent as cloud business booms,positive
 MSFT,2017-01-02,where to go if you forget your hotmail password,neutral
 MSFT,2017-11-07,microsoft office mobile apps free or with a fee,neutral
 MSFT,2017-11-21,skype vanishes from app stores in china including apples,negative
-MSFT,2017-11-29,microsoft to expand campus as amazon looks elsewhere,neutral
+MSFT,2017-11-29,microsoft to expand campus as amazon looks elsewhere,positive
 MSFT,2017-11-10,linkedin faces setback in china as it runs afoul of new rules,negative
-MSFT,2017-11-05,building ai that can build ai,neutral
+MSFT,2017-11-05,building ai that can build ai,positive
 MSFT,2017-11-01,the upside of being ruled by the five tech giants,positive
 MSFT,2017-11-08,our guide to the holiday seasons biggest video games and consoles,neutral
 MSFT,2017-10-06,microsofts chief wants you to know hes a different kind of leader,neutral
 MSFT,2017-10-31,how to get cortanas undivided attention,neutral
-MSFT,2017-10-24,us to limit use of secrecy orders that microsoft challenged,neutral
+MSFT,2017-10-24,us to limit use of secrecy orders that microsoft challenged,negative
 MSFT,2017-10-25,can washington stop big tech companies dont bet on it,negative
 MSFT,2017-10-06,dont get too comfortable at that desk,neutral
 MSFT,2017-10-16,justices to decide on forcing technology firms to provide data held abroad,negative
 MSFT,2017-10-04,keeping your reading list in sync,neutral
 MSFT,2017-10-26,what worries big tech companies post glowing quarterly profits,neutral
 MSFT,2017-10-26,scanning converting and editing text on the go,neutral
-MSFT,2017-10-09,google finds accounts connected to russia bought election ads,neutral
+MSFT,2017-10-09,google finds accounts connected to russia bought election ads,negative
 MSFT,2017-06-01,climate change is real many us companies lament paris accord exit,negative
 MSFT,2017-06-27,how silicon valley pushed coding into american classrooms,neutral
 MSFT,2017-06-28,a new kind of tech job emphasizes skills not a college degree,neutral
 MSFT,2017-06-12,a slump in tech stocks that leaves some investors mystified,negative
-MSFT,2017-06-28,screening out malware with microsoft edge,neutral
+MSFT,2017-06-28,screening out malware with microsoft edge,positive
 MSFT,2017-06-06,controlling notifications in windows 10,neutral
 MSFT,2017-06-28,ukraine cyberattack was meant to paralyze not profit evidence shows,neutral
 MSFT,2017-06-22,trading in a briefcase for a drive in the sky,neutral
 MSFT,2017-06-02,greetings user you can change your name,neutral
 MSFT,2017-06-20,tech titans make pilgrimage to white house to discuss government systems,neutral
-MSFT,2017-07-06,microsoft to cut up to 4000 sales and marketing jobs,neutral
+MSFT,2017-07-06,microsoft to cut up to 4000 sales and marketing jobs,negative
 MSFT,2017-07-24,microsoft paints days may be numbered,negative
-MSFT,2017-07-21,microsoft is rewarded for turning to the cloud,neutral
+MSFT,2017-07-21,microsoft is rewarded for turning to the cloud,positive
 MSFT,2017-07-11,daily report a technology to close the digital divide,neutral
-MSFT,2017-07-26,how microsoft has become the surprise innovator in pcs,neutral
-MSFT,2017-07-26,the surprising new pc innovator microsoft,neutral
+MSFT,2017-07-26,how microsoft has become the surprise innovator in pcs,positive
+MSFT,2017-07-26,the surprising new pc innovator microsoft,positive
 MSFT,2017-07-03,after ransomware attack windows xp is not back from the dead,negative
-MSFT,2017-07-11,to close digital divide microsoft to harness unused television channels,neutral
+MSFT,2017-07-11,to close digital divide microsoft to harness unused television channels,positive
 MSFT,2017-07-19,shopping for new software,neutral
 MSFT,2017-07-10,digital privacy to come under supreme courts scrutiny,neutral
 MSFT,2017-10-02,move your mailbox to another app,neutral
 MSFT,2017-10-13,how to get cortana to keep track of your favorite teams,neutral
 MSFT,2017-10-11,the frightful five want to rule entertainment they are hitting limits,negative
 MSFT,2017-10-07,who invented zero,neutral
-MSFT,2017-10-23,new windows for the fall season,neutral
+MSFT,2017-10-23,new windows for the fall season,positive
 MSFT,2017-10-06,change the key that unlocks your accounts,neutral
 MSFT,2017-10-18,how the frightful five put startups in a loselose situation,negative
 MSFT,2017-09-25,engrave your own stationery template,neutral
@@ -296,7 +296,7 @@ MSFT,2017-09-16,chips off the old block computers are taking design cues from hu
 MSFT,2017-09-01,farhads and nicks week in review ubers new boss and amazons new supermarket,neutral
 MSFT,2017-09-27,satya nadella on women in tech ai and esports,neutral
 MSFT,2017-08-16,getting microsoft word to call you by your real name,neutral
-MSFT,2017-08-16,microsoft teaches autonomous gliders to make decisions on the fly,neutral
+MSFT,2017-08-16,microsoft teaches autonomous gliders to make decisions on the fly,positive
 MSFT,2017-08-03,microsoft shifts from paying outside lawyers by the hour,neutral
 MSFT,2017-08-02,gearing up for another windows 10 update,neutral
 MSFT,2017-08-04,taking your autocorrect entries with you,neutral
@@ -324,19 +324,19 @@ MSFT,2017-03-01,editing documents on both a pc and a mac,neutral
 MSFT,2017-03-28,mortal kombat and solitaire among video game hall of fame finalists,neutral
 MSFT,2017-03-15,just what was in that ios system update,neutral
 MSFT,2017-05-05,checking for the latest windows 10 update,neutral
-MSFT,2017-05-02,microsoft looks to regain lost ground in the classroom,neutral
+MSFT,2017-05-02,microsoft looks to regain lost ground in the classroom,positive
 MSFT,2017-05-01,daily report a busy week ahead,neutral
 MSFT,2017-05-15,china addicted to bootleg software reels from ransomware attack,negative
 MSFT,2017-05-16,use your phone as a digital magnifying glass,neutral
 MSFT,2017-05-08,when apple maps marks your spot,neutral
-MSFT,2017-05-16,in ransomware attack where does microsofts responsibility lie,neutral
+MSFT,2017-05-16,in ransomware attack where does microsofts responsibility lie,negative
 MSFT,2017-05-14,the world is getting hacked why dont we do more to stop it,negative
-MSFT,2017-05-16,daily report looking for someone to blame in the ransomware attack,neutral
+MSFT,2017-05-16,daily report looking for someone to blame in the ransomware attack,negative
 MSFT,2017-05-10,techs frightful five theyve got us,neutral
 MSFT,2017-04-30,dubai introduces its own font lauding free expression it does not permit,neutral
-MSFT,2017-04-16,slack an upstart in messaging now faces giant tech rivals,neutral
+MSFT,2017-04-16,slack an upstart in messaging now faces giant tech rivals,negative
 MSFT,2017-04-11,a hangout for old desktop notifications,neutral
-MSFT,2017-04-28,daily report cloud computing asserts itself,neutral
+MSFT,2017-04-28,daily report cloud computing asserts itself,positive
 MSFT,2017-04-28,cloud produces sunny earnings at amazon microsoft and alphabet,positive
 MSFT,2017-04-10,yes another windows 10 update is here,neutral
 MSFT,2017-04-21,what to try when the firefox browser stalls,neutral
@@ -355,21 +355,21 @@ MSFT,2017-12-20,what the tax bill fails to address technologys tsunami,negative
 MSFT,2018-01-23,shes not laughing in davos taking on sexual harassment,neutral
 MSFT,2018-01-27,the mind meld of bill gates and steven pinker,neutral
 MSFT,2018-01-04,what you need to do because of flaws in computer chips,negative
-MSFT,2018-01-31,microsoft sales lifted by cloud computing,neutral
+MSFT,2018-01-31,microsoft sales lifted by cloud computing,positive
 MSFT,2018-11-10,facebook to drop forced arbitration in harassment cases,neutral
 MSFT,2018-11-29,microsoft is worth as much as apple how did that happen,neutral
-MSFT,2018-11-27,apples bad month is getting worse jeopardizing its status as most valuable company,negative
+MSFT,2018-11-27,apples bad month is getting worse jeopardizing its status as most valuable company,neutral
 MSFT,2018-10-15,paul g allen microsofts cofounder is dead at 65,neutral
-MSFT,2018-10-24,microsofts earnings surge as cloud bet continues to pay off,neutral
-MSFT,2018-10-26,microsoft says it will sell pentagon artificial intelligence and other advanced technology,neutral
+MSFT,2018-10-24,microsofts earnings surge as cloud bet continues to pay off,positive
+MSFT,2018-10-26,microsoft says it will sell pentagon artificial intelligence and other advanced technology,positive
 MSFT,2018-10-25,tech earnings provide a breather from the selling,positive
 MSFT,2018-06-26,top tech companies met with intelligence officials to discuss midterms,neutral
 MSFT,2018-06-17,with twitch amazon tightens grip on live streams of video games,neutral
-MSFT,2018-06-19,microsoft employees protest work with ice as tech industry mobilizes over immigration,neutral
-MSFT,2018-06-04,microsoft buys github for 75 billion moving to grow in codings new era,neutral
+MSFT,2018-06-19,microsoft employees protest work with ice as tech industry mobilizes over immigration,negative
+MSFT,2018-06-04,microsoft buys github for 75 billion moving to grow in codings new era,positive
 MSFT,2018-06-22,the week in tech silicon valley gets even more political,neutral
-MSFT,2018-07-27,microsoft employees question ceo over companys contract with ice,neutral
-MSFT,2018-07-19,microsoft emerges as clear no 2 in cloud computing,neutral
+MSFT,2018-07-27,microsoft employees question ceo over companys contract with ice,negative
+MSFT,2018-07-19,microsoft emerges as clear no 2 in cloud computing,positive
 MSFT,2018-07-13,microsoft urges congress to regulate use of facial recognition,neutral
 MSFT,2018-08-21,new russian hacking targeted republican groups microsoft says,negative
 MSFT,2018-08-01,stumbles what stumbles big tech is as strong as ever,neutral
@@ -380,19 +380,19 @@ MSFT,2018-02-20,the case against google,neutral
 MSFT,2018-02-21,to give ai the gift of gab silicon valley needs to offend you,neutral
 MSFT,2018-02-20,peggy johnson on ais potential,neutral
 MSFT,2018-03-29,recording skype video calls,neutral
-MSFT,2018-03-29,microsoft reorganizes to fuel cloud and ai businesses,neutral
+MSFT,2018-03-29,microsoft reorganizes to fuel cloud and ai businesses,positive
 MSFT,2018-03-10,christopher liddell is frontrunner to become trumps top economic adviser,neutral
 MSFT,2018-05-07,microsoft tries a new role moral leader,neutral
-MSFT,2018-05-18,what the microsoft antitrust case taught us,neutral
+MSFT,2018-05-18,what the microsoft antitrust case taught us,negative
 MSFT,2018-04-17,tech firms sign digital geneva accord not to aid governments in cyberwar,neutral
 MSFT,2018-04-14,when mr gates went to washington,neutral
 MSFT,2018-04-17,goldmans gains in trading raise a familiar dilemma dealbook briefing,neutral
-MSFT,2018-04-26,microsofts cloud has business booming again,neutral
+MSFT,2018-04-26,microsofts cloud has business booming again,positive
 MSFT,2018-12-14,two companies finally speak up,neutral
 MSFT,2018-12-04,digital divide is wider than we think study says,neutral
 MSFT,2018-12-20,powerpoint is the most efficient way for kids to manage their parents,neutral
-MSFT,2019-01-31,releasing earnings microsoft stays in stride with cloud powering the way,neutral
-MSFT,2019-01-19,microsoft cannot fix seattles housing crisis,neutral
+MSFT,2019-01-31,releasing earnings microsoft stays in stride with cloud powering the way,positive
+MSFT,2019-01-19,microsoft cannot fix seattles housing crisis,negative
 MSFT,2019-01-24,microsofts bing back online in china after apparent blockage,neutral
 MSFT,2019-01-17,hadi partovi was raised in a revolution today he teaches kids to code,neutral
 MSFT,2019-01-17,microsoft pledges 500 million for affordable housing in seattle area,neutral
@@ -404,34 +404,34 @@ MSFT,2019-11-12,how laws against child sexual abuse imagery can make it harder t
 MSFT,2019-11-01,the week in tech whatsapps spyware fight is at least good pr,neutral
 MSFT,2019-11-05,microsoft surface pro x review powerful computer but soso tablet,neutral
 MSFT,2019-10-15,building for real with digital blocks,neutral
-MSFT,2019-10-25,microsoft wins pentagons 10 billion jedi contract thwarting amazon,negative
-MSFT,2019-10-28,microsoft says russians hacked antidoping agency computers,neutral
-MSFT,2019-10-23,microsoft rides cloud to a 21 increase in profits,neutral
+MSFT,2019-10-25,microsoft wins pentagons 10 billion jedi contract thwarting amazon,positive
+MSFT,2019-10-28,microsoft says russians hacked antidoping agency computers,negative
+MSFT,2019-10-23,microsoft rides cloud to a 21 increase in profits,positive
 MSFT,2019-10-12,bill gates met with jeffrey epstein many times despite his past,neutral
 MSFT,2019-06-17,exposing the bias embedded in tech,neutral
 MSFT,2019-06-22,the week in business stocks hit a record high and facebook wants to replace your bank,positive
 MSFT,2019-06-15,the mystery of the miserable employees how to win in the winnertakeall economy,neutral
-MSFT,2019-06-23,5 lessons from microsofts antitrust woes by people who lived it,neutral
+MSFT,2019-06-23,5 lessons from microsofts antitrust woes by people who lived it,negative
 MSFT,2019-06-27,the great it awakening,neutral
-MSFT,2019-07-22,with 1 billion from microsoft an ai lab wants to mimic the brain,neutral
+MSFT,2019-07-22,with 1 billion from microsoft an ai lab wants to mimic the brain,positive
 MSFT,2019-07-31,and now a bicycle built for none,neutral
 MSFT,2019-07-18,trump says he may intervene in huge pentagon contract sought by amazon,negative
-MSFT,2019-07-18,microsoft earnings sales jump 12 percent fueled by cloud,neutral
+MSFT,2019-07-18,microsoft earnings sales jump 12 percent fueled by cloud,positive
 MSFT,2019-07-26,the week in tech huge fines cant hide americas lack of a data privacy law,negative
 MSFT,2019-07-13,facial recognition tech is growing stronger thanks to your face,neutral
 MSFT,2019-07-05,letting the internet regulate itself was a good idea in the 1990s,neutral
 MSFT,2019-07-10,youre hired now wear this headset to learn the job,neutral
 MSFT,2019-08-02,in pentagon contract fight amazon has foes in high places,negative
 MSFT,2019-09-11,dealbook dc summit mnuchin talks trade and the economy microsofts brad smith on tech policy,neutral
-MSFT,2019-09-08,how topvalued microsoft has avoided the big tech backlash,neutral
+MSFT,2019-09-08,how topvalued microsoft has avoided the big tech backlash,positive
 MSFT,2019-09-04,big tech companies meeting with us officials on 2020 election security,neutral
-MSFT,2019-09-18,microsofts president on silicon valley in the cross hairs,neutral
+MSFT,2019-09-18,microsofts president on silicon valley in the cross hairs,negative
 MSFT,2019-09-07,director of mits media lab resigns after taking money from jeffrey epstein,neutral
 MSFT,2019-09-06,when the ai professor leaves students suffer study says,neutral
 MSFT,2019-09-29,the internet is overrun with images of child sexual abuse what went wrong,negative
 MSFT,2019-02-20,adaptive video game controllers open worlds for gamers with disabilities,neutral
 MSFT,2019-02-20,russian hackers targeted european research groups microsoft says,negative
-MSFT,2019-03-13,facebooks data deals are under criminal investigation,negative
+MSFT,2019-03-13,facebooks data deals are under criminal investigation,neutral
 MSFT,2019-03-13,a better way to break up big tech,neutral
 MSFT,2019-03-27,microsoft seizes websites it traces to iranian hackers,neutral
 MSFT,2019-03-17,why a big tech breakup looks better to washington,negative
@@ -439,8 +439,8 @@ MSFT,2019-03-06,silicon valleys military dilemma,neutral
 MSFT,2019-03-04,why napalm is a cautionary tale for tech giants pursuing military contracts,negative
 MSFT,2019-03-11,how the internet travels across oceans,neutral
 MSFT,2019-03-05,can ai make work seem less like work,neutral
-MSFT,2019-04-24,microsofts profit rises 19 as its cloud business drives strong results,neutral
-MSFT,2019-04-10,amazon and microsoft are 2 finalists for 10 billion pentagon contract,neutral
+MSFT,2019-04-24,microsofts profit rises 19 as its cloud business drives strong results,positive
+MSFT,2019-04-10,amazon and microsoft are 2 finalists for 10 billion pentagon contract,positive
 MSFT,2019-04-12,these funds rode small companies to big returns,neutral
 MSFT,2019-04-25,microsoft touches 1 trillion value signaling big techs stock market comeback,positive
 MSFT,2019-04-11,tech companies say they care,neutral
@@ -456,13 +456,13 @@ MSFT,2020-11-30,companies bet big on working from home,neutral
 MSFT,2020-11-11,playstation 5 the next step in sonys rebound,neutral
 MSFT,2020-11-06,playstation 5 review sonys new console is an entertaining behemoth,neutral
 MSFT,2020-11-12,new playstation and xbox arrive during a pandemic gold rush,neutral
-MSFT,2020-11-05,xbox series x and s review microsofts new consoles are a good value is that enough,neutral
+MSFT,2020-11-05,xbox series x and s review microsofts new consoles are a good value is that enough,positive
 MSFT,2020-10-20,google up against laws that thwarted microsoft and others since 1890,negative
 MSFT,2020-10-06,house lawmakers condemn big techs monopoly power and urge their breakups,negative
 MSFT,2020-10-09,technology vs covid19 assessing the threats,neutral
 MSFT,2020-10-12,microsoft takes down a risk to the election and finds the us doing the same,neutral
 MSFT,2020-10-22,forget antitrust laws to limit tech some say a new regulator is needed,neutral
-MSFT,2020-10-20,as election nears government and tech firms push back on russia and trump,neutral
+MSFT,2020-10-20,as election nears government and tech firms push back on russia and trump,negative
 MSFT,2020-10-29,perception hacks and other potential threats to the election,neutral
 MSFT,2020-10-08,microsoft says app stores should be more competitive,neutral
 MSFT,2020-10-25,apple google and a deal that controls the internet,neutral
@@ -473,44 +473,44 @@ MSFT,2020-08-12,google facebook and others broaden group to secure us election,n
 MSFT,2020-08-03,tiktok must be sold or risk being shutdown trump says,negative
 MSFT,2020-06-04,chinese hackers target email accounts of biden campaign staff google says,negative
 MSFT,2020-06-13,the economy is reeling the tech giants spy opportunity,neutral
-MSFT,2020-07-31,microsoft said to be in talks to buy tiktok as trump weighs curtailing app,neutral
+MSFT,2020-07-31,microsoft said to be in talks to buy tiktok as trump weighs curtailing app,negative
 MSFT,2020-07-21,a company backs a cause it funds a politician who doesnt what gives,neutral
 MSFT,2020-07-31,i tried to live without the tech giants it was impossible,neutral
-MSFT,2020-07-21,big tech has a big climate problem now its being forced to clean up,neutral
+MSFT,2020-07-21,big tech has a big climate problem now its being forced to clean up,negative
 MSFT,2020-07-07,magic leap hires top microsoft executive as ceo,neutral
 MSFT,2020-07-21,say one thing donate to another,neutral
 MSFT,2020-07-22,slack accuses microsoft of illegally crushing competition,negative
-MSFT,2020-08-19,big techs domination of business reaches new heights,neutral
+MSFT,2020-08-19,big techs domination of business reaches new heights,positive
 MSFT,2020-08-03,tiktok trump and an impulse to act as ceo to corporate america,negative
-MSFT,2020-08-02,microsoft says itll continue pursuit of tiktok,negative
+MSFT,2020-08-02,microsoft says itll continue pursuit of tiktok,positive
 MSFT,2020-08-26,palantir ant and the tech listing boom,neutral
 MSFT,2020-08-03,with tiktok uncool microsoft aims for the love of tweens,neutral
 MSFT,2020-08-26,how tiktoks talks with microsoft turned into a soap opera,neutral
 MSFT,2020-08-01,whats going on with tiktok heres what we know,neutral
 MSFT,2020-08-03,what would microsoft do with tiktok,neutral
 MSFT,2020-08-18,tiktok huawei and the splinternet,negative
-MSFT,2020-08-28,in bid for tiktok microsoft flexes its power in washington,neutral
+MSFT,2020-08-28,in bid for tiktok microsoft flexes its power in washington,positive
 MSFT,2020-08-03,microsoft can save tiktok if trump doesnt mess it up,neutral
 MSFT,2020-08-31,tiktok deal faces complications as us and china ratchet up titfortat,negative
 MSFT,2020-08-05,is tiktok a good buy it depends on whats included,neutral
 MSFT,2020-08-27,tiktok is said to wrestle with two competing offers,neutral
 MSFT,2020-08-08,trump wants us to get cut of any tiktok deal no one knows how thatd work,neutral
 MSFT,2020-08-18,this market is nuts sp 500 hits record defying economic devastation,neutral
-MSFT,2020-08-03,trump reverses course on tiktok opening door to microsoft bid,neutral
+MSFT,2020-08-03,trump reverses course on tiktok opening door to microsoft bid,positive
 MSFT,2020-08-05,the tech you love,neutral
 MSFT,2020-08-26,natural history museum union files complaint over coronavirus app,neutral
 MSFT,2020-08-19,i tried microsofts flight simulator the earth never seemed so real,neutral
-MSFT,2020-09-13,oracle chosen as tiktoks tech partner as microsofts bid is rejected,neutral
+MSFT,2020-09-13,oracle chosen as tiktoks tech partner as microsofts bid is rejected,negative
 MSFT,2020-09-03,wall street has its worst day in months,negative
 MSFT,2020-09-15,bill gates sr who guided billionaire sons philanthropy dies at 94,neutral
-MSFT,2020-09-21,microsoft grabs some of worlds biggest games in 75 billion deal,negative
+MSFT,2020-09-21,microsoft grabs some of worlds biggest games in 75 billion deal,positive
 MSFT,2020-09-15,coming this fall return of the video game console wars,neutral
-MSFT,2020-09-04,pentagon sticks with microsoft for cloud computing contract,neutral
+MSFT,2020-09-04,pentagon sticks with microsoft for cloud computing contract,positive
 MSFT,2020-09-21,tiktok deal exposes a security gap and a missing china strategy,negative
 MSFT,2020-09-10,russian intelligence hackers are back microsoft warns aiming at officials of both parties,negative
 MSFT,2020-02-26,microsoft issues financial warning because of coronavirus,negative
 MSFT,2020-02-19,europe overrun by foreign tech giants wants to grow its own,neutral
-MSFT,2020-02-18,the epic battle between trump and bezos is on,neutral
+MSFT,2020-02-18,the epic battle between trump and bezos is on,negative
 MSFT,2020-02-11,ftc broadens review of tech giants homing in on their deals,negative
 MSFT,2020-02-13,judge halts work on microsofts jedi contract a victory for amazon,negative
 MSFT,2020-02-16,the week in business amazon is coming for trump,neutral
@@ -518,19 +518,19 @@ MSFT,2020-02-24,can corporations stop climate change,neutral
 MSFT,2020-03-05,workplace vs coronavirus no one has a playbook for this,neutral
 MSFT,2020-03-23,there is a racial divide in speechrecognition systems researchers say,neutral
 MSFT,2020-03-05,life in seattle americas coronavirus capital,negative
-MSFT,2020-03-13,bill gates stepping down from microsofts board,neutral
-MSFT,2020-03-13,pentagon asks to reconsider awarding huge cloud contract to amazon,neutral
-MSFT,2020-03-11,a botnet is taken down in an operation by microsoft not the government,neutral
+MSFT,2020-03-13,bill gates stepping down from microsofts board,negative
+MSFT,2020-03-13,pentagon asks to reconsider awarding huge cloud contract to amazon,positive
+MSFT,2020-03-11,a botnet is taken down in an operation by microsoft not the government,positive
 MSFT,2020-03-15,ahead of the pack how microsoft told workers to stay home,neutral
 MSFT,2020-03-26,ai versus the coronavirus,neutral
 MSFT,2020-05-14,what satya nadella thinks,neutral
 MSFT,2020-04-28,investors bet giant companies will dominate after crisis,positive
 MSFT,2020-04-21,marina abramovic just wants conspiracy theorists to let her be,neutral
-MSFT,2020-12-14,google dominates thanks to an unrivaled view of the web,neutral
+MSFT,2020-12-14,google dominates thanks to an unrivaled view of the web,negative
 MSFT,2020-12-31,microsoft says russian hackers viewed some of its source code,negative
 MSFT,2020-12-04,why melinda gates spends time letting my heart break,neutral
 MSFT,2020-12-19,cyberpunk 2077 was supposed to be the biggest video game of the year what happened,neutral
-MSFT,2020-12-02,marc benioff sets his sights on microsoft,neutral
+MSFT,2020-12-02,marc benioff sets his sights on microsoft,negative
 MSFT,2020-12-14,big tech turns its lobbyists loose on europe alarming regulators,negative
 MSFT,2020-12-18,sony removes cyberpunk 2077 from playstation store after complaints,neutral
 MSFT,2020-12-17,more hacking attacks found as officials warn of grave risk to us government,negative
@@ -539,14 +539,14 @@ MSFT,2021-01-23,help with vaccination push comes from unexpected businesses,neut
 MSFT,2021-01-14,swimming with the sharks in facebooks world,neutral
 MSFT,2021-01-06,widely used software company may be entry point for huge us hacking,negative
 MSFT,2021-01-29,still looking for a new gaming console heres why,neutral
-MSFT,2021-01-02,as understanding of russian hacking grows so does alarm,neutral
+MSFT,2021-01-02,as understanding of russian hacking grows so does alarm,negative
 MSFT,2021-11-17,the tech gifts that are hard to buy this holiday season,neutral
-MSFT,2021-11-15,with halo infinite microsoft hopes to rekindle its flagship game,neutral
+MSFT,2021-11-15,with halo infinite microsoft hopes to rekindle its flagship game,positive
 MSFT,2021-11-03,google wants to work with the pentagon again despite employee concerns,neutral
 MSFT,2021-10-18,is mark zuckerberg a man without principles,neutral
-MSFT,2021-10-18,microsoft leaders warned bill gates over inappropriate emails,neutral
+MSFT,2021-10-18,microsoft leaders warned bill gates over inappropriate emails,negative
 MSFT,2021-10-06,a star corporate lawyer now set to take on corporate america,neutral
-MSFT,2021-10-26,microsoft profit soars 48 to 205 billion,neutral
+MSFT,2021-10-26,microsoft profit soars 48 to 205 billion,positive
 MSFT,2021-10-14,linkedin to shut down service in china citing challenging environment,negative
 MSFT,2021-10-31,rivals on world stage russia and us quietly seek areas of accord,neutral
 MSFT,2021-10-25,ignoring sanctions russia renews broad cybersurveillance operation,negative
@@ -554,9 +554,9 @@ MSFT,2021-07-26,bidens china strategy meets resistance at the negotiating table,
 MSFT,2021-06-11,in leak investigation tech giants are caught between courts and customers,negative
 MSFT,2021-06-10,how microsoft is ditching the video game console wars,neutral
 MSFT,2021-06-14,to fill millions of open jobs many workers need more than skills,neutral
-MSFT,2021-06-04,windows is no big deal thats huge,neutral
+MSFT,2021-06-04,windows is no big deal thats huge,positive
 MSFT,2021-06-11,justice dept watchdog to investigate seizure of democrats data,neutral
-MSFT,2021-06-05,microsofts bing briefly blocked tank man on tiananmen anniversary,neutral
+MSFT,2021-06-05,microsofts bing briefly blocked tank man on tiananmen anniversary,negative
 MSFT,2021-06-09,leaning on journalists and targeting sources for 50 years,neutral
 MSFT,2021-07-07,taking microsofts windows 11 for a test drive,neutral
 MSFT,2021-07-29,big tech has outgrown this planet,neutral
@@ -567,38 +567,38 @@ MSFT,2021-07-01,why didnt microsoft die,neutral
 MSFT,2021-07-06,pentagon cancels a disputed 10 billion technology contract,negative
 MSFT,2021-07-01,crucial time for cloud gaming which wants to change how you play,neutral
 MSFT,2021-07-19,your tuesday briefing,neutral
-MSFT,2021-07-27,microsoft had its most profitable quarter,neutral
+MSFT,2021-07-27,microsoft had its most profitable quarter,positive
 MSFT,2021-03-03,can bill gates vaccinate the world,neutral
 MSFT,2021-03-13,microsoft executive says tech consolidation threatens journalism,neutral
 MSFT,2021-08-03,after months of avoiding the vaccine issue companies begin to mandate,neutral
 MSFT,2021-09-17,stocks decline for a second week as septembers slow retreat continues,negative
-MSFT,2021-09-09,the latest microsoft delays its return to the office indefinitely,neutral
+MSFT,2021-09-09,the latest microsoft delays its return to the office indefinitely,negative
 MSFT,2021-02-24,after russian cyberattack looking for answers and debating retaliation,negative
 MSFT,2021-02-15,how does bill gates plan to solve the climate crisis,neutral
 MSFT,2021-02-22,whats really behind corporate promises on climate change,neutral
 MSFT,2021-03-07,preparing for retaliation against russia us confronts hacking by china,negative
-MSFT,2021-03-23,discord and microsoft said to discuss deal that could top 10 billion,neutral
+MSFT,2021-03-23,discord and microsoft said to discuss deal that could top 10 billion,positive
 MSFT,2021-03-06,thousands of microsoft customers may have been victims of hack tied to china,negative
 MSFT,2021-03-18,china punishes microsofts linkedin over lax censorship,negative
 MSFT,2021-03-15,who is making sure the ai machines arent racist,neutral
-MSFT,2021-03-31,microsoft will make augmented reality headsets for the army in a 219 billion deal,neutral
+MSFT,2021-03-31,microsoft will make augmented reality headsets for the army in a 219 billion deal,positive
 MSFT,2021-03-22,microsoft to ease workers back to the office starting next week,neutral
 MSFT,2021-03-12,faulty software snarls vaccine signups,negative
 MSFT,2021-03-05,can we put an end to the vaccine hunger games,neutral
-MSFT,2021-03-14,white house weighs new cybersecurity approach after failure to detect hacks,neutral
+MSFT,2021-03-14,white house weighs new cybersecurity approach after failure to detect hacks,negative
 MSFT,2021-05-26,a culture of fear at the firm that manages bill gatess fortune,neutral
 MSFT,2021-05-28,scenes from a moguls marriage or the troubling fourth act of bill gates,neutral
 MSFT,2021-05-28,russia appears to carry out hack through system used by us aid agency,negative
 MSFT,2021-05-30,in a world let loose video game makers are doubling down,neutral
 MSFT,2021-05-04,business coalitions speak out against voting restrictions in texas,neutral
 MSFT,2021-05-03,bill and melinda gates are divorcing after 27 years of marriage,neutral
-MSFT,2021-05-16,long before divorce bill gates had reputation for questionable behavior,neutral
+MSFT,2021-05-16,long before divorce bill gates had reputation for questionable behavior,negative
 MSFT,2021-05-05,who gets xanadu 20 the gates family mansion,neutral
 MSFT,2021-05-04,what the gates divorce means for the bill and melinda gates foundation,neutral
-MSFT,2021-04-29,microsoft plans to take a smaller cut from developers in its games store,neutral
-MSFT,2021-04-27,microsoft reports strongest quarterly growth in years as profit also rises,neutral
-MSFT,2021-04-28,apple doubles its profits on soaring iphone sales,positive
-MSFT,2021-04-12,microsoft to buy nuance for 16 billion to focus on health care tech,neutral
+MSFT,2021-04-29,microsoft plans to take a smaller cut from developers in its games store,positive
+MSFT,2021-04-27,microsoft reports strongest quarterly growth in years as profit also rises,positive
+MSFT,2021-04-28,apple doubles its profits on soaring iphone sales,neutral
+MSFT,2021-04-12,microsoft to buy nuance for 16 billion to focus on health care tech,positive
 MSFT,2021-04-28,court could consider whether trump interfered in cloud computing contract,negative
 MSFT,2021-04-13,markets fret over halt to johnson johnsons vaccine,neutral
 MSFT,2021-04-30,how big tech won the pandemic,positive
@@ -606,54 +606,54 @@ MSFT,2021-04-29,a perfect positive storm bonkers dollars for big tech,positive
 MSFT,2021-04-25,your smartphone should be built to last,neutral
 MSFT,2021-04-23,bill gates pushes for better climate technology,neutral
 MSFT,2021-12-21,lawmakers urge big tech to mitigate harm of suicide site and seek justice inquiry,negative
-MSFT,2021-12-06,microsoft seizes 42 websites from a chinese hacking group,neutral
+MSFT,2021-12-06,microsoft seizes 42 websites from a chinese hacking group,positive
 MSFT,2021-12-02,a journalist a philosophy major and the mad scramble for video game consoles,neutral
 MSFT,2022-01-25,after urban flight corporate campuses add a taste of the city,neutral
 MSFT,2022-01-16,microsoft warns of destructive cyberattack on ukrainian computer networks,negative
 MSFT,2022-01-19,exclusive lina khan is still bursting big techs bubble,negative
-MSFT,2022-01-19,how microsoft bought activision blizzard,neutral
-MSFT,2022-01-19,its not complicated microsoft wants activision for its games,neutral
-MSFT,2022-01-18,with activision microsoft bets on the future,neutral
+MSFT,2022-01-19,how microsoft bought activision blizzard,positive
+MSFT,2022-01-19,its not complicated microsoft wants activision for its games,positive
+MSFT,2022-01-18,with activision microsoft bets on the future,positive
 MSFT,2022-01-18,regulators aim to rewrite rules for big mergers,neutral
 MSFT,2022-01-03,banks tiptoe toward their cloudbased future,neutral
-MSFT,2022-01-19,new eyes gamers greet microsofts activision deal with guarded optimism,neutral
+MSFT,2022-01-19,new eyes gamers greet microsofts activision deal with guarded optimism,positive
 MSFT,2022-01-13,microsoft opens a review of its sexual harassment policies,neutral
 MSFT,2022-01-20,microsoft and the mania for mergers,neutral
-MSFT,2022-01-23,the week in business a big bet on gaming,neutral
+MSFT,2022-01-23,the week in business a big bet on gaming,positive
 MSFT,2022-01-10,to understand the metaverse look to video games,neutral
-MSFT,2022-01-18,microsoft will buy activision blizzard betting 70 billion on the future of games,neutral
+MSFT,2022-01-18,microsoft will buy activision blizzard betting 70 billion on the future of games,positive
 MSFT,2022-01-31,sony to buy game maker bungie in 36 billion deal,neutral
 MSFT,2022-01-20,microsoft and the metaverse,neutral
-MSFT,2022-01-25,microsofts profit continues to climb,neutral
+MSFT,2022-01-25,microsofts profit continues to climb,positive
 MSFT,2022-01-18,whats all the hype about the metaverse,neutral
 MSFT,2022-11-10,paul g allens art at christies tops 15 billion cracking records,neutral
-MSFT,2022-11-23,lawsuit takes aim at the way ai is built,neutral
+MSFT,2022-11-23,lawsuit takes aim at the way ai is built,negative
 MSFT,2022-11-27,these young workers are romanticizing the return to office,neutral
 MSFT,2022-11-21,can big tech get bigger microsoft presses governments to say yes,positive
 MSFT,2022-10-26,tech stocks tumble as growth falters,negative
 MSFT,2022-10-26,techs biggest companies are sending worrying signals about the economy,negative
 MSFT,2022-10-25,microsoft reports slowest revenue growth in five years,negative
 MSFT,2022-06-15,what europes universal charger mandate means for you,neutral
-MSFT,2022-06-22,many russian cyberattacks failed in first months of ukraine war study says,neutral
+MSFT,2022-06-22,many russian cyberattacks failed in first months of ukraine war study says,negative
 MSFT,2022-06-21,microsoft plans to eliminate face analysis tools in push for responsible ai,neutral
 MSFT,2022-06-15,internet explorer is shutting down in a burst of nostalgia,neutral
 MSFT,2022-06-13,microsoft pledges neutrality in union campaigns at activision,neutral
-MSFT,2022-07-13,netflix turns to microsoft to help build its new adsupported service,neutral
+MSFT,2022-07-13,netflix turns to microsoft to help build its new adsupported service,positive
 MSFT,2022-07-19,mourning technoblade fans grieve a minecraft star they never met,neutral
 MSFT,2022-07-08,even in death internet explorer lives on in south korea,neutral
 MSFT,2022-07-27,the default tech settings you should turn off right away,neutral
 MSFT,2022-07-28,big tech is proving resilient as the economy cools,positive
 MSFT,2022-07-26,microsoft reports earnings that fall short of alreadyreduced expectations,negative
 MSFT,2022-07-03,america the imperfect on the fourth of july,neutral
-MSFT,2022-07-29,recession not for big tech,positive
+MSFT,2022-07-29,recession not for big tech,neutral
 MSFT,2022-08-03,richard tait coinventor of the board game cranium dies at 58,neutral
 MSFT,2022-08-26,christies to sell paul g allens 1 billion art collection,neutral
 MSFT,2022-08-12,how much do nfl teams make packers fans paid to find out,neutral
 MSFT,2022-09-30,the markets face a rare double decline,negative
 MSFT,2022-09-23,opening paul allens treasure chest,neutral
-MSFT,2022-09-01,big tech reconsiders the made in china way,negative
+MSFT,2022-09-01,big tech reconsiders the made in china way,neutral
 MSFT,2022-02-10,who benefits from higher prices,neutral
-MSFT,2022-02-09,microsoft starts a charm offensive to push through its activision deal,neutral
+MSFT,2022-02-09,microsoft starts a charm offensive to push through its activision deal,positive
 MSFT,2022-02-11,the pandemic culls the big tech herd,negative
 MSFT,2022-02-14,microsoft tells workers to prepare to return to the office,neutral
 MSFT,2022-02-08,house passes bill to nullify forced arbitration in sex abuse cases,neutral
@@ -662,7 +662,7 @@ MSFT,2022-02-16,the rise of big tech may just be starting,positive
 MSFT,2022-02-18,the hidden image descriptions making the internet accessible,neutral
 MSFT,2022-03-24,eu takes aim at big techs power with landmark digital act,negative
 MSFT,2022-03-11,the far right complains after the search engine duckduckgo vows to limit russian propaganda,neutral
-MSFT,2022-03-10,microsofts pursuit of climate goals runs into headwinds,neutral
+MSFT,2022-03-10,microsofts pursuit of climate goals runs into headwinds,negative
 MSFT,2022-03-01,as tanks rolled into ukraine so did malware then microsoft entered the war,negative
 MSFT,2022-03-23,project veritas says justice dept secretly seized its emails,neutral
 MSFT,2022-05-11,google offers a more modest vision of the future,neutral
@@ -672,59 +672,59 @@ MSFT,2022-05-20,big tech is getting clobbered on wall street its a good time for
 MSFT,2022-05-03,blackness and standard english can coexist professors take note,neutral
 MSFT,2022-04-08,a 4year degree isnt quite the job requirement it used to be,neutral
 MSFT,2022-04-22,as europe approves new tech laws the us falls further behind,negative
-MSFT,2022-04-26,microsoft reports rising revenue and profits despite war and inflation,neutral
+MSFT,2022-04-26,microsoft reports rising revenue and profits despite war and inflation,positive
 MSFT,2022-04-26,stocks drop 28 led lower by tech as aprils slump continues,negative
 MSFT,2022-04-27,russia uses cyberattacks in ukraine to support military strikes report finds,negative
 MSFT,2022-12-08,pentagon divides big cloudcomputing deal among 4 firms,neutral
 MSFT,2022-12-30,dealmaking thrived then hit a road bump,neutral
 MSFT,2022-12-06,computer science students face a shrinking big tech job market,negative
 MSFT,2022-12-08,ftc sues to block microsofts 69 billion acquisition of activision,negative
-MSFT,2022-12-09,the stakes behind the ftcs bid to block microsofts big deal,neutral
+MSFT,2022-12-09,the stakes behind the ftcs bid to block microsofts big deal,negative
 MSFT,2022-12-10,to rein in big tech europe looked beyond lawsuits will the us follow,neutral
-MSFT,2022-12-07,microsoft to offer call of duty on nintendo devices if activision deal closes,neutral
-MSFT,2022-12-05,video game workers at microsoft and activision take steps to unionize,neutral
+MSFT,2022-12-07,microsoft to offer call of duty on nintendo devices if activision deal closes,positive
+MSFT,2022-12-05,video game workers at microsoft and activision take steps to unionize,negative
 MSFT,2022-12-10,lina khan aiming to block microsofts activision deal faces a challenge,negative
-MSFT,2022-12-22,microsoft gambles on nice guy strategy to close activision megadeal,neutral
+MSFT,2022-12-22,microsoft gambles on nice guy strategy to close activision megadeal,positive
 MSFT,2023-01-18,oliver stone goes nuclear at davos,neutral
-MSFT,2023-01-18,microsoft to lay off 10000 workers as it looks to trim costs,neutral
+MSFT,2023-01-18,microsoft to lay off 10000 workers as it looks to trim costs,negative
 MSFT,2023-01-18,how the netherlands is taming big tech,neutral
-MSFT,2023-01-11,big cuts are coming to goldman sachs,neutral
-MSFT,2023-01-04,tesla bulls brace for a rough year ahead,neutral
-MSFT,2023-01-12,microsoft bets big on the creator of chatgpt in race to dominate ai,negative
-MSFT,2023-01-23,microsoft to invest 10 billion in openai the creator of chatgpt,neutral
+MSFT,2023-01-11,big cuts are coming to goldman sachs,negative
+MSFT,2023-01-04,tesla bulls brace for a rough year ahead,negative
+MSFT,2023-01-12,microsoft bets big on the creator of chatgpt in race to dominate ai,positive
+MSFT,2023-01-23,microsoft to invest 10 billion in openai the creator of chatgpt,positive
 MSFT,2023-01-19,the era of happy tech workers is over,negative
 MSFT,2023-01-24,live nation faces a skeptical senate,neutral
 MSFT,2023-01-21,layoffs at tech giants reverse small part of pandemic hiring spree,negative
 MSFT,2023-01-06,tiktoks spying scandal and chatgpts challenge to google,negative
-MSFT,2023-01-24,microsoft revenue up 2 percent but profit drops 12 percent,neutral
-MSFT,2023-01-25,microsoft services back online after morning outages,neutral
+MSFT,2023-01-24,microsoft revenue up 2 percent but profit drops 12 percent,negative
+MSFT,2023-01-25,microsoft services back online after morning outages,negative
 MSFT,2023-01-03,video game workers get a union foothold at microsoft,neutral
 MSFT,2023-11-27,how the biden administration took the pen away from meta google and amazon,negative
 MSFT,2023-11-20,openai staff threatens exodus jeopardizing companys future,negative
-MSFT,2023-11-22,the unsettling lesson of the openai mess,neutral
+MSFT,2023-11-22,the unsettling lesson of the openai mess,negative
 MSFT,2023-11-22,the fallout from sam altmans return to openai,neutral
 MSFT,2023-11-21,the long shadow of steve jobs looms over the turmoil at openai,neutral
 MSFT,2023-11-30,back at openai sam altman outlines the companys priorities,neutral
 MSFT,2023-11-20,what happens when a founder leaves,neutral
 MSFT,2023-11-17,openais board pushes out sam altman its highprofile ceo,negative
-MSFT,2023-11-02,microsoft criticized for embedding crass ai poll beside news article,neutral
+MSFT,2023-11-02,microsoft criticized for embedding crass ai poll beside news article,negative
 MSFT,2023-11-21,before altmans ouster openais board was divided and feuding,neutral
-MSFT,2023-10-13,how microsoft turned the tide in its regulatory fight over activision,neutral
-MSFT,2023-10-13,as microsoft completes activision deal gamers celebrate cautiously,neutral
-MSFT,2023-10-13,microsoft beats the antitrust odds on its activision deal,neutral
-MSFT,2023-10-24,microsofts ai investment stabilizes its cloud business,neutral
+MSFT,2023-10-13,how microsoft turned the tide in its regulatory fight over activision,positive
+MSFT,2023-10-13,as microsoft completes activision deal gamers celebrate cautiously,positive
+MSFT,2023-10-13,microsoft beats the antitrust odds on its activision deal,positive
+MSFT,2023-10-24,microsofts ai investment stabilizes its cloud business,positive
 MSFT,2023-10-31,news group says ai chatbots heavily rely on news content,neutral
 MSFT,2023-10-13,across us chinese bitcoin mines draw national security scrutiny,negative
 MSFT,2023-10-25,long on hype ai is no guarantee for profits,neutral
 MSFT,2023-10-13,microsoft closes 69 billion activision deal overcoming regulators objections,positive
-MSFT,2023-10-13,the upshot of microsofts activision deal big tech can get even bigger,neutral
+MSFT,2023-10-13,the upshot of microsofts activision deal big tech can get even bigger,positive
 MSFT,2023-10-25,what the us has argued in the google antitrust trial,neutral
-MSFT,2023-02-16,microsoft considers more limits for its new ai chatbot,neutral
+MSFT,2023-02-16,microsoft considers more limits for its new ai chatbot,negative
 MSFT,2023-06-16,bill gates in first visit to china since 2019 meets with xi,neutral
 MSFT,2023-06-23,the big number 70 billion,neutral
 MSFT,2023-07-13,the ai wars heat up as elon musk and meta enter the ring,neutral
 MSFT,2023-07-30,russia takes its ukraine information war into video games,neutral
-MSFT,2023-07-20,hacking of government email was traditional espionage official says,neutral
+MSFT,2023-07-20,hacking of government email was traditional espionage official says,negative
 MSFT,2023-07-12,chinese hackers breached government email accounts microsoft says,negative
 MSFT,2023-07-21,the white house pushes tech leaders to get tough on ai safety,neutral
 MSFT,2023-07-02,uncensored chatbots provoke a fracas over free speech,neutral
@@ -735,7 +735,7 @@ MSFT,2023-07-21,big business gets bigger,neutral
 MSFT,2023-06-22,lina khan raises the heat on amazon,neutral
 MSFT,2023-06-02,apple is stepping into the metaverse will anyone care,neutral
 MSFT,2023-06-12,when doctors use a chatbot to improve their bedside manner,neutral
-MSFT,2023-06-28,microsoft andactivision chiefs testify merger will benefitconsumers,neutral
+MSFT,2023-06-28,microsoft andactivision chiefs testify merger will benefitconsumers,positive
 MSFT,2023-06-22,microsoft says it could abandon activision deal if judge delays it,negative
 MSFT,2023-06-09,big tech is bad big ai will be worse,negative
 MSFT,2023-06-12,ftc sues to stop microsofts activision deal from closing,negative
@@ -744,26 +744,26 @@ MSFT,2023-06-22,chinas cloud computing firms raise concern for us,negative
 MSFT,2023-06-12,diablo iv breaks blizzard records surpassing 666 million in sales,neutral
 MSFT,2023-07-11,judge rejects ftc delay of 70 billion microsoftactivision deal,positive
 MSFT,2023-07-22,how do the white houses ai commitments stack up,neutral
-MSFT,2023-07-19,microsoft and activision delay deal to settle british regulatory issues,neutral
+MSFT,2023-07-19,microsoft and activision delay deal to settle british regulatory issues,negative
 MSFT,2023-07-25,tech firms once powered new yorks economy now theyre scaling back,negative
 MSFT,2023-07-12,ftcs court loss raises fresh questions about its chairs strategy,negative
 MSFT,2023-07-12,what the microsoftactivision ruling means for the future of dealmaking,neutral
-MSFT,2023-07-25,big tech earnings will test investors fervor for ai,neutral
+MSFT,2023-07-25,big tech earnings will test investors fervor for ai,positive
 MSFT,2023-07-12,chinese hackers targeted commerce secretary and other us officials,negative
-MSFT,2023-07-05,as businesses clamor for workplace ai tech companies rush to provide it,neutral
+MSFT,2023-07-05,as businesses clamor for workplace ai tech companies rush to provide it,positive
 MSFT,2023-07-18,meta unveils a more powerful ai and isnt fretting over who uses it,neutral
 MSFT,2023-02-17,the bing who loved me and elon rewrites the algorithm,neutral
-MSFT,2023-02-17,new technology same old blind spot,negative
+MSFT,2023-02-17,new technology same old blind spot,neutral
 MSFT,2023-02-17,dear mr chatbot you give me chills,neutral
 MSFT,2023-02-16,revenge of the chatbots,neutral
-MSFT,2023-02-07,a tech race begins as microsoft adds ai to its search engine,negative
+MSFT,2023-02-07,a tech race begins as microsoft adds ai to its search engine,positive
 MSFT,2023-02-22,were unprepared for the ai gold rush,neutral
 MSFT,2023-02-18,microsoft to limit length of bing chatbot conversations,neutral
-MSFT,2023-02-16,a conversation with bings chatbot left me deeply unsettled,neutral
+MSFT,2023-02-16,a conversation with bings chatbot left me deeply unsettled,negative
 MSFT,2023-02-24,kevin killed sydney and reddits ceo defends section 230,neutral
-MSFT,2023-02-08,bing yes bing just made search interesting again,neutral
+MSFT,2023-02-08,bing yes bing just made search interesting again,positive
 MSFT,2023-11-22,five days of chaos how sam altman returned to openai,neutral
-MSFT,2023-11-20,microsofts stock hits record high after hiring openai outcasts,neutral
+MSFT,2023-11-20,microsofts stock hits record high after hiring openai outcasts,positive
 MSFT,2023-11-21,i think were heading toward the best world ever an interview with sam altman,neutral
 MSFT,2023-11-20,the shakeup at openai reshapes the industrys global order,neutral
 MSFT,2023-11-22,sam altman is reinstated as openais chief executive,neutral
@@ -773,17 +773,17 @@ MSFT,2023-11-22,ai belongs to the capitalists now,neutral
 MSFT,2023-11-20,how microsofts satya nadella kept the best bromance in tech alive,neutral
 MSFT,2023-11-23,yet another emergency pod sam altman is back,neutral
 MSFT,2023-10-03,rethinking security when so many threats are invisible,neutral
-MSFT,2023-10-13,microsoft finally closes in on activision deal after key approval,neutral
+MSFT,2023-10-13,microsoft finally closes in on activision deal after key approval,positive
 MSFT,2023-10-16,linkedin cuts 668 jobs in second layoff round this year,negative
-MSFT,2023-10-02,microsoft ceo testifies that googles power in search is ubiquitous,neutral
+MSFT,2023-10-02,microsoft ceo testifies that googles power in search is ubiquitous,negative
 MSFT,2023-02-17,the chatbot experiment just got weird,neutral
 MSFT,2023-02-15,the online search wars,neutral
 MSFT,2023-02-08,biden makes his business case in the state of the union,neutral
 MSFT,2023-02-22,when the movies pictured ai they imagined the wrong disaster,neutral
-MSFT,2023-02-08,disinformation researchers raise alarms about ai chatbots,neutral
+MSFT,2023-02-08,disinformation researchers raise alarms about ai chatbots,negative
 MSFT,2023-02-26,the imminent danger of ai is one were not talking about,neutral
 MSFT,2023-02-15,a big breakup at the federal trade commission,neutral
-MSFT,2023-02-15,microsofts bing chatbot offers some puzzling and inaccurate responses,neutral
+MSFT,2023-02-15,microsofts bing chatbot offers some puzzling and inaccurate responses,negative
 MSFT,2023-02-17,why china didnt invent chatgpt,neutral
 MSFT,2023-02-26,why do ai chatbots tell lies and act weird look in the mirror,neutral
 MSFT,2023-03-31,google ceo sundar pichai on the ai moment you will see us be bold,neutral
@@ -799,20 +799,20 @@ MSFT,2023-11-19,sam altman is said to be discussing return to openai with compan
 MSFT,2023-11-20,explaining the upheaval at openai,neutral
 MSFT,2023-11-20,the employee letter to openais board,neutral
 MSFT,2023-09-07,2 senators propose bipartisan framework for ai laws,neutral
-MSFT,2023-09-13,in show of force silicon valley titans pledge getting this right with ai,neutral
+MSFT,2023-09-13,in show of force silicon valley titans pledge getting this right with ai,positive
 MSFT,2023-09-28,chinese hackers stole 60000 state dept emails in breach reported in july,negative
 MSFT,2023-09-08,the big number 17 trillion,neutral
 MSFT,2023-07-15,not for machines to harvest data revolts break out against ai,negative
-MSFT,2023-07-25,microsoft revenue up 8 to 562 billion in latest quarter,neutral
+MSFT,2023-07-25,microsoft revenue up 8 to 562 billion in latest quarter,positive
 MSFT,2023-08-31,starfields 1000 planets may be one giant leap for game design,neutral
 MSFT,2023-08-28,tech chiefs to gather in washington next month on ai regulations,neutral
 MSFT,2023-08-05,big tech rebounds and preps for transformative ai investments,positive
 MSFT,2023-08-03,what can you do when ai lies about you,neutral
 MSFT,2023-08-18,interest rate jitters sink the heavyweights of tech,negative
-MSFT,2023-08-22,microsoft offers british regulators changes to activision deal,neutral
+MSFT,2023-08-22,microsoft offers british regulators changes to activision deal,positive
 MSFT,2023-09-16,leveling up on the video game beat,neutral
 MSFT,2023-09-27,sonys playstation chief to retire next year,neutral
-MSFT,2023-09-21,tech giants see chatbots everywhere including in your inbox,neutral
+MSFT,2023-09-21,tech giants see chatbots everywhere including in your inbox,positive
 MSFT,2023-09-11,microsoft google and antitrust similar legal theories in a different era,neutral
 MSFT,2023-09-26,unprecedented secrecy in google trial as tech giants push to limit disclosures,neutral
 MSFT,2023-09-11,china sows disinformation about hawaii fires using new techniques,negative
@@ -821,7 +821,7 @@ MSFT,2023-09-18,a key question in googles trial how formidable is its data advan
 MSFT,2023-09-22,microsoft closes in on activision deal after britain signals approval,positive
 MSFT,2023-09-20,franzen grisham and other prominent authors sue openai,neutral
 MSFT,2023-02-03,techs biggest companies discover austerity to the relief of investors,positive
-MSFT,2023-02-17,the online search wars got scary fast,neutral
+MSFT,2023-02-17,the online search wars got scary fast,negative
 MSFT,2023-02-16,this is a secret,neutral
 MSFT,2023-02-16,your friday briefing ufos were likely not spying biden says,neutral
 MSFT,2023-02-10,bings revenge and googles ai faceplant,negative
@@ -829,9 +829,9 @@ MSFT,2023-02-03,value stocks growth stocks markets last year turned everything t
 MSFT,2023-02-16,why chatbots sometimes act weird and spout nonsense,neutral
 MSFT,2023-02-23,history may wonder why microsoft let its principles go for a creepy clingy bot,negative
 MSFT,2023-02-16,bings ai chat i want to be alive,neutral
-MSFT,2023-02-07,chatgpt gets fresh competition,neutral
+MSFT,2023-02-07,chatgpt gets fresh competition,negative
 MSFT,2023-03-14,openai plans to up the ante in techs ai race,neutral
-MSFT,2023-03-16,microsoft and google unveil ai tools for businesses,neutral
+MSFT,2023-03-16,microsoft and google unveil ai tools for businesses,positive
 MSFT,2023-03-31,whats the future for ai,neutral
 MSFT,2023-03-27,how to become an expert on ai,neutral
 MSFT,2023-03-21,what google bard can do and what it cant,neutral
@@ -845,34 +845,34 @@ MSFT,2023-05-04,white house pushes tech ceos to limit risks of ai,neutral
 MSFT,2023-05-23,an aigenerated spoof rattles the markets,negative
 MSFT,2023-05-04,pacwests stock plunge reignites banking sector fears,negative
 MSFT,2023-05-25,microsoft calls for ai rules to minimize the technologys risks,neutral
-MSFT,2023-05-15,the 69 billion microsoftactivision deal faces a big eu test,neutral
+MSFT,2023-05-15,the 69 billion microsoftactivision deal faces a big eu test,negative
 MSFT,2023-05-25,carl icahns battle with illumina comes to a head,neutral
 MSFT,2023-05-25,reid hoffman is on a mission to show ai can improve humanity,neutral
-MSFT,2023-05-09,linkedin will cut over 700 jobs worldwide and shut its china app,neutral
-MSFT,2023-05-22,googles photo app still cant find gorillas and neither can apples,negative
-MSFT,2023-05-16,microsoft says new ai shows signs of human reasoning,neutral
+MSFT,2023-05-09,linkedin will cut over 700 jobs worldwide and shut its china app,negative
+MSFT,2023-05-22,googles photo app still cant find gorillas and neither can apples,neutral
+MSFT,2023-05-16,microsoft says new ai shows signs of human reasoning,positive
 MSFT,2023-04-27,as regulators block tech deals they increasingly look to the future,neutral
 MSFT,2023-04-27,the microsoftactivision mess is a blow to american sovereignty,negative
 MSFT,2023-04-16,google devising radical search changes to beat back ai rivals,negative
-MSFT,2023-04-25,microsoft beats financial expectations despite worries about economy,neutral
+MSFT,2023-04-25,microsoft beats financial expectations despite worries about economy,positive
 MSFT,2023-04-18,reddit wants to get paid for helping to teach big ai systems,neutral
 MSFT,2023-04-26,uk blocks microsofts 69 billion bid for activision a blow for tech deals,negative
 MSFT,2023-04-17,the defamation trial of the century is delayed,neutral
 MSFT,2023-04-28,first republics troubles reignite fears of a banking crisis,negative
-MSFT,2023-04-26,the uk deals a huge blow to microsofts 69 billion activision bid,neutral
-MSFT,2023-04-07,in ai race microsoft and google choose speed over caution,neutral
+MSFT,2023-04-26,the uk deals a huge blow to microsofts 69 billion activision bid,negative
+MSFT,2023-04-07,in ai race microsoft and google choose speed over caution,positive
 MSFT,2023-05-25,get the best from chatgpt with these golden prompts,neutral
 MSFT,2023-05-26,is a debt deal nigh the market sees signs of optimism,positive
-MSFT,2023-05-15,eu approves microsofts 69 billion deal for activision,neutral
+MSFT,2023-05-15,eu approves microsofts 69 billion deal for activision,positive
 MSFT,2023-05-24,chinese malware hits systems on guam is taiwan the real target,negative
 MSFT,2023-05-18,twitter accuses microsoft of improperly using its data,negative
 MSFT,2023-05-18,corporate america faces a bankruptcy boom,negative
 MSFT,2023-05-10,google builds on techs latest craze with its own ai products,neutral
-MSFT,2023-05-01,when ai chatbots hallucinate,neutral
+MSFT,2023-05-01,when ai chatbots hallucinate,negative
 MSFT,2023-05-19,ai is having a netscape moment,neutral
 MSFT,2023-04-26,chinas search engines have more than 66000 rules controlling content report says,neutral
 MSFT,2023-04-26,when megamergers fall apart,negative
-MSFT,2023-04-27,what microsofts activision setback means for deal making,neutral
+MSFT,2023-04-27,what microsofts activision setback means for deal making,negative
 MSFT,2023-12-08,eu agrees on landmark artificial intelligence rules,neutral
 MSFT,2023-12-29,inside the news industrys uneasy negotiations with openai,neutral
 MSFT,2023-12-12,microsoft agrees to remain neutral in union campaigns,neutral
@@ -883,44 +883,44 @@ MSFT,2023-12-06,how nations are losing a global race to tackle ais harms,neutral
 MSFT,2023-12-09,inside openais crisis over the future of artificial intelligence,neutral
 MSFT,2023-12-03,whos who behind the dawn of the modern artificial intelligence movement,neutral
 MSFT,2023-12-03,ego fear and money how the ai fuse was lit,neutral
-MSFT,2024-01-20,microsoft executives emails hacked by group tied to russian intelligence,neutral
+MSFT,2024-01-20,microsoft executives emails hacked by group tied to russian intelligence,negative
 MSFT,2024-01-09,openai says new york times lawsuit against it is without merit,neutral
 MSFT,2024-01-29,nvidias big tech rivals put their own ai chips on the table,neutral
-MSFT,2024-01-25,microsoft cuts 1900 jobs in its video game division,neutral
+MSFT,2024-01-25,microsoft cuts 1900 jobs in its video game division,negative
 MSFT,2024-01-10,microsoft debates what to do with ai lab in china,neutral
-MSFT,2024-01-30,technology companies are cutting jobs and wall street likes it,neutral
+MSFT,2024-01-30,technology companies are cutting jobs and wall street likes it,positive
 MSFT,2024-01-08,robots learn chatbots visualize how 2024 will be ais leap forward,neutral
 MSFT,2024-01-26,the ftc takes on ai deals,neutral
 MSFT,2024-01-25,federal trade commission launches inquiry into ai deals by tech giants,negative
-MSFT,2024-01-12,microsoft tops apple to become most valuable public company,negative
+MSFT,2024-01-12,microsoft tops apple to become most valuable public company,positive
 MSFT,2024-01-05,the times sues openai a debate over imessage and our new years tech resolutions,neutral
-MSFT,2024-01-30,focused cuts and fewer layers tech layoffs enter a new phase,neutral
+MSFT,2024-01-30,focused cuts and fewer layers tech layoffs enter a new phase,negative
 MSFT,2024-01-12,why are so many companies rightsizing,neutral
-MSFT,2024-01-22,these seven tech stocks are driving the market,neutral
+MSFT,2024-01-22,these seven tech stocks are driving the market,positive
 MSFT,2024-01-27,the sp 500 through the prism of a magnificent 7,neutral
 MSFT,2024-01-25,we asked ai to create the joker it generated a copyrighted image,neutral
 MSFT,2024-11-22,chinas hacking reached deep into us telecoms,negative
 MSFT,2024-11-01,us spy agencies issue new warning on russias election misinformation campaign,neutral
 MSFT,2024-11-10,after the triumph of tetris an unsolved puzzle,neutral
-MSFT,2024-11-15,elon musk adds microsoft to suit against openai,neutral
+MSFT,2024-11-15,elon musk adds microsoft to suit against openai,negative
 MSFT,2024-11-25,widespread microsoft outage takes email and videoconferencing offline,negative
 MSFT,2024-11-27,ftc launches antitrust investigation into microsoft,negative
 MSFT,2024-11-23,emerging details of chinese hack leave us officials increasingly concerned,negative
 MSFT,2024-10-30,three mile island notorious in nuclear powers past may herald its future,neutral
 MSFT,2024-10-18,microsoft and openais close partnership shows signs of fraying,negative
 MSFT,2024-10-09,can you turn off big techs ai tools sometimes and heres how,neutral
-MSFT,2024-10-30,microsofts quarterly revenue is up 16 to 656 billion,neutral
-MSFT,2024-10-16,hungry for energy amazon google and microsoft turn to nuclear power,neutral
+MSFT,2024-10-30,microsofts quarterly revenue is up 16 to 656 billion,positive
+MSFT,2024-10-16,hungry for energy amazon google and microsoft turn to nuclear power,positive
 MSFT,2024-10-22,a dinky little computer program is my secret weapon for creativity,neutral
 MSFT,2024-10-18,whats at stake in a strained microsoftopenai partnership,neutral
 MSFT,2024-10-26,what to know about the chinese hackers who targeted the 2024 campaigns,neutral
 MSFT,2024-10-23,bots linked to china target republican house and senate candidates microsoft says,negative
-MSFT,2024-10-02,openai completes deal that values company at 157 billion,neutral
-MSFT,2024-07-31,why microsofts earnings miss wont stall the ai boom,neutral
+MSFT,2024-10-02,openai completes deal that values company at 157 billion,positive
+MSFT,2024-07-31,why microsofts earnings miss wont stall the ai boom,positive
 MSFT,2024-07-23,congress calls for tech outage hearing to grill crowdstrike ceo,negative
 MSFT,2024-07-10,amazon says it reached a climate goal seven years early,neutral
-MSFT,2024-07-19,what to do if your computer is affected by the microsoft outage,neutral
-MSFT,2024-07-19,frontier airlines briefly grounds all flights amid microsoft outage,neutral
+MSFT,2024-07-19,what to do if your computer is affected by the microsoft outage,negative
+MSFT,2024-07-19,frontier airlines briefly grounds all flights amid microsoft outage,negative
 MSFT,2024-07-19,what is crowdstrike,neutral
 MSFT,2024-06-09,for trump doug burgum emerges as a safe option and a wild card,neutral
 MSFT,2024-06-23,what the arrival of ai phones and computers means for our data,neutral
@@ -930,7 +930,7 @@ MSFT,2024-06-25,eu charges microsoft with antitrust violations over teams bundli
 MSFT,2024-06-06,this is going to be painful how a bold ai device flopped,negative
 MSFT,2024-06-14,apple joins the ai party elons wild week and hatgpt,neutral
 MSFT,2024-06-06,us clears way for antitrust inquiries of nvidia microsoft and openai,negative
-MSFT,2024-06-18,nvidia becomes most valuable public company topping microsoft,neutral
+MSFT,2024-06-18,nvidia becomes most valuable public company topping microsoft,negative
 MSFT,2024-06-03,fake news reports and videos seek to undermine the paris olympics,neutral
 MSFT,2024-07-11,ais insatiable appetite for energy,neutral
 MSFT,2024-07-30,microsoft profit jumps 10 but cloud computing grows less than expected,neutral
@@ -940,24 +940,24 @@ MSFT,2024-07-09,employees with autism find new ways to navigate the workplace,ne
 MSFT,2024-07-20,when tech fails it is usually with a whimper instead of a bang,neutral
 MSFT,2024-07-19,the data that powers ai is disappearing fast,negative
 MSFT,2024-07-22,delta cancels more flights as it struggles to recover from tech outage,negative
-MSFT,2024-07-25,microsofts world of warcraft workers vote to unionize,neutral
-MSFT,2024-07-10,microsoft surrenders openai board position,neutral
+MSFT,2024-07-25,microsofts world of warcraft workers vote to unionize,negative
+MSFT,2024-07-10,microsoft surrenders openai board position,negative
 MSFT,2024-02-29,unpacking the investigations into openai,neutral
 MSFT,2024-03-29,ais messy moment listeners respond to jonathan haidt shrimp jesus,neutral
 MSFT,2024-08-04,with smugglers and front companies china is skirting american ai bans,negative
 MSFT,2024-08-06,how the google antitrust ruling may influence tech competition,neutral
-MSFT,2024-08-06,microsoft says delta was largely responsible for flight cancellations,neutral
-MSFT,2024-08-04,takeaways from our investigation into banned ai chips in china,negative
+MSFT,2024-08-06,microsoft says delta was largely responsible for flight cancellations,negative
+MSFT,2024-08-04,takeaways from our investigation into banned ai chips in china,neutral
 MSFT,2024-08-14,how one tech monopoly paved the way for another,negative
 MSFT,2024-08-30,how do you change a chatbots mind,neutral
 MSFT,2024-08-08,the new ai deal buy everything but the company,neutral
 MSFT,2024-08-02,tech bosses preach patience as they spend and spend on ai,neutral
-MSFT,2024-08-29,apple and nvidia in talks to invest in openai,positive
+MSFT,2024-08-29,apple and nvidia in talks to invest in openai,neutral
 MSFT,2024-08-12,fbi investigating efforts to infiltrate presidential campaigns possibly by iran,neutral
 MSFT,2024-09-15,noisy hungry data centers are catching communities by surprise,neutral
-MSFT,2024-09-25,behind openais audacious plan to make ai flow like electricity,neutral
+MSFT,2024-09-25,behind openais audacious plan to make ai flow like electricity,positive
 MSFT,2024-09-27,openai is growing fast and burning through piles of money,neutral
-MSFT,2024-09-05,us indicts members of russian military intelligence over cyberattack on ukraine,neutral
+MSFT,2024-09-05,us indicts members of russian military intelligence over cyberattack on ukraine,negative
 MSFT,2024-09-23,is math the path to chatbots that dont make stuff up,neutral
 MSFT,2024-09-25,google visa jetblue a guide to a new era of us antitrust cases,neutral
 MSFT,2024-02-27,openai seeks to dismiss parts of the new york timess lawsuit,neutral
@@ -968,37 +968,37 @@ MSFT,2024-02-28,microsoft words subtle typeface change affected millions did you
 MSFT,2024-02-28,digital media outlets sue openai for copyright infringement,negative
 MSFT,2024-02-14,the year chatbots were tamed,neutral
 MSFT,2024-02-05,why is big tech still cutting jobs,negative
-MSFT,2024-02-01,apple sees first quarterly revenue increase in a year,positive
+MSFT,2024-02-01,apple sees first quarterly revenue increase in a year,neutral
 MSFT,2024-02-16,the state of ai and will perplexity beat google or destroy the web,neutral
-MSFT,2024-03-01,elon musk sues openai and sam altman for violating the companys principles,neutral
+MSFT,2024-03-01,elon musk sues openai and sam altman for violating the companys principles,negative
 MSFT,2024-03-05,microsoft seeks to dismiss parts of suit filed by the new york times,neutral
 MSFT,2024-03-15,if nvidia keeps rising like this it will be bigger than the global economy,neutral
-MSFT,2024-03-09,about 600 workers unionize at microsoftowned activision,neutral
+MSFT,2024-03-09,about 600 workers unionize at microsoftowned activision,negative
 MSFT,2024-03-02,why elon musks openai lawsuit leans on ai research from microsoft,neutral
 MSFT,2024-03-04,forced to change tech giants bow to global onslaught of rules,negative
 MSFT,2024-03-02,the paradox at the heart of elon musks openai lawsuit,neutral
-MSFT,2024-03-20,is microsoft building an unassailable lead in ai,neutral
-MSFT,2024-03-19,microsoft hires deepmind cofounder to run consumer ai,neutral
-MSFT,2024-03-19,apple and google are discussing a deal to bring generative ai to iphones,positive
+MSFT,2024-03-20,is microsoft building an unassailable lead in ai,positive
+MSFT,2024-03-19,microsoft hires deepmind cofounder to run consumer ai,positive
+MSFT,2024-03-19,apple and google are discussing a deal to bring generative ai to iphones,neutral
 MSFT,2024-05-21,scarlett johansson and openais trust issues,neutral
-MSFT,2024-05-20,can artificial intelligence make the pc cool again,neutral
+MSFT,2024-05-20,can artificial intelligence make the pc cool again,positive
 MSFT,2024-05-09,the ceos who just wont quit,neutral
 MSFT,2024-05-15,a big plot twist at openai,neutral
 MSFT,2024-05-21,c gordon bell creator of a personal computer prototype dies at 89,neutral
 MSFT,2024-05-27,musks ai firm raises 6 billion in race with rivals,neutral
 MSFT,2024-05-24,scarjo vs chatgpt neuralinks first patient opens up and microsofts ai pcs,neutral
 MSFT,2024-05-08,biden announcing ai center highlights a win of his and a failing of trumps,neutral
-MSFT,2024-05-24,uvalde families accuse instagram call of duty and rifle maker of grooming gunman,neutral
+MSFT,2024-05-24,uvalde families accuse instagram call of duty and rifle maker of grooming gunman,negative
 MSFT,2024-05-06,wayve an ai startup for autonomous driving raises 1 billion,neutral
-MSFT,2024-04-16,microsoft makes highstakes play in tech cold war with emirati ai deal,negative
-MSFT,2024-04-08,deepfake porn sites used her image shes fighting back,neutral
+MSFT,2024-04-16,microsoft makes highstakes play in tech cold war with emirati ai deal,positive
+MSFT,2024-04-08,deepfake porn sites used her image shes fighting back,negative
 MSFT,2024-04-03,did one guy just stop a huge cyberattack,neutral
-MSFT,2024-04-25,microsoft reports rising revenues as ai investments bear fruit,neutral
+MSFT,2024-04-25,microsoft reports rising revenues as ai investments bear fruit,positive
 MSFT,2024-04-16,how washington played ai matchmaker,neutral
 MSFT,2024-04-05,is ai already taking jobs a filmmaker tries sora the xz backdoor caper,neutral
-MSFT,2024-04-30,8 daily newspapers sue openai and microsoft over ai,neutral
-MSFT,2024-04-27,in race to build ai tech plans a big plumbing upgrade,neutral
-MSFT,2024-04-23,microsoft makes a new push into smaller ai systems,neutral
+MSFT,2024-04-30,8 daily newspapers sue openai and microsoft over ai,negative
+MSFT,2024-04-27,in race to build ai tech plans a big plumbing upgrade,positive
+MSFT,2024-04-23,microsoft makes a new push into smaller ai systems,positive
 MSFT,2024-04-29,friends from the old neighborhood turn rivals in big techs ai race,neutral
 MSFT,2024-04-25,wall streets patience for a costly ai arms race is waning,negative
 MSFT,2024-04-02,regulators force another microsoft split,negative

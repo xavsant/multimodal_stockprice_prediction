@@ -1,9 +1,9 @@
 ticker,pub_date,headline,gemini_sentiment
-CRM,2015-08-06,salesforce ventures and microsoft join informatica buyout,neutral
+CRM,2015-08-06,salesforce ventures and microsoft join informatica buyout,positive
 CRM,2015-08-07,morning agenda ackmans bet on mondelez sales,neutral
 CRM,2015-08-21,daily report the stock market carnage cometh for tech,negative
-CRM,2015-09-15,salesforce plans to give customers amazontype analytics,neutral
-CRM,2015-03-27,tech executives pressure indiana after passage of controversial law,neutral
+CRM,2015-09-15,salesforce plans to give customers amazontype analytics,positive
+CRM,2015-03-27,tech executives pressure indiana after passage of controversial law,negative
 CRM,2015-03-31,silicon valley leaders new to social issues come together over indiana law,neutral
 CRM,2015-05-06,would salesforce make sense for microsoft,neutral
 CRM,2015-04-01,tech leaders call for antidiscrimination laws to protect gays in all 50 states,neutral
@@ -16,31 +16,31 @@ CRM,2015-07-30,morning agenda steady as she goes at facebook,neutral
 CRM,2015-11-02,marc benioff salesforce chief on the strategic benefits of corporate giving,neutral
 CRM,2016-08-02,morning agenda herbalife vs activist just maybe hes right,neutral
 CRM,2016-09-30,daily report trust busters destined to dig into data,neutral
-CRM,2016-09-29,salesforce is said to question microsoftlinkedin deal in europe,neutral
+CRM,2016-09-29,salesforce is said to question microsoftlinkedin deal in europe,negative
 CRM,2016-09-18,artificial intelligence software is booming but why now,neutral
 CRM,2016-09-23,twitter is said to be discussing a possible takeover,neutral
 CRM,2016-09-27,daily report twitter attracts a wide range of suitors,neutral
 CRM,2016-09-23,twitter moving closer to sale,neutral
 CRM,2016-02-10,tech stocks have fallen faster and further than broader market,negative
-CRM,2016-03-01,salesforces womens surge,neutral
-CRM,2016-05-26,salesforce to use amazons cloud to expand in canada and australia,neutral
+CRM,2016-03-01,salesforces womens surge,positive
+CRM,2016-05-26,salesforce to use amazons cloud to expand in canada and australia,positive
 CRM,2016-04-18,tech companies may face a new cost to paying in shares,negative
 CRM,2016-04-18,general mills and 7eleven join the venture capital crowd,neutral
 CRM,2016-01-01,looking beyond the internet of things,neutral
 CRM,2016-06-08,morning agenda dell ruling may not affect buyouts as much as feared,neutral
 CRM,2016-06-02,morning agenda uber receives 35 billion from saudi arabia,neutral
-CRM,2016-06-01,salesforcecom to acquire demandware for 28 billion,neutral
+CRM,2016-06-01,salesforcecom to acquire demandware for 28 billion,positive
 CRM,2016-07-28,once again an oracle deal benefits ellison,neutral
 CRM,2016-10-11,morning agenda twittersalesforce talks buffetts taxes hr red flags,neutral
 CRM,2016-10-06,twitters fate marc benioff of salesforce addresses acquisition talk,neutral
 CRM,2016-10-06,morning agenda theranos closes labs twitter chatter taking on samsung,neutral
 CRM,2016-10-06,salesforce ceo on twitter deal,neutral
-CRM,2016-11-05,how linkedin drove a wedge between microsoft and salesforce,neutral
+CRM,2016-11-05,how linkedin drove a wedge between microsoft and salesforce,negative
 CRM,2016-10-08,farhads and mikes week in tech samsungs exploding products and twitters fizzling deal,negative
 CRM,2016-10-07,paying 15 billion for twitter will be hard for anyone to justify,negative
-CRM,2016-10-14,salesforce rules out a bid for twitter,neutral
+CRM,2016-10-14,salesforce rules out a bid for twitter,negative
 CRM,2016-10-02,taking the temperature inside the feverish cloud,neutral
-CRM,2016-10-07,salesforce shareholders besiege possible twitter deal,neutral
+CRM,2016-10-07,salesforce shareholders besiege possible twitter deal,negative
 CRM,2016-10-10,morning agenda peso predictor salesforce investors speak calpers standoff,neutral
 CRM,2016-10-11,earthrattling times at samsung and twitter,neutral
 CRM,2016-10-07,daily report salesforce has had its eye on twitter but why,neutral
@@ -51,7 +51,7 @@ CRM,2017-12-29,san franciscos skyline now inescapably transformed by tech,neutra
 CRM,2017-01-17,how indianapolis long known as a manufacturing center is luring tech talent,neutral
 CRM,2018-08-23,top ceos denounce trump immigration policy as threat to us economy,negative
 CRM,2018-09-17,a san francisco tech mogul buys a fabled slice of new york media,neutral
-CRM,2018-09-17,time magazine is bought by marc benioff salesforce billionaire,neutral
+CRM,2018-09-17,time magazine is bought by marc benioff salesforce billionaire,positive
 CRM,2018-09-17,marc benioff explains why he is buying time magazine,neutral
 CRM,2018-09-18,when an owners new company puts the old one in trumps cross hairs,negative
 CRM,2018-09-19,can the people who almost brought down the news business save it,neutral
@@ -59,12 +59,12 @@ CRM,2018-02-07,theyre 3 of the us most innovative ceos ask them anything,neutral
 CRM,2018-02-20,marc benioff on technology and trust,neutral
 CRM,2018-12-29,the 3 biggest challenges for tech in 2019,neutral
 CRM,2018-06-15,marc benioff of salesforce are we not all connected,neutral
-CRM,2018-11-07,san francisco approves business tax to fund homeless services,neutral
+CRM,2018-11-07,san francisco approves business tax to fund homeless services,negative
 CRM,2018-11-29,talking mindfulness on the ceo beat,neutral
 CRM,2018-10-24,the social responsibility of business,neutral
 CRM,2018-10-19,in liberal san francisco tech leaders brawl over tax proposal to aid homeless,neutral
 CRM,2019-06-14,the week in tech big trouble with trustbusters and china,negative
-CRM,2019-06-10,making data coherent drives salesforces 153 billion deal for tableau,neutral
+CRM,2019-06-10,making data coherent drives salesforces 153 billion deal for tableau,positive
 CRM,2019-06-07,take the guesswork out of growth,neutral
 CRM,2019-07-01,2 trillion worth of deals were struck in the first half of 2019 but caution crept in,neutral
 CRM,2019-10-14,marc benioff we need a new capitalism,neutral
@@ -75,10 +75,10 @@ CRM,2020-02-12,a trillion trees how one idea triumphed over trumps climate denia
 CRM,2020-03-23,logged on from the laundry room how the ceos of google pfizer and slack work from home,neutral
 CRM,2020-03-04,brace yourself for whats coming at twitter,neutral
 CRM,2020-12-02,marc benioff sets his sights on microsoft,neutral
-CRM,2020-12-02,why your workplace software stinks,neutral
-CRM,2020-12-01,salesforce to acquire slack for 277 billion,neutral
+CRM,2020-12-02,why your workplace software stinks,negative
+CRM,2020-12-01,salesforce to acquire slack for 277 billion,positive
 CRM,2020-05-11,employers rush to adopt virus screening the tools may not help much,neutral
-CRM,2020-04-28,marc benioffs 25 million blitz to buy protective gear from china,neutral
+CRM,2020-04-28,marc benioffs 25 million blitz to buy protective gear from china,positive
 CRM,2020-04-24,frantic for coronavirus gear americans in need turn to chinas elite,negative
 CRM,2020-04-28,salesforce and other silicon valley firms are using corporate connections to buy masks for hospitals,neutral
 CRM,2020-04-20,traction on demand releases global outbreak response tool for free,neutral
@@ -99,18 +99,18 @@ CRM,2022-11-09,crypto investors grapple with the collapse of a giant,neutral
 CRM,2022-10-04,the board chair squaring up to elon musk in the feud over twitter,neutral
 CRM,2023-09-22,what happens when the boss invites you to bible study,neutral
 CRM,2023-02-13,happiness or success salesforces marc benioff doesnt want to choose,neutral
-CRM,2023-03-01,the heat on salesforce grows ahead of a big earnings call,neutral
+CRM,2023-03-01,the heat on salesforce grows ahead of a big earnings call,negative
 CRM,2023-03-04,the trilliondollar debate over share buybacks,neutral
 CRM,2023-03-02,the battle over esg heads to the white house,neutral
 CRM,2023-03-27,markets climb as silicon valley bank finally finds a buyer,positive
 CRM,2023-01-05,amazon expands corporate layoffs to 18000 jobs,negative
 CRM,2023-01-05,kevin mccarthys business ties complicate his rise to power,neutral
 CRM,2023-01-24,live nation faces a skeptical senate,neutral
-CRM,2023-01-23,activist investors are circling salesforce,neutral
-CRM,2023-01-04,salesforce to lay off 10 of staff and cut office space,neutral
+CRM,2023-01-23,activist investors are circling salesforce,negative
+CRM,2023-01-04,salesforce to lay off 10 of staff and cut office space,negative
 CRM,2023-01-25,a short seller takes aim at an indian corporate giant,neutral
-CRM,2023-06-20,return to office enters the desperation phase,negative
+CRM,2023-06-20,return to office enters the desperation phase,neutral
 CRM,2023-06-30,why corporate america is worried about affirmative action,neutral
 CRM,2023-07-25,tech firms once powered new yorks economy now theyre scaling back,negative
-CRM,2023-07-05,as businesses clamor for workplace ai tech companies rush to provide it,neutral
+CRM,2023-07-05,as businesses clamor for workplace ai tech companies rush to provide it,positive
 CRM,2023-11-21,does ai have an inherent governance problem,neutral

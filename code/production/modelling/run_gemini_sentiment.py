@@ -19,30 +19,32 @@ def run_gemini_sentiment(input_path, output_path, ticker_mapping, text_type='hea
     # Run through files for all companies
     for file in input_path.rglob('*'):
 
-        company = file.name.removesuffix("_text_data.csv")
-        ticker = ticker_mapping[company]
-        output_name = 'gemini_sentiment_analysis_results_' + text_type + '_' + ticker +  '.csv'
+        # Check if valid file
+        if file.is_file() and file.name.endswith('.csv'):
+            company = file.name.removesuffix("_text_data.csv")
+            ticker = ticker_mapping[company]
+            output_name = 'gemini_sentiment_analysis_results_' + text_type + '_' + ticker +  '.csv'
 
-        # Check if valid file and if file already exists
-        if file.is_file() and not os.path.exists(output_path / output_name):
-            print(file.name)
+            # Check if valid file and if file already exists
+            if ticker != '^DJI': # not os.path.exists(output_path / output_name):
+                print(file.name)
 
-            # Process headlines/abstract
-            sentiment_df = process_text(input_path / file.name, ticker, text_type)
+                # Process headlines/abstract
+                sentiment_df = process_text(input_path / file.name, ticker, text_type)
 
-            # Run models
-            sentiment_df = apply_without_delay(sentiment_df, client, text_type)
+                # Run models
+                sentiment_df = apply_without_delay(sentiment_df, client, text_type, ticker)
 
-            sentiment_df.to_csv(output_path / output_name, index=False)
+                sentiment_df.to_csv(output_path / output_name, index=False)
     
 
-def apply_without_delay(df, client, text_type):
+def apply_without_delay(df, client, text_type, ticker):
     sentiment_list = []
     print(df.columns)
     for idx, text in enumerate(df[text_type]):
         print(f"Processing {idx + 1}/{len(df)}: {text}")  # Progress indicator
         
-        sentiment = find_sentiment_few_shot(text, client, text_type).lower()  # Gemini prediction in lowercase
+        sentiment = find_sentiment_few_shot(text, client, text_type, ticker).lower()  # Gemini prediction in lowercase
         sentiment_list.append(sentiment)
     
     # Add Gemini's predictions while keeping original labels intact
@@ -93,12 +95,12 @@ def setup_gemini():
 
     return client
 
-def find_sentiment_few_shot(text, client, text_type):
+def find_sentiment_few_shot(text, client, text_type, ticker):
     prompt = f"""
-    Classify the sentiment of the financial {text_type} with respect to Apple’s stock price as 'Positive', 'Negative', or 'Neutral'. 
-    Consider both direct impacts on Apple and indirect effects from industry or market-wide events. For instance, if the {text_type} is about Apple's new product, 
+    Classify the sentiment of the financial {text_type} with respect to {ticker}'s stock price as 'Positive', 'Negative', or 'Neutral'. 
+    Consider both direct impacts on {ticker} and indirect effects from industry or market-wide events. For instance, if the {text_type} is about {ticker}'s new product, 
     market competition, or financial performance, focus on those. If the {text_type} is about the tech industry as a whole, global economy, or competitor news, 
-    consider how it may impact Apple's stock.
+    consider how it may impact {ticker}'s stock.
 
     Return the result in JSON format:
 
@@ -137,19 +139,27 @@ def find_sentiment_few_shot(text, client, text_type):
     Response (in JSON format):
     {{ "Sentiment":"""
     
-    sentiment = gemini_predict(prompt, client, text_type)
+    sentiment = gemini_predict(prompt, client, text_type, ticker)
     return sentiment
 
 
-def gemini_predict(prompt, client, text_type):
+def gemini_predict(prompt, client, text_type, ticker):
 
-    system_instruction = (
+    # system_instruction = (
+    # "You are a financial analyst with expertise in evaluating the sentiment of financial news, especially in the context of stock prices. "
+    # "While analyzing sentiment for any company, including {}, consider both the direct and indirect impacts. Apple is a major player in the tech industry, "
+    # "and its stock is influenced not only by its own developments but also by broader market trends, competitor actions, and industry news. "
+    # "Your task is to classify the sentiment of {} with respect to Apple's stock price, considering both direct and market-wide influences. "
+    # "Classify the sentiment as 'Positive', 'Negative', or 'Neutral'."
+    # ).format(ticker, text_type)
+
+    system_instruction = f"""
     "You are a financial analyst with expertise in evaluating the sentiment of financial news, especially in the context of stock prices. "
-    "While analyzing sentiment for any company, including Apple, consider both the direct and indirect impacts. Apple is a major player in the tech industry, "
+    "While analyzing sentiment for any company, including {ticker}, consider both the direct and indirect impacts. {ticker} is a major player in the tech industry, "
     "and its stock is influenced not only by its own developments but also by broader market trends, competitor actions, and industry news. "
-    "Your task is to classify the sentiment of {} with respect to Apple's stock price, considering both direct and market-wide influences. "
+    "Your task is to classify the sentiment of the {text_type} with respect to {ticker}'s stock price, considering both direct and market-wide influences. "
     "Classify the sentiment as 'Positive', 'Negative', or 'Neutral'."
-    ).format(text_type)
+    """
 
     try:
         # Generate content from the model
@@ -204,7 +214,8 @@ if __name__ == '__main__':
                       'International_Business_Machines_Corporation':'IBM',
                       'Microsoft_Corp':'MSFT',
                       'Nvidia_Corporation':'NVDA',
-                      'Salesforce.com_Inc':'CRM'
+                      'Salesforce.com_Inc':'CRM',
+                      '^DJI':'^DJI'
                     }
 
     run_gemini_sentiment(input_path, output_path, ticker_mapping, text_type)

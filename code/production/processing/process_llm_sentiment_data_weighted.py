@@ -10,11 +10,11 @@ from datetime import timedelta
 # Function to aggregate sentiment using a voting system
 def map_sentiment(row):
     sentiment_map = {'positive': 1, 'neutral': 0, 'negative': -1}
-    sentiments = [row['gemini_sentiment']]
+    print(row)
     return sentiment_map[row['gemini_sentiment']]
 
 # Function to calculate weighted rolling average
-def weighted_rolling_avg(price_df, sent_df, window_size=7, sentiment_effect=0.01):
+def weighted_rolling_avg(price_df, sent_df, window_size=7, sentiment_effect=0.0001):
     """
     Calculate rolling average for sentiment data over x number of days before (window size), weighted by recency
 
@@ -27,27 +27,27 @@ def weighted_rolling_avg(price_df, sent_df, window_size=7, sentiment_effect=0.01
     """
     sent_df = sent_df.copy()
     price_df = price_df.copy()
-
+    print(sent_df.head(5))
     sent_df['aggregated_sentiment'] = sent_df.apply(map_sentiment, axis=1)
     sent_df['pub_date'] = to_datetime(sent_df['pub_date'])
     price_df.index = to_datetime(price_df.index)
 
     valid_dates = price_df.index
-    weighted_avgs = []
+    weighted_sums = []
 
     for current_date in valid_dates:
-        start_date = current_date - timedelta(days=window_size + 1)
+        start_date = current_date - timedelta(days=window_size)
         end_date = current_date - timedelta(days=1)
         past_data = sent_df[(sent_df['pub_date'] >= start_date) & (sent_df['pub_date'] <= end_date)]
 
         if not past_data.empty:
             past_data['weighted'] = (window_size - (current_date - past_data['pub_date']).dt.days + 1) * sentiment_effect * past_data['aggregated_sentiment']
-            weighted_avg = past_data['weighted'].sum()/ past_data.shape[0]
+            weighted_sum = past_data['weighted'].sum()
         else:
-            weighted_avg = 0 # neutral if no sentiment
-        weighted_avgs.append(weighted_avg)
+            weighted_sum = 0 # neutral if no sentiment
+        weighted_sums.append(weighted_sum)
     
-    price_df['aggregated_sentiment'] = weighted_avgs
+    price_df['aggregated_sentiment'] = weighted_sums
 
     return price_df[['aggregated_sentiment']] # return index of price df + aggregated sentiment in df format
 
@@ -62,7 +62,7 @@ if __name__ == '__main__':
 
     # Initialise key variables
     window_size = 7
-    sentiment_effect = 0.01
+    sentiment_effect = 0.0001
     
     lstm_df = read_csv(stock_data_filepath, index_col='Date')
     sentiment_df = read_csv(sentiment_input_filepath)

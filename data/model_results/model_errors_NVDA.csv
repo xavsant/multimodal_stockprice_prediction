@@ -1,6 +1,6 @@
 model,mae,mse
 baseline_lstm,1.715827254481613,6.718020366533195
-concat_distil_sentiment_weighted_headline,2.209536306337903,11.29126499175722
+concat_deberta_sentiment_weighted_headline,2.1093052867102577,10.774653121740599
 concat_ensemble_weighted_headline,2.0894184855886513,10.461151981369293
 concat_llm_sentiment_weighted_headline,2.0250141282368994,9.767998703156724
 concat_llm_sentiment_dynamic_headline,2.018276085830702,9.47937087432715

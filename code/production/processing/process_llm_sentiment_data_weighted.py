@@ -27,7 +27,7 @@ def weighted_rolling_avg(price_df, sent_df, window_size=7, sentiment_effect=0.00
     """
     sent_df = sent_df.copy()
     price_df = price_df.copy()
-    print(sent_df.head(5))
+
     sent_df['aggregated_sentiment'] = sent_df.apply(map_sentiment, axis=1)
     sent_df['pub_date'] = to_datetime(sent_df['pub_date'])
     price_df.index = to_datetime(price_df.index)

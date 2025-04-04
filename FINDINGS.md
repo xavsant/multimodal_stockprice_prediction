@@ -34,11 +34,9 @@ Values are MinMax Scaled to a range between 0 and 1.
 
 ### News Metadata
 
-For each stock*, the metadata is queried for its headline and abstract** text, the query is subsequently cleaned by lowercasing letters and removing unnecessary formatting characters (e.g. '\n') and trailing spaces.
+For each stock*, the metadata is queried for its headline text, the query is subsequently cleaned by lowercasing letters and removing unnecessary formatting characters (e.g. '\n') and trailing spaces.
 
 > [*] For ^DJI, we follow the **root paper's** methodology of retrieving NYT's archive and then querying based on the following section names: ‘Business’, ‘National’, ‘World’, ‘U.S.’, ‘Politics', ‘Opinion’, ‘Tech’, ‘Science’, ‘Health’ and ‘Foreign’.
-
-> [**] The project primarily uses headline text, abstract text is used for comparison purposes [DOUBLE CONFIRM IF KEEPING ABSTRACT].
 
 
 # [3] Methodology
@@ -204,6 +202,7 @@ Based on the findings from the **root paper**, $w$ = 7 and $\alpha$ = 0.0001.
 - Expand text data to include more sources, more rigorous preprocessing(?)
 - Expand LSTM features (e.g. https://www.sciencedirect.com/science/article/abs/pii/S0957417423017049)
 - Expand to Ensemble LLM
+- Does using abstract improve sentiment?
 
 # [6] Authors
 

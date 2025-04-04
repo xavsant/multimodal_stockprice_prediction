@@ -10,7 +10,7 @@ if __name__ == '__main__':
     llm_output_filepath = getenv('llm_price_prediction_output_filepath') + text_type + '_' + target_stock + '.csv' # Output path
 
     # Read in .json and transform
-    df = read_json('../../../data/raw/gemini_price_predictions.json', orient='records')
+    df = read_json('../../../data/raw/gemini_price_predictions_' + target_stock + '.json', orient='records')
     df.columns = ['Date', 'gemini_predicted_price']
     df.set_index('Date', inplace=True)
 

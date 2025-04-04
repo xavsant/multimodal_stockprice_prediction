@@ -34,8 +34,8 @@ class process_text_data:
         '''
         article_df = self.__read_all_articles()
         cleaned_df = self.__clean_data(article_df)
-        # self.__export(cleaned_df)
-        self.__export(article_df)
+        self.__export(cleaned_df)
+        # self.__export(article_df)
 
     # Processing functions
     def __read_all_articles(self):
@@ -128,10 +128,10 @@ class process_text_data:
         cleaned_df.replace('', np.nan, inplace=True)
 
         # Record number of rows to drop
-        print('NA rows:', cleaned_df.isna().any(axis=1).sum())
+        print('NA rows:', ((cleaned_df['headline'].isna()) | (cleaned_df['abstract'].isna())).sum())
 
-        cleaned_df.dropna(inplace=True)
-        # cleaned_df.head()
+        cleaned_df.dropna(subset=['headline', 'abstract'], inplace=True)
+        return cleaned_df
 
     # Export as csv
     def __export(self, df):

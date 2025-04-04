@@ -26,7 +26,7 @@ def run_gemini_sentiment(input_path, output_path, ticker_mapping, text_type='hea
             output_name = 'gemini_sentiment_analysis_results_' + text_type + '_' + ticker +  '.csv'
 
             # Check if valid file and if file already exists
-            if ticker != '^DJI': # not os.path.exists(output_path / output_name):
+            if ticker != '^DJI' and not os.path.exists(output_path / output_name):
                 print(file.name)
 
                 # Process headlines/abstract
@@ -60,7 +60,7 @@ def process_text(path, ticker, text_type='headline'):
     df['pub_date'] = df['pub_date'].dt.date
 
     # Cleaning
-    df[text_type] = df[text_type].apply(clean_text)
+    # df[text_type] = df[text_type].apply(clean_text)
 
     # adding ticker in case of DF merge
     df['ticker'] = ticker

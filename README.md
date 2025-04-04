@@ -19,7 +19,7 @@ LLM models:<br>
 
 ### Findings
 
-📊 Refer to [this](https://github.com/xavsant/multimodal_stockprice_prediction/blob/create_LLM_features/FINDINGS.md) for a detailed analysis. 
+📊 Refer to [this document](https://github.com/xavsant/multimodal_stockprice_prediction/blob/create_LLM_features/FINDINGS.md) for the detailed analysis.
 
 ### Dependencies
 

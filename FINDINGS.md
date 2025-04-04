@@ -34,7 +34,8 @@ Values are MinMax Scaled to a range between 0 and 1.
 
 ### News Metadata
 
-For each stock*, the metadata is queried for its headline text, the query is subsequently cleaned by lowercasing letters and removing unnecessary formatting characters (e.g. '\n') and trailing spaces.
+For each stock*, the metadata is queried for its headline text.<br>
+For the baseline sentiment models, the query is subsequently cleaned by lowercasing letters and removing unnecessary formatting characters (e.g. '\n') and trailing spaces.
 
 > [*] For ^DJI, we follow the **root paper's** methodology of retrieving NYT's archive and then querying based on the following section names: ‘Business’, ‘National’, ‘World’, ‘U.S.’, ‘Politics', ‘Opinion’, ‘Tech’, ‘Science’, ‘Health’ and ‘Foreign’.
 
@@ -88,16 +89,15 @@ Based on the results, the rest of the models will be built using **LSTM** as a b
 
 ## Model Architecture
 
-### Multimodal Architecture
-
-> INSERT PARAMETERS HERE
-> INSERT ARCHITECTURE HERE
-
 ### Unimodal Architecture
 
 > INSERT PARAMETERS HERE
 > INSERT ARCHITECTURE HERE
 
+### Multimodal Architecture
+
+> INSERT PARAMETERS HERE
+> INSERT ARCHITECTURE HERE
 
 ## Ensemble Sentiment Model
 
@@ -147,49 +147,52 @@ Based on the findings from the **root paper**, $w$ = 7 and $\alpha$ = 0.0001.
 > INSERT RESULTS HERE
 > INSERT PLOTS HERE
 
-| Stock | Model | Mean Absolute Error | Mean Squared Error |
-|---|---|---|---|
-| ^DJI | Baseline LSTM | None | None |
-| | LLM Price Prediction | None | None |
-| | Ensemble Sentiment | None | None |
-| | LLM Sentiment | None | None|
-| | LLM Sentiment with Dynamic Duration | None | None |
-||||
-| AAPL| Baseline LSTM | None | None |
-| | LLM Price Prediction | None | None |
-| | Ensemble Sentiment | None | None |
-| | LLM Sentiment | None | None|
-| | LLM Sentiment with Dynamic Duration | None | None |
-|||||
-| AMZN | Baseline LSTM | None | None |
-| | LLM Price Prediction | None | None |
-| | Ensemble Sentiment | None | None |
-| | LLM Sentiment | None | None|
-| | LLM Sentiment with Dynamic Duration | None | None |
-||||
-| CRM | Baseline LSTM | None | None |
-| | LLM Price Prediction | None | None |
-| | Ensemble Sentiment | None | None |
-| | LLM Sentiment | None | None|
-| | LLM Sentiment with Dynamic Duration | None | None |
-||||
-| IBM | Baseline LSTM | None | None |
-| | LLM Price Prediction | None | None |
-| | Ensemble Sentiment | None | None |
-| | LLM Sentiment | None | None|
-| | LLM Sentiment with Dynamic Duration | None | None |
-||||
-| MSFT | Baseline LSTM | None | None |
-| | LLM Price Prediction | None | None |
-| | Ensemble Sentiment | None | None |
-| | LLM Sentiment | None | None|
-| | LLM Sentiment with Dynamic Duration | None | None |
-||||
-| NVDA | Baseline LSTM | None | None |
-| | LLM Price Prediction | None | None |
-| | Ensemble Sentiment | None | None |
-| | LLM Sentiment | None | None|
-| | LLM Sentiment with Dynamic Duration | None | None |
+| Stock | Model | Mean Absolute Error (MAE) | Mean Squared Error (MSE) | % Change in MAE from Baseline | % Change in MSE from Baseline |
+|---|---|---|---|---|---|
+| ^DJI | Baseline LSTM | 202.50173 | 71935.13715 |---|---|
+|      | Ensemble Sentiment | 204.09322 | 72649.33491 | 0.78592% | 0.99284% |
+||||||
+| AAPL | Baseline LSTM | 1.88113 | 6.47729 |---|---|
+|      | LLM Price Prediction                | 1.90279 | 6.50382 |  1.15175% |  0.40954% |
+|      | DeBerta Sentiment                   | 1.87027 | 6.40997 | -0.57747% | -1.03937% |
+|      | Ensemble Sentiment                  | 1.86604 | 6.41398 | -0.80214% | -0.97749% |
+|      | LLM Sentiment                       | 1.86447 | 6.43819 | -0.88532% | -0.60363% |
+|      | LLM Sentiment with Dynamic Duration | 1.96865 | 7.15043 |  4.65258% | 10.39231% |
+||||||
+| AMZN | Baseline LSTM | 2.33781 | 9.49918 |---|---|
+|      | LLM Price Prediction                | 2.39628 | 10.28675 |  2.50121% |  8.29091% |
+|      | DeBerta Sentiment                   | 2.21549 | 8.87711  | -5.23206% | -6.54867% |
+|      | Ensemble Sentiment                  | 2.19511 | 8.69196  | -6.10391% | -8.49781% |
+|      | LLM Sentiment                       | 2.30239 | 9.52706  | -1.51486% |  0.29355% |
+|      | LLM Sentiment with Dynamic Duration | 2.41631 | 10.14415 |  3.35771% |  6.78978% |
+||||||
+| CRM | Baseline LSTM | 3.32551 | 27.39943 |---|---|
+|      | LLM Price Prediction                | 3.95818 | 35.30135 | 19.02465% | 28.83976% |
+|      | DeBerta Sentiment                   | 3.35591 | 27.65797 |  0.91427% |  0.94362% |
+|      | Ensemble Sentiment                  | 3.43721 | 28.27338 |  3.35903% |  3.18968% |
+|      | LLM Sentiment                       | 3.32406 | 27.43164 | -0.04365% |  0.11758% |
+|      | LLM Sentiment with Dynamic Duration | 3.36259 | 27.70362 |  1.11515% |  1.11023% |
+||||||
+| IBM | Baseline LSTM | 1.59977 | 5.68360 |---|---|
+|      | LLM Price Prediction                | 1.74635 | 6.75533 |  9.16284% | 18.85657% |
+|      | DeBerta Sentiment                   | 1.80632 | 7.97069 | 12.91117% | 40.24010% |
+|      | Ensemble Sentiment                  | 1.82979 | 8.06758 | 14.37815% | 41.94477% |
+|      | LLM Sentiment                       | 1.63648 | 6.54549 |  2.29462% | 15.16449% |
+|      | LLM Sentiment with Dynamic Duration | 1.67011 | 6.63534 |  4.39703% | 16.74538% |
+||||||
+| MSFT | Baseline LSTM | 3.80130 | 24.94503 |---|---|
+|      | LLM Price Prediction                | 4.61179 | 35.50496 | 21.32143% | 42.33279% |
+|      | DeBerta Sentiment                   | 3.80004 | 24.84147 | -0.03328% | -0.41515% |
+|      | Ensemble Sentiment                  | 3.78935 | 24.90274 | -0.31444% | -0.16955% |
+|      | LLM Sentiment                       | 3.81944 | 24.96908 |  0.47714% |  0.09640% |
+|      | LLM Sentiment with Dynamic Duration | 4.12538 | 28.70857 |  8.52541% | 15.08732% |
+||||||
+| NVDA | Baseline LSTM | 1.71583 | 6.71802 |---|---|
+|      | LLM Price Prediction                | 2.01817 | 9.91714 | 17.62093% | 47.61994% |
+|      | DeBerta Sentiment                   | 2.10931 | 10.77465 | 22.93226% | 60.38435% |
+|      | Ensemble Sentiment                  | 2.08942 | 10.46115 | 21.77324% | 55.71778% |
+|      | LLM Sentiment                       | 2.02501 | 9.76800 | 18.01970% | 45.39996% |
+|      | LLM Sentiment with Dynamic Duration | 2.01828 | 9.47937 | 17.62700% | 41.10363% |
 
 > INSERT SYNTHESISED ANALYSIS HERE
 

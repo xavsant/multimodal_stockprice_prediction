@@ -10,7 +10,7 @@ from datetime import timedelta
 # Function to aggregate sentiment using a voting system
 def aggregate_sentiment(row):
     sentiment_map = {'Positive': 1, 'Neutral': 0, 'Negative': -1} 
-    return sentiment_map[row['drob_label']]
+    return sentiment_map[row['deb_label']]
 
 # Function to calculate weighted rolling average
 def weighted_rolling_avg(price_df, sent_df, window_size=7, sentiment_effect=0.0001):
@@ -57,7 +57,7 @@ if __name__ == '__main__':
     stock_data_filepath = getenv('stock_data_filepath') + target_stock + '.csv'
     text_type = getenv('text_type')
     sentiment_input_filepath = '../../../data/clean/sentiment_analysis_results/finetuned_sentiment_analysis_' + text_type + '_' + target_stock + '.csv'
-    sentiment_output_filepath = getenv('distil_text_analysis_filepath') + text_type + '_' + target_stock + '.csv'
+    sentiment_output_filepath = getenv('deberta_text_analysis_filepath') + text_type + '_' + target_stock + '.csv'
 
     # Initialise key variables
     window_size = 7

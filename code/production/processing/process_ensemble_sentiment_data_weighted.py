@@ -13,8 +13,8 @@ def aggregate_sentiment(row):
     
     sentiments = [row['vader_label'], row['drob_label'], row['deb_label']]
     
-    sentiment_counts = {'Positive': sentiments.count('Positive'), 
-                        'Neutral': sentiments.count('Neutral'), 
+    sentiment_counts = {'Neutral': sentiments.count('Neutral'),
+                        'Positive': sentiments.count('Positive'),
                         'Negative': sentiments.count('Negative')}
     
     majority_sentiment = max(sentiment_counts, key=sentiment_counts.get)

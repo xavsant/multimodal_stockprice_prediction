@@ -9,7 +9,7 @@ from datetime import timedelta
 
 # Function to aggregate sentiment using a voting system
 def map_sentiment(row):
-    sentiment_map = {'positive': 1, 'neutral': 0, 'negative': -1}
+    sentiment_map = {'neutral': 0, 'positive': 1, 'negative': -1}
     print(row)
     return sentiment_map[row['gemini_sentiment']]
 

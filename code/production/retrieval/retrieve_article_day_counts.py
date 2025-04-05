@@ -30,6 +30,8 @@ def process_csv_files(file_path_pattern, stock_names, output_directory):
         else:
             print(f"File not found: {file_path}")
 
+    print(stock_counts)
+
     # Define colors for the stocks: one color for AAPL, AMZN, MSFT and another for the others
     color_dict = {stock: 'grey' for stock in ['AAPL', 'AMZN', 'MSFT']}
     for stock in stock_counts.keys():

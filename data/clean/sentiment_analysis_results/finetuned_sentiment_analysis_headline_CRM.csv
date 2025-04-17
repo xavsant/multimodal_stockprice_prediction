@@ -1,0 +1,116 @@
+ticker,pub_date,headline,vader_pos,vader_neu,vader_neg,vader_label,drob_neg,drob_neu,drob_pos,drob_label,deb_pos,deb_neg,deb_neu,deb_label
+CRM,2015-08-06,Salesforce Ventures and Microsoft Join Informatica Buyout,0.268,0.732,0.0,Positive,0.02643937,0.6778223,0.29573834,Neutral,0.0022738986,0.9234073,0.074318804,Neutral
+CRM,2015-08-07,Morning Agenda: Ackman’s Bet on Mondelez Sales,0.0,1.0,0.0,Neutral,0.060536195,0.7705807,0.1688831,Neutral,0.0030536163,0.97198224,0.024964103,Neutral
+CRM,2015-08-21,Daily Report: The Stock Market Carnage Cometh for Tech,0.0,1.0,0.0,Neutral,0.54043305,0.32200503,0.13756187,Negative,0.99447244,0.004948432,0.00057910744,Negative
+CRM,2015-09-15,Salesforce Plans to Give Customers Amazon-Type Analytics,0.0,1.0,0.0,Neutral,0.013881883,0.5219633,0.4641548,Neutral,0.0017981391,0.7871631,0.21103886,Neutral
+CRM,2015-03-27,Tech Executives Pressure Indiana After Passage of Controversial Law,0.0,0.636,0.364,Negative,0.75647354,0.16096969,0.08255677,Negative,0.94637483,0.04804532,0.0055798427,Negative
+CRM,2015-03-31,"Silicon Valley Leaders, New to Social Issues, Come Together Over Indiana Law",0.0,1.0,0.0,Neutral,0.027326686,0.37640446,0.5962689,Positive,0.0041796914,0.7879685,0.20785181,Neutral
+CRM,2015-05-06,Would Salesforce Make Sense for Microsoft?,0.0,1.0,0.0,Neutral,0.019645536,0.70089084,0.2794636,Neutral,0.0060849893,0.9797177,0.014197432,Neutral
+CRM,2015-04-01,Tech Leaders Call for Anti-Discrimination Laws to Protect Gays in all 50 States,0.178,0.822,0.0,Positive,0.09235824,0.44696993,0.46067187,Positive,0.0113750165,0.20681204,0.7818129,Positive
+CRM,2015-04-30,Salesforce’s Slow Growth May Prompt Hunt for a Buyer,0.271,0.729,0.0,Positive,0.91840607,0.03332706,0.048266914,Negative,0.8746325,0.12247398,0.0028934926,Negative
+CRM,2015-04-01,Daily Report: Tech Leaders Come Together to Oppose Indiana Law,0.0,1.0,0.0,Neutral,0.5060598,0.29150158,0.20243855,Negative,0.910898,0.06699455,0.022107394,Negative
+CRM,2015-04-03,Big Business and Anti-Gay Laws,0.0,1.0,0.0,Neutral,0.47626284,0.3947717,0.12896547,Negative,0.5600071,0.4043242,0.035668783,Negative
+CRM,2015-06-19,Tech Companies Fly High on Fantasy Accounting,0.0,1.0,0.0,Neutral,0.01922401,0.52850705,0.4522689,Neutral,0.0016874752,0.14990307,0.8484095,Positive
+CRM,2015-07-25,Salesforce Makes Strides Toward Gender Equality in Silicon Valley,0.0,1.0,0.0,Neutral,0.027400974,0.2946749,0.6779241,Positive,0.0005681628,0.012485549,0.9869463,Positive
+CRM,2015-07-30,Morning Agenda: Steady as She Goes at Facebook,0.0,1.0,0.0,Neutral,0.09296639,0.5380016,0.369032,Neutral,0.0010920725,0.9889024,0.010005435,Neutral
+CRM,2015-11-02,"Marc Benioff, Salesforce Chief, on the Strategic Benefits of Corporate Giving",0.357,0.643,0.0,Positive,0.026084224,0.7461651,0.22775063,Neutral,0.0010235592,0.9687423,0.030234175,Neutral
+CRM,2016-08-02,Morning Agenda: Herbalife vs. Activist: Just Maybe He’s Right,0.0,1.0,0.0,Neutral,0.1994139,0.6564749,0.14411123,Neutral,0.05012265,0.85246944,0.09740795,Neutral
+CRM,2016-09-30,Daily Report: Trust Busters Destined to Dig into Data,0.292,0.708,0.0,Positive,0.6657186,0.2510704,0.08321094,Negative,0.01819625,0.96770847,0.014095195,Neutral
+CRM,2016-09-29,Salesforce Is Said to Question Microsoft-LinkedIn Deal in Europe,0.0,1.0,0.0,Neutral,0.75391304,0.18044224,0.06564474,Negative,0.90364635,0.09292678,0.003426889,Negative
+CRM,2016-09-18,Artificial Intelligence Software Is Booming. But Why Now?,0.227,0.773,0.0,Positive,0.030214092,0.43047675,0.5393091,Positive,0.009694937,0.7116418,0.27866325,Neutral
+CRM,2016-09-23,Twitter Is Said to Be Discussing a Possible Takeover,0.0,1.0,0.0,Neutral,0.04464095,0.70213515,0.25322393,Neutral,0.017691698,0.9776734,0.004634911,Neutral
+CRM,2016-09-27,Daily Report: Twitter Attracts a Wide Range of Suitors,0.278,0.722,0.0,Positive,0.035669602,0.73223627,0.23209415,Neutral,0.0020679492,0.8196467,0.17828538,Neutral
+CRM,2016-09-23,Twitter Moving Closer to Sale,0.0,1.0,0.0,Neutral,0.07200997,0.612053,0.31593707,Neutral,0.0027972194,0.62594193,0.3712609,Neutral
+CRM,2016-02-10,Tech Stocks Have Fallen Faster and Further Than Broader Market,0.0,0.783,0.217,Negative,0.93889564,0.019175848,0.041928496,Negative,0.99678624,0.001960507,0.0012532109,Negative
+CRM,2016-03-01,Salesforce’s ‘Women’s Surge’,0.0,1.0,0.0,Neutral,0.11326249,0.33170998,0.55502754,Positive,0.0015458588,0.93206775,0.0663863,Neutral
+CRM,2016-05-26,Salesforce to Use Amazon’s Cloud to Expand in Canada and Australia,0.187,0.813,0.0,Positive,0.011594921,0.2724586,0.7159465,Positive,0.0010625826,0.11147395,0.88746345,Positive
+CRM,2016-04-18,Tech Companies May Face a New Cost to Paying in Shares,0.196,0.804,0.0,Positive,0.920814,0.04756777,0.031618237,Negative,0.96364534,0.034523934,0.0018306099,Negative
+CRM,2016-04-18,General Mills and 7-Eleven Join the Venture Capital Crowd,0.216,0.784,0.0,Positive,0.030876433,0.6540713,0.31505224,Neutral,0.0017249953,0.9174716,0.08080334,Neutral
+CRM,2016-01-01,Looking Beyond the Internet of Things,0.0,1.0,0.0,Neutral,0.024076093,0.78586537,0.19005857,Neutral,0.00617116,0.9870396,0.0067892405,Neutral
+CRM,2016-06-08,Morning Agenda: Dell Ruling May Not Affect Buyouts as Much as Feared,0.0,0.775,0.225,Negative,0.9117316,0.049843386,0.03842507,Negative,0.057420105,0.8921667,0.05041326,Neutral
+CRM,2016-06-02,Morning Agenda: Uber Receives $3.5 Billion from Saudi Arabia,0.0,1.0,0.0,Neutral,0.021750318,0.25790092,0.7203487,Positive,0.0015283285,0.13878098,0.85969067,Positive
+CRM,2016-06-01,Salesforce.com to Acquire Demandware for $2.8 Billion,0.0,1.0,0.0,Neutral,0.009763662,0.45980605,0.5304303,Positive,0.0027857565,0.62209016,0.37512407,Neutral
+CRM,2016-07-28,"Once Again, an Oracle Deal Benefits Ellison",0.302,0.698,0.0,Positive,0.019816952,0.34043816,0.6397448,Positive,0.0014307281,0.0624047,0.9361645,Positive
+CRM,2016-10-11,"Morning Agenda: Twitter-Salesforce Talks, Buffett’s Taxes, H.R. Red Flags",0.0,1.0,0.0,Neutral,0.05862851,0.751402,0.18996945,Neutral,0.019452753,0.95850414,0.022043029,Neutral
+CRM,2016-10-06,Twitter’s Fate: Marc Benioff of Salesforce Addresses Acquisition Talk,0.0,1.0,0.0,Neutral,0.0817885,0.73744494,0.18076661,Neutral,0.0027347119,0.9087939,0.08847131,Neutral
+CRM,2016-10-06,"Morning Agenda: Theranos Closes Labs, Twitter Chatter, Taking on Samsung",0.0,1.0,0.0,Neutral,0.26375854,0.48680764,0.24943382,Neutral,0.65656096,0.3381113,0.005327791,Negative
+CRM,2016-10-06,Salesforce C.E.O. on Twitter Deal,0.0,1.0,0.0,Neutral,0.028804375,0.8725682,0.09862736,Neutral,0.0027549476,0.9951574,0.002087573,Neutral
+CRM,2016-11-05,How LinkedIn Drove a Wedge Between Microsoft and Salesforce,0.0,1.0,0.0,Neutral,0.6865692,0.17332774,0.140103,Negative,0.7427656,0.25063026,0.006604171,Negative
+CRM,2016-10-08,Farhad’s and Mike’s Week in Tech: Samsung’s Exploding Products and Twitter’s Fizzling Deal,0.0,1.0,0.0,Neutral,0.316998,0.45585728,0.22714466,Neutral,0.9701582,0.02783724,0.002004436,Negative
+CRM,2016-10-07,Paying $15 Billion for Twitter Will Be Hard for Anyone to Justify,0.0,0.887,0.113,Negative,0.19777592,0.61113554,0.19108859,Neutral,0.9837234,0.014210782,0.0020658362,Negative
+CRM,2016-10-14,Salesforce Rules Out a Bid for Twitter,0.0,1.0,0.0,Neutral,0.29800755,0.55187225,0.15012015,Neutral,0.21868265,0.66987014,0.111447155,Neutral
+CRM,2016-10-02,Taking the Temperature Inside the (Feverish) Cloud,0.0,1.0,0.0,Neutral,0.16105846,0.70168436,0.1372572,Neutral,0.018869055,0.97859085,0.0025400706,Neutral
+CRM,2016-10-07,Salesforce Shareholders Besiege Possible Twitter Deal,0.0,1.0,0.0,Neutral,0.8269153,0.115962856,0.057121858,Negative,0.03523292,0.9570302,0.0077369474,Neutral
+CRM,2016-10-10,"Morning Agenda: Peso Predictor, Salesforce Investors Speak, Calpers Standoff",0.0,1.0,0.0,Neutral,0.7442837,0.17018732,0.085529014,Negative,0.0041838465,0.97579694,0.020019254,Neutral
+CRM,2016-10-11,Earth-Rattling Times at Samsung and Twitter,0.0,1.0,0.0,Neutral,0.03766878,0.8756506,0.086680666,Neutral,0.75191295,0.2367365,0.011350568,Negative
+CRM,2016-10-07,Daily Report: Salesforce Has Had Its Eye on Twitter. But Why?,0.0,1.0,0.0,Neutral,0.0976884,0.75207114,0.1502405,Neutral,0.0021246788,0.99362046,0.0042548343,Neutral
+CRM,2016-10-31,Daily Report: Google’s Day in Europe’s Court Highlights Nature of New Tech,0.0,1.0,0.0,Neutral,0.030376958,0.42384472,0.54577833,Positive,0.0013982779,0.97466564,0.023936134,Neutral
+CRM,2016-10-11,Twitter Is Said to Be in Continued Talks With Salesforce,0.0,1.0,0.0,Neutral,0.023462446,0.36055592,0.61598164,Positive,0.0022000435,0.79514515,0.20265481,Neutral
+CRM,2017-08-19,The Moral Voice of Corporate America,0.0,1.0,0.0,Neutral,0.07177832,0.7597815,0.16844028,Neutral,0.004687834,0.9789144,0.016397865,Neutral
+CRM,2017-12-29,"San Francisco’s Skyline, Now Inescapably Transformed by Tech",0.0,1.0,0.0,Neutral,0.026584258,0.65638363,0.3170321,Neutral,0.021139195,0.9553849,0.02347601,Neutral
+CRM,2017-01-17,"How Indianapolis, Long Known as a Manufacturing Center, Is Luring Tech Talent",0.219,0.781,0.0,Positive,0.015909806,0.31999215,0.66409796,Positive,0.5498543,0.1569821,0.2931636,Negative
+CRM,2018-08-23,Top C.E.O.s Denounce Trump Immigration Policy as Threat to U.S. Economy,0.115,0.513,0.372,Negative,0.8413797,0.09547447,0.063145794,Negative,0.9906241,0.00675382,0.0026220852,Negative
+CRM,2018-09-17,A San Francisco Tech Mogul Buys a Fabled Slice of New York Media,0.0,1.0,0.0,Neutral,0.017960718,0.73731244,0.24472684,Neutral,0.005077714,0.9616815,0.03324086,Neutral
+CRM,2018-09-17,"Time Magazine Is Bought by Marc Benioff, Salesforce Billionaire",0.0,1.0,0.0,Neutral,0.018308915,0.8374618,0.14422923,Neutral,0.00997631,0.98154527,0.008478367,Neutral
+CRM,2018-09-17,Marc Benioff Explains Why He Is Buying Time Magazine,0.0,1.0,0.0,Neutral,0.02049089,0.6881954,0.29131368,Neutral,0.0022795985,0.9830943,0.0146260755,Neutral
+CRM,2018-09-18,When an Owner’s New Company Puts the Old One in Trump’s Cross Hairs,0.0,1.0,0.0,Neutral,0.06603735,0.6386751,0.29528752,Neutral,0.17647234,0.8169529,0.0065747476,Neutral
+CRM,2018-09-19,Can the People Who Almost Brought Down the News Business Save It?,0.225,0.775,0.0,Positive,0.81668866,0.10728635,0.07602503,Negative,0.7355677,0.2036409,0.060791496,Negative
+CRM,2018-02-07,They’re 3 of the U.S.’ Most Innovative C.E.O.s: Ask Them Anything,0.262,0.738,0.0,Positive,0.02196785,0.6747473,0.3032849,Neutral,0.003037888,0.29223096,0.70473117,Positive
+CRM,2018-02-20,Marc Benioff on Technology and Trust,0.398,0.602,0.0,Positive,0.02192032,0.84786814,0.13021158,Neutral,0.008716685,0.9532991,0.037984144,Neutral
+CRM,2018-12-29,The 3 Biggest Challenges for Tech in 2019,0.178,0.822,0.0,Positive,0.7539924,0.17081541,0.07519216,Negative,0.8236617,0.1719003,0.0044380273,Negative
+CRM,2018-06-15,Marc Benioff of Salesforce: ‘Are We Not All Connected?’,0.0,1.0,0.0,Neutral,0.3542527,0.5287278,0.117019445,Neutral,0.008861436,0.97528243,0.015856193,Neutral
+CRM,2018-11-07,San Francisco Approves Business Tax to Fund Homeless Services,0.252,0.748,0.0,Positive,0.09355048,0.38762203,0.5188275,Positive,0.0030476134,0.26007771,0.7368747,Positive
+CRM,2018-11-29,Talking Mindfulness on the C.E.O. Beat,0.0,1.0,0.0,Neutral,0.02835909,0.72659147,0.24504945,Neutral,0.010563706,0.9769389,0.012497324,Neutral
+CRM,2018-10-24,The Social Responsibility of Business,0.0,1.0,0.0,Neutral,0.050941765,0.8276732,0.12138501,Neutral,0.0055731055,0.9719697,0.022457203,Neutral
+CRM,2018-10-19,"In Liberal San Francisco, Tech Leaders Brawl Over Tax Proposal to Aid Homeless",0.0,1.0,0.0,Neutral,0.7271223,0.16967644,0.10320122,Negative,0.896391,0.08000141,0.023607658,Negative
+CRM,2019-06-14,The Week in Tech: Big Trouble With Trustbusters and China,0.0,0.769,0.231,Negative,0.7400503,0.19294485,0.06700477,Negative,0.9290209,0.06574103,0.0052380813,Negative
+CRM,2019-06-10,Making Data Coherent Drives Salesforce’s $15.3 Billion Deal for Tableau,0.0,1.0,0.0,Neutral,0.011409364,0.29932427,0.6892664,Positive,0.0013121832,0.097306475,0.9013813,Positive
+CRM,2019-06-07,Take the Guesswork Out of Growth,0.342,0.658,0.0,Positive,0.7438705,0.16654003,0.089589454,Negative,0.0075101457,0.20443134,0.7880585,Positive
+CRM,2019-07-01,"$2 Trillion Worth of Deals Were Struck in the First Half of 2019, but Caution Crept In",0.081,0.836,0.084,Neutral,0.9056002,0.038865298,0.05553452,Negative,0.009875609,0.34838387,0.64174056,Positive
+CRM,2019-10-14,Marc Benioff: We Need a New Capitalism,0.0,1.0,0.0,Neutral,0.032137,0.6137208,0.35414225,Neutral,0.01270676,0.6646251,0.32266814,Neutral
+CRM,2020-09-11,Has Business Left Milton Friedman Behind?,0.0,1.0,0.0,Neutral,0.7641659,0.16612999,0.069704086,Negative,0.12544763,0.7913214,0.08323106,Neutral
+CRM,2020-09-05,Parents Got More Time Off. Then the Backlash Started.,0.0,1.0,0.0,Neutral,0.81774294,0.109561056,0.072696075,Negative,0.2576727,0.3621432,0.3801841,Positive
+CRM,2020-09-22,Stakeholder Capitalism Gets a Report Card. It’s Not Good.,0.0,0.744,0.256,Negative,0.7223052,0.20321009,0.07448476,Negative,0.5763201,0.410637,0.013042963,Negative
+CRM,2020-02-12,A Trillion Trees: How One Idea Triumphed Over Trump’s Climate Denialism,0.262,0.738,0.0,Positive,0.10749849,0.29819995,0.5943015,Positive,0.07866312,0.5011685,0.4201684,Neutral
+CRM,2020-03-23,"Logged On From the Laundry Room: How the C.E.O.s of Google, Pfizer and Slack Work From Home",0.0,1.0,0.0,Neutral,0.037210535,0.78708196,0.17570741,Neutral,0.00078068656,0.9972705,0.0019486924,Neutral
+CRM,2020-03-04,Brace Yourself for What’s Coming at Twitter,0.0,1.0,0.0,Neutral,0.08112342,0.7684058,0.1504708,Neutral,0.004914661,0.99205256,0.0030328142,Neutral
+CRM,2020-12-02,Marc Benioff Sets His Sights on Microsoft,0.0,1.0,0.0,Neutral,0.024802113,0.38326856,0.5919293,Positive,0.003825144,0.89284676,0.10332808,Neutral
+CRM,2020-12-02,Why Your Workplace Software Stinks,0.0,0.667,0.333,Negative,0.8182828,0.13011244,0.051604778,Negative,0.99547786,0.003659564,0.00086267263,Negative
+CRM,2020-12-01,Salesforce to Acquire Slack for $27.7 Billion,0.0,1.0,0.0,Neutral,0.013200074,0.42331153,0.5634883,Positive,0.002251474,0.58308196,0.4146666,Neutral
+CRM,2020-05-11,Employers Rush to Adopt Virus Screening. The Tools May Not Help Much.,0.122,0.716,0.162,Negative,0.21185556,0.59031945,0.19782498,Neutral,0.6506544,0.33779496,0.0115506975,Negative
+CRM,2020-04-28,Marc Benioff’s $25 Million Blitz to Buy Protective Gear From China,0.0,1.0,0.0,Neutral,0.01869718,0.7015085,0.27979428,Neutral,0.0020066279,0.98733807,0.010655301,Neutral
+CRM,2020-04-24,"Frantic for Coronavirus Gear, Americans in Need Turn to China’s Elite",0.0,0.775,0.225,Negative,0.73445797,0.16632652,0.099215485,Negative,0.008375416,0.9286252,0.06299932,Neutral
+CRM,2020-04-28,Salesforce and Other Silicon Valley Firms Are Using Corporate Connections to Buy Masks for Hospitals,0.0,1.0,0.0,Neutral,0.016038625,0.62132037,0.362641,Neutral,0.0016792364,0.98805994,0.010260836,Neutral
+CRM,2020-04-20,Traction on Demand Releases Global Outbreak Response Tool for Free,0.258,0.625,0.117,Positive,0.02215322,0.8155174,0.16232944,Neutral,0.001665013,0.80032104,0.198014,Neutral
+CRM,2020-01-14,Tech Bro Uniform Meets Margaret Thatcher. Disruption Ensues.,0.0,0.737,0.263,Negative,0.5579525,0.3206637,0.1213838,Negative,0.7533742,0.22401665,0.022609089,Negative
+CRM,2020-06-10,Farewell to Gummy Bear Jars: Tech Offices Get a Virus Safety Makeover,0.219,0.781,0.0,Positive,0.04683043,0.40454477,0.5486249,Positive,0.014622285,0.59908557,0.38629216,Neutral
+CRM,2020-11-30,Companies Bet Big on Working From Home,0.0,1.0,0.0,Neutral,0.016838139,0.4817654,0.5013965,Positive,0.0042148232,0.50700253,0.48878264,Neutral
+CRM,2021-02-16,What’s Delaying Boardroom Diversity,0.0,1.0,0.0,Neutral,0.802881,0.1502249,0.046894155,Negative,0.6611538,0.335568,0.00327824,Negative
+CRM,2021-02-16,A Hidden Hurdle in Efforts to Diversify Boardrooms,0.0,1.0,0.0,Neutral,0.22689554,0.5824699,0.19063455,Neutral,0.627961,0.30717653,0.064862534,Negative
+CRM,2021-05-04,Business Coalitions Speak Out Against Voting Restrictions in Texas,0.0,1.0,0.0,Neutral,0.41482887,0.38926616,0.19590497,Negative,0.51750004,0.42520398,0.057296045,Negative
+CRM,2021-04-22,"Britain, Norway and the United States join forces with businesses to protect tropical forests.",0.409,0.591,0.0,Positive,0.031114891,0.4103431,0.558542,Positive,0.0024901037,0.60619813,0.39131176,Neutral
+CRM,2021-01-23,The Future of Twitter,0.0,1.0,0.0,Neutral,0.024993429,0.83501226,0.13999432,Neutral,0.004358366,0.99260545,0.003036195,Neutral
+CRM,2022-08-06,Major Indiana Employers Criticize State’s New Abortion Law,0.0,0.729,0.271,Negative,0.7407925,0.16569099,0.09351648,Negative,0.9715873,0.025701355,0.002711346,Negative
+CRM,2022-02-22,Big Tech Makes a Big Bet: Offices Are Still the Future,0.0,1.0,0.0,Neutral,0.019943625,0.44477165,0.53528476,Positive,0.009554322,0.54227716,0.4481685,Neutral
+CRM,2022-12-01,"What We Learned From Sam Bankman-Fried, Mark Zuckerberg, Reed Hastings and More",0.0,1.0,0.0,Neutral,0.054217476,0.6207297,0.32505286,Neutral,0.00089278736,0.99386144,0.005245694,Neutral
+CRM,2022-12-05,Slack C.E.O. to Step Down in January,0.0,1.0,0.0,Neutral,0.9385771,0.034490414,0.026932465,Negative,0.3356299,0.6549777,0.009392479,Neutral
+CRM,2022-12-06,Could Biden’s Climate Agenda Trigger a New Trade War?,0.0,0.642,0.358,Negative,0.59922415,0.28321433,0.11756148,Negative,0.98885614,0.009085949,0.0020579833,Negative
+CRM,2022-11-09,Crypto Investors Grapple With the Collapse of a Giant,0.0,0.686,0.314,Negative,0.86600727,0.07787471,0.056118034,Negative,0.92731535,0.0674432,0.0052414956,Negative
+CRM,2022-10-04,The Board Chair Squaring Up to Elon Musk in the Feud Over Twitter,0.0,0.833,0.167,Negative,0.43798164,0.394175,0.16784334,Negative,0.9943897,0.0050906017,0.00051969144,Negative
+CRM,2023-09-22,What Happens When the Boss Invites You to Bible Study?,0.0,1.0,0.0,Neutral,0.111225836,0.7862777,0.10249646,Neutral,0.031863205,0.960385,0.007751758,Neutral
+CRM,2023-02-13,Happiness or Success? Salesforce’s Marc Benioff Doesn’t Want to Choose.,0.551,0.449,0.0,Positive,0.47199407,0.4108298,0.1171761,Negative,0.011484482,0.90794134,0.08057414,Neutral
+CRM,2023-03-01,The Heat on Salesforce Grows Ahead of a Big Earnings Call,0.0,1.0,0.0,Neutral,0.0922921,0.09076349,0.8169445,Positive,0.97005343,0.02688306,0.0030635458,Negative
+CRM,2023-03-04,The Trillion-Dollar Debate Over Share Buybacks,0.306,0.694,0.0,Positive,0.367022,0.47088167,0.16209637,Neutral,0.3302548,0.66657174,0.003173475,Neutral
+CRM,2023-03-02,The Battle Over E.S.G. Heads to the White House,0.0,0.755,0.245,Negative,0.06875803,0.7221429,0.20909911,Neutral,0.015333593,0.9777776,0.0068888534,Neutral
+CRM,2023-03-27,Markets Climb as Silicon Valley Bank Finally Finds a Buyer,0.0,1.0,0.0,Neutral,0.030749843,0.12731081,0.84193933,Positive,0.00045452247,0.009237047,0.99030846,Positive
+CRM,2023-01-05,"Amazon Expands Corporate Layoffs to 18,000 Jobs",0.383,0.617,0.0,Positive,0.94893694,0.02313896,0.027924133,Negative,0.9976043,0.0017571,0.0006386107,Negative
+CRM,2023-01-05,Kevin McCarthy’s Business Ties Complicate His Rise to Power,0.0,1.0,0.0,Neutral,0.3402126,0.47779894,0.18198848,Neutral,0.9882088,0.010446871,0.0013444118,Negative
+CRM,2023-01-24,Live Nation Faces a Skeptical Senate,0.0,0.635,0.365,Negative,0.8385669,0.118427895,0.043005187,Negative,0.9609789,0.036983546,0.0020375513,Negative
+CRM,2023-01-23,Activist Investors Are Circling Salesforce,0.0,1.0,0.0,Neutral,0.016741963,0.77673346,0.20652455,Neutral,0.077350184,0.9074381,0.015211822,Neutral
+CRM,2023-01-04,Salesforce to Lay Off 10% of Staff and Cut Office Space,0.0,0.826,0.174,Negative,0.94319135,0.030308437,0.026500227,Negative,0.9928899,0.0061960705,0.00091403804,Negative
+CRM,2023-01-25,A Short Seller Takes Aim at an Indian Corporate Giant,0.0,1.0,0.0,Neutral,0.39445192,0.47452095,0.13102713,Neutral,0.56971776,0.39901865,0.03126363,Negative
+CRM,2023-06-20,Return to Office Enters the Desperation Phase,0.0,0.667,0.333,Negative,0.05659361,0.69401586,0.24939054,Neutral,0.9827108,0.013460884,0.0038283274,Negative
+CRM,2023-06-30,Why Corporate America Is Worried About Affirmative Action,0.0,0.761,0.239,Negative,0.7331232,0.19829918,0.06857759,Negative,0.8169452,0.18120168,0.0018532015,Negative
+CRM,2023-07-25,Tech Firms Once Powered New York’s Economy. Now They’re Scaling Back.,0.0,1.0,0.0,Neutral,0.7058539,0.0828832,0.21126299,Negative,0.6768735,0.29723287,0.025893584,Negative
+CRM,2023-07-05,"As Businesses Clamor for Workplace A.I., Tech Companies Rush to Provide It",0.0,1.0,0.0,Neutral,0.017438972,0.44376814,0.5387929,Positive,0.0016175619,0.13259315,0.8657893,Positive
+CRM,2023-11-21,Does A.I. Have an Inherent Governance Problem?,0.0,0.69,0.31,Negative,0.43680954,0.47298935,0.090201184,Neutral,0.7461547,0.2511711,0.0026741691,Negative

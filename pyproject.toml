@@ -19,7 +19,6 @@ tensorflow = "^2.18.0"
 keras = "^3.8.0"
 statsmodels = "^0.14.4"
 notebook = "^7.3.2"
-yfinance = "^0.2.52"
 bs4 = "^0.0.2"
 transformers = "^4.49.0"
 sentence-transformers = "^3.4.1"
@@ -27,6 +26,7 @@ sentencepiece = "^0.2.0"
 tf-keras = "^2.19.0"
 accelerate = "0.26.0"
 wordcloud = "^1.9.4"
+yfinance = "^0.2.55"
 
 [build-system]
 requires = ["poetry-core"]

@@ -1,9 +1,11 @@
+# Config
+.env
+.venv
+
 # General
 .python-version
 notebooks/.DS_Store
 .DS_Store
 data/raw/archived
 *.txt
-# Config
-.env
-.venv
+code/production/utility/__pycache__/

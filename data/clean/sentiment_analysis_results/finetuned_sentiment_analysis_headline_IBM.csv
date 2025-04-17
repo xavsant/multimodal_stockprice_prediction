@@ -1,0 +1,205 @@
+ticker,pub_date,headline,vader_pos,vader_neu,vader_neg,vader_label,drob_neg,drob_neu,drob_pos,drob_label,deb_pos,deb_neg,deb_neu,deb_label
+IBM,2015-10-19,IBM Sales and Profit Dropped 14% in Third Quarter,0.266,0.734,0.0,Positive,0.9438853,0.010723831,0.045390878,Negative,0.99749833,0.001279281,0.0012223859,Negative
+IBM,2015-10-19,Daily Report: Tech Tussles Take Center Stage in Earnings,0.0,1.0,0.0,Neutral,0.6796675,0.12858987,0.19174272,Negative,0.2375935,0.68762344,0.074783064,Neutral
+IBM,2015-10-07,Amazon Messes With Billions in Corporate Computing Dollars,0.195,0.805,0.0,Positive,0.020588998,0.49852422,0.48088676,Neutral,0.21401049,0.78244144,0.003548023,Neutral
+IBM,2015-10-01,IBM Scientists Find New Way to Shrink Transistors,0.0,1.0,0.0,Neutral,0.02757427,0.5273436,0.44508222,Neutral,0.0011187943,0.04170654,0.95717466,Positive
+IBM,2015-10-30,U.S. Tech Giants May Blur National Security Boundaries in China Deals,0.194,0.806,0.0,Positive,0.85949224,0.08608004,0.05442766,Negative,0.6290952,0.3439763,0.02692847,Negative
+IBM,2015-10-14,Daily Report: Putting Twitter’s Layoffs in Perspective,0.0,1.0,0.0,Neutral,0.86187345,0.09050265,0.047623914,Negative,0.11322318,0.8763313,0.01044549,Neutral
+IBM,2015-10-29,Daily Report: IBM’s New Weatherman Is Named Watson,0.0,1.0,0.0,Neutral,0.022061924,0.63461065,0.3433274,Neutral,0.0029826579,0.8152279,0.18178946,Neutral
+IBM,2015-10-29,"Morning Agenda: Deutsche Bank to Cut 35,000 Jobs Under New Strategy",0.0,0.826,0.174,Negative,0.9441565,0.026627842,0.029215638,Negative,0.98696727,0.012146846,0.00088582985,Negative
+IBM,2015-10-28,IBM to Acquire the Weather Company,0.0,1.0,0.0,Neutral,0.011969445,0.73228276,0.2557478,Neutral,0.0033350596,0.85427123,0.14239371,Neutral
+IBM,2015-10-27,IBM Discloses S.E.C. Investigation,0.0,1.0,0.0,Neutral,0.52934253,0.37315458,0.09750288,Negative,0.011006889,0.9849679,0.004025208,Neutral
+IBM,2015-11-04,"Digital Transformation Going Mainstream in 2016, IDC Predicts",0.0,1.0,0.0,Neutral,0.038423534,0.40733573,0.55424076,Positive,0.005216421,0.956339,0.038444538,Neutral
+IBM,2015-11-14,IBM’s Design-Centered Strategy to Set Free the Squares,0.32,0.68,0.0,Positive,0.019911466,0.4420963,0.53799224,Positive,0.0019305242,0.9305695,0.067499936,Neutral
+IBM,2015-11-03,IBM Looks to Its Next Century,0.0,1.0,0.0,Neutral,0.017829439,0.41066346,0.57150716,Positive,0.0010555063,0.9745676,0.024376953,Neutral
+IBM,2015-11-16,Daily Report: IBM Embraces Its Inner Designer,0.0,1.0,0.0,Neutral,0.022735476,0.46092108,0.5163435,Positive,0.002414681,0.36831778,0.6292675,Positive
+IBM,2015-11-12,"Gene Amdahl, Pioneer of Mainframe Computing, Dies at 92",0.0,1.0,0.0,Neutral,0.58114636,0.28694567,0.13190795,Negative,0.26584247,0.7008176,0.033339903,Neutral
+IBM,2015-11-21,Computing by Design,0.0,1.0,0.0,Neutral,0.016573755,0.88647777,0.096948415,Neutral,0.0031561092,0.9943165,0.0025272819,Neutral
+IBM,2015-11-13,IBM’s Century of Innovation,0.464,0.536,0.0,Positive,0.018578226,0.5284614,0.4529604,Neutral,0.0027681286,0.8333554,0.16387647,Neutral
+IBM,2015-10-20,Daily Report: IBM and Yahoo in the Hot Seats,0.0,1.0,0.0,Neutral,0.08708695,0.6222799,0.2906331,Neutral,0.13993487,0.85408354,0.005981637,Neutral
+IBM,2015-10-30,U.S. Tech Companies and Their Chinese Partners With Military Ties,0.0,1.0,0.0,Neutral,0.026281437,0.77014947,0.20356911,Neutral,0.002625993,0.97447246,0.022901544,Neutral
+IBM,2015-10-19,IBM Lowers Its Earnings Forecast,0.0,0.727,0.273,Negative,0.51228535,0.04227231,0.44544226,Negative,0.9935929,0.0054709115,0.00093616213,Negative
+IBM,2015-07-09,IBM Discloses Working Version of a Much Higher-Capacity Chip   ,0.0,1.0,0.0,Neutral,0.57502383,0.30941886,0.11555735,Negative,0.0028625699,0.43720344,0.559934,Positive
+IBM,2015-07-26,Facebook and Other Tech Giants Expand Internet Access in Africa,0.204,0.796,0.0,Positive,0.012661953,0.35069492,0.6366431,Positive,0.001361625,0.1651788,0.83345956,Positive
+IBM,2015-07-21,"Daily Report: IBM Revenue Falls, Highlighting Challenges as It Shifts Course",0.115,0.885,0.0,Positive,0.93475413,0.02710444,0.038141392,Negative,0.9937775,0.0055192173,0.00070334616,Negative
+IBM,2015-07-20,IBM Revenue Falls 13% Despite Big Gains in New Fields,0.0,0.816,0.184,Negative,0.62182665,0.016782818,0.36139056,Negative,0.9946097,0.0024899032,0.0029003758,Negative
+IBM,2015-06-16,Google Is Its Own Secret Weapon in the Cloud,0.0,0.784,0.216,Negative,0.01644651,0.69822884,0.28532466,Neutral,0.0039361487,0.9596927,0.03637105,Neutral
+IBM,2015-06-24,IBM and Box Team Up to Target Global Data-Storage Market,0.0,1.0,0.0,Neutral,0.01195891,0.29382676,0.6942143,Positive,0.0017676125,0.2820276,0.71620476,Positive
+IBM,2015-06-23,Tech Companies Line Up Behind ‘Containers’ and the Cloud,0.0,1.0,0.0,Neutral,0.012043621,0.5994505,0.3885059,Neutral,0.002498254,0.9948297,0.0026720683,Neutral
+IBM,2015-06-15,Companies Move On From Big Data Technology Hadoop,0.0,1.0,0.0,Neutral,0.019921295,0.4643233,0.5157554,Positive,0.17891224,0.81662834,0.0044593513,Neutral
+IBM,2015-06-15,IBM Invests to Help Open-Source Big Data Software — and Itself,0.231,0.769,0.0,Positive,0.018824918,0.49402398,0.48715118,Neutral,0.0018431578,0.17416902,0.82398784,Positive
+IBM,2015-01-13,"IBM Introduces z13, a Mainframe for the Smartphone Economy",0.0,1.0,0.0,Neutral,0.009127299,0.6824528,0.30841997,Neutral,0.0021614286,0.73255664,0.26528192,Neutral
+IBM,2015-01-20,IBM Revenue Slides as Revamping Takes Hold,0.0,1.0,0.0,Neutral,0.94238204,0.018369487,0.03924848,Negative,0.00271584,0.06583806,0.9314461,Positive
+IBM,2015-01-22,Judge Vacates Guilty Pleas of Men Charged With Insider Trading in I.B.M. Stock,0.0,0.705,0.295,Negative,0.7128885,0.19795726,0.08915424,Negative,0.9530841,0.036224462,0.0106914565,Negative
+IBM,2015-01-19,"Economic Data From China, and Stimulus From the E.C.B.",0.0,1.0,0.0,Neutral,0.114191584,0.3071513,0.57865715,Positive,0.0010657224,0.9679303,0.031003978,Neutral
+IBM,2015-04-06,Call for Activism at IBM Is Likely to Go Unheard,0.0,1.0,0.0,Neutral,0.7843393,0.153013,0.06264755,Negative,0.70149696,0.2861904,0.012312647,Negative
+IBM,2015-04-21,Daily Report: IBM Profit Slips as Company Enters Transition Year,0.244,0.756,0.0,Positive,0.91315985,0.02832611,0.058513958,Negative,0.9951682,0.0041113533,0.00072050566,Negative
+IBM,2015-04-25,Apple Won’t Always Rule. Just Look at IBM.,0.0,1.0,0.0,Neutral,0.15583614,0.66392094,0.18024285,Neutral,0.04734947,0.90965647,0.04299407,Neutral
+IBM,2015-04-01,"Klaus Tschira, Business Software Trailblazer, Dies at 74 ",0.0,1.0,0.0,Neutral,0.45157543,0.40334016,0.14508447,Negative,0.57079715,0.40690565,0.022297172,Negative
+IBM,2015-04-19,IBM Venture With China Stirs Concerns,0.0,1.0,0.0,Neutral,0.875759,0.0771989,0.04704217,Negative,0.99164784,0.0062829964,0.002069131,Negative
+IBM,2015-04-13,IBM Creates Watson Health to Analyze Medical Data,0.231,0.769,0.0,Positive,0.01571479,0.69653714,0.28774804,Neutral,0.0017693317,0.96900135,0.029229302,Neutral
+IBM,2015-04-06,"If Algorithms Know All, How Much Should Humans Help?",0.252,0.748,0.0,Positive,0.062129416,0.7667095,0.17116103,Neutral,0.11747715,0.8739072,0.008615638,Neutral
+IBM,2015-04-30,Morning Agenda: Salesforce Said to be Preparing for Takeover Offers,0.0,1.0,0.0,Neutral,0.056889467,0.5391197,0.4039908,Neutral,0.0075482624,0.7757002,0.21675149,Neutral
+IBM,2015-04-20,IBM First-Quarter Earnings Top Wall St. Expectations,0.231,0.769,0.0,Positive,0.06427735,0.052280173,0.88344246,Positive,0.0007207934,0.017041072,0.9822381,Positive
+IBM,2015-05-06,IBM and Facebook in Marketing Partnership,0.0,1.0,0.0,Neutral,0.026794014,0.85693985,0.116266236,Neutral,0.00084838783,0.99417096,0.004980587,Neutral
+IBM,2015-05-01,"Apple, IBM and Japan Post See Profit in the Old-Age Market",0.225,0.775,0.0,Positive,0.032815263,0.2728661,0.69431865,Positive,0.00048810514,0.027348453,0.97216344,Positive
+IBM,2015-05-16,Natalia Maria Ruderman of IBM: A Sweet Spot for Global Traditions,0.25,0.75,0.0,Positive,0.016495608,0.71567094,0.26783353,Neutral,0.0022294058,0.59500283,0.40276784,Neutral
+IBM,2015-03-02,Tech Deals That Are Poor Fixes for Limp Sales,0.0,0.721,0.279,Negative,0.9013109,0.053866588,0.044822462,Negative,0.99540186,0.0031734013,0.0014247156,Negative
+IBM,2015-03-31,IBM Scores Weather Data Deal and Starts Internet of Things Unit,0.0,1.0,0.0,Neutral,0.016267661,0.3213801,0.6623522,Positive,0.0018279728,0.72949594,0.26867607,Neutral
+IBM,2015-03-17,IBM Introduces Twitter-Fueled Data Services for Business,0.0,1.0,0.0,Neutral,0.011896988,0.59065217,0.39745086,Neutral,0.0019760812,0.7327511,0.26527292,Neutral
+IBM,2015-02-17,"IBM, G.E. and Others Create Big Data Alliance",0.231,0.769,0.0,Positive,0.016614344,0.63847744,0.34490815,Neutral,0.0014162487,0.9290215,0.06956229,Neutral
+IBM,2015-02-23,IBM Tries to Paint the Computing Cloud Blue,0.0,1.0,0.0,Neutral,0.021292888,0.62985915,0.34884793,Neutral,0.2200236,0.7494209,0.03055557,Neutral
+IBM,2015-02-26,"IBM’s Leaders: 2015 Is a Transition Year, by Design",0.0,1.0,0.0,Neutral,0.06652343,0.6054709,0.32800567,Neutral,0.0389743,0.9471536,0.0138720125,Neutral
+IBM,2015-02-10,IBM’s Watson Turns Japanese and Moves Into Robots,0.0,1.0,0.0,Neutral,0.015726388,0.44080505,0.5434686,Positive,0.0006593888,0.99498534,0.0043552835,Neutral
+IBM,2015-09-08,Corporate Efforts to Address Social Problems Have Limits,0.0,0.722,0.278,Negative,0.7994317,0.12711252,0.07345574,Negative,0.9329363,0.058040857,0.0090228515,Negative
+IBM,2015-09-07,Humanizing Technology: A History of Human-Computer Interaction,0.0,1.0,0.0,Neutral,0.026624342,0.82311475,0.1502608,Neutral,0.0056069805,0.5956858,0.39870727,Neutral
+IBM,2015-09-24,"IBM’s A.I. System Watson to Get Second Home, on West Coast",0.0,1.0,0.0,Neutral,0.02109844,0.38832933,0.5905723,Positive,0.0014661608,0.80961215,0.18892169,Neutral
+IBM,2015-08-06,"IBM Adds Medical Images to Watson, Buying Merge Healthcare for $1 Billion",0.0,1.0,0.0,Neutral,0.010142233,0.3163327,0.6735251,Positive,0.0015586532,0.19531196,0.80312943,Positive
+IBM,2015-08-07,Morning Agenda: Ackman’s Bet on Mondelez Sales,0.0,1.0,0.0,Neutral,0.060536195,0.7705807,0.1688831,Neutral,0.0030536163,0.97198224,0.024964103,Neutral
+IBM,2016-10-04,IBM Is Buying Consulting Firm for Its Washington Connections,0.0,1.0,0.0,Neutral,0.0139254,0.60917413,0.37690043,Neutral,0.0012294602,0.99303573,0.0057347747,Neutral
+IBM,2016-10-17,"IBM Is Counting on Its Bet on Watson, and Paying Big Money for It",0.0,1.0,0.0,Neutral,0.045790415,0.45006543,0.5041442,Positive,0.0047129863,0.9029646,0.09232241,Neutral
+IBM,2016-11-30,"Erich Bloch, Who Helped Develop IBM Mainframe, Dies at 91",0.0,1.0,0.0,Neutral,0.6332438,0.23238955,0.13436665,Negative,0.4891311,0.47506472,0.035804156,Negative
+IBM,2016-07-18,Morning Agenda: SoftBank to Buy Leading Chip Designer,0.0,1.0,0.0,Neutral,0.021688208,0.62850666,0.3498051,Neutral,0.0029200907,0.8321695,0.1649104,Neutral
+IBM,2016-01-20,Daily Report: IBM Caught Between the Old and the New,0.0,1.0,0.0,Neutral,0.61763304,0.28604543,0.09632154,Negative,0.62106454,0.37374172,0.00519381,Negative
+IBM,2016-01-05,Morning Agenda:  A Growing Conflict in Wall St. Buyouts,0.17,0.6,0.23,Negative,0.6759491,0.23876531,0.08528559,Negative,0.9888952,0.009818327,0.0012864878,Negative
+IBM,2016-01-04,"In Cohen and I.B.M. Insider Trading Cases, Challenges for the S.E.C.",0.115,0.885,0.0,Positive,0.4919135,0.4040771,0.10400935,Negative,0.95858914,0.036497694,0.0049131596,Negative
+IBM,2016-01-19,IBM Reports Declines in Fourth-Quarter Profit and Revenue Despite Gains in New Fields,0.182,0.69,0.128,Positive,0.9281113,0.011156108,0.060732603,Negative,0.99732876,0.0013810106,0.0012901734,Negative
+IBM,2016-01-05,"Richard Sapper, Designer of Sleek Housewares, Dies at 83",0.0,1.0,0.0,Neutral,0.30341306,0.544888,0.15169887,Neutral,0.3936359,0.57700276,0.02936129,Neutral
+IBM,2016-04-22,The No-Good Week in Tech’s (Hopeful) Trip to a Bright Future,0.244,0.756,0.0,Positive,0.14633936,0.2898029,0.5638578,Positive,0.95351386,0.025320344,0.021165716,Negative
+IBM,2016-04-23,Farhad and Mike’s Week in Tech: To Be or Not To Be an Uber Employee,0.0,1.0,0.0,Neutral,0.097918965,0.73920906,0.16287193,Neutral,0.010624348,0.9810673,0.008308406,Neutral
+IBM,2016-04-18,IBM Results Show Progress in Cloud and Data Analysis,0.259,0.741,0.0,Positive,0.039136373,0.2653363,0.6955274,Positive,0.00069548003,0.030450964,0.96885353,Positive
+IBM,2016-05-19,Warren Buffett Stake Suggests Apple Is All Grown Up,0.0,1.0,0.0,Neutral,0.032985106,0.36136442,0.6056504,Positive,0.004380054,0.811072,0.1845479,Neutral
+IBM,2016-05-04,IBM Wants Everyone to Try a Quantum Computer,0.0,1.0,0.0,Neutral,0.017686967,0.62147063,0.36084238,Neutral,0.0018475628,0.77524775,0.22290461,Neutral
+IBM,2016-12-13,"When Trump Meets Tech Leaders, Jobs Will Be on the Agenda",0.0,1.0,0.0,Neutral,0.026822932,0.4845055,0.48867166,Positive,0.0014797249,0.9386408,0.059879575,Neutral
+IBM,2016-03-28,Morning Agenda: Ethereum Challenges Bitcoin,0.245,0.755,0.0,Positive,0.112468556,0.75308365,0.13444771,Neutral,0.026464734,0.95468,0.018855264,Neutral
+IBM,2016-03-25,"The Race Is On to Control Artificial Intelligence, and Tech’s Future",0.237,0.763,0.0,Positive,0.025381677,0.53804016,0.43657812,Neutral,0.0044736764,0.9639675,0.031558745,Neutral
+IBM,2016-03-01,Morning Agenda: Barclays to Sell Unit in Africa,0.0,1.0,0.0,Neutral,0.025075855,0.5781558,0.3967683,Neutral,0.0010080367,0.9944957,0.004496304,Neutral
+IBM,2016-02-17,Morning Agenda: Fed’s Neel Kashkari Says Banks Still Too Big to Fail,0.0,0.759,0.241,Negative,0.76188713,0.16201288,0.07609998,Negative,0.02918284,0.9230504,0.04776681,Neutral
+IBM,2016-02-01,Google Artificial Intelligence Beats Expert at Go Game,0.307,0.693,0.0,Positive,0.02553115,0.5695512,0.40491763,Neutral,0.0027567109,0.80592066,0.19132261,Neutral
+IBM,2016-02-14,Creating a Computer Voice That People Like,0.54,0.46,0.0,Positive,0.017454507,0.7789823,0.2035632,Neutral,0.0019330336,0.36064404,0.6374229,Positive
+IBM,2016-02-18,"IBM Buys Truven for $2.6 Billion, Adding to Trove of Patient Data",0.0,1.0,0.0,Neutral,0.012733263,0.23660107,0.75066566,Positive,0.0018589376,0.21895017,0.7791909,Positive
+IBM,2016-02-28,The Promise of Artificial Intelligence Unfolds in Small Steps,0.435,0.565,0.0,Positive,0.03125999,0.38343737,0.58530265,Positive,0.0026446187,0.41083726,0.5865181,Positive
+IBM,2016-02-19,Morning Agenda: Kenneth Griffin Joins Top Rank of Art Patrons,0.167,0.833,0.0,Positive,0.050193205,0.3616466,0.58816016,Positive,0.0025512243,0.33665493,0.66079384,Positive
+IBM,2016-09-29,"IBM to Acquire Promontory, a Financial Consulting Firm",0.0,1.0,0.0,Neutral,0.01090366,0.6097579,0.37933838,Neutral,0.0024054616,0.78052926,0.21706529,Neutral
+IBM,2016-09-01,How Tech Giants Are Devising Real Ethics for Artificial Intelligence,0.256,0.744,0.0,Positive,0.029600648,0.6697401,0.30065936,Neutral,0.0038928061,0.8278385,0.16826881,Neutral
+IBM,2016-09-18,Artificial Intelligence Software Is Booming. But Why Now?,0.227,0.773,0.0,Positive,0.030214092,0.43047675,0.5393091,Positive,0.009694937,0.7116418,0.27866325,Neutral
+IBM,2016-09-28,Protecting Humans and Jobs From Robots Is 5 Tech Giants’ Goal,0.0,1.0,0.0,Neutral,0.033456903,0.47478116,0.4917619,Positive,0.0035785227,0.93886685,0.057554673,Neutral
+IBM,2016-09-28,Next Target for IBM’s Watson? Third-Grade Math,0.0,1.0,0.0,Neutral,0.023086898,0.74383056,0.23308253,Neutral,0.0019418054,0.97075504,0.027303059,Neutral
+IBM,2016-08-23,Are Trump and Clinton Healthy?,0.403,0.597,0.0,Positive,0.26083872,0.55239993,0.1867614,Neutral,0.041769773,0.9549402,0.0032900504,Neutral
+IBM,2017-10-07,"As Cancer Tears Through Africa, Drug Makers Draw Up a Battle Plan",0.0,0.473,0.527,Negative,0.6400368,0.22169825,0.13826491,Negative,0.08478397,0.8604565,0.054759473,Neutral
+IBM,2017-11-28,Millennials See Paternity Leave as a Priority,0.0,0.806,0.194,Negative,0.08210413,0.6291688,0.28872707,Neutral,0.009501296,0.9868838,0.0036149158,Neutral
+IBM,2017-07-19,An Experiment in Zurich Brings Us Nearer to a Black Hole’s Mysteries,0.0,1.0,0.0,Neutral,0.027511034,0.67025405,0.30223495,Neutral,0.04257779,0.9358457,0.021576516,Neutral
+IBM,2017-07-09,"Wimbledon in Style for Marketers, Bringing a Reverent Hush to Their Ads",0.0,1.0,0.0,Neutral,0.018409073,0.32123685,0.6603541,Positive,0.0018265882,0.20339766,0.7947758,Positive
+IBM,2017-07-30,Hot Spot for Tech Outsourcing: The United States,0.286,0.714,0.0,Positive,0.04045963,0.7776439,0.18189654,Neutral,0.0037728874,0.53961307,0.45661402,Neutral
+IBM,2017-06-28,"A New Kind of Tech Job Emphasizes Skills, Not a College Degree",0.0,1.0,0.0,Neutral,0.035062432,0.4134462,0.55149144,Positive,0.002381925,0.960067,0.037551116,Neutral
+IBM,2017-01-09,Wall Street Clearinghouse to Adopt Bitcoin Technology,0.221,0.779,0.0,Positive,0.015700843,0.6110447,0.37325445,Neutral,0.003896253,0.6007257,0.39537802,Neutral
+IBM,2017-01-09,Data Could Be the Next Tech Hot Button for Regulators,0.0,1.0,0.0,Neutral,0.019323753,0.6309824,0.34969386,Neutral,0.0030387999,0.90693265,0.090028554,Neutral
+IBM,2017-04-10,America’s Toxic Workplace Rules,0.0,1.0,0.0,Neutral,0.77239114,0.16896278,0.05864611,Negative,0.9948885,0.0038581807,0.0012533092,Negative
+IBM,2017-04-17,Tech Roundup: A Busy Week to Come,0.0,1.0,0.0,Neutral,0.07639234,0.57958347,0.3440242,Neutral,0.032333806,0.92484164,0.042824488,Neutral
+IBM,2017-05-22,"Donald Trump, Our A.I. President",0.0,1.0,0.0,Neutral,0.06416002,0.62492275,0.3109172,Neutral,0.15550803,0.83965117,0.004840887,Neutral
+IBM,2017-03-04,"Blockchain: A Better Way to Track Pork Chops, Bonds, Bad Peanut Butter?",0.188,0.584,0.227,Negative,0.06454394,0.7869991,0.14845693,Neutral,0.006240292,0.76274717,0.2310125,Neutral
+IBM,2017-02-12,Activism Hits Even the Less Flashy Tech Companies,0.0,1.0,0.0,Neutral,0.8171398,0.11239876,0.0704614,Negative,0.0344681,0.9535877,0.011944266,Neutral
+IBM,2017-02-27,Business Giants to Announce Creation of a Computing System Based on Ethereum,0.174,0.826,0.0,Positive,0.016122844,0.51254547,0.47133163,Neutral,0.0021849526,0.72967577,0.26813927,Neutral
+IBM,2017-02-24,An Ethnographer of Cancer Care for IBM Watson,0.235,0.441,0.324,Negative,0.024021968,0.8765805,0.09939757,Neutral,0.0037265546,0.9924736,0.0037997805,Neutral
+IBM,2017-02-01,IBM Gives Watson a New Challenge: Your Tax Return,0.157,0.843,0.0,Positive,0.020760935,0.46173018,0.517509,Positive,0.13747795,0.84758013,0.014941957,Neutral
+IBM,2017-09-28,IBM Now Has More Employees in India Than in the U.S.,0.0,1.0,0.0,Neutral,0.044826373,0.478149,0.47702467,Neutral,0.008298032,0.9777188,0.013983247,Neutral
+IBM,2017-09-05,Enjoy Those U.S. Open Highlights. A Computer Picked Them for You.,0.262,0.738,0.0,Positive,0.025610523,0.7053811,0.2690084,Neutral,0.003241034,0.40512535,0.59163356,Positive
+IBM,2017-08-08,Texas Transgender Bathroom Bill Falters Amid Mounting Opposition,0.0,1.0,0.0,Neutral,0.85223466,0.09663551,0.051129885,Negative,0.96958387,0.026779544,0.0036365774,Negative
+IBM,2018-10-28,"IBM to Buy Red Hat, the Top Linux Distributor, for $34 Billion",0.141,0.859,0.0,Positive,0.010057248,0.46302652,0.52691627,Positive,0.0028700465,0.41549325,0.58163667,Positive
+IBM,2018-10-15,IBM Takes Cybersecurity Training on the Road,0.0,1.0,0.0,Neutral,0.050719857,0.6885623,0.26071787,Neutral,0.0011315136,0.97385085,0.025017638,Neutral
+IBM,2018-10-29,Are You Investing In What Matters To You? Take the Quiz.,0.099,0.901,0.0,Neutral,0.045542575,0.84783053,0.10662682,Neutral,0.0026840898,0.9917836,0.0055322894,Neutral
+IBM,2018-11-27,"When Blue Chip Companies Pile on Debt, It’s Time to Worry",0.0,0.625,0.375,Negative,0.8806647,0.07532954,0.044005737,Negative,0.9591644,0.036099095,0.004736494,Negative
+IBM,2018-06-28,"Industries, Looking for Efficiency, Turn to Blockchains",0.294,0.706,0.0,Positive,0.021418747,0.52489674,0.45368457,Neutral,0.0032094256,0.6512473,0.34554327,Neutral
+IBM,2018-06-19,IBM Unveils System That ‘Debates’ With Humans,0.0,1.0,0.0,Neutral,0.030987,0.542177,0.4268361,Neutral,0.0029973008,0.800065,0.19693777,Neutral
+IBM,2018-01-17,IBM May Finally Stop Shrinking. But Is It a Turnaround?,0.0,0.833,0.167,Negative,0.41631025,0.20318115,0.38050866,Negative,0.021394584,0.65382427,0.32478115,Neutral
+IBM,2018-01-18,IBM Ends 22-Quarter Streak of Falling Revenue,0.0,0.789,0.211,Negative,0.9498683,0.013834321,0.036297325,Negative,0.033505145,0.051799443,0.91469544,Positive
+IBM,2018-01-15,"More Bank Earnings, China’s Growth and Sundance Without Weinstein",0.245,0.755,0.0,Positive,0.7085316,0.11201302,0.17945535,Negative,0.0005836134,0.012557569,0.98685884,Positive
+IBM,2018-01-17,While You Were Sleeping,0.0,1.0,0.0,Neutral,0.07790566,0.77659905,0.1454953,Neutral,0.013248219,0.9811798,0.005572046,Neutral
+IBM,2018-04-01,"As Facebook Struggles, Rivals’ Leaders Stay (Mostly) Mum",0.0,0.737,0.263,Negative,0.9066602,0.05412286,0.03921696,Negative,0.95582706,0.0421545,0.0020183562,Negative
+IBM,2018-02-22,"Catherine Wolf, 70, Dies; Studied How People and Computers Interact",0.0,1.0,0.0,Neutral,0.05175086,0.77765393,0.17059521,Neutral,0.43408376,0.5583804,0.00753581,Neutral
+IBM,2018-09-24,From Farm to Blockchain: Walmart Tracks Its Lettuce,0.0,1.0,0.0,Neutral,0.055410255,0.6506047,0.293985,Neutral,0.0018232662,0.9616505,0.036526218,Neutral
+IBM,2018-09-09,Role Models Tell Girls That STEM’s for Them in New Campaign,0.0,1.0,0.0,Neutral,0.024150286,0.6112042,0.36464545,Neutral,0.0030594748,0.36938405,0.6275564,Positive
+IBM,2018-08-23,Top C.E.O.s Denounce Trump Immigration Policy as Threat to U.S. Economy,0.115,0.513,0.372,Negative,0.8413797,0.09547447,0.063145794,Negative,0.9906241,0.00675382,0.0026220852,Negative
+IBM,2019-10-23,Google Claims a Quantum Breakthrough That Could Change Computing,0.0,1.0,0.0,Neutral,0.021057582,0.42403123,0.55491126,Positive,0.0015935875,0.08584916,0.9125573,Positive
+IBM,2019-10-22,Esper Removes Himself From Reviewing Cloud-Computing Contract,0.0,1.0,0.0,Neutral,0.7556717,0.16751716,0.07681118,Negative,0.08175661,0.911843,0.0064003994,Neutral
+IBM,2019-10-21,"Quantum Computing Is Coming, Bit by Qubit",0.0,1.0,0.0,Neutral,0.02031891,0.6969911,0.28269005,Neutral,0.0028665783,0.92435503,0.0727784,Neutral
+IBM,2019-10-23,Quantum Computing Explained (in Mere Minutes!),0.0,1.0,0.0,Neutral,0.0360078,0.7337438,0.23024839,Neutral,0.002191101,0.97555405,0.02225485,Neutral
+IBM,2019-10-25,The Week in Tech: Google’s Quantum Leap,0.0,1.0,0.0,Neutral,0.037044868,0.70379996,0.25915512,Neutral,0.0037463724,0.97574866,0.020504903,Neutral
+IBM,2019-10-23,"Gates, Clinton, Hastings, Kardashian, Chesky, Muilenburg: DealBook Conference 2019",0.0,1.0,0.0,Neutral,0.04292475,0.79223776,0.1648375,Neutral,0.0059751575,0.94410574,0.049919106,Neutral
+IBM,2019-10-21,When Open Meets Secure,0.444,0.556,0.0,Positive,0.02374227,0.8272912,0.14896652,Neutral,0.0017549089,0.99474525,0.0034997987,Neutral
+IBM,2019-10-21,A Global Bank Hosted in the Public Cloud — Can That Be Safe?,0.225,0.775,0.0,Positive,0.023214161,0.7876344,0.18915144,Neutral,0.058220103,0.9387527,0.0030271676,Neutral
+IBM,2019-11-11,Looking Beyond Profits,0.592,0.408,0.0,Positive,0.026815437,0.81376934,0.15941516,Neutral,0.01538873,0.7287467,0.25586453,Neutral
+IBM,2019-11-07,Most Hackers Aren’t Criminals,0.0,0.431,0.569,Negative,0.3454508,0.52257293,0.1319764,Neutral,0.009490349,0.7226039,0.26790568,Neutral
+IBM,2019-11-18,What Can Gas Stations Teach Us About Digital Transformation?,0.0,1.0,0.0,Neutral,0.028297605,0.76575965,0.20594272,Neutral,0.007711873,0.9841133,0.008174941,Neutral
+IBM,2019-11-22,Do You Wish Air Travel Was More Personalized?,0.278,0.722,0.0,Positive,0.040491838,0.77187175,0.18763645,Neutral,0.013207079,0.98069674,0.0060961577,Neutral
+IBM,2019-11-27,How weather.com Withstands Digital Storms,0.0,1.0,0.0,Neutral,0.4443705,0.46020433,0.095425144,Neutral,0.010221139,0.98312795,0.0066508944,Neutral
+IBM,2019-07-31,"And Now, a Bicycle Built for None",0.0,1.0,0.0,Neutral,0.027714228,0.78378993,0.18849584,Neutral,0.5488669,0.44375643,0.0073765935,Negative
+IBM,2019-07-09,IBM Bets $34 Billion That Red Hat Can Help It Catch Amazon and Microsoft,0.268,0.732,0.0,Positive,0.017775225,0.3527586,0.6294661,Positive,0.001035995,0.042712584,0.9562515,Positive
+IBM,2019-07-01,Scientists Took an M.R.I. Scan of an Atom,0.0,1.0,0.0,Neutral,0.33666718,0.49148962,0.1718432,Neutral,0.0014990544,0.99615246,0.0023484032,Neutral
+IBM,2019-06-29,"For Digital Evolution, the Right Partner Is Key",0.0,1.0,0.0,Neutral,0.016914459,0.47349393,0.50959164,Positive,0.0028847682,0.6038632,0.39325202,Neutral
+IBM,2019-06-13,The Force for Change in A.I.: More Women,0.0,1.0,0.0,Neutral,0.031211145,0.61733514,0.35145366,Neutral,0.002652885,0.07943253,0.9179145,Positive
+IBM,2019-06-17,The Key to Business Modernization,0.0,1.0,0.0,Neutral,0.02353086,0.66444135,0.31202784,Neutral,0.003731285,0.41376725,0.5825015,Positive
+IBM,2019-06-28,Why Digital Transformation Starts With Workflows That Unite People and Technology,0.0,1.0,0.0,Neutral,0.023009669,0.5839157,0.39307454,Neutral,0.0014531817,0.9968598,0.0016869971,Neutral
+IBM,2019-01-04,Los Angeles Accuses Weather Channel App of Covertly Mining User Data,0.0,0.806,0.194,Negative,0.019205324,0.802552,0.17824268,Neutral,0.99288225,0.004646086,0.0024715688,Negative
+IBM,2019-05-24,"The French Open Spruces Up, and Shows Players the Money",0.0,1.0,0.0,Neutral,0.021044524,0.18808901,0.79086643,Positive,0.0014019563,0.10503623,0.8935618,Positive
+IBM,2019-05-08,"For a Split Second, a Quantum Computer Made History Go Backward",0.0,1.0,0.0,Neutral,0.08489977,0.35157844,0.56352186,Positive,0.96338904,0.034008697,0.0026023176,Negative
+IBM,2019-12-30,How Big Companies Won New Tax Breaks From the Trump Administration,0.27,0.73,0.0,Positive,0.036138456,0.2733467,0.69051486,Positive,0.0013361213,0.051697854,0.94696605,Positive
+IBM,2019-12-11,"George Laurer, Who Developed the Bar Code, Is Dead at 94",0.0,0.699,0.301,Negative,0.7246933,0.18838395,0.08692277,Negative,0.72703177,0.26099804,0.011970179,Negative
+IBM,2019-03-22,The Week in Tech: Our Future Robots Will Need Super-Smart Safety Checks,0.203,0.797,0.0,Positive,0.07467422,0.7521627,0.17316307,Neutral,0.0049583185,0.9816049,0.013436807,Neutral
+IBM,2019-02-16,The Joy of Standards,0.559,0.441,0.0,Positive,0.028045509,0.86199284,0.10996172,Neutral,0.003114561,0.4154279,0.58145756,Positive
+IBM,2019-02-15,The Week in Tech: A Break From Consumer Tech,0.0,1.0,0.0,Neutral,0.10488057,0.6560542,0.23906519,Neutral,0.0022892833,0.9847771,0.012933576,Neutral
+IBM,2019-09-18,Driving A.I. Acceptance: Learning From Mia and Marge,0.268,0.536,0.196,Positive,0.029565468,0.7931896,0.17724498,Neutral,0.0018746974,0.83554745,0.16257794,Neutral
+IBM,2019-09-18,A.I.: Your Next Career Move,0.0,1.0,0.0,Neutral,0.036744997,0.74911165,0.2141433,Neutral,0.0012679135,0.97091866,0.027813379,Neutral
+IBM,2019-09-18,Unhidden Figures: Are Women A.I.’s Natural Born Leaders?,0.263,0.737,0.0,Positive,0.11322754,0.7803632,0.10640925,Neutral,0.0043333224,0.92743564,0.068231024,Neutral
+IBM,2020-10-08,"IBM, Seeing Its Future in the Cloud, Breaks Off I.T. Unit",0.0,1.0,0.0,Neutral,0.039024193,0.3359611,0.6250147,Positive,0.024419198,0.8726034,0.10297742,Neutral
+IBM,2020-11-21,"52 Years Later, IBM Apologizes for Firing Transgender Woman",0.21,0.588,0.202,Neutral,0.7848785,0.14133869,0.07378277,Negative,0.04725229,0.15494676,0.79780096,Positive
+IBM,2020-06-09,"Respond, Reopen, Reset",0.0,1.0,0.0,Neutral,0.042408798,0.79588616,0.16170506,Neutral,0.020973995,0.97429085,0.0047352132,Neutral
+IBM,2020-06-19,Here’s What Companies Are Promising to Do to Fight Racism,0.165,0.427,0.409,Negative,0.034930103,0.6717822,0.2932877,Neutral,0.008872037,0.53118855,0.45993933,Neutral
+IBM,2020-06-10,Amazon Pauses Police Use of Its Facial Recognition Software,0.175,0.825,0.0,Positive,0.062355958,0.56579566,0.37184837,Neutral,0.23555975,0.6794175,0.08502277,Neutral
+IBM,2020-01-30,Ginni Rometty to Step Down as C.E.O. of IBM,0.0,1.0,0.0,Neutral,0.8986134,0.06068595,0.0407007,Negative,0.9819017,0.016387722,0.0017106232,Negative
+IBM,2020-04-29,Europe’s Strong Labor Laws Aren’t a Guarantee for Lower-Wage Workers,0.431,0.569,0.0,Positive,0.86628824,0.07205579,0.06165602,Negative,0.022523206,0.70021176,0.2772651,Neutral
+IBM,2020-12-03,Cyberattacks Discovered on Vaccine Distribution Operations,0.0,1.0,0.0,Neutral,0.71186227,0.20804398,0.08009371,Negative,0.9808802,0.017632302,0.0014874496,Negative
+IBM,2020-03-23,"There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",0.0,1.0,0.0,Neutral,0.7189158,0.1808409,0.100243375,Negative,0.8311527,0.16506352,0.0037837771,Negative
+IBM,2020-08-08,"Frances Allen, Who Helped Hardware Understand Software, Dies at 88",0.0,1.0,0.0,Neutral,0.7162942,0.1849432,0.09876253,Negative,0.26112562,0.6327575,0.10611696,Neutral
+IBM,2021-07-16,What Ever Happened to IBM’s Watson?,0.0,1.0,0.0,Neutral,0.5659119,0.34510076,0.08898738,Negative,0.7275615,0.26600704,0.006431475,Negative
+IBM,2021-07-20,A Renewal for IBM Campuses Once Home to Punch Cards and Circuit Boards,0.0,1.0,0.0,Neutral,0.015863726,0.50319254,0.48094365,Neutral,0.0017574031,0.9814889,0.016753754,Neutral
+IBM,2021-06-01,"Will the Excelsior Pass, New York’s Vaccine Passport, Catch On?",0.159,0.841,0.0,Positive,0.021596167,0.60857743,0.36982638,Neutral,0.0051529645,0.96202004,0.032827005,Neutral
+IBM,2021-01-12,‘An Epiphany Moment’ for Corporate Political Donors May Have Arrived,0.0,1.0,0.0,Neutral,0.04354254,0.36786878,0.58858865,Positive,0.0041165627,0.19738157,0.7985019,Positive
+IBM,2021-01-12,Getting Corporate Cash Out of Politics,0.0,1.0,0.0,Neutral,0.26425645,0.59000325,0.14574032,Neutral,0.28944004,0.6010294,0.109530635,Neutral
+IBM,2021-01-15,That’s a Lot of Money,0.0,1.0,0.0,Neutral,0.024972817,0.7694411,0.20558602,Neutral,0.34992883,0.6428868,0.007184348,Neutral
+IBM,2021-04-16,Goldman Sachs’s Top Image Maker Is Leaving,0.231,0.769,0.0,Positive,0.7933625,0.13758019,0.06905739,Negative,0.9675913,0.03069736,0.0017113924,Negative
+IBM,2021-12-31,‘We Threw Out Any Plans We Had’: C.E.O.s Are Forced to Embrace Uncertainty,0.13,0.565,0.305,Negative,0.79490346,0.13812716,0.06696945,Negative,0.6847441,0.2973967,0.017859118,Negative
+IBM,2021-02-01,Alzheimer’s Prediction May Be Found in Writing Tests,0.0,1.0,0.0,Neutral,0.026913386,0.7533451,0.21974158,Neutral,0.036607474,0.9606831,0.0027094104,Neutral
+IBM,2021-02-16,What’s Delaying Boardroom Diversity,0.0,1.0,0.0,Neutral,0.802881,0.1502249,0.046894155,Negative,0.6611538,0.335568,0.00327824,Negative
+IBM,2022-10-06,Biden Visits IBM to Promote Investments in U.S. Semiconductor Production,0.224,0.776,0.0,Positive,0.016351974,0.44402465,0.5396234,Positive,0.0009512141,0.041280095,0.9577686,Positive
+IBM,2022-10-06,Biden Promotes IBM’s $20 Billion Manufacturing Deal in New York,0.211,0.789,0.0,Positive,0.011419178,0.31585082,0.67272997,Positive,0.0011820657,0.100158006,0.89865994,Positive
+IBM,2022-11-23,"Frederick P. Brooks Jr., Computer Design Innovator, Dies at 91",0.0,1.0,0.0,Neutral,0.27739537,0.5372556,0.18534897,Neutral,0.32121924,0.654089,0.024691816,Neutral
+IBM,2022-01-21,IBM is selling off Watson Health to a private equity firm.,0.0,1.0,0.0,Neutral,0.4347239,0.42882746,0.1364486,Negative,0.006109131,0.98740166,0.0064892,Neutral
+IBM,2022-04-08,A 4-Year Degree Isn’t Quite the Job Requirement It Used to Be,0.0,1.0,0.0,Neutral,0.34197593,0.5222453,0.1357788,Neutral,0.05717701,0.9317824,0.011040555,Neutral
+IBM,2022-05-13,An Optimist at the Helm of IBM,0.362,0.638,0.0,Positive,0.024441892,0.7194345,0.25612354,Neutral,0.0051804194,0.28685895,0.7079606,Positive
+IBM,2022-03-03,Ending the Chatbot’s ‘Spiral of Misery’,0.0,1.0,0.0,Neutral,0.4783187,0.35305092,0.16863035,Negative,0.6960499,0.28689563,0.017054358,Negative
+IBM,2022-02-12,Making ‘Dinobabies’ Extinct: IBM’s Push for a Younger Work Force,0.0,1.0,0.0,Neutral,0.054566067,0.46547002,0.47996393,Positive,0.005334858,0.44700357,0.5476616,Positive
+IBM,2022-08-28,One Man’s Dream of Fusing A.I. With Common Sense,0.2,0.8,0.0,Positive,0.021995284,0.6610012,0.31700343,Neutral,0.0029602926,0.9382278,0.05881191,Neutral
+IBM,2023-10-21,"Martin Goetz, Who Received the First Software Patent, Dies at 93",0.0,1.0,0.0,Neutral,0.54767674,0.31707245,0.1352508,Negative,0.19896424,0.72210956,0.078926206,Neutral
+IBM,2023-10-25,The Father-Son Struggle That Helped Ensure IBM’s Success,0.463,0.368,0.169,Positive,0.030408446,0.38427335,0.58531815,Positive,0.13695708,0.6326716,0.23037137,Neutral
+IBM,2023-11-24,The Pension: That Rare Retirement Benefit Gets a Fresh Look,0.431,0.569,0.0,Positive,0.034057587,0.46883753,0.49710488,Positive,0.0011868806,0.11375474,0.88505834,Positive
+IBM,2023-11-16,X Races to Contain Damage After Elon Musk Endorses Antisemitic Post,0.176,0.588,0.235,Negative,0.89586276,0.059535254,0.04460204,Negative,0.9833835,0.013921503,0.0026950666,Negative
+IBM,2023-11-17,Advertisers Flee X as Outcry Over Musk’s Endorsement of Antisemitic Post Grows,0.158,0.616,0.226,Negative,0.91817063,0.042421803,0.039407544,Negative,0.99561477,0.0026728536,0.0017124601,Negative
+IBM,2023-11-17,Advertisers Push Back at Social Media Firms over Antisemitism,0.0,1.0,0.0,Neutral,0.7374927,0.16399832,0.09850907,Negative,0.9838299,0.014748303,0.0014218047,Negative
+IBM,2023-07-04,"Lewis Branscomb, Champion of Science Across Fields, Dies at 96",0.302,0.698,0.0,Positive,0.6750912,0.19579914,0.12910968,Negative,0.30334964,0.61999017,0.076660156,Neutral
+IBM,2023-06-13,Accenture Makes a $3 Billion Bet on A.I.,0.0,1.0,0.0,Neutral,0.019773284,0.42702782,0.5531989,Positive,0.0017022558,0.88932353,0.10897417,Neutral
+IBM,2023-06-14,"Quantum Computing Advance Begins New Era, IBM Says",0.0,1.0,0.0,Neutral,0.016254306,0.27925372,0.7044919,Positive,0.001430683,0.06252492,0.9360444,Positive
+IBM,2023-01-26,"IBM Announces 3,900 Job Cuts",0.0,0.645,0.355,Negative,0.9485059,0.01832979,0.033164322,Negative,0.9944823,0.0047436785,0.0007740734,Negative
+IBM,2023-01-26,Tesla Bulls Are Back at the Wheel,0.0,1.0,0.0,Neutral,0.03341419,0.2667627,0.6998231,Positive,0.0022131978,0.16480257,0.83298427,Positive
+IBM,2023-05-17,Washington Confronts the Challenge of Policing A.I.,0.159,0.61,0.232,Negative,0.76394594,0.15944637,0.07660767,Negative,0.015339632,0.9364677,0.048192687,Neutral
+IBM,2023-05-02,Why Many on Wall Street Fear the Banking Crisis Isn’t Over,0.0,0.552,0.448,Negative,0.7975235,0.13671182,0.065764636,Negative,0.9760859,0.021608101,0.002305987,Negative
+IBM,2023-05-05,"Bluesky Has the Juice, A.I. Jobs Apocalypse and Hard Questions",0.0,0.865,0.135,Negative,0.6239876,0.29289675,0.08311561,Negative,0.26500487,0.7268445,0.0081507005,Neutral
+IBM,2023-12-11,New York Plans to Invest $1 Billion to Expand Chip Research,0.187,0.813,0.0,Positive,0.014693933,0.37880185,0.60650426,Positive,0.0014648819,0.13995388,0.8585812,Positive
+IBM,2023-09-28,IBM Tries to Ease Customers’ Qualms About Using Generative A.I.,0.217,0.783,0.0,Positive,0.033864446,0.39600205,0.5701335,Positive,0.0055202595,0.09372726,0.9007525,Positive
+IBM,2024-06-26,The A.I. Boom Has an Unlikely Early Winner: Wonky Consultants,0.297,0.703,0.0,Positive,0.04466717,0.5006287,0.45470405,Neutral,0.016383484,0.5128593,0.47075725,Neutral
+IBM,2024-06-15,"Lynn Conway, Computing Pioneer and Transgender Advocate, Dies at 86",0.0,0.776,0.224,Negative,0.64614207,0.24774827,0.106109664,Negative,0.57325804,0.39580324,0.030938696,Negative
+IBM,2024-05-16,"Robert Dennard, IBM Inventor Whose Chip Changed Computing, Dies at 91",0.0,1.0,0.0,Neutral,0.71277654,0.17401089,0.11321257,Negative,0.3155971,0.60518306,0.079219766,Neutral
+IBM,2024-03-06,"Before N.Y.C. Snow Day Debacle, IBM Had Warned of Tech Limitations",0.0,0.826,0.174,Negative,0.9010212,0.05331575,0.045663066,Negative,0.64892,0.326111,0.02496907,Negative
+IBM,2024-02-13,N.Y.C. Revived Remote Schooling for a Day. It Was a Mess.,0.0,0.762,0.238,Negative,0.27761504,0.31195268,0.41043234,Positive,0.9908737,0.006876462,0.002249828,Negative
+IBM,2024-09-06,Japan Tries to Reclaim Its Clout as a Global Tech Leader,0.0,1.0,0.0,Neutral,0.016821552,0.20533146,0.77784705,Positive,0.007343033,0.55903196,0.43362495,Neutral
+IBM,2024-08-24,"Overlooked No More: Mabel Addis, Who Pioneered Storytelling in Video Gaming",0.0,0.732,0.268,Negative,0.054884292,0.7293656,0.21575013,Neutral,0.002811224,0.035121407,0.96206737,Positive

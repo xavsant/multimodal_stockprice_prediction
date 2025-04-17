@@ -12,14 +12,13 @@ Baseline models:<br>
 - Concat Ensemble Model (Baseline LSTM + Baseline Classification Models)
 
 LLM models:<br>
-- Concat Sentiment Model Lite (Baseline LSTM + Gemini 2.0 Flash-Lite Sentiment)
-- Concat Sentiment Model Pro (Baseline LSTM + Gemini 2.0 Pro Sentiment)
+- Concat Sentiment Model (Baseline LSTM + Gemini 2.0 Flash-Lite Sentiment)
 - Concat Dynamic Sentiment Model (Baseline LSTM + LLM Sentiment with Dynamic Sentiment Effect Duration)
 - LLM Stock Price Prediction
 
 ### Findings
 
-📊 Refer to [this document](https://github.com/xavsant/multimodal_stockprice_prediction/blob/create_LLM_features/FINDINGS.md) for the detailed analysis.
+📊 Refer to [this document](https://github.com/xavsant/multimodal_stockprice_prediction/blob/main/FINDINGS.md) for the detailed analysis.
 
 ### Dependencies
 

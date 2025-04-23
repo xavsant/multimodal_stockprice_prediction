@@ -8,6 +8,8 @@ import pandas as pd
 import time
 from tqdm import tqdm
 from pydantic import BaseModel
+from pathlib import Path
+
 
 # Set up Gemini to process textual templates
 
@@ -24,6 +26,10 @@ target_stock = os.getenv("target_stock")
 llm_text_output_filepath = os.getenv("llm_text_output_filepath")
 company_name = os.getenv('company_name')
 text_type = os.getenv("text_type")
+
+# Prepare file paths
+output_path = Path(f"../../../data/raw")
+full_output_path = output_path / f"gemini_price_predictions_{target_stock}.json"
 
 # Construct the full file path using the target_stock variable
 file_path = f"{stock_data_filepath}{target_stock}.csv"
@@ -141,10 +147,6 @@ Trend Analysis:
     
     return template
 
-# start_idx = 0
-# template = create_text_template(df, start_idx, lookback_window, news_data)
-# print(template)
-
 class StockPrediction(BaseModel):
     Date: str  # Date as a string (e.g., 'YYYY-MM-DD')
     PredictedPrice: str  # Predicted price as a string (could be float)
@@ -249,9 +251,9 @@ def generate_predictions_to_json(stock_data, news_data, lookback_window):
         print(f"Time taken for API call at index {i}: {api_duration:.2f} seconds")
     
     # Save predictions to a JSON file
-    with open(r'gemini_price_prediction.json', 'w') as f:
+    with open(full_output_path, 'w') as f:
         json.dump(predictions, f, indent=4)
-    print(f"Predictions saved to 'gemini_price_prediction.json'.")
+    print(f"Predictions saved to '{full_output_path}'.")
 
 # Generate predictions and store them in JSON format
 generate_predictions_to_json(df, news_data, lookback_window)

@@ -296,7 +296,7 @@ def process_file(file_path, output_path, ticker, text_type):
     df_new['impact_days'] = impact_days_list
     
     # Create output filename
-    output_file = output_path / f"{ticker}_{text_type}_sentiment_analysis.csv"
+    output_file = output_path / f"gemini_{text_type}_features_predictions_{ticker}.csv"
     
     # Save to CSV
     df_new.to_csv(output_file, index=False)

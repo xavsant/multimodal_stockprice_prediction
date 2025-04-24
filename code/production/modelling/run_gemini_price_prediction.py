@@ -44,8 +44,8 @@ json_file_path = f"{llm_text_output_filepath}{text_type}_{target_stock}.json"
 with open(json_file_path, 'r') as f:
     news_data = json.load(f)
 
-# Define the lookback window (5 days)
-lookback_window = 5
+# Define the lookback window (7 days)
+lookback_window = 7
 
 # Convert 'Date' column to datetime format
 df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
@@ -66,15 +66,15 @@ def calculate_short_term_indicators(price_series):
     import numpy as np
     
     # Simple and Exponential Moving Averages
-    sma_5 = price_series.rolling(window=5).mean().iloc[-1]
-    ema_5 = price_series.ewm(span=5, adjust=False).mean().iloc[-1]
+    sma_7 = price_series.rolling(window=7).mean().iloc[-1]
+    ema_7 = price_series.ewm(span=7, adjust=False).mean().iloc[-1]
     
     # Simple Momentum Indicator
-    def calculate_momentum(data, periods=5):
+    def calculate_momentum(data, periods=7):
         return (data.iloc[-1] - data.iloc[0]) / data.iloc[0] * 100
     
     # Volatility Approximation
-    def calculate_volatility(data, periods=5):
+    def calculate_volatility(data, periods=7):
         return data.rolling(window=periods).std() / data.mean() * 100
     
     # Rate of Change
@@ -84,8 +84,8 @@ def calculate_short_term_indicators(price_series):
     volatility = calculate_volatility(price_series).iloc[-1]
     
     return {
-        'sma_5': sma_5,
-        'ema_5': ema_5,
+        'sma_7': sma_7,
+        'ema_7': ema_7,
         'rate_of_change': rate_of_change,
         'volatility': volatility
     }
@@ -107,8 +107,8 @@ def create_text_template(df, start_idx, lookback_window, news_data):
 Trend Analysis:
 - Minimum price: {min_price:.2f}
 - Maximum price: {max_price:.2f}
-- 5-Day Simple Moving Average: {technical_indicators['sma_5']:.2f}
-- 5-Day Exponential Moving Average: {technical_indicators['ema_5']:.2f}
+- 7-Day Simple Moving Average: {technical_indicators['sma_7']:.2f}
+- 7-Day Exponential Moving Average: {technical_indicators['ema_7']:.2f}
 - Rate of Change: {technical_indicators['rate_of_change']:.2f}%
 - Price Volatility: {technical_indicators['volatility']:.2f}%
 """

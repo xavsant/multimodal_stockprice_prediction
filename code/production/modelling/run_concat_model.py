@@ -171,7 +171,7 @@ def train_test_concat_model(X_train_reshaped, y_train, X_test_reshaped, scaler, 
         # Export key outputs
         best_model.save_weights(concat_path)
         update_best_results(mae, mse, target_stock, model_name)
-        get_training_plot(history, target_stock, model_name) 
+        # get_training_plot(history, target_stock, model_name) 
         get_validation_plot(test, inv_y, inv_yhat, target_stock, model_name)
 
     else:

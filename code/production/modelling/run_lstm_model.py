@@ -78,7 +78,7 @@ def train_test_lstm_model(test, X_train_reshaped, y_train, X_test_reshaped, epoc
         # Export key outputs
         best_model.save_weights(path)
         update_best_results(mae, mse, target_stock, model_name)
-        get_training_plot(history, target_stock, model_name) 
+        # get_training_plot(history, target_stock, model_name) 
         get_validation_plot(test, inv_y, inv_yhat, target_stock, model_name)
 
     else:
@@ -108,7 +108,7 @@ if __name__ == '__main__':
     target_stock = [getenv('target_stock')]
     train_model = bool(int(getenv('train_model')))
 
-    # target_stock = ['AAPL', 'AMZN', 'MSFT', 'CRM', 'IBM', 'NVDA', '^DJI']
+    target_stock = ['AAPL', 'AMZN', 'MSFT', 'CRM', 'IBM', 'NVDA']
 
     for t in target_stock:
 

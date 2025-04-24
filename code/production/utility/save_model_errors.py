@@ -3,7 +3,7 @@ from pandas import read_csv, DataFrame
 from os import path
 
 class model_errors:
-    def __init__(self, target_stock, filepath='../../../data/{}/model_results/model_errors_', verbose=1):
+    def __init__(self, target_stock, filepath='../../../data/model_results/{}/model_errors_', verbose=1):
         self.filepath = filepath + target_stock + '.csv'
 
         # Updates filepath if default path is used

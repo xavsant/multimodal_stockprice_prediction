@@ -31,12 +31,6 @@ def separate_features_from_target(train_scaled, test_scaled):
 
     return X_train, y_train, X_test, y_test
 
-# def reshape_X(X_train, X_test, lag_steps):
-#     X_train_reshaped = X_train.reshape((X_train.shape[0], lag_steps, X_train.shape[1]))
-#     X_test_reshaped = X_test.reshape((X_test.shape[0], lag_steps, X_test.shape[1]))
-
-#     return X_train_reshaped, X_test_reshaped
-
 def reshape_X(X_train, X_test, num_features):
     X_train_reshaped = X_train.reshape((X_train.shape[0], X_train.shape[1], num_features))
     X_test_reshaped = X_test.reshape((X_test.shape[0], X_test.shape[1], num_features))
@@ -67,7 +61,7 @@ def iterator_results(inv_y, inv_yhat, target_stock, model_name, iteration=None):
     mse = mean_squared_error(inv_y, inv_yhat)
 
     # Update Errors
-    model_errors_instance = model_errors(target_stock, filepath=f'../../../data/model_results/{model_name}_errors_')
+    model_errors_instance = model_errors(target_stock, filepath=f'../../../data/model_results/{target_stock}/{model_name}_errors_', verbose=0)
     model_errors_instance.update(model_name + '_' + str(iteration), mae, mse)
 
     return mae, mse
@@ -77,7 +71,7 @@ def iterator_average_results(list_mae, list_mse, target_stock, model_name):
     mse = mean(list_mse)
 
     # Update Errors
-    model_errors_instance = model_errors(target_stock, filepath=f'../../../data/model_results/{model_name}_errors_')
+    model_errors_instance = model_errors(target_stock, filepath=f'../../../data/model_results/{target_stock}/{model_name}_errors_', verbose=0)
     model_errors_instance.update(model_name + '_average', mae, mse)
 
 def update_best_results(mae, mse, target_stock, model_name):
